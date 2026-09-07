@@ -1,0 +1,43 @@
+# Local environments, dependencies, and generated build files
+.venv/
+venv/
+node_modules/
+.next/
+.cache/
+.npm-cache/
+.pytest_cache/
+__pycache__/
+*.pyc
+*.tsbuildinfo
+.env
+.env.*
+!.env.local.example
+
+# Recordings and large training artifacts stay local
+*.wav
+*.mp3
+*.m4a
+*.flac
+*.ogg
+*.zip
+*.safetensors
+*.pt
+*.pth
+*.bin
+*.db
+
+# Skip large recording trees while retaining the dataset metadata
+components/audio_classification/birds_audio/*
+!components/audio_classification/birds_audio/metadata.csv
+components/audio_classification/birds_audio_prepared/*
+!components/audio_classification/birds_audio_prepared/metadata.csv
+components/audio_classification/birds_audio_augmented/
+components/audio_classification/birds_audio_split/
+components/audio_classification/Noisy/*
+!components/audio_classification/Noisy/SOURCES.txt
+components/audio_classification/colab_training_package/train/
+components/audio_classification/colab_training_package/val/
+components/audio_classification/colab_training_package/test/
+
+# Browser verification screenshots
+components/audio_classification/birdcall_app/frontend/*.png
