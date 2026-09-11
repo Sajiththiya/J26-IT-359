@@ -1,0 +1,946 @@
+file_path,species,original_recording_id,source,duration_seconds
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet.wav,Chestnut-backed_Owlet,535351,dataset/Chestnut-backed_Owlet/Chestnut-backed_Owlet1.mp3,62.220125
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_2.wav,Chestnut-backed_Owlet,534574,dataset/Chestnut-backed_Owlet/Chestnut-backed_Owlet2.mp3,59.878625
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_3.wav,Chestnut-backed_Owlet,756579,dataset/Chestnut-backed_Owlet/Chestnut-backed_Owlet3.mp3,51.226125
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_4.wav,Chestnut-backed_Owlet,619051,dataset/Chestnut-backed_Owlet/Chestnut-backed_Owlet4.mp3,33.058437
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_5.wav,Chestnut-backed_Owlet,534446,dataset/Chestnut-backed_Owlet/Chestnut-backed_Owlet5.mp3,42.672000
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_6.wav,Chestnut-backed_Owlet,534443,dataset/Chestnut-backed_Owlet/Chestnut-backed_Owlet6.mp3,54.792000
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_7.wav,Chestnut-backed_Owlet,346212,dataset/Chestnut-backed_Owlet/Chestnut-backed_Owlet7.mp3,21.880312
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_8.wav,Chestnut-backed_Owlet,346134,dataset/Chestnut-backed_Owlet/Chestnut-backed_Owlet8.mp3,27.245750
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_9.wav,Chestnut-backed_Owlet,311297,dataset/Chestnut-backed_Owlet/Chestnut-backed_Owlet9.mp3,65.227750
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_10.wav,Chestnut-backed_Owlet,237194,dataset/Chestnut-backed_Owlet/Chestnut-backed_Owlet10.mp3,38.765750
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_11.wav,Chestnut-backed_Owlet,224191,dataset/Chestnut-backed_Owlet/Chestnut-backed_Owlet11.mp3,60.604062
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_12.wav,Chestnut-backed_Owlet,43648,dataset/Chestnut-backed_Owlet/Chestnut-backed_Owlet12.mp3,13.923250
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_13.wav,Chestnut-backed_Owlet,1097212,dataset/Chestnut-backed_Owlet/Chestnut-backed_Owlet13.mp3,27.794313
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_14.wav,Chestnut-backed_Owlet,1097210,dataset/Chestnut-backed_Owlet/Chestnut-backed_Owlet14.mp3,102.539312
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_15.wav,Chestnut-backed_Owlet,618869,dataset/Chestnut-backed_Owlet/Chestnut-backed_Owlet15.mp3,116.610625
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_16.wav,Chestnut-backed_Owlet,536447,dataset/Chestnut-backed_Owlet/Chestnut-backed_Owlet16.mp3,33.962688
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_17.wav,Chestnut-backed_Owlet,366991,dataset/Chestnut-backed_Owlet/Chestnut-backed_Owlet17.mp3,21.952000
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_18.wav,Chestnut-backed_Owlet,312517,dataset/Chestnut-backed_Owlet/Chestnut-backed_Owlet18.mp3,38.041000
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_19.wav,Chestnut-backed_Owlet,312514,dataset/Chestnut-backed_Owlet/Chestnut-backed_Owlet19.mp3,22.569813
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_20.wav,Chestnut-backed_Owlet,311296,dataset/Chestnut-backed_Owlet/Chestnut-backed_Owlet20.mp3,49.547438
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_21.wav,Chestnut-backed_Owlet,311294,dataset/Chestnut-backed_Owlet/Chestnut-backed_Owlet21.mp3,18.625312
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_22.wav,Chestnut-backed_Owlet,311292,dataset/Chestnut-backed_Owlet/Chestnut-backed_Owlet22.mp3,9.322688
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_23.wav,Chestnut-backed_Owlet,211550,dataset/Chestnut-backed_Owlet/Chestnut-backed_Owlet23.mp3,26.581312
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_24.wav,Chestnut-backed_Owlet,211548,dataset/Chestnut-backed_Owlet/Chestnut-backed_Owlet24.mp3,35.896625
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_25.wav,Chestnut-backed_Owlet,207877,dataset/Chestnut-backed_Owlet/Chestnut-backed_Owlet25.mp3,53.034000
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_26.wav,Chestnut-backed_Owlet,37440,dataset/Chestnut-backed_Owlet/Chestnut-backed_Owlet26.mp3,20.862687
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_27.wav,Chestnut-backed_Owlet,682308,dataset/Chestnut-backed_Owlet/Chestnut-backed_Owlet27.mp3,29.116563
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_28.wav,Chestnut-backed_Owlet,380480,dataset/Chestnut-backed_Owlet/Chestnut-backed_Owlet28.mp3,54.752688
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_29.wav,Chestnut-backed_Owlet,311295,dataset/Chestnut-backed_Owlet/Chestnut-backed_Owlet29.mp3,35.212438
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_30.wav,Chestnut-backed_Owlet,311293,dataset/Chestnut-backed_Owlet/Chestnut-backed_Owlet30.mp3,89.936937
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_31.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 1,audio/Chestnut-backed Owlet/Chestnut-backed Owlet 1.wav,101.968750
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_32.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 2,audio/Chestnut-backed Owlet/Chestnut-backed Owlet 2.wav,286.096687
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_33.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 3,audio/Chestnut-backed Owlet/Chestnut-backed Owlet 3.wav,156.066125
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_34.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 4,audio/Chestnut-backed Owlet/Chestnut-backed Owlet 4.mp3,40.438625
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_35.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 5,audio/Chestnut-backed Owlet/Chestnut-backed Owlet 5.mp3,11.000000
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_36.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 6,audio/Chestnut-backed Owlet/Chestnut-backed Owlet 6.wav,187.851375
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_37.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 7,audio/Chestnut-backed Owlet/Chestnut-backed Owlet 7.wav,40.152000
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_38.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 8,audio/Chestnut-backed Owlet/Chestnut-backed Owlet 8.mp3,6.765750
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_39.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 9,audio/Chestnut-backed Owlet/Chestnut-backed Owlet 9.mp3,9.752375
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_40.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 10,audio/Chestnut-backed Owlet/Chestnut-backed Owlet 10.mp3,13.490813
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_41.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 11,audio/Chestnut-backed Owlet/Chestnut-backed Owlet 11.mp3,35.030187
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_42.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 12,audio/Chestnut-backed Owlet/Chestnut-backed Owlet 12.wav,27.192000
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_43.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 13,audio/Chestnut-backed Owlet/Chestnut-backed Owlet 13.wav,65.181938
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_44.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 14,audio/Chestnut-backed Owlet/Chestnut-backed Owlet 14.wav,38.709000
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_45.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 15,audio/Chestnut-backed Owlet/Chestnut-backed Owlet 15.wav,60.561125
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_46.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 16,audio/Chestnut-backed Owlet/Chestnut-backed Owlet 16.wav,13.865438
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_47.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 17,audio/Chestnut-backed Owlet/Chestnut-backed Owlet 17.wav,27.738250
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_48.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 18,audio/Chestnut-backed Owlet/Chestnut-backed Owlet 18.m4a,15.658687
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_49.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 19,audio/Chestnut-backed Owlet/Chestnut-backed Owlet 19.m4a,20.458687
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_50.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 20,audio/Chestnut-backed Owlet/Chestnut-backed Owlet 20.wav,11.915875
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_51.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 21,audio/Chestnut-backed Owlet/Chestnut-backed Owlet 21.wav,21.062687
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_52.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 22,audio/Chestnut-backed Owlet/Chestnut-backed Owlet 22.wav,33.962688
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_53.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 23,audio/Chestnut-backed Owlet/Chestnut-backed Owlet 23.mp3,21.880312
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_54.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 24,audio/Chestnut-backed Owlet/Chestnut-backed Owlet 24.wav,37.709187
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_55.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 25,audio/Chestnut-backed Owlet/Chestnut-backed Owlet 25.wav,13.932000
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_56.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 26,audio/Chestnut-backed Owlet/Chestnut-backed Owlet 26.wav,63.344062
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_57.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 27,audio/Chestnut-backed Owlet/Chestnut-backed Owlet 27.wav,5.746000
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_58.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 28,audio/Chestnut-backed Owlet/Chestnut-backed Owlet 28.wav,22.902687
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_59.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 29,audio/Chestnut-backed Owlet/Chestnut-backed Owlet 29.mp3,25.008000
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_60.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 30,audio/Chestnut-backed Owlet/Chestnut-backed Owlet 30.mp3,44.382063
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_61.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 31,audio/Chestnut-backed Owlet/Chestnut-backed Owlet 31.mp3,11.688000
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_62.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 32,audio/Chestnut-backed Owlet/Chestnut-backed Owlet 32.wav,42.642000
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_63.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 33,audio/Chestnut-backed Owlet/Chestnut-backed Owlet 33.wav,18.483125
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_64.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 34,audio/Chestnut-backed Owlet/Chestnut-backed Owlet 34.wav,116.016000
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_65.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 35,audio/Chestnut-backed Owlet/Chestnut-backed Owlet 35.wav,33.622500
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_66.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 36,audio/Chestnut-backed Owlet/Chestnut-backed Owlet 36.mp3,23.712000
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_67.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 37,audio/Chestnut-backed Owlet/Chestnut-backed Owlet 37.mp3,32.208000
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_68.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 38,audio/Chestnut-backed Owlet/Chestnut-backed Owlet 38.wav,26.333313
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_69.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 39,audio/Chestnut-backed Owlet/Chestnut-backed Owlet 39.wav,7.944438
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_70.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 40,audio/Chestnut-backed Owlet/Chestnut-backed Owlet 40.wav,16.972375
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_71.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 41,audio/Chestnut-backed Owlet/Chestnut-backed Owlet 41.wav,71.317312
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_72.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 42,audio/Chestnut-backed Owlet/Chestnut-backed Owlet 42.wav,21.379938
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_73.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 43,audio/Chestnut-backed Owlet/Chestnut-backed Owlet 43.wav,18.119937
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_74.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 44,audio/Chestnut-backed Owlet/Chestnut-backed Owlet 44.wav,17.299937
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_75.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 45,audio/Chestnut-backed Owlet/Chestnut-backed Owlet 45.mp3,34.821250
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_76.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 46,audio/Chestnut-backed Owlet/Chestnut-backed Owlet 46.wav,9.073125
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_77.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 47,audio/Chestnut-backed Owlet/Chestnut-backed Owlet 47.m4a,34.624000
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_78.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 48,audio/Chestnut-backed Owlet/Chestnut-backed Owlet 48.wav,23.306375
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet.wav,Crimson-fronted_Barbet,543391,dataset/Crimson-fronted_Barbet/Crimson-fronted_Barbet1.mp3,20.062062
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_2.wav,Crimson-fronted_Barbet,756597,dataset/Crimson-fronted_Barbet/Crimson-fronted_Barbet2.mp3,7.993500
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_3.wav,Crimson-fronted_Barbet,19626,dataset/Crimson-fronted_Barbet/Crimson-fronted_Barbet3.mp3,9.221250
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_4.wav,Crimson-fronted_Barbet,777853,dataset/Crimson-fronted_Barbet/Crimson-fronted_Barbet4.mp3,20.532250
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_5.wav,Crimson-fronted_Barbet,648750,dataset/Crimson-fronted_Barbet/Crimson-fronted_Barbet5.mp3,19.252250
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_6.wav,Crimson-fronted_Barbet,619937,dataset/Crimson-fronted_Barbet/Crimson-fronted_Barbet6.mp3,29.231000
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_7.wav,Crimson-fronted_Barbet,311364,dataset/Crimson-fronted_Barbet/Crimson-fronted_Barbet7.mp3,13.191875
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_8.wav,Crimson-fronted_Barbet,311363,dataset/Crimson-fronted_Barbet/Crimson-fronted_Barbet8.mp3,28.110187
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_9.wav,Crimson-fronted_Barbet,311362,dataset/Crimson-fronted_Barbet/Crimson-fronted_Barbet9.mp3,10.449000
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_10.wav,Crimson-fronted_Barbet,311361,dataset/Crimson-fronted_Barbet/Crimson-fronted_Barbet10.mp3,43.885750
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_11.wav,Crimson-fronted_Barbet,207727,dataset/Crimson-fronted_Barbet/Crimson-fronted_Barbet11.mp3,12.904500
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_12.wav,Crimson-fronted_Barbet,619935,dataset/Crimson-fronted_Barbet/Crimson-fronted_Barbet12.mp3,15.739562
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_13.wav,Crimson-fronted_Barbet,518766,dataset/Crimson-fronted_Barbet/Crimson-fronted_Barbet13.mp3,23.691063
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_14.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 1,audio/Crimson-fronted Barbet/Crimson-fronted Barbet 1.wav,36.808687
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_15.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 2,audio/Crimson-fronted Barbet/Crimson-fronted Barbet 2.wav,169.018812
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_16.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 3,audio/Crimson-fronted Barbet/Crimson-fronted Barbet 3.m4a,72.212625
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_17.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 4,audio/Crimson-fronted Barbet/Crimson-fronted Barbet 4.mp3,15.412250
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_18.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 5,audio/Crimson-fronted Barbet/Crimson-fronted Barbet 5.mp3,13.374688
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_19.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 6,audio/Crimson-fronted Barbet/Crimson-fronted Barbet 6.mp3,13.244063
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_20.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 7,audio/Crimson-fronted Barbet/Crimson-fronted Barbet 7.wav,21.576187
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_21.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 8,audio/Crimson-fronted Barbet/Crimson-fronted Barbet 8.m4a,22.058937
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_22.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 9,audio/Crimson-fronted Barbet/Crimson-fronted Barbet 9.m4a,14.953687
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_23.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 10,audio/Crimson-fronted Barbet/Crimson-fronted Barbet 10.m4a,16.230750
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_24.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 11,audio/Crimson-fronted Barbet/Crimson-fronted Barbet 11.wav,40.085313
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_25.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 12,audio/Crimson-fronted Barbet/Crimson-fronted Barbet 12.wav,137.915000
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_26.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 13,audio/Crimson-fronted Barbet/Crimson-fronted Barbet 13.wav,7.929812
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_27.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 14,audio/Crimson-fronted Barbet/Crimson-fronted Barbet 14.wav,9.172437
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_28.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 15,audio/Crimson-fronted Barbet/Crimson-fronted Barbet 15.wav,20.473188
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_29.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 16,audio/Crimson-fronted Barbet/Crimson-fronted Barbet 16.wav,19.194188
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_30.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 17,audio/Crimson-fronted Barbet/Crimson-fronted Barbet 17.wav,29.176250
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_31.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 18,audio/Crimson-fronted Barbet/Crimson-fronted Barbet 18.m4a,7.303562
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_32.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 19,audio/Crimson-fronted Barbet/Crimson-fronted Barbet 19.wav,56.249187
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_33.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 20,audio/Crimson-fronted Barbet/Crimson-fronted Barbet 20.wav,65.605000
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_34.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 21,audio/Crimson-fronted Barbet/Crimson-fronted Barbet 21.wav,22.549000
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_35.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 22,audio/Crimson-fronted Barbet/Crimson-fronted Barbet 22.wav,94.564437
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_36.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 23,audio/Crimson-fronted Barbet/Crimson-fronted Barbet 23.mp3,33.070437
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_37.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 24,audio/Crimson-fronted Barbet/Crimson-fronted Barbet 24.wav,63.006250
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_38.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 25,audio/Crimson-fronted Barbet/Crimson-fronted Barbet 25.wav,111.270062
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_39.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 26,audio/Crimson-fronted Barbet/Crimson-fronted Barbet 26.wav,2.701188
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_40.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 27,audio/Crimson-fronted Barbet/Crimson-fronted Barbet 27.wav,40.978375
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_41.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 28,audio/Crimson-fronted Barbet/Crimson-fronted Barbet 28.mp3,4.644000
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_42.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 29,audio/Crimson-fronted Barbet/Crimson-fronted Barbet 29.m4a,31.045063
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_43.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 30,audio/Crimson-fronted Barbet/Crimson-fronted Barbet 30.wav,13.116000
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_44.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 31,audio/Crimson-fronted Barbet/Crimson-fronted Barbet 31.wav,14.465000
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_45.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 32,audio/Crimson-fronted Barbet/Crimson-fronted Barbet 32.wav,12.099687
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_46.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 33,audio/Crimson-fronted Barbet/Crimson-fronted Barbet 33.wav,13.044000
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_47.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 34,audio/Crimson-fronted Barbet/Crimson-fronted Barbet 34.wav,9.668500
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_48.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 35,audio/Crimson-fronted Barbet/Crimson-fronted Barbet 35.mp3,15.072688
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_49.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 36,audio/Crimson-fronted Barbet/Crimson-fronted Barbet 36.wav,12.010063
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_50.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 37,audio/Crimson-fronted Barbet/Crimson-fronted Barbet 37.m4a,17.598688
+birds_audio/Green-billed_Coucal/Green-billed_Coucal.wav,Green-billed_Coucal,1097217,dataset/Green-billed_Coucal/Green-billed_Coucal1.mp3,2.763187
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_2.wav,Green-billed_Coucal,605498,dataset/Green-billed_Coucal/Green-billed_Coucal2.mp3,10.418750
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_3.wav,Green-billed_Coucal,311173,dataset/Green-billed_Coucal/Green-billed_Coucal3.mp3,70.032000
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_4.wav,Green-billed_Coucal,311172,dataset/Green-billed_Coucal/Green-billed_Coucal4.mp3,52.272000
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_5.wav,Green-billed_Coucal,211559,dataset/Green-billed_Coucal/Green-billed_Coucal5.mp3,28.578000
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_6.wav,Green-billed_Coucal,190811,dataset/Green-billed_Coucal/Green-billed_Coucal6.mp3,16.901250
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_7.wav,Green-billed_Coucal,190810,dataset/Green-billed_Coucal/Green-billed_Coucal7.mp3,11.170938
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_8.wav,Green-billed_Coucal,19694,dataset/Green-billed_Coucal/Green-billed_Coucal8.mp3,42.240000
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_9.wav,Green-billed_Coucal,19267,dataset/Green-billed_Coucal/Green-billed_Coucal9.mp3,171.102062
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_10.wav,Green-billed_Coucal,1097216,dataset/Green-billed_Coucal/Green-billed_Coucal10.mp3,43.911875
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_11.wav,Green-billed_Coucal,605499,dataset/Green-billed_Coucal/Green-billed_Coucal11.mp3,158.693875
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_12.wav,Green-billed_Coucal,605497,dataset/Green-billed_Coucal/Green-billed_Coucal12.mp3,29.022063
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_13.wav,Green-billed_Coucal,605496,dataset/Green-billed_Coucal/Green-billed_Coucal13.mp3,6.582875
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_14.wav,Green-billed_Coucal,343015,dataset/Green-billed_Coucal/Green-billed_Coucal14.mp3,7.836750
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_15.wav,Green-billed_Coucal,311175,dataset/Green-billed_Coucal/Green-billed_Coucal15.mp3,45.061250
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_16.wav,Green-billed_Coucal,311174,dataset/Green-billed_Coucal/Green-billed_Coucal16.mp3,20.593688
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_17.wav,Green-billed_Coucal,311171,dataset/Green-billed_Coucal/Green-billed_Coucal17.mp3,62.249812
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_18.wav,Green-billed_Coucal,311170,dataset/Green-billed_Coucal/Green-billed_Coucal18.mp3,46.132250
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_19.wav,Green-billed_Coucal,207878,dataset/Green-billed_Coucal/Green-billed_Coucal19.mp3,11.128187
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_20.wav,Green-billed_Coucal,67884,dataset/Green-billed_Coucal/Green-billed_Coucal20.mp3,6.243250
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_21.wav,Green-billed_Coucal,67883,dataset/Green-billed_Coucal/Green-billed_Coucal21.mp3,43.140875
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_22.wav,Green-billed_Coucal,756566,dataset/Green-billed_Coucal/Green-billed_Coucal22.mp3,55.779750
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_23.wav,Green-billed_Coucal,756565,dataset/Green-billed_Coucal/Green-billed_Coucal23.mp3,12.224750
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_24.wav,Green-billed_Coucal,342683,dataset/Green-billed_Coucal/Green-billed_Coucal24.mp3,4.756437
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_25.wav,Green-billed_Coucal,Green-billed Coucal 1,audio/Green-billed Coucal/Green-billed Coucal 1.wav,141.213625
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_26.wav,Green-billed_Coucal,Green-billed Coucal 2,audio/Green-billed Coucal/Green-billed Coucal 2.wav,781.444813
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_27.wav,Green-billed_Coucal,Green-billed Coucal 3,audio/Green-billed Coucal/Green-billed Coucal 3.wav,28.441562
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_28.wav,Green-billed_Coucal,Green-billed Coucal 4,audio/Green-billed Coucal/Green-billed Coucal 4.mp3,33.552000
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_29.wav,Green-billed_Coucal,Green-billed Coucal 5,audio/Green-billed Coucal/Green-billed Coucal 5.mp3,45.061250
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_30.wav,Green-billed_Coucal,Green-billed Coucal 6,audio/Green-billed Coucal/Green-billed Coucal 6.wav,236.714750
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_31.wav,Green-billed_Coucal,Green-billed Coucal 7,audio/Green-billed Coucal/Green-billed Coucal 7.mp3,44.359187
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_32.wav,Green-billed_Coucal,Green-billed Coucal 8,audio/Green-billed Coucal/Green-billed Coucal 8.wav,124.493000
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_33.wav,Green-billed_Coucal,Green-billed Coucal 9,audio/Green-billed Coucal/Green-billed Coucal 9.wav,112.772750
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_34.wav,Green-billed_Coucal,Green-billed Coucal 10,audio/Green-billed Coucal/Green-billed Coucal 10.wav,171.041125
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_35.wav,Green-billed_Coucal,Green-billed Coucal 11,audio/Green-billed Coucal/Green-billed Coucal 11.wav,43.852750
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_36.wav,Green-billed_Coucal,Green-billed Coucal 12,audio/Green-billed Coucal/Green-billed Coucal 12.wav,158.653312
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_37.wav,Green-billed_Coucal,Green-billed Coucal 13,audio/Green-billed Coucal/Green-billed Coucal 13.wav,28.982625
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_38.wav,Green-billed_Coucal,Green-billed Coucal 14,audio/Green-billed Coucal/Green-billed Coucal 14.wav,6.533500
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_39.wav,Green-billed_Coucal,Green-billed Coucal 15,audio/Green-billed Coucal/Green-billed Coucal 15.wav,7.789438
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_40.wav,Green-billed_Coucal,Green-billed Coucal 16,audio/Green-billed Coucal/Green-billed Coucal 16.wav,9.080000
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_41.wav,Green-billed_Coucal,Green-billed Coucal 17,audio/Green-billed Coucal/Green-billed Coucal 17.mp3,17.016000
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_42.wav,Green-billed_Coucal,Green-billed Coucal 18,audio/Green-billed Coucal/Green-billed Coucal 18.mp3,20.593688
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_43.wav,Green-billed_Coucal,Green-billed Coucal 19,audio/Green-billed Coucal/Green-billed Coucal 19.wav,23.576500
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_44.wav,Green-billed_Coucal,Green-billed Coucal 20,audio/Green-billed Coucal/Green-billed Coucal 20.wav,10.779375
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_45.wav,Green-billed_Coucal,Green-billed Coucal 21,audio/Green-billed Coucal/Green-billed Coucal 21.wav,1.292250
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_46.wav,Green-billed_Coucal,Green-billed Coucal 22,audio/Green-billed Coucal/Green-billed Coucal 22.wav,17.456500
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_47.wav,Green-billed_Coucal,Green-billed Coucal 23,audio/Green-billed Coucal/Green-billed Coucal 23.m4a,9.664000
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_48.wav,Green-billed_Coucal,Green-billed Coucal 24,audio/Green-billed Coucal/Green-billed Coucal 24.wav,111.816000
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_49.wav,Green-billed_Coucal,Green-billed Coucal 25,audio/Green-billed Coucal/Green-billed Coucal 25.wav,19.981125
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_50.wav,Green-billed_Coucal,Green-billed Coucal 26,audio/Green-billed Coucal/Green-billed Coucal 26.wav,25.555563
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_51.wav,Green-billed_Coucal,Green-billed Coucal 27,audio/Green-billed Coucal/Green-billed Coucal 27.wav,2.583312
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_52.wav,Green-billed_Coucal,Green-billed Coucal 28,audio/Green-billed Coucal/Green-billed Coucal 28.wav,4.361125
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_53.wav,Green-billed_Coucal,Green-billed Coucal 29,audio/Green-billed Coucal/Green-billed Coucal 29.wav,3.333312
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_54.wav,Green-billed_Coucal,Green-billed Coucal 30,audio/Green-billed Coucal/Green-billed Coucal 30.wav,3.361125
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_55.wav,Green-billed_Coucal,Green-billed Coucal 31,audio/Green-billed Coucal/Green-billed Coucal 31.wav,50.024437
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_56.wav,Green-billed_Coucal,Green-billed Coucal 32,audio/Green-billed Coucal/Green-billed Coucal 32.wav,108.911563
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_57.wav,Green-billed_Coucal,Green-billed Coucal 33,audio/Green-billed Coucal/Green-billed Coucal 33.wav,81.530687
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_58.wav,Green-billed_Coucal,Green-billed Coucal 34,audio/Green-billed Coucal/Green-billed Coucal 34.wav,78.397500
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_59.wav,Green-billed_Coucal,Green-billed Coucal 35,audio/Green-billed Coucal/Green-billed Coucal 35.m4a,440.320000
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_60.wav,Green-billed_Coucal,Green-billed Coucal 36,audio/Green-billed Coucal/Green-billed Coucal 36.m4a,13.418688
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_61.wav,Green-billed_Coucal,Green-billed Coucal 37,audio/Green-billed Coucal/Green-billed Coucal 37.wav,2.064250
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_62.wav,Green-billed_Coucal,Green-billed Coucal 38,audio/Green-billed Coucal/Green-billed Coucal 38.wav,7.684375
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_63.wav,Green-billed_Coucal,Green-billed Coucal 39,audio/Green-billed Coucal/Green-billed Coucal 39.wav,36.593187
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_64.wav,Green-billed_Coucal,Green-billed Coucal 40,audio/Green-billed Coucal/Green-billed Coucal 40.mp3,20.180000
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush.wav,Spot-winged_Thrush,756592,dataset/Spot-winged_Thrush/Spot-winged_Thrush1.mp3,60.369000
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_2.wav,Spot-winged_Thrush,756591,dataset/Spot-winged_Thrush/Spot-winged_Thrush2.mp3,126.850625
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_3.wav,Spot-winged_Thrush,756590,dataset/Spot-winged_Thrush/Spot-winged_Thrush3.mp3,45.394438
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_4.wav,Spot-winged_Thrush,648205,dataset/Spot-winged_Thrush/Spot-winged_Thrush4.mp3,0.965063
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_5.wav,Spot-winged_Thrush,648204,dataset/Spot-winged_Thrush/Spot-winged_Thrush5.mp3,48.750250
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_6.wav,Spot-winged_Thrush,536455,dataset/Spot-winged_Thrush/Spot-winged_Thrush6.mp3,90.148562
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_7.wav,Spot-winged_Thrush,346140,dataset/Spot-winged_Thrush/Spot-winged_Thrush7.mp3,44.930437
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_8.wav,Spot-winged_Thrush,345001,dataset/Spot-winged_Thrush/Spot-winged_Thrush8.mp3,41.621563
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_9.wav,Spot-winged_Thrush,342682,dataset/Spot-winged_Thrush/Spot-winged_Thrush9.mp3,62.544000
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_10.wav,Spot-winged_Thrush,311291,dataset/Spot-winged_Thrush/Spot-winged_Thrush10.mp3,73.752000
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_11.wav,Spot-winged_Thrush,311290,dataset/Spot-winged_Thrush/Spot-winged_Thrush11.mp3,156.995937
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_12.wav,Spot-winged_Thrush,237195,dataset/Spot-winged_Thrush/Spot-winged_Thrush12.mp3,63.126438
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_13.wav,Spot-winged_Thrush,211580,dataset/Spot-winged_Thrush/Spot-winged_Thrush13.mp3,119.870750
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_14.wav,Spot-winged_Thrush,211579,dataset/Spot-winged_Thrush/Spot-winged_Thrush14.mp3,25.560000
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_15.wav,Spot-winged_Thrush,190808,dataset/Spot-winged_Thrush/Spot-winged_Thrush15.mp3,38.664000
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_16.wav,Spot-winged_Thrush,190807,dataset/Spot-winged_Thrush/Spot-winged_Thrush16.mp3,44.887500
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_17.wav,Spot-winged_Thrush,181984,dataset/Spot-winged_Thrush/Spot-winged_Thrush17.mp3,87.431875
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_18.wav,Spot-winged_Thrush,69757,dataset/Spot-winged_Thrush/Spot-winged_Thrush18.mp3,108.852250
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_19.wav,Spot-winged_Thrush,42794,dataset/Spot-winged_Thrush/Spot-winged_Thrush19.mp3,55.745312
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_20.wav,Spot-winged_Thrush,1096446,dataset/Spot-winged_Thrush/Spot-winged_Thrush20.mp3,25.730625
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_21.wav,Spot-winged_Thrush,777387,dataset/Spot-winged_Thrush/Spot-winged_Thrush21.mp3,17.006812
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_22.wav,Spot-winged_Thrush,777373,dataset/Spot-winged_Thrush/Spot-winged_Thrush22.mp3,49.578688
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_23.wav,Spot-winged_Thrush,648202,dataset/Spot-winged_Thrush/Spot-winged_Thrush23.mp3,26.388000
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_24.wav,Spot-winged_Thrush,648201,dataset/Spot-winged_Thrush/Spot-winged_Thrush24.mp3,34.735563
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_25.wav,Spot-winged_Thrush,648196,dataset/Spot-winged_Thrush/Spot-winged_Thrush25.mp3,24.280000
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_26.wav,Spot-winged_Thrush,648194,dataset/Spot-winged_Thrush/Spot-winged_Thrush26.mp3,71.721250
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_27.wav,Spot-winged_Thrush,648191,dataset/Spot-winged_Thrush/Spot-winged_Thrush27.mp3,31.665500
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_28.wav,Spot-winged_Thrush,648187,dataset/Spot-winged_Thrush/Spot-winged_Thrush28.mp3,117.719625
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_29.wav,Spot-winged_Thrush,648185,dataset/Spot-winged_Thrush/Spot-winged_Thrush29.mp3,12.758875
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_30.wav,Spot-winged_Thrush,311289,dataset/Spot-winged_Thrush/Spot-winged_Thrush30.mp3,12.758875
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_31.wav,Spot-winged_Thrush,207885,dataset/Spot-winged_Thrush/Spot-winged_Thrush31.mp3,23.073313
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_32.wav,Spot-winged_Thrush,207884,dataset/Spot-winged_Thrush/Spot-winged_Thrush32.mp3,60.425562
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_33.wav,Spot-winged_Thrush,199814,dataset/Spot-winged_Thrush/Spot-winged_Thrush33.mp3,83.392250
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_34.wav,Spot-winged_Thrush,181985,dataset/Spot-winged_Thrush/Spot-winged_Thrush34.mp3,123.085500
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_35.wav,Spot-winged_Thrush,165381,dataset/Spot-winged_Thrush/Spot-winged_Thrush35.mp3,64.316312
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_36.wav,Spot-winged_Thrush,102791,dataset/Spot-winged_Thrush/Spot-winged_Thrush36.mp3,66.645500
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_37.wav,Spot-winged_Thrush,102790,dataset/Spot-winged_Thrush/Spot-winged_Thrush37.mp3,107.585063
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_38.wav,Spot-winged_Thrush,79368,dataset/Spot-winged_Thrush/Spot-winged_Thrush38.mp3,70.042500
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_39.wav,Spot-winged_Thrush,69759,dataset/Spot-winged_Thrush/Spot-winged_Thrush39.mp3,38.638312
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_40.wav,Spot-winged_Thrush,69756,dataset/Spot-winged_Thrush/Spot-winged_Thrush40.mp3,78.667563
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_41.wav,Spot-winged_Thrush,69755,dataset/Spot-winged_Thrush/Spot-winged_Thrush41.mp3,116.607375
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_42.wav,Spot-winged_Thrush,1096445,dataset/Spot-winged_Thrush/Spot-winged_Thrush42.mp3,102.570312
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_43.wav,Spot-winged_Thrush,1076469,dataset/Spot-winged_Thrush/Spot-winged_Thrush43.mp3,36.798187
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_44.wav,Spot-winged_Thrush,648197,dataset/Spot-winged_Thrush/Spot-winged_Thrush44.mp3,64.988687
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_45.wav,Spot-winged_Thrush,453480,dataset/Spot-winged_Thrush/Spot-winged_Thrush45.mp3,45.000000
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_46.wav,Spot-winged_Thrush,69758,dataset/Spot-winged_Thrush/Spot-winged_Thrush46.mp3,161.854688
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_47.wav,Spot-winged_Thrush,Spot-winged Thrush 1,audio/Spot-winged Thrush/Spot-winged Thrush 1.wav,65.792687
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_48.wav,Spot-winged_Thrush,Spot-winged Thrush 2,audio/Spot-winged Thrush/Spot-winged Thrush 2.wav,2004.563000
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_49.wav,Spot-winged_Thrush,Spot-winged Thrush 3,audio/Spot-winged Thrush/Spot-winged Thrush 3.mp3,161.854688
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_50.wav,Spot-winged_Thrush,Spot-winged Thrush 4,audio/Spot-winged Thrush/Spot-winged Thrush 4.mp3,25.730625
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_51.wav,Spot-winged_Thrush,Spot-winged Thrush 5,audio/Spot-winged Thrush/Spot-winged Thrush 5.mp3,5.825312
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_52.wav,Spot-winged_Thrush,Spot-winged Thrush 6,audio/Spot-winged Thrush/Spot-winged Thrush 6.mp3,59.768188
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_53.wav,Spot-winged_Thrush,Spot-winged Thrush 7,audio/Spot-winged Thrush/Spot-winged Thrush 7.wav,55.753750
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_54.wav,Spot-winged_Thrush,Spot-winged Thrush 8,audio/Spot-winged Thrush/Spot-winged Thrush 8.wav,72.214062
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_55.wav,Spot-winged_Thrush,Spot-winged Thrush 9,audio/Spot-winged Thrush/Spot-winged Thrush 9.wav,87.381438
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_56.wav,Spot-winged_Thrush,Spot-winged Thrush 10,audio/Spot-winged Thrush/Spot-winged Thrush 10.wav,108.798875
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_57.wav,Spot-winged_Thrush,Spot-winged Thrush 11,audio/Spot-winged Thrush/Spot-winged Thrush 11.wav,55.698125
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_58.wav,Spot-winged_Thrush,Spot-winged Thrush 12,audio/Spot-winged Thrush/Spot-winged Thrush 12.mp3,24.048000
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_59.wav,Spot-winged_Thrush,Spot-winged Thrush 13,audio/Spot-winged Thrush/Spot-winged Thrush 13.wav,26.311875
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_60.wav,Spot-winged_Thrush,Spot-winged Thrush 14,audio/Spot-winged Thrush/Spot-winged Thrush 14.m4a,20.885313
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_61.wav,Spot-winged_Thrush,Spot-winged Thrush 15,audio/Spot-winged Thrush/Spot-winged Thrush 15.mp3,14.842875
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_62.wav,Spot-winged_Thrush,Spot-winged Thrush 16,audio/Spot-winged Thrush/Spot-winged Thrush 16.wav,49.578688
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_63.wav,Spot-winged_Thrush,Spot-winged Thrush 17,audio/Spot-winged Thrush/Spot-winged Thrush 17.m4a,64.689375
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_64.wav,Spot-winged_Thrush,Spot-winged Thrush 18,audio/Spot-winged Thrush/Spot-winged Thrush 18.mp3,44.887500
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_65.wav,Spot-winged_Thrush,Spot-winged Thrush 19,audio/Spot-winged Thrush/Spot-winged Thrush 19.m4a,19.435125
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_66.wav,Spot-winged_Thrush,Spot-winged Thrush 20,audio/Spot-winged Thrush/Spot-winged Thrush 20.wav,37.989375
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_67.wav,Spot-winged_Thrush,Spot-winged Thrush 21,audio/Spot-winged Thrush/Spot-winged Thrush 21.wav,43.006375
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_68.wav,Spot-winged_Thrush,Spot-winged Thrush 22,audio/Spot-winged Thrush/Spot-winged Thrush 22.wav,61.780313
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_69.wav,Spot-winged_Thrush,Spot-winged Thrush 23,audio/Spot-winged Thrush/Spot-winged Thrush 23.wav,75.160000
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_70.wav,Spot-winged_Thrush,Spot-winged Thrush 24,audio/Spot-winged Thrush/Spot-winged Thrush 24.wav,77.040000
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_71.wav,Spot-winged_Thrush,Spot-winged Thrush 25,audio/Spot-winged Thrush/Spot-winged Thrush 25.wav,32.266937
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_72.wav,Spot-winged_Thrush,Spot-winged Thrush 26,audio/Spot-winged Thrush/Spot-winged Thrush 26.wav,43.400000
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_73.wav,Spot-winged_Thrush,Spot-winged Thrush 27,audio/Spot-winged Thrush/Spot-winged Thrush 27.wav,62.400000
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_74.wav,Spot-winged_Thrush,Spot-winged Thrush 28,audio/Spot-winged Thrush/Spot-winged Thrush 28.wav,15.300500
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_75.wav,Spot-winged_Thrush,Spot-winged Thrush 29,audio/Spot-winged Thrush/Spot-winged Thrush 29.wav,13.303562
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_76.wav,Spot-winged_Thrush,Spot-winged Thrush 30,audio/Spot-winged Thrush/Spot-winged Thrush 30.wav,6.155875
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_77.wav,Spot-winged_Thrush,Spot-winged Thrush 31,audio/Spot-winged Thrush/Spot-winged Thrush 31.wav,26.528250
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_78.wav,Spot-winged_Thrush,Spot-winged Thrush 32,audio/Spot-winged Thrush/Spot-winged Thrush 32.wav,46.000000
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_79.wav,Spot-winged_Thrush,Spot-winged Thrush 33,audio/Spot-winged Thrush/Spot-winged Thrush 33.wav,30.100000
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_80.wav,Spot-winged_Thrush,Spot-winged Thrush 34,audio/Spot-winged Thrush/Spot-winged Thrush 34.wav,88.039937
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_81.wav,Spot-winged_Thrush,Spot-winged Thrush 35,audio/Spot-winged Thrush/Spot-winged Thrush 35.mp3,98.040000
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_82.wav,Spot-winged_Thrush,Spot-winged Thrush 36,audio/Spot-winged Thrush/Spot-winged Thrush 36.wav,86.424000
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_83.wav,Spot-winged_Thrush,Spot-winged Thrush 37,audio/Spot-winged Thrush/Spot-winged Thrush 37.wav,46.599000
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_84.wav,Spot-winged_Thrush,Spot-winged Thrush 38,audio/Spot-winged Thrush/Spot-winged Thrush 38.wav,37.396687
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_85.wav,Spot-winged_Thrush,Spot-winged Thrush 39,audio/Spot-winged Thrush/Spot-winged Thrush 39.wav,47.878188
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_86.wav,Spot-winged_Thrush,Spot-winged Thrush 40,audio/Spot-winged Thrush/Spot-winged Thrush 40.wav,155.195063
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_87.wav,Spot-winged_Thrush,Spot-winged Thrush 41,audio/Spot-winged Thrush/Spot-winged Thrush 41.wav,53.173313
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_88.wav,Spot-winged_Thrush,Spot-winged Thrush 42,audio/Spot-winged Thrush/Spot-winged Thrush 42.wav,5.750000
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_89.wav,Spot-winged_Thrush,Spot-winged Thrush 43,audio/Spot-winged Thrush/Spot-winged Thrush 43.wav,14.611125
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_90.wav,Spot-winged_Thrush,Spot-winged Thrush 44,audio/Spot-winged Thrush/Spot-winged Thrush 44.wav,14.416688
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_91.wav,Spot-winged_Thrush,Spot-winged Thrush 45,audio/Spot-winged Thrush/Spot-winged Thrush 45.wav,12.666688
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_92.wav,Spot-winged_Thrush,Spot-winged Thrush 46,audio/Spot-winged Thrush/Spot-winged Thrush 46.wav,14.777750
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_93.wav,Spot-winged_Thrush,Spot-winged Thrush 47,audio/Spot-winged Thrush/Spot-winged Thrush 47.wav,6.510813
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_94.wav,Spot-winged_Thrush,Spot-winged Thrush 48,audio/Spot-winged Thrush/Spot-winged Thrush 48.wav,21.845562
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_95.wav,Spot-winged_Thrush,Spot-winged Thrush 49,audio/Spot-winged Thrush/Spot-winged Thrush 49.wav,20.899938
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_96.wav,Spot-winged_Thrush,Spot-winged Thrush 50,audio/Spot-winged Thrush/Spot-winged Thrush 50.wav,22.539938
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_97.wav,Spot-winged_Thrush,Spot-winged Thrush 51,audio/Spot-winged Thrush/Spot-winged Thrush 51.m4a,28.970688
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_98.wav,Spot-winged_Thrush,Spot-winged Thrush 52,audio/Spot-winged Thrush/Spot-winged Thrush 52.m4a,25.898688
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_99.wav,Spot-winged_Thrush,Spot-winged Thrush 53,audio/Spot-winged Thrush/Spot-winged Thrush 53.m4a,37.481313
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_100.wav,Spot-winged_Thrush,Spot-winged Thrush 54,audio/Spot-winged Thrush/Spot-winged Thrush 54.wav,15.486250
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_101.wav,Spot-winged_Thrush,Spot-winged Thrush 55,audio/Spot-winged Thrush/Spot-winged Thrush 55.m4a,87.828000
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_102.wav,Spot-winged_Thrush,Spot-winged Thrush 56,audio/Spot-winged Thrush/Spot-winged Thrush 56.m4a,92.521312
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_103.wav,Spot-winged_Thrush,Spot-winged Thrush 57,audio/Spot-winged Thrush/Spot-winged Thrush 57.mp3,5.208000
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_104.wav,Spot-winged_Thrush,Spot-winged Thrush 58,audio/Spot-winged Thrush/Spot-winged Thrush 58.mp3,3.984000
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_105.wav,Spot-winged_Thrush,Spot-winged Thrush 59,audio/Spot-winged Thrush/Spot-winged Thrush 59.m4a,50.793312
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_106.wav,Spot-winged_Thrush,Spot-winged Thrush 60,audio/Spot-winged Thrush/Spot-winged Thrush 60.wav,4.874750
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_107.wav,Spot-winged_Thrush,Spot-winged Thrush 61,audio/Spot-winged Thrush/Spot-winged Thrush 61.wav,66.806875
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_108.wav,Spot-winged_Thrush,Spot-winged Thrush 62,audio/Spot-winged Thrush/Spot-winged Thrush 62.wav,124.591063
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_109.wav,Spot-winged_Thrush,Spot-winged Thrush 63,audio/Spot-winged Thrush/Spot-winged Thrush 63.wav,338.325875
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie.wav,Sri_Lanka_Blue_Magpie,1075554,dataset/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie1.mp3,73.159375
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_2.wav,Sri_Lanka_Blue_Magpie,840505,dataset/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie2.mp3,58.608750
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_3.wav,Sri_Lanka_Blue_Magpie,777389,dataset/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie3.mp3,141.368313
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_4.wav,Sri_Lanka_Blue_Magpie,629589,dataset/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie4.mp3,18.816000
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_5.wav,Sri_Lanka_Blue_Magpie,629588,dataset/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie5.mp3,27.324063
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_6.wav,Sri_Lanka_Blue_Magpie,629392,dataset/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie6.mp3,41.325750
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_7.wav,Sri_Lanka_Blue_Magpie,629391,dataset/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie7.mp3,46.195937
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_8.wav,Sri_Lanka_Blue_Magpie,629390,dataset/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie8.mp3,30.723562
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_9.wav,Sri_Lanka_Blue_Magpie,344989,dataset/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie9.mp3,21.499875
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_10.wav,Sri_Lanka_Blue_Magpie,343022,dataset/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie10.mp3,19.626687
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_11.wav,Sri_Lanka_Blue_Magpie,343019,dataset/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie11.mp3,9.972000
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_12.wav,Sri_Lanka_Blue_Magpie,311534,dataset/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie12.mp3,56.293875
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_13.wav,Sri_Lanka_Blue_Magpie,207774,dataset/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie13.mp3,22.752688
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_14.wav,Sri_Lanka_Blue_Magpie,79369,dataset/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie14.mp3,32.470188
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_15.wav,Sri_Lanka_Blue_Magpie,42787,dataset/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie15.mp3,104.045750
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_16.wav,Sri_Lanka_Blue_Magpie,1075550,dataset/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie16.mp3,9.361125
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_17.wav,Sri_Lanka_Blue_Magpie,346141,dataset/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie17.mp3,67.239187
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_18.wav,Sri_Lanka_Blue_Magpie,224203,dataset/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie18.mp3,81.946125
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_19.wav,Sri_Lanka_Blue_Magpie,211795,dataset/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie19.mp3,45.000000
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_20.wav,Sri_Lanka_Blue_Magpie,629616,dataset/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie20.mp3,30.171437
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_21.wav,Sri_Lanka_Blue_Magpie,629613,dataset/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie21.mp3,11.977937
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_22.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 1,audio/Sri Lanka Blue-Magpie/Sri Lanka Blue-Magpie 1.mp3,30.171437
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_23.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 2,audio/Sri Lanka Blue-Magpie/Sri Lanka Blue-Magpie 2.mp3,12.552000
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_24.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 3,audio/Sri Lanka Blue-Magpie/Sri Lanka Blue-Magpie 3.wav,172.061937
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_25.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 4,audio/Sri Lanka Blue-Magpie/Sri Lanka Blue-Magpie 4.wav,41.284500
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_26.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 5,audio/Sri Lanka Blue-Magpie/Sri Lanka Blue-Magpie 5.mp3,45.590938
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_27.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 6,audio/Sri Lanka Blue-Magpie/Sri Lanka Blue-Magpie 6.wav,8.014250
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_28.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 7,audio/Sri Lanka Blue-Magpie/Sri Lanka Blue-Magpie 7.mp3,24.196500
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_29.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 8,audio/Sri Lanka Blue-Magpie/Sri Lanka Blue-Magpie 8.wav,9.899563
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_30.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 9,audio/Sri Lanka Blue-Magpie/Sri Lanka Blue-Magpie 9.mp3,28.583437
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_31.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 10,audio/Sri Lanka Blue-Magpie/Sri Lanka Blue-Magpie 10.wav,31.069000
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_32.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 11,audio/Sri Lanka Blue-Magpie/Sri Lanka Blue-Magpie 11.wav,19.626687
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_33.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 12,audio/Sri Lanka Blue-Magpie/Sri Lanka Blue-Magpie 12.wav,155.028875
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_34.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 13,audio/Sri Lanka Blue-Magpie/Sri Lanka Blue-Magpie 13.mp3,46.195937
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_35.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 14,audio/Sri Lanka Blue-Magpie/Sri Lanka Blue-Magpie 14.mp3,30.723562
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_36.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 15,audio/Sri Lanka Blue-Magpie/Sri Lanka Blue-Magpie 15.wav,58.471438
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_37.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 16,audio/Sri Lanka Blue-Magpie/Sri Lanka Blue-Magpie 16.wav,67.264375
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_38.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 17,audio/Sri Lanka Blue-Magpie/Sri Lanka Blue-Magpie 17.wav,69.226187
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_39.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 18,audio/Sri Lanka Blue-Magpie/Sri Lanka Blue-Magpie 18.mp3,13.848000
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_40.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 19,audio/Sri Lanka Blue-Magpie/Sri Lanka Blue-Magpie 19.m4a,17.002688
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_41.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 20,audio/Sri Lanka Blue-Magpie/Sri Lanka Blue-Magpie 20.m4a,15.701313
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_42.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 21,audio/Sri Lanka Blue-Magpie/Sri Lanka Blue-Magpie 21.m4a,13.141312
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_43.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 22,audio/Sri Lanka Blue-Magpie/Sri Lanka Blue-Magpie 22.wav,29.309375
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_44.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 23,audio/Sri Lanka Blue-Magpie/Sri Lanka Blue-Magpie 23.mp3,12.672000
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_45.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 24,audio/Sri Lanka Blue-Magpie/Sri Lanka Blue-Magpie 24.mp3,55.512000
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_46.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 25,audio/Sri Lanka Blue-Magpie/Sri Lanka Blue-Magpie 25.wav,4.611125
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_47.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 26,audio/Sri Lanka Blue-Magpie/Sri Lanka Blue-Magpie 26.wav,5.000000
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_48.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 27,audio/Sri Lanka Blue-Magpie/Sri Lanka Blue-Magpie 27.wav,2.506438
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_49.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 28,audio/Sri Lanka Blue-Magpie/Sri Lanka Blue-Magpie 28.wav,37.653062
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_50.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 29,audio/Sri Lanka Blue-Magpie/Sri Lanka Blue-Magpie 29.wav,50.761313
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_51.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 30,audio/Sri Lanka Blue-Magpie/Sri Lanka Blue-Magpie 30.wav,45.479937
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_52.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 31,audio/Sri Lanka Blue-Magpie/Sri Lanka Blue-Magpie 31.wav,23.819938
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_53.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 32,audio/Sri Lanka Blue-Magpie/Sri Lanka Blue-Magpie 32.wav,21.619937
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_54.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 33,audio/Sri Lanka Blue-Magpie/Sri Lanka Blue-Magpie 33.mp3,21.133063
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_55.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 34,audio/Sri Lanka Blue-Magpie/Sri Lanka Blue-Magpie 34.wav,37.475563
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_56.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 35,audio/Sri Lanka Blue-Magpie/Sri Lanka Blue-Magpie 35.mp3,9.144000
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_57.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 36,audio/Sri Lanka Blue-Magpie/Sri Lanka Blue-Magpie 36.mp3,7.656000
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_58.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 37,audio/Sri Lanka Blue-Magpie/Sri Lanka Blue-Magpie 37.wav,61.958312
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth.wav,Sri_Lanka_Frogmouth,744717,dataset/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth1.mp3,5.930688
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_2.wav,Sri_Lanka_Frogmouth,744715,dataset/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth2.mp3,3.655187
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_3.wav,Sri_Lanka_Frogmouth,311157,dataset/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth3.mp3,48.361000
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_4.wav,Sri_Lanka_Frogmouth,203504,dataset/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth4.mp3,2.641812
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_5.wav,Sri_Lanka_Frogmouth,190668,dataset/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth5.mp3,31.191938
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_6.wav,Sri_Lanka_Frogmouth,167840,dataset/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth6.mp3,16.665937
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_7.wav,Sri_Lanka_Frogmouth,37438,dataset/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth7.mp3,23.499437
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_8.wav,Sri_Lanka_Frogmouth,1160424,dataset/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth8.mp3,37.695500
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_9.wav,Sri_Lanka_Frogmouth,1136726,dataset/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth9.mp3,36.696000
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_10.wav,Sri_Lanka_Frogmouth,1097279,dataset/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth10.mp3,71.568000
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_11.wav,Sri_Lanka_Frogmouth,1096386,dataset/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth11.mp3,55.992000
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_12.wav,Sri_Lanka_Frogmouth,610130,dataset/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth12.mp3,58.752000
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_13.wav,Sri_Lanka_Frogmouth,474436,dataset/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth13.mp3,14.396562
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_14.wav,Sri_Lanka_Frogmouth,473613,dataset/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth14.mp3,9.448187
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_15.wav,Sri_Lanka_Frogmouth,356746,dataset/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth15.mp3,29.064000
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_16.wav,Sri_Lanka_Frogmouth,217340,dataset/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth16.mp3,37.584000
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_17.wav,Sri_Lanka_Frogmouth,211798,dataset/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth17.mp3,11.102063
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_18.wav,Sri_Lanka_Frogmouth,201366,dataset/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth18.mp3,17.127500
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_19.wav,Sri_Lanka_Frogmouth,196561,dataset/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth19.mp3,2.969438
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_20.wav,Sri_Lanka_Frogmouth,694103,dataset/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth20.mp3,44.016312
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_21.wav,Sri_Lanka_Frogmouth,680832,dataset/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth21.mp3,41.195125
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_22.wav,Sri_Lanka_Frogmouth,548013,dataset/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth22.mp3,27.456000
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_23.wav,Sri_Lanka_Frogmouth,453481,dataset/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth23.mp3,38.870188
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_24.wav,Sri_Lanka_Frogmouth,433796,dataset/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth24.mp3,81.998375
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_25.wav,Sri_Lanka_Frogmouth,267340,dataset/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth25.mp3,24.522250
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_26.wav,Sri_Lanka_Frogmouth,266807,dataset/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth26.mp3,124.896000
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_27.wav,Sri_Lanka_Frogmouth,203505,dataset/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth27.mp3,8.126188
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_28.wav,Sri_Lanka_Frogmouth,1097278,dataset/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth28.mp3,35.813875
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_29.wav,Sri_Lanka_Frogmouth,1096384,dataset/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth29.mp3,81.920000
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_30.wav,Sri_Lanka_Frogmouth,1096382,dataset/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth30.mp3,11.159750
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_31.wav,Sri_Lanka_Frogmouth,1046015,dataset/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth31.mp3,39.414500
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_32.wav,Sri_Lanka_Frogmouth,786593,dataset/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth32.mp3,4.558625
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_33.wav,Sri_Lanka_Frogmouth,744714,dataset/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth33.mp3,101.135688
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_34.wav,Sri_Lanka_Frogmouth,311156,dataset/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth34.mp3,56.327062
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_35.wav,Sri_Lanka_Frogmouth,211799,dataset/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth35.mp3,98.248563
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_36.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 1,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 1.mp3,2.969438
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_37.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 2,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 2.mp3,81.998375
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_38.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 3,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 3.wav,13.512125
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_39.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 4,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 4.wav,22.926687
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_40.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 5,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 5.wav,23.083000
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_41.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 6,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 6.wav,4.430125
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_42.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 7,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 7.wav,60.140188
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_43.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 8,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 8.wav,96.400000
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_44.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 9,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 9.wav,59.040000
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_45.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 10,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 10.wav,113.040000
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_46.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 11,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 11.mp3,33.332250
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_47.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 12,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 12.wav,67.285313
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_48.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 13,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 13.wav,77.312000
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_49.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 14,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 14.wav,120.106688
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_50.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 15,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 15.wav,8.141438
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_51.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 16,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 16.wav,29.996750
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_52.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 17,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 17.wav,30.325250
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_53.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 18,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 18.wav,2.089812
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_54.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 19,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 19.wav,3.297250
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_55.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 20,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 20.wav,6.315812
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_56.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 21,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 21.wav,30.027125
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_57.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 22,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 22.wav,32.310938
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_58.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 23,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 23.wav,40.151875
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_59.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 24,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 24.wav,125.371500
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_60.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 25,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 25.wav,16.900000
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_61.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 26,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 26.wav,44.500000
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_62.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 27,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 27.wav,48.338125
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_63.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 28,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 28.mp3,87.510063
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_64.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 29,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 29.mp3,87.510063
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_65.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 30,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 30.wav,87.510063
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_66.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 31,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 31.wav,31.400000
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_67.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 32,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 32.wav,266.934188
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_68.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 33,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 33.wav,3.224438
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_69.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 34,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 34.wav,84.958000
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_70.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 35,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 35.wav,8.424750
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_71.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 36,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 36.wav,118.445875
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_72.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 37,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 37.wav,19.560000
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_73.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 38,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 38.mp3,2.298875
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_74.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 39,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 39.mp3,2.121812
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_75.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 40,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 40.mp3,6.415063
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_76.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 41,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 41.mp3,17.121625
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_77.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 42,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 42.mp3,39.371750
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_78.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 43,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 43.mp3,6.637500
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_79.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 44,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 44.mp3,18.600313
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_80.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 45,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 45.mp3,25.220562
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_81.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 46,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 46.mp3,28.863437
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_82.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 47,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 47.mp3,4.648500
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_83.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 48,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 48.mp3,14.193188
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_84.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 49,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 49.mp3,44.430125
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_85.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 50,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 50.wav,14.743000
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_86.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 51,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 51.wav,10.504625
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_87.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 52,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 52.wav,143.904812
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_88.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 53,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 53.wav,156.311813
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_89.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 54,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 54.wav,38.080750
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_90.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 55,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 55.wav,16.230563
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_91.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 56,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 56.wav,30.812687
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_92.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 57,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 57.wav,17.832750
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_93.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 58,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 58.wav,14.720000
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_94.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 59,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 59.wav,14.890688
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_95.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 60,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 60.wav,18.422438
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_96.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 61,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 61.wav,20.903562
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_97.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 62,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 62.wav,34.407000
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_98.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 63,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 63.wav,2.094813
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_99.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 64,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 64.wav,43.952312
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_100.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 65,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 65.wav,41.154688
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_101.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 66,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 66.mp3,7.578313
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_102.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 67,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 67.wav,18.715312
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_103.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 68,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 68.wav,16.108875
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_104.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 69,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 69.wav,116.338250
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_105.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 70,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 70.wav,16.982625
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_106.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 71,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 71.wav,70.665188
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_107.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 72,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 72.wav,9.780750
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_108.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 73,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 73.mp3,18.456000
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_109.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 74,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 74.mp3,17.127500
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_110.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 75,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 75.wav,4.558625
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_111.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 76,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 76.wav,56.327062
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_112.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 77,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 77.wav,101.135688
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_113.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 78,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 78.mp3,37.632000
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_114.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 79,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 79.mp3,36.310187
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_115.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 80,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 80.mp3,42.475125
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_116.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 81,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 81.wav,3.724937
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_117.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 82,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 82.m4a,12.842688
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_118.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 83,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 83.wav,5.735812
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_119.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 84,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 84.wav,5.611875
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_120.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 85,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 85.wav,17.624938
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_121.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 86,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 86.wav,23.965937
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_122.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 87,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 87.wav,8.527188
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_123.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 88,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 88.wav,11.682750
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_124.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 89,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 89.wav,9.619687
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_125.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 90,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 90.wav,5.919313
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_126.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 91,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 91.wav,62.215500
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_127.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 92,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 92.wav,39.414500
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_128.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 93,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 93.wav,3.861500
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_129.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 94,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 94.wav,12.159000
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_130.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 95,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 95.wav,15.718438
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_131.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 96,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 96.wav,33.494750
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_132.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 97,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 97.wav,20.194813
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_133.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 98,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 98.wav,5.034688
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_134.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 99,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 99.wav,4.834688
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_135.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 100,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 100.wav,55.224562
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_136.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 101,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 101.wav,90.907250
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_137.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 102,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 102.wav,3.882687
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_138.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 103,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 103.wav,44.032000
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_139.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 104,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 104.wav,49.706688
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_140.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 105,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 105.wav,23.100000
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_141.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 106,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 106.m4a,26.752000
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_142.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 107,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 107.wav,10.855313
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_143.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 108,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 108.wav,13.338812
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_144.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 109,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 109.wav,52.200000
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_145.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 110,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 110.wav,20.650562
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_146.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 111,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 111.wav,13.767000
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_147.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 112,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 112.wav,8.802812
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_148.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 113,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 113.m4a,35.798687
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_149.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 114,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 114.wav,11.627250
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_150.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 115,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 115.wav,82.375000
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_151.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 116,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 116.m4a,41.726250
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_152.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 117,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 117.wav,4.006125
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_153.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 118,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 118.wav,2.152125
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_154.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 119,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 119.wav,2.659875
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_155.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 120,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 120.wav,2.134187
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_156.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 121,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 121.wav,4.005750
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_157.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 122,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 122.wav,4.899438
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_158.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 123,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 123.wav,2.341500
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_159.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 124,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 124.wav,5.947875
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_160.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 125,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 125.wav,107.454750
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_161.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 126,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 126.wav,128.624063
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_162.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 127,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 127.wav,118.501500
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_163.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 128,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 128.wav,8.306375
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_164.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 129,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 129.wav,279.440625
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_165.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 130,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 130.wav,98.248563
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_166.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 131,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 131.wav,7.905312
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_167.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 132,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 132.wav,81.724563
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_168.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 133,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 133.wav,103.969875
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_169.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 134,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 134.wav,278.985500
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_170.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 135,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 135.mp3,28.107750
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_171.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 136,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 136.wav,7.332000
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_172.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 137,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 137.wav,54.439125
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_173.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 138,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 138.wav,56.993375
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_174.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 139,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 139.wav,89.167500
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_175.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 140,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 140.wav,117.741812
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_176.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 141,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 141.wav,4.514437
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_177.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 142,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 142.wav,43.624875
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_178.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 143,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 143.mp3,7.476813
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_179.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 144,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 144.mp3,8.304000
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_180.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 145,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 145.wav,18.365250
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_181.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 146,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 146.wav,31.488250
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_182.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 147,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 147.m4a,34.346688
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_183.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 148,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 148.wav,51.463062
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_184.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 149,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 149.m4a,22.802000
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_185.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 150,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 150.wav,37.695500
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_186.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 151,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 151.mp3,16.536000
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_187.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 152,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 152.wav,150.576812
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_188.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 153,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 153.wav,4.900563
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_189.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 154,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 154.m4a,45.952000
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_190.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 155,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 155.wav,15.253312
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_191.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 156,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 156.m4a,20.131688
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_192.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 157,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 157.m4a,15.464500
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_193.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 158,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 158.wav,31.707937
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_194.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 159,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 159.wav,31.049437
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_195.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 160,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 160.wav,30.271187
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_196.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 161,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 161.wav,109.368250
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_197.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 162,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 162.wav,125.744500
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_198.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 163,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 163.m4a,16.393313
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_199.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 164,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 164.m4a,23.614687
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_200.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 165,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 165.wav,18.005312
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_201.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 166,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 166.m4a,103.073375
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_202.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 167,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 167.m4a,65.792000
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_203.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 168,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 168.m4a,71.978688
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_204.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 169,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 169.wav,16.786562
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_205.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 170,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 170.wav,49.689250
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_206.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 171,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 171.wav,22.420000
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_207.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 172,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 172.m4a,93.251375
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_208.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 173,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 173.mp3,29.112000
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_209.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 174,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 174.wav,28.914313
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_210.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 175,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 175.wav,13.555563
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_211.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 176,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 176.wav,6.704750
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_212.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 177,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 177.wav,115.222250
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_213.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 178,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 178.wav,45.311312
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_214.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 179,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 179.wav,11.580937
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_215.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 180,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 180.wav,4.666688
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_216.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 181,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 181.wav,5.516375
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_217.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 182,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 182.wav,5.558750
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_218.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 183,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 183.wav,8.457125
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_219.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 184,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 184.wav,16.600000
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_220.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 185,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 185.wav,6.895187
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_221.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 186,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 186.wav,66.816000
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_222.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 187,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 187.wav,49.834688
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_223.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 188,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 188.m4a,13.696000
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_224.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 189,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 189.m4a,22.506688
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_225.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 190,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 190.wav,30.788250
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_226.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 191,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 191.wav,28.094687
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_227.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 192,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 192.wav,17.994000
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_228.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 193,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 193.wav,21.778875
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_229.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 194,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 194.m4a,13.589313
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_230.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 195,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 195.wav,4.861125
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_231.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 196,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 196.wav,2.722187
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_232.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 197,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 197.wav,84.295250
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_233.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 198,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 198.wav,41.602625
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_234.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 199,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 199.wav,51.312188
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_235.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 200,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 200.m4a,51.840000
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_236.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 201,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 201.wav,33.430000
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_237.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 202,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 202.wav,16.226625
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_238.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 203,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 203.wav,8.247000
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_239.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 204,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 204.wav,2.805563
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_240.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 205,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 205.wav,4.833375
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_241.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 206,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 206.wav,13.416688
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_242.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 207,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 207.wav,26.527812
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_243.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 208,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 208.wav,4.580938
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_244.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 209,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 209.mp3,15.840000
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_245.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 210,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 210.mp3,43.200000
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_246.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 211,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 211.wav,5.962875
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_247.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 212,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 212.m4a,5.930688
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_248.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 213,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 213.wav,9.472250
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_249.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 214,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 214.wav,7.166688
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_250.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 215,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 215.wav,19.660000
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_251.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 216,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 216.m4a,19.349312
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_252.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 217,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 217.m4a,24.789313
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_253.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 218,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 218.m4a,32.789313
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_254.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 219,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 219.wav,3.861125
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_255.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 220,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 220.wav,15.222250
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_256.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 221,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 221.wav,5.027812
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_257.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 222,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 222.wav,4.000000
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_258.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 223,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 223.wav,10.083375
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_259.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 224,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 224.wav,19.111125
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_260.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 225,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 225.wav,20.750000
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_261.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 226,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 226.wav,15.361125
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_262.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 227,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 227.wav,22.166687
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_263.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 228,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 228.wav,29.580813
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_264.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 229,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 229.wav,3.583375
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_265.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 230,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 230.wav,10.555563
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_266.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 231,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 231.wav,1.541688
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_267.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 232,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 232.wav,17.290187
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_268.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 233,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 233.wav,5.660000
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_269.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 234,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 234.wav,31.668063
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_270.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 235,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 235.mp3,15.236313
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_271.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 236,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 236.wav,44.271750
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_272.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 237,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 237.wav,110.451188
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_273.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 238,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 238.wav,3.537250
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_274.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 239,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 239.m4a,4.522687
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_275.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 240,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 240.wav,7.806188
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_276.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 241,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 241.mp3,37.773063
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_277.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 242,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 242.m4a,3.114688
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_278.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 243,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 243.wav,26.453312
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_279.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 244,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 244.wav,21.008250
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_280.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 245,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 245.wav,173.839500
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_281.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 246,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 246.wav,9.070875
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_282.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 247,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 247.wav,12.441250
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_283.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 248,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 248.wav,19.098562
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_284.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 249,audio/Sri Lanka Frogmouth/Sri Lanka Frogmouth 249.wav,35.559125
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill.wav,Sri_Lanka_Grey_Hornbill,609368,dataset/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill1.mp3,11.615000
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_2.wav,Sri_Lanka_Grey_Hornbill,453488,dataset/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill2.mp3,9.714000
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_3.wav,Sri_Lanka_Grey_Hornbill,346193,dataset/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill3.mp3,26.070187
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_4.wav,Sri_Lanka_Grey_Hornbill,304324,dataset/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill4.mp3,88.148000
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_5.wav,Sri_Lanka_Grey_Hornbill,304322,dataset/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill5.mp3,8.020687
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_6.wav,Sri_Lanka_Grey_Hornbill,19377,dataset/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill6.mp3,9.535750
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_7.wav,Sri_Lanka_Grey_Hornbill,1046666,dataset/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill7.mp3,6.531688
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_8.wav,Sri_Lanka_Grey_Hornbill,311391,dataset/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill8.mp3,7.158625
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_9.wav,Sri_Lanka_Grey_Hornbill,304326,dataset/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill9.mp3,36.440812
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_10.wav,Sri_Lanka_Grey_Hornbill,301963,dataset/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill10.mp3,8.725312
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_11.wav,Sri_Lanka_Grey_Hornbill,207656,dataset/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill11.mp3,77.090312
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_12.wav,Sri_Lanka_Grey_Hornbill,68883,dataset/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill12.mp3,96.156750
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_13.wav,Sri_Lanka_Grey_Hornbill,183240,dataset/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill13.mp3,65.896812
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_14.wav,Sri_Lanka_Grey_Hornbill,68882,dataset/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill14.mp3,13.468312
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_15.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 1,audio/Sri Lanka Gray Hornbill/Sri Lanka Gray Hornbill 1.mp3,8.020687
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_16.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 2,audio/Sri Lanka Gray Hornbill/Sri Lanka Gray Hornbill 2.mp3,6.531688
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_17.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 3,audio/Sri Lanka Gray Hornbill/Sri Lanka Gray Hornbill 3.mp3,7.158625
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_18.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 4,audio/Sri Lanka Gray Hornbill/Sri Lanka Gray Hornbill 4.mp3,9.535750
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_19.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 5,audio/Sri Lanka Gray Hornbill/Sri Lanka Gray Hornbill 5.mp3,12.577563
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_20.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 6,audio/Sri Lanka Gray Hornbill/Sri Lanka Gray Hornbill 6.mp3,44.578562
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_21.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 7,audio/Sri Lanka Gray Hornbill/Sri Lanka Gray Hornbill 7.mp3,26.184812
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_22.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 8,audio/Sri Lanka Gray Hornbill/Sri Lanka Gray Hornbill 8.mp3,44.193562
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_23.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 9,audio/Sri Lanka Gray Hornbill/Sri Lanka Gray Hornbill 9.wav,34.897250
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_24.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 10,audio/Sri Lanka Gray Hornbill/Sri Lanka Gray Hornbill 10.wav,36.388500
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_25.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 11,audio/Sri Lanka Gray Hornbill/Sri Lanka Gray Hornbill 11.mp3,31.939312
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_26.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 12,audio/Sri Lanka Gray Hornbill/Sri Lanka Gray Hornbill 12.wav,8.049687
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_27.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 13,audio/Sri Lanka Gray Hornbill/Sri Lanka Gray Hornbill 13.wav,43.689687
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_28.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 14,audio/Sri Lanka Gray Hornbill/Sri Lanka Gray Hornbill 14.wav,4.457750
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_29.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 15,audio/Sri Lanka Gray Hornbill/Sri Lanka Gray Hornbill 15.wav,8.725375
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_30.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 16,audio/Sri Lanka Gray Hornbill/Sri Lanka Gray Hornbill 16.wav,15.197500
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_31.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 17,audio/Sri Lanka Gray Hornbill/Sri Lanka Gray Hornbill 17.wav,42.785750
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_32.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 18,audio/Sri Lanka Gray Hornbill/Sri Lanka Gray Hornbill 18.wav,21.989313
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_33.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 19,audio/Sri Lanka Gray Hornbill/Sri Lanka Gray Hornbill 19.wav,34.069500
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_34.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 20,audio/Sri Lanka Gray Hornbill/Sri Lanka Gray Hornbill 20.mp3,6.672000
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_35.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 21,audio/Sri Lanka Gray Hornbill/Sri Lanka Gray Hornbill 21.m4a,18.134812
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_36.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 22,audio/Sri Lanka Gray Hornbill/Sri Lanka Gray Hornbill 22.wav,12.500000
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_37.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 23,audio/Sri Lanka Gray Hornbill/Sri Lanka Gray Hornbill 23.wav,2.278125
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_38.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 24,audio/Sri Lanka Gray Hornbill/Sri Lanka Gray Hornbill 24.wav,11.625438
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_39.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 25,audio/Sri Lanka Gray Hornbill/Sri Lanka Gray Hornbill 25.mp3,11.615000
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_40.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 26,audio/Sri Lanka Gray Hornbill/Sri Lanka Gray Hornbill 26.wav,17.572187
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_41.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 27,audio/Sri Lanka Gray Hornbill/Sri Lanka Gray Hornbill 27.wav,15.486250
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_42.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 28,audio/Sri Lanka Gray Hornbill/Sri Lanka Gray Hornbill 28.wav,42.491062
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_43.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 29,audio/Sri Lanka Gray Hornbill/Sri Lanka Gray Hornbill 29.wav,31.081563
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_44.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 30,audio/Sri Lanka Gray Hornbill/Sri Lanka Gray Hornbill 30.wav,110.953688
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_45.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 31,audio/Sri Lanka Gray Hornbill/Sri Lanka Gray Hornbill 31.m4a,29.076000
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl.wav,Sri_Lanka_Junglefowl,545692,dataset/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl1.mp3,100.105250
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_2.wav,Sri_Lanka_Junglefowl,543396,dataset/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl2.mp3,5.620875
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_3.wav,Sri_Lanka_Junglefowl,543394,dataset/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl3.mp3,3.452562
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_4.wav,Sri_Lanka_Junglefowl,543393,dataset/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl4.mp3,2.302250
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_5.wav,Sri_Lanka_Junglefowl,1097205,dataset/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl5.mp3,3.633938
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_6.wav,Sri_Lanka_Junglefowl,1097204,dataset/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl6.mp3,36.611375
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_7.wav,Sri_Lanka_Junglefowl,1097203,dataset/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl7.mp3,49.086188
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_8.wav,Sri_Lanka_Junglefowl,1074067,dataset/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl8.mp3,12.639313
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_9.wav,Sri_Lanka_Junglefowl,724572,dataset/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl9.mp3,45.552000
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_10.wav,Sri_Lanka_Junglefowl,635300,dataset/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl10.mp3,34.168188
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_11.wav,Sri_Lanka_Junglefowl,604097,dataset/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl11.mp3,19.304500
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_12.wav,Sri_Lanka_Junglefowl,604096,dataset/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl12.mp3,44.895812
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_13.wav,Sri_Lanka_Junglefowl,604095,dataset/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl13.mp3,31.386250
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_14.wav,Sri_Lanka_Junglefowl,604094,dataset/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl14.mp3,79.368000
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_15.wav,Sri_Lanka_Junglefowl,453366,dataset/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl15.mp3,26.775813
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_16.wav,Sri_Lanka_Junglefowl,346150,dataset/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl16.mp3,49.893875
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_17.wav,Sri_Lanka_Junglefowl,346143,dataset/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl17.mp3,53.028562
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_18.wav,Sri_Lanka_Junglefowl,311284,dataset/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl18.mp3,44.591000
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_19.wav,Sri_Lanka_Junglefowl,311283,dataset/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl19.mp3,97.802437
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_20.wav,Sri_Lanka_Junglefowl,311282,dataset/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl20.mp3,7.210687
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_21.wav,Sri_Lanka_Junglefowl,311281,dataset/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl21.mp3,17.749312
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_22.wav,Sri_Lanka_Junglefowl,211801,dataset/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl22.mp3,57.002750
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_23.wav,Sri_Lanka_Junglefowl,190812,dataset/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl23.mp3,20.820750
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_24.wav,Sri_Lanka_Junglefowl,183211,dataset/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl24.mp3,19.045813
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_25.wav,Sri_Lanka_Junglefowl,183210,dataset/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl25.mp3,60.396000
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_26.wav,Sri_Lanka_Junglefowl,68360,dataset/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl26.mp3,164.120875
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_27.wav,Sri_Lanka_Junglefowl,68359,dataset/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl27.mp3,56.607375
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_28.wav,Sri_Lanka_Junglefowl,68358,dataset/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl28.mp3,81.266937
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_29.wav,Sri_Lanka_Junglefowl,19864,dataset/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl29.mp3,72.960000
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_30.wav,Sri_Lanka_Junglefowl,1096389,dataset/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl30.mp3,44.538812
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_31.wav,Sri_Lanka_Junglefowl,777762,dataset/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl31.mp3,12.486562
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_32.wav,Sri_Lanka_Junglefowl,237200,dataset/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl32.mp3,28.369000
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_33.wav,Sri_Lanka_Junglefowl,207888,dataset/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl33.mp3,42.513500
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_34.wav,Sri_Lanka_Junglefowl,207657,dataset/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl34.mp3,72.811750
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_35.wav,Sri_Lanka_Junglefowl,19380,dataset/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl35.mp3,29.377750
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_36.wav,Sri_Lanka_Junglefowl,1096388,dataset/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl36.mp3,37.580062
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_37.wav,Sri_Lanka_Junglefowl,603875,dataset/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl37.mp3,22.882687
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_38.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 1,audio/Sri Lanka Junglefowl/Sri Lanka Junglefowl 1.wav,289.953500
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_39.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 2,audio/Sri Lanka Junglefowl/Sri Lanka Junglefowl 2.wav,256.284250
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 3,audio/Sri Lanka Junglefowl/Sri Lanka Junglefowl 3.wav,432.790125
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_41.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 4,audio/Sri Lanka Junglefowl/Sri Lanka Junglefowl 4.mp3,21.344625
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_42.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 5,audio/Sri Lanka Junglefowl/Sri Lanka Junglefowl 5.wav,54.740000
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_43.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 6,audio/Sri Lanka Junglefowl/Sri Lanka Junglefowl 6.wav,593.286375
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_44.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 7,audio/Sri Lanka Junglefowl/Sri Lanka Junglefowl 7.wav,33.080562
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_45.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 8,audio/Sri Lanka Junglefowl/Sri Lanka Junglefowl 8.wav,138.326000
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_46.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 9,audio/Sri Lanka Junglefowl/Sri Lanka Junglefowl 9.mp3,23.533625
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_47.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 10,audio/Sri Lanka Junglefowl/Sri Lanka Junglefowl 10.mp3,73.038375
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_48.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 11,audio/Sri Lanka Junglefowl/Sri Lanka Junglefowl 11.wav,49.834500
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_49.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 12,audio/Sri Lanka Junglefowl/Sri Lanka Junglefowl 12.wav,52.970875
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_50.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 13,audio/Sri Lanka Junglefowl/Sri Lanka Junglefowl 13.wav,44.535250
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_51.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 14,audio/Sri Lanka Junglefowl/Sri Lanka Junglefowl 14.wav,97.756000
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_52.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 15,audio/Sri Lanka Junglefowl/Sri Lanka Junglefowl 15.wav,18.019250
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_53.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 16,audio/Sri Lanka Junglefowl/Sri Lanka Junglefowl 16.mp3,22.056000
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_54.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 17,audio/Sri Lanka Junglefowl/Sri Lanka Junglefowl 17.wav,90.832375
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_55.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 18,audio/Sri Lanka Junglefowl/Sri Lanka Junglefowl 18.mp3,75.018500
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_56.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 19,audio/Sri Lanka Junglefowl/Sri Lanka Junglefowl 19.wav,7.210687
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_57.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 20,audio/Sri Lanka Junglefowl/Sri Lanka Junglefowl 20.wav,17.749375
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_58.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 21,audio/Sri Lanka Junglefowl/Sri Lanka Junglefowl 21.wav,69.830750
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_59.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 22,audio/Sri Lanka Junglefowl/Sri Lanka Junglefowl 22.mp3,12.054000
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_60.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 23,audio/Sri Lanka Junglefowl/Sri Lanka Junglefowl 23.wav,108.440500
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_61.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 24,audio/Sri Lanka Junglefowl/Sri Lanka Junglefowl 24.mp3,26.775813
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_62.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 25,audio/Sri Lanka Junglefowl/Sri Lanka Junglefowl 25.wav,41.778562
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_63.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 26,audio/Sri Lanka Junglefowl/Sri Lanka Junglefowl 26.wav,11.155062
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_64.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 27,audio/Sri Lanka Junglefowl/Sri Lanka Junglefowl 27.mp3,17.952000
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_65.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 28,audio/Sri Lanka Junglefowl/Sri Lanka Junglefowl 28.wav,11.273125
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_66.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 29,audio/Sri Lanka Junglefowl/Sri Lanka Junglefowl 29.wav,9.884250
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_67.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 30,audio/Sri Lanka Junglefowl/Sri Lanka Junglefowl 30.m4a,18.645312
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_68.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 31,audio/Sri Lanka Junglefowl/Sri Lanka Junglefowl 31.wav,126.746437
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_69.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 32,audio/Sri Lanka Junglefowl/Sri Lanka Junglefowl 32.m4a,6.890688
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_70.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 33,audio/Sri Lanka Junglefowl/Sri Lanka Junglefowl 33.wav,28.800000
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_71.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 34,audio/Sri Lanka Junglefowl/Sri Lanka Junglefowl 34.m4a,6.849375
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_72.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 35,audio/Sri Lanka Junglefowl/Sri Lanka Junglefowl 35.wav,24.750000
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_73.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 36,audio/Sri Lanka Junglefowl/Sri Lanka Junglefowl 36.wav,3.500000
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_74.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 37,audio/Sri Lanka Junglefowl/Sri Lanka Junglefowl 37.wav,2.976938
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_75.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 38,audio/Sri Lanka Junglefowl/Sri Lanka Junglefowl 38.mp3,3.735500
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_76.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 39,audio/Sri Lanka Junglefowl/Sri Lanka Junglefowl 39.wav,26.459937
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_77.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 40,audio/Sri Lanka Junglefowl/Sri Lanka Junglefowl 40.wav,14.999937
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_78.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 41,audio/Sri Lanka Junglefowl/Sri Lanka Junglefowl 41.wav,3.801188
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_79.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 42,audio/Sri Lanka Junglefowl/Sri Lanka Junglefowl 42.m4a,32.958688
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_80.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 43,audio/Sri Lanka Junglefowl/Sri Lanka Junglefowl 43.m4a,49.854687
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_81.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 44,audio/Sri Lanka Junglefowl/Sri Lanka Junglefowl 44.mp3,4.034750
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_82.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 45,audio/Sri Lanka Junglefowl/Sri Lanka Junglefowl 45.mp3,21.468000
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_83.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 46,audio/Sri Lanka Junglefowl/Sri Lanka Junglefowl 46.mp3,32.349938
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_84.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 47,audio/Sri Lanka Junglefowl/Sri Lanka Junglefowl 47.wav,169.330375
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_85.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 48,audio/Sri Lanka Junglefowl/Sri Lanka Junglefowl 48.wav,50.212938
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_86.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 49,audio/Sri Lanka Junglefowl/Sri Lanka Junglefowl 49.wav,152.508500
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_87.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 50,audio/Sri Lanka Junglefowl/Sri Lanka Junglefowl 50.m4a,7.892000
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl.wav,Sri_Lanka_Spurfowl,543399,dataset/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl1.mp3,26.202938
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_2.wav,Sri_Lanka_Spurfowl,543397,dataset/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl2.mp3,65.175500
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_3.wav,Sri_Lanka_Spurfowl,587978,dataset/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl3.mp3,39.444938
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_4.wav,Sri_Lanka_Spurfowl,426324,dataset/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl4.mp3,46.837562
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_5.wav,Sri_Lanka_Spurfowl,346196,dataset/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl5.mp3,54.616062
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_6.wav,Sri_Lanka_Spurfowl,311280,dataset/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl6.mp3,49.189875
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_7.wav,Sri_Lanka_Spurfowl,311279,dataset/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl7.mp3,38.760000
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_8.wav,Sri_Lanka_Spurfowl,311277,dataset/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl8.mp3,25.338812
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_9.wav,Sri_Lanka_Spurfowl,311276,dataset/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl9.mp3,28.081625
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_10.wav,Sri_Lanka_Spurfowl,211804,dataset/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl10.mp3,15.960000
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_11.wav,Sri_Lanka_Spurfowl,211803,dataset/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl11.mp3,55.056000
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_12.wav,Sri_Lanka_Spurfowl,190817,dataset/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl12.mp3,28.831375
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_13.wav,Sri_Lanka_Spurfowl,19383,dataset/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl13.mp3,50.416312
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_14.wav,Sri_Lanka_Spurfowl,19382,dataset/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl14.mp3,35.970625
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_15.wav,Sri_Lanka_Spurfowl,983168,dataset/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl15.mp3,66.925750
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_16.wav,Sri_Lanka_Spurfowl,656082,dataset/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl16.mp3,44.303688
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_17.wav,Sri_Lanka_Spurfowl,625920,dataset/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl17.mp3,101.407375
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_18.wav,Sri_Lanka_Spurfowl,619059,dataset/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl18.mp3,10.922688
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_19.wav,Sri_Lanka_Spurfowl,366992,dataset/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl19.mp3,41.169000
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_20.wav,Sri_Lanka_Spurfowl,311278,dataset/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl20.mp3,8.728250
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_21.wav,Sri_Lanka_Spurfowl,237201,dataset/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl21.mp3,18.331375
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_22.wav,Sri_Lanka_Spurfowl,165384,dataset/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl22.mp3,14.541750
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_23.wav,Sri_Lanka_Spurfowl,1097246,dataset/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl23.mp3,46.851125
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_24.wav,Sri_Lanka_Spurfowl,777381,dataset/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl24.mp3,125.779625
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_25.wav,Sri_Lanka_Spurfowl,680833,dataset/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl25.mp3,14.976000
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_26.wav,Sri_Lanka_Spurfowl,181989,dataset/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl26.mp3,38.558937
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_27.wav,Sri_Lanka_Spurfowl,181988,dataset/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl27.mp3,19.426938
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_28.wav,Sri_Lanka_Spurfowl,152875,dataset/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl28.mp3,27.421187
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_29.wav,Sri_Lanka_Spurfowl,152874,dataset/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl29.mp3,41.251688
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_30.wav,Sri_Lanka_Spurfowl,68355,dataset/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl30.mp3,43.802937
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_31.wav,Sri_Lanka_Spurfowl,68354,dataset/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl31.mp3,140.721000
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_32.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 1,audio/Sri Lanka Spurfowl/Sri Lanka Spurfowl 1.mp3,8.728250
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_33.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 2,audio/Sri Lanka Spurfowl/Sri Lanka Spurfowl 2.wav,92.186125
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_34.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 3,audio/Sri Lanka Spurfowl/Sri Lanka Spurfowl 3.wav,182.368188
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_35.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 4,audio/Sri Lanka Spurfowl/Sri Lanka Spurfowl 4.wav,203.305000
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_36.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 5,audio/Sri Lanka Spurfowl/Sri Lanka Spurfowl 5.mp3,58.000000
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_37.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 6,audio/Sri Lanka Spurfowl/Sri Lanka Spurfowl 6.mp3,71.810625
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_38.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 7,audio/Sri Lanka Spurfowl/Sri Lanka Spurfowl 7.wav,38.631125
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_39.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 8,audio/Sri Lanka Spurfowl/Sri Lanka Spurfowl 8.wav,357.958625
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_40.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 9,audio/Sri Lanka Spurfowl/Sri Lanka Spurfowl 9.wav,98.442813
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_41.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 10,audio/Sri Lanka Spurfowl/Sri Lanka Spurfowl 10.wav,103.851438
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_42.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 11,audio/Sri Lanka Spurfowl/Sri Lanka Spurfowl 11.mp3,87.484062
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_43.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 12,audio/Sri Lanka Spurfowl/Sri Lanka Spurfowl 12.mp3,53.394312
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_44.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 13,audio/Sri Lanka Spurfowl/Sri Lanka Spurfowl 13.wav,50.360312
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_45.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 14,audio/Sri Lanka Spurfowl/Sri Lanka Spurfowl 14.wav,35.916000
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_46.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 15,audio/Sri Lanka Spurfowl/Sri Lanka Spurfowl 15.wav,66.882000
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_47.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 16,audio/Sri Lanka Spurfowl/Sri Lanka Spurfowl 16.wav,44.251625
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_48.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 17,audio/Sri Lanka Spurfowl/Sri Lanka Spurfowl 17.wav,101.351187
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_49.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 18,audio/Sri Lanka Spurfowl/Sri Lanka Spurfowl 18.wav,26.683000
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_50.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 19,audio/Sri Lanka Spurfowl/Sri Lanka Spurfowl 19.mp3,91.104000
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_51.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 20,audio/Sri Lanka Spurfowl/Sri Lanka Spurfowl 20.mp3,54.624000
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_52.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 21,audio/Sri Lanka Spurfowl/Sri Lanka Spurfowl 21.mp3,93.024000
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_53.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 22,audio/Sri Lanka Spurfowl/Sri Lanka Spurfowl 22.mp3,24.988125
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_54.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 23,audio/Sri Lanka Spurfowl/Sri Lanka Spurfowl 23.mp3,73.344000
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_55.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 24,audio/Sri Lanka Spurfowl/Sri Lanka Spurfowl 24.wav,10.922688
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_56.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 25,audio/Sri Lanka Spurfowl/Sri Lanka Spurfowl 25.wav,101.758000
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_57.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 26,audio/Sri Lanka Spurfowl/Sri Lanka Spurfowl 26.mp3,28.831375
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_58.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 27,audio/Sri Lanka Spurfowl/Sri Lanka Spurfowl 27.wav,81.914187
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_59.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 28,audio/Sri Lanka Spurfowl/Sri Lanka Spurfowl 28.wav,16.840000
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_60.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 29,audio/Sri Lanka Spurfowl/Sri Lanka Spurfowl 29.mp3,18.274125
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_61.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 30,audio/Sri Lanka Spurfowl/Sri Lanka Spurfowl 30.mp3,14.489250
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_62.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 31,audio/Sri Lanka Spurfowl/Sri Lanka Spurfowl 31.wav,26.871000
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_63.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 32,audio/Sri Lanka Spurfowl/Sri Lanka Spurfowl 32.mp3,41.169000
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_64.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 33,audio/Sri Lanka Spurfowl/Sri Lanka Spurfowl 33.mp3,37.896000
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_65.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 34,audio/Sri Lanka Spurfowl/Sri Lanka Spurfowl 34.wav,18.792000
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_66.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 35,audio/Sri Lanka Spurfowl/Sri Lanka Spurfowl 35.wav,70.596063
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_67.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 36,audio/Sri Lanka Spurfowl/Sri Lanka Spurfowl 36.wav,9.861125
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_68.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 37,audio/Sri Lanka Spurfowl/Sri Lanka Spurfowl 37.wav,37.909312
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_69.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 38,audio/Sri Lanka Spurfowl/Sri Lanka Spurfowl 38.m4a,19.202938
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet.wav,Yellow-fronted_Barbet,1097249,dataset/Yellow-fronted_Barbe/Yellow-fronted_Barbe1.mp3,15.136313
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_2.wav,Yellow-fronted_Barbet,634460,dataset/Yellow-fronted_Barbe/Yellow-fronted_Barbe2.mp3,27.040125
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_3.wav,Yellow-fronted_Barbet,620157,dataset/Yellow-fronted_Barbe/Yellow-fronted_Barbe3.mp3,13.572875
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_4.wav,Yellow-fronted_Barbet,620148,dataset/Yellow-fronted_Barbe/Yellow-fronted_Barbe4.mp3,42.734750
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_5.wav,Yellow-fronted_Barbet,620145,dataset/Yellow-fronted_Barbe/Yellow-fronted_Barbe5.mp3,12.613437
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_6.wav,Yellow-fronted_Barbet,591039,dataset/Yellow-fronted_Barbe/Yellow-fronted_Barbe6.mp3,33.613937
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_7.wav,Yellow-fronted_Barbet,591038,dataset/Yellow-fronted_Barbe/Yellow-fronted_Barbe7.mp3,28.442438
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_8.wav,Yellow-fronted_Barbet,453489,dataset/Yellow-fronted_Barbe/Yellow-fronted_Barbe8.mp3,14.074438
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_9.wav,Yellow-fronted_Barbet,453482,dataset/Yellow-fronted_Barbe/Yellow-fronted_Barbe9.mp3,52.605875
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_10.wav,Yellow-fronted_Barbet,346183,dataset/Yellow-fronted_Barbe/Yellow-fronted_Barbe10.mp3,28.839188
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_11.wav,Yellow-fronted_Barbet,346153,dataset/Yellow-fronted_Barbe/Yellow-fronted_Barbe11.mp3,13.148062
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_12.wav,Yellow-fronted_Barbet,311357,dataset/Yellow-fronted_Barbe/Yellow-fronted_Barbe12.mp3,16.370875
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_13.wav,Yellow-fronted_Barbet,311355,dataset/Yellow-fronted_Barbe/Yellow-fronted_Barbe13.mp3,37.860500
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_14.wav,Yellow-fronted_Barbet,311354,dataset/Yellow-fronted_Barbe/Yellow-fronted_Barbe14.mp3,22.025000
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_15.wav,Yellow-fronted_Barbet,224187,dataset/Yellow-fronted_Barbe/Yellow-fronted_Barbe15.mp3,26.383688
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_16.wav,Yellow-fronted_Barbet,183230,dataset/Yellow-fronted_Barbe/Yellow-fronted_Barbe16.mp3,22.569813
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_17.wav,Yellow-fronted_Barbet,183229,dataset/Yellow-fronted_Barbe/Yellow-fronted_Barbe17.mp3,24.293875
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_18.wav,Yellow-fronted_Barbet,164019,dataset/Yellow-fronted_Barbe/Yellow-fronted_Barbe18.mp3,36.494625
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_19.wav,Yellow-fronted_Barbet,19439,dataset/Yellow-fronted_Barbe/Yellow-fronted_Barbe19.mp3,27.131312
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_20.wav,Yellow-fronted_Barbet,1097295,dataset/Yellow-fronted_Barbe/Yellow-fronted_Barbe20.mp3,16.072125
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_21.wav,Yellow-fronted_Barbet,1097281,dataset/Yellow-fronted_Barbe/Yellow-fronted_Barbe21.mp3,38.530625
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_22.wav,Yellow-fronted_Barbet,1097248,dataset/Yellow-fronted_Barbe/Yellow-fronted_Barbe22.mp3,12.408188
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_23.wav,Yellow-fronted_Barbet,1097247,dataset/Yellow-fronted_Barbe/Yellow-fronted_Barbe23.mp3,33.567375
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_24.wav,Yellow-fronted_Barbet,1074041,dataset/Yellow-fronted_Barbe/Yellow-fronted_Barbe24.mp3,38.191000
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_25.wav,Yellow-fronted_Barbet,1074040,dataset/Yellow-fronted_Barbe/Yellow-fronted_Barbe25.mp3,38.687375
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_26.wav,Yellow-fronted_Barbet,1049760,dataset/Yellow-fronted_Barbe/Yellow-fronted_Barbe26.mp3,20.323250
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_27.wav,Yellow-fronted_Barbet,809314,dataset/Yellow-fronted_Barbe/Yellow-fronted_Barbe27.mp3,38.677312
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_28.wav,Yellow-fronted_Barbet,777765,dataset/Yellow-fronted_Barbe/Yellow-fronted_Barbe28.mp3,8.192000
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_29.wav,Yellow-fronted_Barbet,777439,dataset/Yellow-fronted_Barbe/Yellow-fronted_Barbe29.mp3,44.460437
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_30.wav,Yellow-fronted_Barbet,777385,dataset/Yellow-fronted_Barbe/Yellow-fronted_Barbe30.mp3,17.340563
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_31.wav,Yellow-fronted_Barbet,620159,dataset/Yellow-fronted_Barbe/Yellow-fronted_Barbe31.mp3,61.303438
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_32.wav,Yellow-fronted_Barbet,620156,dataset/Yellow-fronted_Barbe/Yellow-fronted_Barbe32.mp3,94.328688
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_33.wav,Yellow-fronted_Barbet,620154,dataset/Yellow-fronted_Barbe/Yellow-fronted_Barbe33.mp3,36.008875
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_34.wav,Yellow-fronted_Barbet,620151,dataset/Yellow-fronted_Barbe/Yellow-fronted_Barbe34.mp3,6.373875
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_35.wav,Yellow-fronted_Barbet,311356,dataset/Yellow-fronted_Barbe/Yellow-fronted_Barbe35.mp3,33.123250
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_36.wav,Yellow-fronted_Barbet,311353,dataset/Yellow-fronted_Barbe/Yellow-fronted_Barbe36.mp3,12.852250
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_37.wav,Yellow-fronted_Barbet,311352,dataset/Yellow-fronted_Barbe/Yellow-fronted_Barbe37.mp3,64.287375
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_38.wav,Yellow-fronted_Barbet,207753,dataset/Yellow-fronted_Barbe/Yellow-fronted_Barbe38.mp3,43.154313
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_39.wav,Yellow-fronted_Barbet,207752,dataset/Yellow-fronted_Barbe/Yellow-fronted_Barbe39.mp3,61.100437
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_40.wav,Yellow-fronted_Barbet,164020,dataset/Yellow-fronted_Barbe/Yellow-fronted_Barbe40.mp3,13.583687
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_41.wav,Yellow-fronted_Barbet,152877,dataset/Yellow-fronted_Barbe/Yellow-fronted_Barbe41.mp3,15.621250
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_42.wav,Yellow-fronted_Barbet,68669,dataset/Yellow-fronted_Barbe/Yellow-fronted_Barbe42.mp3,50.031000
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_43.wav,Yellow-fronted_Barbet,37620,dataset/Yellow-fronted_Barbe/Yellow-fronted_Barbe43.mp3,27.456937
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_44.wav,Yellow-fronted_Barbet,19440,dataset/Yellow-fronted_Barbe/Yellow-fronted_Barbe44.mp3,61.181625
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_45.wav,Yellow-fronted_Barbet,1097271,dataset/Yellow-fronted_Barbe/Yellow-fronted_Barbe45.mp3,41.992250
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_46.wav,Yellow-fronted_Barbet,19441,dataset/Yellow-fronted_Barbe/Yellow-fronted_Barbe46.mp3,114.560000
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_47.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 1,audio/Yellow-fronted Barbet/Yellow-fronted Barbet 1.wav,124.767000
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_48.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 2,audio/Yellow-fronted Barbet/Yellow-fronted Barbet 2.wav,320.883688
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_49.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 3,audio/Yellow-fronted Barbet/Yellow-fronted Barbet 3.wav,163.333125
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_50.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 4,audio/Yellow-fronted Barbet/Yellow-fronted Barbet 4.wav,89.285813
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_51.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 5,audio/Yellow-fronted Barbet/Yellow-fronted Barbet 5.wav,130.001688
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_52.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 6,audio/Yellow-fronted Barbet/Yellow-fronted Barbet 6.wav,91.440500
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_53.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 7,audio/Yellow-fronted Barbet/Yellow-fronted Barbet 7.wav,179.705875
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_54.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 8,audio/Yellow-fronted Barbet/Yellow-fronted Barbet 8.wav,69.389250
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_55.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 9,audio/Yellow-fronted Barbet/Yellow-fronted Barbet 9.mp3,27.036000
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_56.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 10,audio/Yellow-fronted Barbet/Yellow-fronted Barbet 10.wav,38.473875
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_57.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 11,audio/Yellow-fronted Barbet/Yellow-fronted Barbet 11.wav,12.360938
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_58.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 12,audio/Yellow-fronted Barbet/Yellow-fronted Barbet 12.wav,33.503188
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_59.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 13,audio/Yellow-fronted Barbet/Yellow-fronted Barbet 13.wav,38.144312
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_60.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 14,audio/Yellow-fronted Barbet/Yellow-fronted Barbet 14.wav,38.624938
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_61.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 15,audio/Yellow-fronted Barbet/Yellow-fronted Barbet 15.wav,20.275437
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_62.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 16,audio/Yellow-fronted Barbet/Yellow-fronted Barbet 16.wav,8.548000
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_63.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 17,audio/Yellow-fronted Barbet/Yellow-fronted Barbet 17.mp3,19.654688
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_64.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 18,audio/Yellow-fronted Barbet/Yellow-fronted Barbet 18.wav,49.022813
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_65.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 19,audio/Yellow-fronted Barbet/Yellow-fronted Barbet 19.wav,10.613812
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_66.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 20,audio/Yellow-fronted Barbet/Yellow-fronted Barbet 20.mp3,15.621250
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_67.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 21,audio/Yellow-fronted Barbet/Yellow-fronted Barbet 21.m4a,20.086063
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_68.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 22,audio/Yellow-fronted Barbet/Yellow-fronted Barbet 22.mp3,19.342250
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_69.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 23,audio/Yellow-fronted Barbet/Yellow-fronted Barbet 23.wav,5.087625
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_70.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 24,audio/Yellow-fronted Barbet/Yellow-fronted Barbet 24.wav,38.677375
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_71.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 25,audio/Yellow-fronted Barbet/Yellow-fronted Barbet 25.m4a,39.189312
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_72.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 26,audio/Yellow-fronted Barbet/Yellow-fronted Barbet 26.wav,45.342750
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_73.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 27,audio/Yellow-fronted Barbet/Yellow-fronted Barbet 27.wav,57.128563
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_74.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 28,audio/Yellow-fronted Barbet/Yellow-fronted Barbet 28.wav,17.740063
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_75.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 29,audio/Yellow-fronted Barbet/Yellow-fronted Barbet 29.wav,31.760000
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_76.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 30,audio/Yellow-fronted Barbet/Yellow-fronted Barbet 30.wav,36.944625
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_77.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 31,audio/Yellow-fronted Barbet/Yellow-fronted Barbet 31.wav,3.877937
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_78.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 32,audio/Yellow-fronted Barbet/Yellow-fronted Barbet 32.mp3,17.088000
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_79.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 33,audio/Yellow-fronted Barbet/Yellow-fronted Barbet 33.wav,8.100000
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_80.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 34,audio/Yellow-fronted Barbet/Yellow-fronted Barbet 34.wav,2.580437
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_81.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 35,audio/Yellow-fronted Barbet/Yellow-fronted Barbet 35.wav,19.305438
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_82.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 36,audio/Yellow-fronted Barbet/Yellow-fronted Barbet 36.wav,22.920000
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_83.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 37,audio/Yellow-fronted Barbet/Yellow-fronted Barbet 37.wav,23.016000
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_84.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 38,audio/Yellow-fronted Barbet/Yellow-fronted Barbet 38.wav,18.528000
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_85.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 39,audio/Yellow-fronted Barbet/Yellow-fronted Barbet 39.wav,48.912000
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_86.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 40,audio/Yellow-fronted Barbet/Yellow-fronted Barbet 40.wav,16.097188
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_87.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 41,audio/Yellow-fronted Barbet/Yellow-fronted Barbet 41.wav,21.320062
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_88.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 42,audio/Yellow-fronted Barbet/Yellow-fronted Barbet 42.wav,20.111125
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_89.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 43,audio/Yellow-fronted Barbet/Yellow-fronted Barbet 43.wav,8.277750
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_90.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 44,audio/Yellow-fronted Barbet/Yellow-fronted Barbet 44.wav,4.861125
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_91.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 45,audio/Yellow-fronted Barbet/Yellow-fronted Barbet 45.wav,20.923625
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_92.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 46,audio/Yellow-fronted Barbet/Yellow-fronted Barbet 46.wav,13.083312
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_93.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 47,audio/Yellow-fronted Barbet/Yellow-fronted Barbet 47.wav,15.184437
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_94.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 48,audio/Yellow-fronted Barbet/Yellow-fronted Barbet 48.mp3,18.468563
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_95.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 49,audio/Yellow-fronted Barbet/Yellow-fronted Barbet 49.wav,4.272500
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_96.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 50,audio/Yellow-fronted Barbet/Yellow-fronted Barbet 50.wav,10.759937
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_97.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 51,audio/Yellow-fronted Barbet/Yellow-fronted Barbet 51.wav,18.639937
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_98.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 52,audio/Yellow-fronted Barbet/Yellow-fronted Barbet 52.wav,53.815812
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_99.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 53,audio/Yellow-fronted Barbet/Yellow-fronted Barbet 53.m4a,122.302688
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_100.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 54,audio/Yellow-fronted Barbet/Yellow-fronted Barbet 54.wav,27.820000
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_101.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 55,audio/Yellow-fronted Barbet/Yellow-fronted Barbet 55.wav,54.580000
