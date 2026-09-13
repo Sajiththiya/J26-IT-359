@@ -1,0 +1,7 @@
+category,audio_files,formats,subtypes,sample_rates_hz,channels,bit_depths,total_duration_seconds,quality_flagged_files
+Forest ambient sound,1,OGG,VORBIS,48000,2,not applicable (compressed codec),180.0,0
+Insects,1,MP3,MPEG_LAYER_III,48000,2,not applicable (compressed codec),416.16639583333335,0
+Other bird calls - mixed bird sounds,1,OGG,VORBIS,48000,2,not applicable (compressed codec),312.048,0
+Rain,1,OGG,VORBIS,44100,1,not applicable (compressed codec),44.95673469387755,0
+Streams - flowing water,1,OGG,VORBIS,48000,2,not applicable (compressed codec),140.064,0
+Wind,1,OGG,VORBIS,44100,2,not applicable (compressed codec),272.7610204081633,0

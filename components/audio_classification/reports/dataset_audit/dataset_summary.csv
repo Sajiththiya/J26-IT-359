@@ -1,0 +1,11 @@
+species,audio_files,unique_file_hashes,metadata_distinct_original_ids,numeric_catalog_style_original_ids,unverified_local_original_ids,independently_verified_original_count,below_20_catalog_style_ids,total_duration_seconds,min_duration_seconds,max_duration_seconds,sample_rates_hz,channels,quality_flagged_files
+Chestnut-backed_Owlet,78,77,78,30,48,unknown (source evidence unavailable),False,3337.239624999998,5.746,286.0966875,16000,1,0
+Crimson-fronted_Barbet,50,50,50,13,37,unknown (source evidence unavailable),True,1553.1623125,2.7011875,169.0188125,16000,1,0
+Green-billed_Coucal,64,63,64,24,40,unknown (source evidence unavailable),False,4043.316125,1.29225,781.4448125,16000,1,0
+Spot-winged_Thrush,109,108,109,46,63,unknown (source evidence unavailable),False,8132.520437500002,0.9650625,2004.563,16000,1,0
+Sri_Lanka_Blue_Magpie,58,56,58,21,37,unknown (source evidence unavailable),False,2285.8446249999993,2.5064375,172.0619375,16000,1,0
+Sri_Lanka_Frogmouth,284,280,284,35,249,unknown (source evidence unavailable),False,10375.6638125,1.5416875,279.440625,16000,1,20
+Sri_Lanka_Grey_Hornbill,45,45,45,14,31,unknown (source evidence unavailable),True,1215.02925,2.278125,110.9536875,16000,1,0
+Sri_Lanka_Junglefowl,87,86,87,37,50,unknown (source evidence unavailable),False,5078.228312499999,2.30225,593.286375,16000,1,0
+Sri_Lanka_Spurfowl,69,68,69,31,38,unknown (source evidence unavailable),False,3919.0168124999996,8.72825,357.958625,16000,1,0
+Yellow-fronted_Barbet,101,101,101,46,55,unknown (source evidence unavailable),False,3925.1913125000015,2.5804375,320.8836875,16000,1,0
