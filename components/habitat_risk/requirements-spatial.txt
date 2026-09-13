@@ -1,0 +1,4 @@
+# Add these to the existing project environment for GeoTIFF inspection.
+rasterio==1.5.2
+affine==3.0.1
+click==8.5.0

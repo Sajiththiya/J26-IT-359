@@ -1,0 +1,227 @@
+{
+  "rows": 102929,
+  "columns": 23,
+  "species": 25,
+  "locations": 7245,
+  "dates": [
+    "2010-01-01 00:00:00",
+    "2023-06-17 00:00:00"
+  ],
+  "missing": {
+    "common_name": 0,
+    "scientific_name": 0,
+    "latitude": 0,
+    "longitude": 0,
+    "observation_date": 0,
+    "year": 0,
+    "month": 0,
+    "observation_count": 0,
+    "duration_minutes": 11401,
+    "effort_distance_km": 37057,
+    "protocol": 0,
+    "all_species_reported": 0,
+    "temperature_max": 0,
+    "temperature_min": 0,
+    "temperature_mean": 0,
+    "precipitation_sum": 0,
+    "rain_sum": 0,
+    "windspeed_max": 0,
+    "windgusts_max": 0,
+    "elevation": 0,
+    "treecover2000": 0,
+    "forest_loss": 0,
+    "forest_loss_year": 0
+  },
+  "duplicates_extra": 18411,
+  "duplicates_all": 31667,
+  "year_counts": {
+    "2010": 1246,
+    "2011": 1565,
+    "2012": 1541,
+    "2013": 1709,
+    "2014": 2602,
+    "2015": 3732,
+    "2016": 4526,
+    "2017": 5738,
+    "2018": 7302,
+    "2019": 9016,
+    "2020": 13408,
+    "2021": 16388,
+    "2022": 21187,
+    "2023": 12969
+  },
+  "elevation_values": {
+    "27.0": 18513,
+    "1281.0": 18429,
+    "15.0": 14358,
+    "5.0": 11322,
+    "10.0": 8586,
+    "12.0": 6407,
+    "376.0": 5669,
+    "510.0": 4181,
+    "652.0": 3675,
+    "16.0": 2842,
+    "18.0": 1783,
+    "124.0": 1777,
+    "0.0": 1755,
+    "6.0": 1477,
+    "20.0": 1068,
+    "125.0": 553,
+    "7.0": 286,
+    "8.0": 248
+  },
+  "equal_rain_precip": true,
+  "loss_after": 47,
+  "loss_same": 37,
+  "duration_over_24h": 20,
+  "count_non_numeric": {
+    "X": 12743
+  },
+  "bounds": {
+    "latitude": {
+      "min": 5.9274658,
+      "max": 9.8141623
+    },
+    "longitude": {
+      "min": 79.58951,
+      "max": 81.864452
+    }
+  },
+  "location_years": 9429,
+  "consecutive_pairs": 1661,
+  "eligible_pairs": 1638,
+  "next_year_positive_pairs": 0,
+  "locations_with_loss": 180,
+  "processed_files": {
+    "data/processed/environment_location_date_review.csv": {
+      "rows": 26270,
+      "columns": [
+        "location_id",
+        "observation_date",
+        "temperature_min",
+        "temperature_mean",
+        "temperature_max",
+        "precipitation_sum",
+        "rain_sum",
+        "windspeed_max",
+        "windgusts_max",
+        "treecover2000",
+        "forest_loss",
+        "forest_loss_year",
+        "latitude",
+        "longitude",
+        "forest_loss_timing",
+        "years_since_prior_loss"
+      ]
+    },
+    "data/processed/dataset_review_stage.csv": {
+      "rows": 102929,
+      "columns": [
+        "source_row_id",
+        "common_name",
+        "scientific_name",
+        "latitude",
+        "longitude",
+        "observation_date",
+        "year",
+        "month",
+        "observation_count",
+        "duration_minutes",
+        "effort_distance_km",
+        "protocol",
+        "all_species_reported",
+        "temperature_max",
+        "temperature_min",
+        "temperature_mean",
+        "precipitation_sum",
+        "rain_sum",
+        "windspeed_max",
+        "windgusts_max",
+        "elevation",
+        "treecover2000",
+        "forest_loss",
+        "forest_loss_year",
+        "observation_date_raw",
+        "observation_count_numeric",
+        "flag_exact_duplicate",
+        "flag_loss_after_observation",
+        "flag_loss_same_year",
+        "flag_duration_over_24h",
+        "flag_iqr_temperature_mean",
+        "flag_iqr_precipitation_sum",
+        "flag_iqr_windspeed_max",
+        "flag_iqr_windgusts_max",
+        "location_id",
+        "forest_loss_timing",
+        "years_since_prior_loss"
+      ]
+    },
+    "data/processed/eda_outlier_limits.csv": {
+      "rows": 4,
+      "columns": [
+        "variable",
+        "lower_limit",
+        "upper_limit",
+        "flagged_rows"
+      ]
+    },
+    "data/processed/location_forest_review.csv": {
+      "rows": 7245,
+      "columns": [
+        "location_id",
+        "treecover2000",
+        "forest_loss",
+        "forest_loss_year"
+      ]
+    },
+    "data/processed/species_location_review.csv": {
+      "rows": 24398,
+      "columns": [
+        "location_id",
+        "scientific_name",
+        "common_name",
+        "first_observed",
+        "last_observed",
+        "observed_days",
+        "record_count"
+      ]
+    },
+    "data/processed/location_date_weather_review.csv": {
+      "rows": 26270,
+      "columns": [
+        "location_id",
+        "observation_date",
+        "temperature_min",
+        "temperature_mean",
+        "temperature_max",
+        "precipitation_sum",
+        "rain_sum",
+        "windspeed_max",
+        "windgusts_max"
+      ]
+    },
+    "data/processed/review_flag_summary.csv": {
+      "rows": 8,
+      "columns": [
+        "Unnamed: 0",
+        "flagged_rows"
+      ]
+    },
+    "data/processed/source_verification_notes.csv": {
+      "rows": 4,
+      "columns": [
+        "data_group",
+        "reported_source",
+        "pending_verification"
+      ]
+    },
+    "data/processed/location_reference.csv": {
+      "rows": 7245,
+      "columns": [
+        "location_id",
+        "latitude",
+        "longitude"
+      ]
+    }
+  }
+}

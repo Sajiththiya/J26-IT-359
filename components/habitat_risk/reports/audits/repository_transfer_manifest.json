@@ -1,0 +1,866 @@
+{
+  "destination": "/Users/keerthikeerthi/Desktop/J26-IT-359/components/habitat_risk",
+  "file_count": 107,
+  "bytes_copied": 686997136,
+  "scope": "HRI preparation; forest-loss modelling experiments excluded",
+  "source_files_unchanged": true,
+  "credentials_copied": false,
+  "files": [
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/configs/hri.json",
+      "relative_destination": "configs/hri.json",
+      "bytes": 641,
+      "source_sha256": "794b035ae3f4c8cfa5686f38f6408ba9ee1da0fc0b5b3122d4b347625e2f2e38",
+      "copied_sha256": "794b035ae3f4c8cfa5686f38f6408ba9ee1da0fc0b5b3122d4b347625e2f2e38",
+      "destination_sha256_after_portability_updates": "794b035ae3f4c8cfa5686f38f6408ba9ee1da0fc0b5b3122d4b347625e2f2e38"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/configs/study.json",
+      "relative_destination": "configs/study.json",
+      "bytes": 738,
+      "source_sha256": "5419135b634dc4cb3be1599f4bc4deef57600746caac498ec97d9fa277651213",
+      "copied_sha256": "5419135b634dc4cb3be1599f4bc4deef57600746caac498ec97d9fa277651213",
+      "destination_sha256_after_portability_updates": "5419135b634dc4cb3be1599f4bc4deef57600746caac498ec97d9fa277651213"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/data/interim/dataset_review_stage.csv",
+      "relative_destination": "data/interim/dataset_review_stage.csv",
+      "bytes": 25205534,
+      "source_sha256": "b13881a4e7e2f5c50b5838f4d7166db08c6ec7ea855cf68f2b213b8ca8df458c",
+      "copied_sha256": "b13881a4e7e2f5c50b5838f4d7166db08c6ec7ea855cf68f2b213b8ca8df458c",
+      "destination_sha256_after_portability_updates": "b13881a4e7e2f5c50b5838f4d7166db08c6ec7ea855cf68f2b213b8ca8df458c"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/data/interim/eda_outlier_limits.csv",
+      "relative_destination": "data/interim/eda_outlier_limits.csv",
+      "bytes": 226,
+      "source_sha256": "a707e6a9d52d4e4b634993138ae83dc1e3b84e0e4fc0e6a9c7097853ead59339",
+      "copied_sha256": "a707e6a9d52d4e4b634993138ae83dc1e3b84e0e4fc0e6a9c7097853ead59339",
+      "destination_sha256_after_portability_updates": "a707e6a9d52d4e4b634993138ae83dc1e3b84e0e4fc0e6a9c7097853ead59339"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/data/interim/environment_location_date_review.csv",
+      "relative_destination": "data/interim/environment_location_date_review.csv",
+      "bytes": 2579801,
+      "source_sha256": "74d7043762d4e246b3ea9c398b9457e703f14eab100a65d9d714f48bc8a75e23",
+      "copied_sha256": "74d7043762d4e246b3ea9c398b9457e703f14eab100a65d9d714f48bc8a75e23",
+      "destination_sha256_after_portability_updates": "74d7043762d4e246b3ea9c398b9457e703f14eab100a65d9d714f48bc8a75e23"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/data/interim/hri/bird_observations_cleaning_draft.csv",
+      "relative_destination": "data/interim/hri/bird_observations_cleaning_draft.csv",
+      "bytes": 22970980,
+      "source_sha256": "314f9fb44ec9fd78fdfbf63c6908b03f5f95c3e517b08173753e68ffcef53087",
+      "copied_sha256": "314f9fb44ec9fd78fdfbf63c6908b03f5f95c3e517b08173753e68ffcef53087",
+      "destination_sha256_after_portability_updates": "314f9fb44ec9fd78fdfbf63c6908b03f5f95c3e517b08173753e68ffcef53087"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/data/interim/hri/bird_observations_deduplicated_candidate.csv",
+      "relative_destination": "data/interim/hri/bird_observations_deduplicated_candidate.csv",
+      "bytes": 18885053,
+      "source_sha256": "88c414e0036525ba1a4ba1cf4daf2b0046d9f1f355ec622ba0a461b1b57dae1b",
+      "copied_sha256": "88c414e0036525ba1a4ba1cf4daf2b0046d9f1f355ec622ba0a461b1b57dae1b",
+      "destination_sha256_after_portability_updates": "88c414e0036525ba1a4ba1cf4daf2b0046d9f1f355ec622ba0a461b1b57dae1b"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/data/interim/hri/bird_observations_for_review.csv",
+      "relative_destination": "data/interim/hri/bird_observations_for_review.csv",
+      "bytes": 4090987,
+      "source_sha256": "7097ecf93609b3ba5854363137b6fbf8d7f6ab0e59dbe193398dfbf0b6a30e7d",
+      "copied_sha256": "7097ecf93609b3ba5854363137b6fbf8d7f6ab0e59dbe193398dfbf0b6a30e7d",
+      "destination_sha256_after_portability_updates": "7097ecf93609b3ba5854363137b6fbf8d7f6ab0e59dbe193398dfbf0b6a30e7d"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/data/interim/hri/birds_outside_endemic_scope.csv",
+      "relative_destination": "data/interim/hri/birds_outside_endemic_scope.csv",
+      "bytes": 1151874,
+      "source_sha256": "c38443820bedbe3f2e61a4b3c8a8e11e23628f874b21a3edc87f662a6ca1e689",
+      "copied_sha256": "c38443820bedbe3f2e61a4b3c8a8e11e23628f874b21a3edc87f662a6ca1e689",
+      "destination_sha256_after_portability_updates": "c38443820bedbe3f2e61a4b3c8a8e11e23628f874b21a3edc87f662a6ca1e689"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/data/interim/hri/birds_pending_endemism_review.csv",
+      "relative_destination": "data/interim/hri/birds_pending_endemism_review.csv",
+      "bytes": 893,
+      "source_sha256": "1cfa502e6f552c5c6ea8dfc9454b43d25bc1bd807e93c5ca7f1d74ea12d5de2b",
+      "copied_sha256": "1cfa502e6f552c5c6ea8dfc9454b43d25bc1bd807e93c5ca7f1d74ea12d5de2b",
+      "destination_sha256_after_portability_updates": "1cfa502e6f552c5c6ea8dfc9454b43d25bc1bd807e93c5ca7f1d74ea12d5de2b"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/data/interim/hri/cleaning_flag_summary.csv",
+      "relative_destination": "data/interim/hri/cleaning_flag_summary.csv",
+      "bytes": 143,
+      "source_sha256": "5825ccaaa62e386b5f3b5af9f0cd4fd6b2bd5b50954a4649cdbe73fb80d96bc8",
+      "copied_sha256": "5825ccaaa62e386b5f3b5af9f0cd4fd6b2bd5b50954a4649cdbe73fb80d96bc8",
+      "destination_sha256_after_portability_updates": "5825ccaaa62e386b5f3b5af9f0cd4fd6b2bd5b50954a4649cdbe73fb80d96bc8"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/data/interim/hri/endemic_bird_candidates.csv",
+      "relative_destination": "data/interim/hri/endemic_bird_candidates.csv",
+      "bytes": 73728763,
+      "source_sha256": "dcda642ebbe146c13d4f0bd4c068c0ceb8033f56c351dde2abe1013c49e11e48",
+      "copied_sha256": "dcda642ebbe146c13d4f0bd4c068c0ceb8033f56c351dde2abe1013c49e11e48",
+      "destination_sha256_after_portability_updates": "dcda642ebbe146c13d4f0bd4c068c0ceb8033f56c351dde2abe1013c49e11e48"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/data/interim/hri/endemic_mapping_review.csv",
+      "relative_destination": "data/interim/hri/endemic_mapping_review.csv",
+      "bytes": 34390,
+      "source_sha256": "8d5d53843aa743e1ebb6ae579e413ededcc10b31676481f30eea9734abbd2e40",
+      "copied_sha256": "8d5d53843aa743e1ebb6ae579e413ededcc10b31676481f30eea9734abbd2e40",
+      "destination_sha256_after_portability_updates": "8d5d53843aa743e1ebb6ae579e413ededcc10b31676481f30eea9734abbd2e40"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/data/interim/hri/endemic_scope_summary.csv",
+      "relative_destination": "data/interim/hri/endemic_scope_summary.csv",
+      "bytes": 103,
+      "source_sha256": "4af2bd98cfc65c6bd02212308816b6f97cab409e43b9ae00a6383b7626492751",
+      "copied_sha256": "4af2bd98cfc65c6bd02212308816b6f97cab409e43b9ae00a6383b7626492751",
+      "destination_sha256_after_portability_updates": "4af2bd98cfc65c6bd02212308816b6f97cab409e43b9ae00a6383b7626492751"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/data/interim/hri/hri_cell_year_preparation.csv",
+      "relative_destination": "data/interim/hri/hri_cell_year_preparation.csv",
+      "bytes": 15501488,
+      "source_sha256": "868f04f1ffd878272c55f2ba25ecd33c5fe8f0739ea9b86f78d260d1b992b865",
+      "copied_sha256": "868f04f1ffd878272c55f2ba25ecd33c5fe8f0739ea9b86f78d260d1b992b865",
+      "destination_sha256_after_portability_updates": "868f04f1ffd878272c55f2ba25ecd33c5fe8f0739ea9b86f78d260d1b992b865"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/data/interim/hri/hri_cell_year_species_evidence.csv",
+      "relative_destination": "data/interim/hri/hri_cell_year_species_evidence.csv",
+      "bytes": 14779316,
+      "source_sha256": "8114c46f863f77efcd5567768c8a2a719fc9e0ce4a2b05b5a745480962d97b40",
+      "copied_sha256": "8114c46f863f77efcd5567768c8a2a719fc9e0ce4a2b05b5a745480962d97b40",
+      "destination_sha256_after_portability_updates": "8114c46f863f77efcd5567768c8a2a719fc9e0ce4a2b05b5a745480962d97b40"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/data/interim/hri/species_traits_for_review.csv",
+      "relative_destination": "data/interim/hri/species_traits_for_review.csv",
+      "bytes": 12447,
+      "source_sha256": "3a50817fca67b5af268927cd3fa2bd2aa9c747886159d7d780964334ae49ad84",
+      "copied_sha256": "3a50817fca67b5af268927cd3fa2bd2aa9c747886159d7d780964334ae49ad84",
+      "destination_sha256_after_portability_updates": "3a50817fca67b5af268927cd3fa2bd2aa9c747886159d7d780964334ae49ad84"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/data/interim/location_date_weather_review.csv",
+      "relative_destination": "data/interim/location_date_weather_review.csv",
+      "bytes": 1446052,
+      "source_sha256": "d0b83dee979e5f1512d9fb07ace15cb918b14923e16d043669c4fb5fb9997f8e",
+      "copied_sha256": "d0b83dee979e5f1512d9fb07ace15cb918b14923e16d043669c4fb5fb9997f8e",
+      "destination_sha256_after_portability_updates": "d0b83dee979e5f1512d9fb07ace15cb918b14923e16d043669c4fb5fb9997f8e"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/data/interim/location_forest_review.csv",
+      "relative_destination": "data/interim/location_forest_review.csv",
+      "bytes": 128829,
+      "source_sha256": "8a457f059e203f82b58753662f3272e7f739975bb210f415607d02f8966ef073",
+      "copied_sha256": "8a457f059e203f82b58753662f3272e7f739975bb210f415607d02f8966ef073",
+      "destination_sha256_after_portability_updates": "8a457f059e203f82b58753662f3272e7f739975bb210f415607d02f8966ef073"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/data/interim/location_reference.csv",
+      "relative_destination": "data/interim/location_reference.csv",
+      "bytes": 225629,
+      "source_sha256": "07ea9cc916bab5071c1f5d680425f50dc5ed805a77276cecaeb72071e41a3155",
+      "copied_sha256": "07ea9cc916bab5071c1f5d680425f50dc5ed805a77276cecaeb72071e41a3155",
+      "destination_sha256_after_portability_updates": "07ea9cc916bab5071c1f5d680425f50dc5ed805a77276cecaeb72071e41a3155"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/data/interim/review_flag_summary.csv",
+      "relative_destination": "data/interim/review_flag_summary.csv",
+      "bytes": 240,
+      "source_sha256": "f51e7a172fa499f3b2eb065b01aea559b1f130cfc1268b2c87d2a95c1b717afd",
+      "copied_sha256": "f51e7a172fa499f3b2eb065b01aea559b1f130cfc1268b2c87d2a95c1b717afd",
+      "destination_sha256_after_portability_updates": "f51e7a172fa499f3b2eb065b01aea559b1f130cfc1268b2c87d2a95c1b717afd"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/data/interim/spatial/lka_laea_5000m_canopy_loss_histogram.csv",
+      "relative_destination": "data/interim/spatial/lka_laea_5000m_canopy_loss_histogram.csv",
+      "bytes": 54108933,
+      "source_sha256": "235babc8f891ad10403ab1f51bbe10f96fae059b3640457412169d92122b1e6f",
+      "copied_sha256": "235babc8f891ad10403ab1f51bbe10f96fae059b3640457412169d92122b1e6f",
+      "destination_sha256_after_portability_updates": "235babc8f891ad10403ab1f51bbe10f96fae059b3640457412169d92122b1e6f"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/data/interim/spatial/lka_laea_5000m_cell_species.csv",
+      "relative_destination": "data/interim/spatial/lka_laea_5000m_cell_species.csv",
+      "bytes": 5599431,
+      "source_sha256": "688791e5236a28965d3ba1d6e79e8de49bf6e1f84bd582006ef833237e81c4e6",
+      "copied_sha256": "688791e5236a28965d3ba1d6e79e8de49bf6e1f84bd582006ef833237e81c4e6",
+      "destination_sha256_after_portability_updates": "688791e5236a28965d3ba1d6e79e8de49bf6e1f84bd582006ef833237e81c4e6"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/data/interim/spatial/lka_laea_5000m_cell_summary.csv",
+      "relative_destination": "data/interim/spatial/lka_laea_5000m_cell_summary.csv",
+      "bytes": 233310,
+      "source_sha256": "acfd9ae36676561c19b54c8e7847b994fd5faf6724b169c882c87ce583eb1fd9",
+      "copied_sha256": "acfd9ae36676561c19b54c8e7847b994fd5faf6724b169c882c87ce583eb1fd9",
+      "destination_sha256_after_portability_updates": "acfd9ae36676561c19b54c8e7847b994fd5faf6724b169c882c87ce583eb1fd9"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/data/interim/spatial/lka_laea_5000m_forest_evidence.csv",
+      "relative_destination": "data/interim/spatial/lka_laea_5000m_forest_evidence.csv",
+      "bytes": 349302,
+      "source_sha256": "38bd1fa98b7978a82276bfc9e6a334672110c3e42d92e54273907f2bde7eb13b",
+      "copied_sha256": "38bd1fa98b7978a82276bfc9e6a334672110c3e42d92e54273907f2bde7eb13b",
+      "destination_sha256_after_portability_updates": "38bd1fa98b7978a82276bfc9e6a334672110c3e42d92e54273907f2bde7eb13b"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/data/interim/spatial/lka_laea_5000m_grid.geojson",
+      "relative_destination": "data/interim/spatial/lka_laea_5000m_grid.geojson",
+      "bytes": 2194090,
+      "source_sha256": "424a1d591dacb071bd7dc24fa5dd262a9e1e0a46c99540b768765272fbc1d627",
+      "copied_sha256": "424a1d591dacb071bd7dc24fa5dd262a9e1e0a46c99540b768765272fbc1d627",
+      "destination_sha256_after_portability_updates": "424a1d591dacb071bd7dc24fa5dd262a9e1e0a46c99540b768765272fbc1d627"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/data/interim/spatial/lka_laea_5000m_location_assignments.csv",
+      "relative_destination": "data/interim/spatial/lka_laea_5000m_location_assignments.csv",
+      "bytes": 625725,
+      "source_sha256": "d92e7e1a359859345dd5647fc6c0967b2512cf4b76d41290d7104f2c981e2152",
+      "copied_sha256": "d92e7e1a359859345dd5647fc6c0967b2512cf4b76d41290d7104f2c981e2152",
+      "destination_sha256_after_portability_updates": "d92e7e1a359859345dd5647fc6c0967b2512cf4b76d41290d7104f2c981e2152"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/data/interim/spatial/lka_laea_5000m_terrain_90m.tif",
+      "relative_destination": "data/interim/spatial/lka_laea_5000m_terrain_90m.tif",
+      "bytes": 59788474,
+      "source_sha256": "34bbd366918aeb0777e95b3178b1b0244ee38856db316a506676d63fcd5d5a7a",
+      "copied_sha256": "34bbd366918aeb0777e95b3178b1b0244ee38856db316a506676d63fcd5d5a7a",
+      "destination_sha256_after_portability_updates": "34bbd366918aeb0777e95b3178b1b0244ee38856db316a506676d63fcd5d5a7a"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/data/interim/spatial/lka_laea_5000m_terrain_features.csv",
+      "relative_destination": "data/interim/spatial/lka_laea_5000m_terrain_features.csv",
+      "bytes": 326146,
+      "source_sha256": "da254d0286755334230c88bcfc51001476fa46e74cb051e4e1758c68d00893c4",
+      "copied_sha256": "da254d0286755334230c88bcfc51001476fa46e74cb051e4e1758c68d00893c4",
+      "destination_sha256_after_portability_updates": "da254d0286755334230c88bcfc51001476fa46e74cb051e4e1758c68d00893c4"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/data/interim/spatial/lka_laea_5000m_weather_features.csv",
+      "relative_destination": "data/interim/spatial/lka_laea_5000m_weather_features.csv",
+      "bytes": 4160613,
+      "source_sha256": "a9d76de5710ca50623f08e1ac3e5010f504e9b158dda0414ecb5d7bc6ea55211",
+      "copied_sha256": "a9d76de5710ca50623f08e1ac3e5010f504e9b158dda0414ecb5d7bc6ea55211",
+      "destination_sha256_after_portability_updates": "a9d76de5710ca50623f08e1ac3e5010f504e9b158dda0414ecb5d7bc6ea55211"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/data/interim/spatial/outside_boundary_locations_review.csv",
+      "relative_destination": "data/interim/spatial/outside_boundary_locations_review.csv",
+      "bytes": 568,
+      "source_sha256": "c8151f73ad93e3aceee8b141dfdc6915280afddca820ec154bacef3561ce78df",
+      "copied_sha256": "c8151f73ad93e3aceee8b141dfdc6915280afddca820ec154bacef3561ce78df",
+      "destination_sha256_after_portability_updates": "c8151f73ad93e3aceee8b141dfdc6915280afddca820ec154bacef3561ce78df"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/data/interim/spatial/weather_native_cell_weights.csv",
+      "relative_destination": "data/interim/spatial/weather_native_cell_weights.csv",
+      "bytes": 160817,
+      "source_sha256": "d13b925ad80e40cbe00e25043e63358a73f968c1da39a6d159731409370d4f4f",
+      "copied_sha256": "d13b925ad80e40cbe00e25043e63358a73f968c1da39a6d159731409370d4f4f",
+      "destination_sha256_after_portability_updates": "d13b925ad80e40cbe00e25043e63358a73f968c1da39a6d159731409370d4f4f"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/data/interim/species_location_review.csv",
+      "relative_destination": "data/interim/species_location_review.csv",
+      "bytes": 1951043,
+      "source_sha256": "e1fbe050620d8e9d00fedac15c17f95c3b71f2c35a24f2b2d882a962b60e2ddc",
+      "copied_sha256": "e1fbe050620d8e9d00fedac15c17f95c3b71f2c35a24f2b2d882a962b60e2ddc",
+      "destination_sha256_after_portability_updates": "e1fbe050620d8e9d00fedac15c17f95c3b71f2c35a24f2b2d882a962b60e2ddc"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/data/metadata/era5_weather_request.json",
+      "relative_destination": "data/metadata/era5_weather_request.json",
+      "bytes": 598,
+      "source_sha256": "82fb404fc048f72fdaf367b3ffbedafd6c2f6193e6ab4ed17b26378b8c59ba1c",
+      "copied_sha256": "82fb404fc048f72fdaf367b3ffbedafd6c2f6193e6ab4ed17b26378b8c59ba1c",
+      "destination_sha256_after_portability_updates": "82fb404fc048f72fdaf367b3ffbedafd6c2f6193e6ab4ed17b26378b8c59ba1c"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/data/metadata/forest_download_manifest.json",
+      "relative_destination": "data/metadata/forest_download_manifest.json",
+      "bytes": 2861,
+      "source_sha256": "1e01e6afff549016015adab4df61eb41b5f3aadeaefadc580221af135675b21e",
+      "copied_sha256": "1e01e6afff549016015adab4df61eb41b5f3aadeaefadc580221af135675b21e",
+      "destination_sha256_after_portability_updates": "1e01e6afff549016015adab4df61eb41b5f3aadeaefadc580221af135675b21e"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/data/metadata/forest_grid_evidence_README.md",
+      "relative_destination": "data/metadata/forest_grid_evidence_README.md",
+      "bytes": 3172,
+      "source_sha256": "1938207a7f769371b857d3f49af47b6629af526791ddb305106718625de0838a",
+      "copied_sha256": "1938207a7f769371b857d3f49af47b6629af526791ddb305106718625de0838a",
+      "destination_sha256_after_portability_updates": "1938207a7f769371b857d3f49af47b6629af526791ddb305106718625de0838a"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/data/metadata/recovered_input_manifest.json",
+      "relative_destination": "data/metadata/recovered_input_manifest.json",
+      "bytes": 1189,
+      "source_sha256": "02c7b8a835362bb31765823db6a21694ad1fd172a86c84dcb162e319b88fedbf",
+      "copied_sha256": "02c7b8a835362bb31765823db6a21694ad1fd172a86c84dcb162e319b88fedbf",
+      "destination_sha256_after_portability_updates": "02c7b8a835362bb31765823db6a21694ad1fd172a86c84dcb162e319b88fedbf"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/data/metadata/source_registry.csv",
+      "relative_destination": "data/metadata/source_registry.csv",
+      "bytes": 4536,
+      "source_sha256": "a5da5945c410452b2979718bd3d5b01ad0c41ef33c008a837ec92513361ca0db",
+      "copied_sha256": "a5da5945c410452b2979718bd3d5b01ad0c41ef33c008a837ec92513361ca0db",
+      "destination_sha256_after_portability_updates": "a5da5945c410452b2979718bd3d5b01ad0c41ef33c008a837ec92513361ca0db"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/data/metadata/source_verification_notes.csv",
+      "relative_destination": "data/metadata/source_verification_notes.csv",
+      "bytes": 413,
+      "source_sha256": "368a615bf7c0892c8dd4c77120524aa1aef89bf6c49c7c508e45924b552b8aed",
+      "copied_sha256": "368a615bf7c0892c8dd4c77120524aa1aef89bf6c49c7c508e45924b552b8aed",
+      "destination_sha256_after_portability_updates": "368a615bf7c0892c8dd4c77120524aa1aef89bf6c49c7c508e45924b552b8aed"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/data/metadata/species_trait_evidence.csv",
+      "relative_destination": "data/metadata/species_trait_evidence.csv",
+      "bytes": 9135,
+      "source_sha256": "81b3fbdbd7bd2a2cafb71b96ad18a8dac7201abd64ddd2f8b72314980c8a7a64",
+      "copied_sha256": "81b3fbdbd7bd2a2cafb71b96ad18a8dac7201abd64ddd2f8b72314980c8a7a64",
+      "destination_sha256_after_portability_updates": "81b3fbdbd7bd2a2cafb71b96ad18a8dac7201abd64ddd2f8b72314980c8a7a64"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/data/metadata/species_traits.csv",
+      "relative_destination": "data/metadata/species_traits.csv",
+      "bytes": 22370,
+      "source_sha256": "0f34ac83e998b552932e290535b675b3132aae721ceb8e6f5349f358373382ba",
+      "copied_sha256": "0f34ac83e998b552932e290535b675b3132aae721ceb8e6f5349f358373382ba",
+      "destination_sha256_after_portability_updates": "0f34ac83e998b552932e290535b675b3132aae721ceb8e6f5349f358373382ba"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/data/metadata/species_traits_README.md",
+      "relative_destination": "data/metadata/species_traits_README.md",
+      "bytes": 5966,
+      "source_sha256": "ada29e45e8744aa1422e6338c380691c01c5d4b43a2b940d4cfa04214755be2c",
+      "copied_sha256": "ada29e45e8744aa1422e6338c380691c01c5d4b43a2b940d4cfa04214755be2c",
+      "destination_sha256_after_portability_updates": "ada29e45e8744aa1422e6338c380691c01c5d4b43a2b940d4cfa04214755be2c"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/data/metadata/terrain_download_manifest.json",
+      "relative_destination": "data/metadata/terrain_download_manifest.json",
+      "bytes": 775,
+      "source_sha256": "3c7f0c1be15874fba9da037fc0ac5411e84337f74f0bdce196e7320852c2a316",
+      "copied_sha256": "3c7f0c1be15874fba9da037fc0ac5411e84337f74f0bdce196e7320852c2a316",
+      "destination_sha256_after_portability_updates": "3c7f0c1be15874fba9da037fc0ac5411e84337f74f0bdce196e7320852c2a316"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/data/metadata/weather_download_manifest.json",
+      "relative_destination": "data/metadata/weather_download_manifest.json",
+      "bytes": 1068,
+      "source_sha256": "6c59101c268e7033b640925f600ad34f31cdb4b2d7760483a51564cd9a5c6926",
+      "copied_sha256": "6c59101c268e7033b640925f600ad34f31cdb4b2d7760483a51564cd9a5c6926",
+      "destination_sha256_after_portability_updates": "6c59101c268e7033b640925f600ad34f31cdb4b2d7760483a51564cd9a5c6926"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/data/raw/boundaries/LKA_ADM0.geojson",
+      "relative_destination": "data/raw/boundaries/LKA_ADM0.geojson",
+      "bytes": 524731,
+      "source_sha256": "8f4eb476e3861d778ab1e7fa8f691ff1e16a449e1ca2b762f7d4af1ac7a94875",
+      "copied_sha256": "8f4eb476e3861d778ab1e7fa8f691ff1e16a449e1ca2b762f7d4af1ac7a94875",
+      "destination_sha256_after_portability_updates": "8f4eb476e3861d778ab1e7fa8f691ff1e16a449e1ca2b762f7d4af1ac7a94875"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/data/raw/boundaries/LKA_ADM0_metadata.json",
+      "relative_destination": "data/raw/boundaries/LKA_ADM0_metadata.json",
+      "bytes": 2036,
+      "source_sha256": "8d9b5a82988b219bc5ed45bdfb4a40b27ed56c938e542e6cd520075c8273d59d",
+      "copied_sha256": "8d9b5a82988b219bc5ed45bdfb4a40b27ed56c938e542e6cd520075c8273d59d",
+      "destination_sha256_after_portability_updates": "8d9b5a82988b219bc5ed45bdfb4a40b27ed56c938e542e6cd520075c8273d59d"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/data/raw/forest/Hansen_GFC-2024-v1.12_datamask_10N_070E.tif",
+      "relative_destination": "data/raw/forest/Hansen_GFC-2024-v1.12_datamask_10N_070E.tif",
+      "bytes": 19749143,
+      "source_sha256": "1c41a73d80d66159f74e68b88e53475887dd0942ca4630826a4e5ce67bc49070",
+      "copied_sha256": "1c41a73d80d66159f74e68b88e53475887dd0942ca4630826a4e5ce67bc49070",
+      "destination_sha256_after_portability_updates": "1c41a73d80d66159f74e68b88e53475887dd0942ca4630826a4e5ce67bc49070"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/data/raw/forest/Hansen_GFC-2024-v1.12_datamask_10N_080E.tif",
+      "relative_destination": "data/raw/forest/Hansen_GFC-2024-v1.12_datamask_10N_080E.tif",
+      "bytes": 16329355,
+      "source_sha256": "9d85b51b600eaefb0a5cc4edd26e7f5dcfb30bf49dabfd76f182332806cde2d0",
+      "copied_sha256": "9d85b51b600eaefb0a5cc4edd26e7f5dcfb30bf49dabfd76f182332806cde2d0",
+      "destination_sha256_after_portability_updates": "9d85b51b600eaefb0a5cc4edd26e7f5dcfb30bf49dabfd76f182332806cde2d0"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/data/raw/forest/Hansen_GFC-2024-v1.12_lossyear_10N_070E.tif",
+      "relative_destination": "data/raw/forest/Hansen_GFC-2024-v1.12_lossyear_10N_070E.tif",
+      "bytes": 15489803,
+      "source_sha256": "6553ca6d035fe118e886b18c034b6c40c7db1abd2bba88ab410c5712926d947d",
+      "copied_sha256": "6553ca6d035fe118e886b18c034b6c40c7db1abd2bba88ab410c5712926d947d",
+      "destination_sha256_after_portability_updates": "6553ca6d035fe118e886b18c034b6c40c7db1abd2bba88ab410c5712926d947d"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/data/raw/forest/Hansen_GFC-2024-v1.12_lossyear_10N_080E.tif",
+      "relative_destination": "data/raw/forest/Hansen_GFC-2024-v1.12_lossyear_10N_080E.tif",
+      "bytes": 17206412,
+      "source_sha256": "8e770dee00b4e15ecc9bd95785515471d5e920987afe14201ef12c50419c29f1",
+      "copied_sha256": "8e770dee00b4e15ecc9bd95785515471d5e920987afe14201ef12c50419c29f1",
+      "destination_sha256_after_portability_updates": "8e770dee00b4e15ecc9bd95785515471d5e920987afe14201ef12c50419c29f1"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/data/raw/forest/Hansen_GFC-2024-v1.12_treecover2000_10N_070E.tif",
+      "relative_destination": "data/raw/forest/Hansen_GFC-2024-v1.12_treecover2000_10N_070E.tif",
+      "bytes": 39994094,
+      "source_sha256": "dae0780148920a76ae9d9608be3bc63dbbd6ce36c417fe18b818d67fc73bb529",
+      "copied_sha256": "dae0780148920a76ae9d9608be3bc63dbbd6ce36c417fe18b818d67fc73bb529",
+      "destination_sha256_after_portability_updates": "dae0780148920a76ae9d9608be3bc63dbbd6ce36c417fe18b818d67fc73bb529"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/data/raw/forest/Hansen_GFC-2024-v1.12_treecover2000_10N_080E.tif",
+      "relative_destination": "data/raw/forest/Hansen_GFC-2024-v1.12_treecover2000_10N_080E.tif",
+      "bytes": 64754171,
+      "source_sha256": "28dca31f9d545e9b8b0d0bfd9e27eae6110bbd3c9c518890b78eda813a7f9ba4",
+      "copied_sha256": "28dca31f9d545e9b8b0d0bfd9e27eae6110bbd3c9c518890b78eda813a7f9ba4",
+      "destination_sha256_after_portability_updates": "28dca31f9d545e9b8b0d0bfd9e27eae6110bbd3c9c518890b78eda813a7f9ba4"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/data/raw/observations/final_dataset_complete.csv",
+      "relative_destination": "data/raw/observations/final_dataset_complete.csv",
+      "bytes": 15397822,
+      "source_sha256": "90ecf906d38c6586a39348c0471ed5a75e3f2497f55c54ad837fcb597d01c31a",
+      "copied_sha256": "90ecf906d38c6586a39348c0471ed5a75e3f2497f55c54ad837fcb597d01c31a",
+      "destination_sha256_after_portability_updates": "90ecf906d38c6586a39348c0471ed5a75e3f2497f55c54ad837fcb597d01c31a"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/data/raw/source_scripts/build_final_dataset.py",
+      "relative_destination": "data/raw/source_scripts/build_final_dataset.py",
+      "bytes": 7830,
+      "source_sha256": "ca6fc185011aa43b826c350f36d08597f666a7b434a357d52140a6d217e5e7df",
+      "copied_sha256": "ca6fc185011aa43b826c350f36d08597f666a7b434a357d52140a6d217e5e7df",
+      "destination_sha256_after_portability_updates": "ca6fc185011aa43b826c350f36d08597f666a7b434a357d52140a6d217e5e7df"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/data/raw/species_sources/HBW_BirdLife_checklist_v10.xlsx",
+      "relative_destination": "data/raw/species_sources/HBW_BirdLife_checklist_v10.xlsx",
+      "bytes": 3372190,
+      "source_sha256": "62e099cf654315e09ad5f86461305f20ab80b7999f98d9b4b2c30c12e31b4e74",
+      "copied_sha256": "62e099cf654315e09ad5f86461305f20ab80b7999f98d9b4b2c30c12e31b4e74",
+      "destination_sha256_after_portability_updates": "62e099cf654315e09ad5f86461305f20ab80b7999f98d9b4b2c30c12e31b4e74"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/data/raw/species_sources/checklist_manifest.json",
+      "relative_destination": "data/raw/species_sources/checklist_manifest.json",
+      "bytes": 692,
+      "source_sha256": "7985a82d249927a6c245abda5cfbf6a9e6f004fce2018fe34662ccee82276834",
+      "copied_sha256": "7985a82d249927a6c245abda5cfbf6a9e6f004fce2018fe34662ccee82276834",
+      "destination_sha256_after_portability_updates": "7985a82d249927a6c245abda5cfbf6a9e6f004fce2018fe34662ccee82276834"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/data/raw/terrain/readme.txt",
+      "relative_destination": "data/raw/terrain/readme.txt",
+      "bytes": 2479,
+      "source_sha256": "3d07f691aa82fb35bcb35715b139d583411bf161e2b6bc16b365846ab0929358",
+      "copied_sha256": "3d07f691aa82fb35bcb35715b139d583411bf161e2b6bc16b365846ab0929358",
+      "destination_sha256_after_portability_updates": "3d07f691aa82fb35bcb35715b139d583411bf161e2b6bc16b365846ab0929358"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/data/raw/terrain/srtm_52_11.tif",
+      "relative_destination": "data/raw/terrain/srtm_52_11.tif",
+      "bytes": 72096675,
+      "source_sha256": "c0ea4e600e7f534fea0861f33e1fad4238bc231b62b2f0c355690edef51068c1",
+      "copied_sha256": "c0ea4e600e7f534fea0861f33e1fad4238bc231b62b2f0c355690edef51068c1",
+      "destination_sha256_after_portability_updates": "c0ea4e600e7f534fea0861f33e1fad4238bc231b62b2f0c355690edef51068c1"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/data/raw/terrain/srtm_52_11.zip",
+      "relative_destination": "data/raw/terrain/srtm_52_11.zip",
+      "bytes": 5459464,
+      "source_sha256": "01f26871d1dfef392a022c35a33fd80317296d0b669db7baa62a9be3c029d721",
+      "copied_sha256": "01f26871d1dfef392a022c35a33fd80317296d0b669db7baa62a9be3c029d721",
+      "destination_sha256_after_portability_updates": "01f26871d1dfef392a022c35a33fd80317296d0b669db7baa62a9be3c029d721"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/data/raw/terrain/srtm_53_11.tif",
+      "relative_destination": "data/raw/terrain/srtm_53_11.tif",
+      "bytes": 72096675,
+      "source_sha256": "b14e158cff191b5f5712dc830df5e262cb4964fb9f5254ff170b1f390e12c0f3",
+      "copied_sha256": "b14e158cff191b5f5712dc830df5e262cb4964fb9f5254ff170b1f390e12c0f3",
+      "destination_sha256_after_portability_updates": "b14e158cff191b5f5712dc830df5e262cb4964fb9f5254ff170b1f390e12c0f3"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/data/raw/terrain/srtm_53_11.zip",
+      "relative_destination": "data/raw/terrain/srtm_53_11.zip",
+      "bytes": 7207142,
+      "source_sha256": "7c64ee94edb5ea43ecf1239e2a169733801935baf1b3a2a61a2e1af460d8462f",
+      "copied_sha256": "7c64ee94edb5ea43ecf1239e2a169733801935baf1b3a2a61a2e1af460d8462f",
+      "destination_sha256_after_portability_updates": "7c64ee94edb5ea43ecf1239e2a169733801935baf1b3a2a61a2e1af460d8462f"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/data/raw/weather/era5_land_monthly/era5_land_monthly_2010_2023.nc",
+      "relative_destination": "data/raw/weather/era5_land_monthly/era5_land_monthly_2010_2023.nc",
+      "bytes": 602208,
+      "source_sha256": "8b1b108d502a919fe1b8f6d52e294686dce1e560c4965ddd0a3122e64a773f71",
+      "copied_sha256": "8b1b108d502a919fe1b8f6d52e294686dce1e560c4965ddd0a3122e64a773f71",
+      "destination_sha256_after_portability_updates": "8b1b108d502a919fe1b8f6d52e294686dce1e560c4965ddd0a3122e64a773f71"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/docs/guides/weather_access_setup.md",
+      "relative_destination": "docs/guides/weather_access_setup.md",
+      "bytes": 1462,
+      "source_sha256": "997aa2846a7d6122d11ad6fd55d41f917f1187f7485f58985b8280b652daa8f3",
+      "copied_sha256": "997aa2846a7d6122d11ad6fd55d41f917f1187f7485f58985b8280b652daa8f3",
+      "destination_sha256_after_portability_updates": "997aa2846a7d6122d11ad6fd55d41f917f1187f7485f58985b8280b652daa8f3"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/docs/methodology/hri_workflow.md",
+      "relative_destination": "docs/methodology/hri_workflow.md",
+      "bytes": 6020,
+      "source_sha256": "1fd609afe204e3303bf1d90e295a48ef96173635116267a74b22ec0186b020c9",
+      "copied_sha256": "1fd609afe204e3303bf1d90e295a48ef96173635116267a74b22ec0186b020c9",
+      "destination_sha256_after_portability_updates": "1fd609afe204e3303bf1d90e295a48ef96173635116267a74b22ec0186b020c9"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/docs/proposal/Component_04_GPT_Training_Context.docx",
+      "relative_destination": "docs/proposal/Component_04_GPT_Training_Context.docx",
+      "bytes": 45242,
+      "source_sha256": "ec61125a3d1e01d786ad10bc531a185e373bdb0267b7b882617bd8801a4509c5",
+      "copied_sha256": "ec61125a3d1e01d786ad10bc531a185e373bdb0267b7b882617bd8801a4509c5",
+      "destination_sha256_after_portability_updates": "ec61125a3d1e01d786ad10bc531a185e373bdb0267b7b882617bd8801a4509c5"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/docs/proposal/keerthihan M proposal report_grp ID_J26-IT-359 IT23189812.pdf",
+      "relative_destination": "docs/proposal/keerthihan M proposal report_grp ID_J26-IT-359 IT23189812.pdf",
+      "bytes": 1149696,
+      "source_sha256": "d0ebd6ef66b7a6face54ec0ac8bba729867a1071fdf8a0a2a05f5d2da8a90638",
+      "copied_sha256": "d0ebd6ef66b7a6face54ec0ac8bba729867a1071fdf8a0a2a05f5d2da8a90638",
+      "destination_sha256_after_portability_updates": "d0ebd6ef66b7a6face54ec0ac8bba729867a1071fdf8a0a2a05f5d2da8a90638"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/notebooks/01_data_understanding.ipynb",
+      "relative_destination": "notebooks/01_data_understanding.ipynb",
+      "bytes": 407651,
+      "source_sha256": "f1baf7c5d248322524c6705f4f857bdc07bcb567a859856316f277803f4e4782",
+      "copied_sha256": "f1baf7c5d248322524c6705f4f857bdc07bcb567a859856316f277803f4e4782",
+      "destination_sha256_after_portability_updates": "f1baf7c5d248322524c6705f4f857bdc07bcb567a859856316f277803f4e4782"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/notebooks/02_data_cleaning.ipynb",
+      "relative_destination": "notebooks/02_data_cleaning.ipynb",
+      "bytes": 189970,
+      "source_sha256": "bbe875ab510aa3076e173e27861e75e7087297db94205d85bf97b09b32fa1259",
+      "copied_sha256": "bbe875ab510aa3076e173e27861e75e7087297db94205d85bf97b09b32fa1259",
+      "destination_sha256_after_portability_updates": "bbe875ab510aa3076e173e27861e75e7087297db94205d85bf97b09b32fa1259"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/notebooks/03_source_verification.ipynb",
+      "relative_destination": "notebooks/03_source_verification.ipynb",
+      "bytes": 47312,
+      "source_sha256": "69f52d8657d093dc410e7080615ca56baf32bd46768452329b78c5fa693ed395",
+      "copied_sha256": "69f52d8657d093dc410e7080615ca56baf32bd46768452329b78c5fa693ed395",
+      "destination_sha256_after_portability_updates": "69f52d8657d093dc410e7080615ca56baf32bd46768452329b78c5fa693ed395"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/notebooks/04_spatial_units_and_features.ipynb",
+      "relative_destination": "notebooks/04_spatial_units_and_features.ipynb",
+      "bytes": 191584,
+      "source_sha256": "521aabba5ca4a58b2f796b3838a94b667683f593a9b1fb08ed496d0f8ebe8003",
+      "copied_sha256": "521aabba5ca4a58b2f796b3838a94b667683f593a9b1fb08ed496d0f8ebe8003",
+      "destination_sha256_after_portability_updates": "521aabba5ca4a58b2f796b3838a94b667683f593a9b1fb08ed496d0f8ebe8003"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/notebooks/06_forest_grid_evidence.ipynb",
+      "relative_destination": "notebooks/06_forest_grid_evidence.ipynb",
+      "bytes": 10386,
+      "source_sha256": "ad3fd674650b58dfc1b321a93c592e08f256e43bfde773504874d914bda5b04b",
+      "copied_sha256": "ad3fd674650b58dfc1b321a93c592e08f256e43bfde773504874d914bda5b04b",
+      "destination_sha256_after_portability_updates": "ad3fd674650b58dfc1b321a93c592e08f256e43bfde773504874d914bda5b04b"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/notebooks/hri/01_bird_data_cleaning.ipynb",
+      "relative_destination": "notebooks/hri/01_bird_data_cleaning.ipynb",
+      "bytes": 58371,
+      "source_sha256": "7dd5f279879650e1c03c8159c6e18cfdae6005833bdbd0dc03345d2fcc168b35",
+      "copied_sha256": "7dd5f279879650e1c03c8159c6e18cfdae6005833bdbd0dc03345d2fcc168b35",
+      "destination_sha256_after_portability_updates": "7dd5f279879650e1c03c8159c6e18cfdae6005833bdbd0dc03345d2fcc168b35"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/notebooks/hri/02_endemic_species_verification.ipynb",
+      "relative_destination": "notebooks/hri/02_endemic_species_verification.ipynb",
+      "bytes": 10185,
+      "source_sha256": "6a49bc0bb8face6343c4bf9df22e80b36eea583fe13c0fd21c536b44f217a654",
+      "copied_sha256": "6a49bc0bb8face6343c4bf9df22e80b36eea583fe13c0fd21c536b44f217a654",
+      "destination_sha256_after_portability_updates": "6a49bc0bb8face6343c4bf9df22e80b36eea583fe13c0fd21c536b44f217a654"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/reports/audits/forest_grid_cells_for_review.csv",
+      "relative_destination": "reports/audits/forest_grid_cells_for_review.csv",
+      "bytes": 304,
+      "source_sha256": "7b5d69d3459f4ff5b0d8778798426d21c592569779b003a604fcfbcef8da4fc2",
+      "copied_sha256": "7b5d69d3459f4ff5b0d8778798426d21c592569779b003a604fcfbcef8da4fc2",
+      "destination_sha256_after_portability_updates": "7b5d69d3459f4ff5b0d8778798426d21c592569779b003a604fcfbcef8da4fc2"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/reports/audits/forest_grid_evidence.json",
+      "relative_destination": "reports/audits/forest_grid_evidence.json",
+      "bytes": 787,
+      "source_sha256": "f6b826ebea01ff564410c652996899113e0dab578e241266f5f40cd5e0e7a349",
+      "copied_sha256": "f6b826ebea01ff564410c652996899113e0dab578e241266f5f40cd5e0e7a349",
+      "destination_sha256_after_portability_updates": "f6b826ebea01ff564410c652996899113e0dab578e241266f5f40cd5e0e7a349"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/reports/audits/forest_grid_footprint_coverage.csv",
+      "relative_destination": "reports/audits/forest_grid_footprint_coverage.csv",
+      "bytes": 150473,
+      "source_sha256": "3c9016b82ed1aacd3370c4c9b2b411b59b87950e9393be69a90d5006d09ed15f",
+      "copied_sha256": "3c9016b82ed1aacd3370c4c9b2b411b59b87950e9393be69a90d5006d09ed15f",
+      "destination_sha256_after_portability_updates": "3c9016b82ed1aacd3370c4c9b2b411b59b87950e9393be69a90d5006d09ed15f"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/reports/audits/forest_input_audit.json",
+      "relative_destination": "reports/audits/forest_input_audit.json",
+      "bytes": 687,
+      "source_sha256": "73b2f7432f3a90eb78785ff1aeab5485a60cae47f33bd14dc61efe565297151b",
+      "copied_sha256": "73b2f7432f3a90eb78785ff1aeab5485a60cae47f33bd14dc61efe565297151b",
+      "destination_sha256_after_portability_updates": "73b2f7432f3a90eb78785ff1aeab5485a60cae47f33bd14dc61efe565297151b"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/reports/audits/forest_point_sample_check.csv",
+      "relative_destination": "reports/audits/forest_point_sample_check.csv",
+      "bytes": 98611,
+      "source_sha256": "4169e883d2089e9504dd43a013fd535ba4b7ffab23beff1a2a420ecdf8dacfed",
+      "copied_sha256": "4169e883d2089e9504dd43a013fd535ba4b7ffab23beff1a2a420ecdf8dacfed",
+      "destination_sha256_after_portability_updates": "4169e883d2089e9504dd43a013fd535ba4b7ffab23beff1a2a420ecdf8dacfed"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/reports/audits/forest_raster_metadata.json",
+      "relative_destination": "reports/audits/forest_raster_metadata.json",
+      "bytes": 3473,
+      "source_sha256": "d9ae0ccf227e99a38eb57f082008e2ac9dda89dc8e5b8a9c534a7eb423bbf3e9",
+      "copied_sha256": "d9ae0ccf227e99a38eb57f082008e2ac9dda89dc8e5b8a9c534a7eb423bbf3e9",
+      "destination_sha256_after_portability_updates": "d9ae0ccf227e99a38eb57f082008e2ac9dda89dc8e5b8a9c534a7eb423bbf3e9"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/reports/audits/locations_outside_forest_tiles.csv",
+      "relative_destination": "reports/audits/locations_outside_forest_tiles.csv",
+      "bytes": 31,
+      "source_sha256": "af72c6a98e63076cfc4f2e10216f63593852a97bfe11afad2c51a02cd8248887",
+      "copied_sha256": "af72c6a98e63076cfc4f2e10216f63593852a97bfe11afad2c51a02cd8248887",
+      "destination_sha256_after_portability_updates": "af72c6a98e63076cfc4f2e10216f63593852a97bfe11afad2c51a02cd8248887"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/reports/audits/recovered_source_findings.md",
+      "relative_destination": "reports/audits/recovered_source_findings.md",
+      "bytes": 5399,
+      "source_sha256": "65a8c622126e8498113df3d35376a65758166280bea8b5c8d4f3584c98cbf355",
+      "copied_sha256": "65a8c622126e8498113df3d35376a65758166280bea8b5c8d4f3584c98cbf355",
+      "destination_sha256_after_portability_updates": "65a8c622126e8498113df3d35376a65758166280bea8b5c8d4f3584c98cbf355"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/reports/audits/research_data_audit.json",
+      "relative_destination": "reports/audits/research_data_audit.json",
+      "bytes": 5048,
+      "source_sha256": "ad9ce142537f25b2566b78e5e13798b2858bb9a91acfa62cc1445dd77fc4b4ac",
+      "copied_sha256": "ad9ce142537f25b2566b78e5e13798b2858bb9a91acfa62cc1445dd77fc4b4ac",
+      "destination_sha256_after_portability_updates": "ad9ce142537f25b2566b78e5e13798b2858bb9a91acfa62cc1445dd77fc4b4ac"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/reports/audits/source_evidence_inventory.csv",
+      "relative_destination": "reports/audits/source_evidence_inventory.csv",
+      "bytes": 1367,
+      "source_sha256": "831c2336e1a3380d667ccb7b82d6b2cdbd933c4f55b814b978bf521c53867790",
+      "copied_sha256": "831c2336e1a3380d667ccb7b82d6b2cdbd933c4f55b814b978bf521c53867790",
+      "destination_sha256_after_portability_updates": "831c2336e1a3380d667ccb7b82d6b2cdbd933c4f55b814b978bf521c53867790"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/reports/audits/source_registry_completeness.csv",
+      "relative_destination": "reports/audits/source_registry_completeness.csv",
+      "bytes": 559,
+      "source_sha256": "45f8a99f084c077a3828cc7009c10d9425f007d1cd9e0cd1ff5eb8a52adbd58c",
+      "copied_sha256": "45f8a99f084c077a3828cc7009c10d9425f007d1cd9e0cd1ff5eb8a52adbd58c",
+      "destination_sha256_after_portability_updates": "45f8a99f084c077a3828cc7009c10d9425f007d1cd9e0cd1ff5eb8a52adbd58c"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/reports/audits/source_verification_checks.csv",
+      "relative_destination": "reports/audits/source_verification_checks.csv",
+      "bytes": 570,
+      "source_sha256": "e683b98bc4b5b7d70e682dbf4e50d84477ee1ae747f07b912c5f81c810d32045",
+      "copied_sha256": "e683b98bc4b5b7d70e682dbf4e50d84477ee1ae747f07b912c5f81c810d32045",
+      "destination_sha256_after_portability_updates": "e683b98bc4b5b7d70e682dbf4e50d84477ee1ae747f07b912c5f81c810d32045"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/reports/audits/source_verification_summary.md",
+      "relative_destination": "reports/audits/source_verification_summary.md",
+      "bytes": 1900,
+      "source_sha256": "c0706a066a6b27f42891af4a05562f10dbca09e3ff47bb122e47fe81676135a9",
+      "copied_sha256": "c0706a066a6b27f42891af4a05562f10dbca09e3ff47bb122e47fe81676135a9",
+      "destination_sha256_after_portability_updates": "c0706a066a6b27f42891af4a05562f10dbca09e3ff47bb122e47fe81676135a9"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/reports/audits/spatial_grid_summary.json",
+      "relative_destination": "reports/audits/spatial_grid_summary.json",
+      "bytes": 1118,
+      "source_sha256": "2ecb7b4b9fcaf641c48bba8a41318bc8da589d58dd18639480cad21c2583f2d3",
+      "copied_sha256": "2ecb7b4b9fcaf641c48bba8a41318bc8da589d58dd18639480cad21c2583f2d3",
+      "destination_sha256_after_portability_updates": "2ecb7b4b9fcaf641c48bba8a41318bc8da589d58dd18639480cad21c2583f2d3"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/reports/audits/species_checklist_matches.csv",
+      "relative_destination": "reports/audits/species_checklist_matches.csv",
+      "bytes": 1534,
+      "source_sha256": "a540cfc8435ab520133cea8d6b01a66e2e06fb9611ddd0cfcea4c0c207dea601",
+      "copied_sha256": "a540cfc8435ab520133cea8d6b01a66e2e06fb9611ddd0cfcea4c0c207dea601",
+      "destination_sha256_after_portability_updates": "a540cfc8435ab520133cea8d6b01a66e2e06fb9611ddd0cfcea4c0c207dea601"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/reports/audits/species_traits_before_verification.csv",
+      "relative_destination": "reports/audits/species_traits_before_verification.csv",
+      "bytes": 2104,
+      "source_sha256": "3807a578e2421f8205cc3fe6d6c9f7e1dd08ebaac82bb85a563175655eac38af",
+      "copied_sha256": "3807a578e2421f8205cc3fe6d6c9f7e1dd08ebaac82bb85a563175655eac38af",
+      "destination_sha256_after_portability_updates": "3807a578e2421f8205cc3fe6d6c9f7e1dd08ebaac82bb85a563175655eac38af"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/reports/audits/terrain_features.json",
+      "relative_destination": "reports/audits/terrain_features.json",
+      "bytes": 892,
+      "source_sha256": "e461528666fc7b42c115f78afdbc294d401d4967cd7f73dcef4c80b2f2660261",
+      "copied_sha256": "e461528666fc7b42c115f78afdbc294d401d4967cd7f73dcef4c80b2f2660261",
+      "destination_sha256_after_portability_updates": "e461528666fc7b42c115f78afdbc294d401d4967cd7f73dcef4c80b2f2660261"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/reports/audits/weather_features.json",
+      "relative_destination": "reports/audits/weather_features.json",
+      "bytes": 632,
+      "source_sha256": "d435b44a6810089705cdabeedcfcbf493eb66c030b34f7a4c118e521128ca979",
+      "copied_sha256": "d435b44a6810089705cdabeedcfcbf493eb66c030b34f7a4c118e521128ca979",
+      "destination_sha256_after_portability_updates": "d435b44a6810089705cdabeedcfcbf493eb66c030b34f7a4c118e521128ca979"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/reports/audits/weather_source_coverage.json",
+      "relative_destination": "reports/audits/weather_source_coverage.json",
+      "bytes": 722,
+      "source_sha256": "dbec632b8196477841ff539cd4628f1e5e837a59a43502d6a3d0764985c006d9",
+      "copied_sha256": "dbec632b8196477841ff539cd4628f1e5e837a59a43502d6a3d0764985c006d9",
+      "destination_sha256_after_portability_updates": "dbec632b8196477841ff539cd4628f1e5e837a59a43502d6a3d0764985c006d9"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/reports/audits/weather_source_validation.json",
+      "relative_destination": "reports/audits/weather_source_validation.json",
+      "bytes": 199,
+      "source_sha256": "62a2d5fc24a4f7a0cb3004054d7e0c7d3aca3faa686453323c463e235658cc91",
+      "copied_sha256": "62a2d5fc24a4f7a0cb3004054d7e0c7d3aca3faa686453323c463e235658cc91",
+      "destination_sha256_after_portability_updates": "62a2d5fc24a4f7a0cb3004054d7e0c7d3aca3faa686453323c463e235658cc91"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/reports/figures/lka_laea_5000m_species_coverage.png",
+      "relative_destination": "reports/figures/lka_laea_5000m_species_coverage.png",
+      "bytes": 174249,
+      "source_sha256": "5cf2e618a8b37f90759d90631b3c8777097390e0bba6adf887db4b0e497024ac",
+      "copied_sha256": "5cf2e618a8b37f90759d90631b3c8777097390e0bba6adf887db4b0e497024ac",
+      "destination_sha256_after_portability_updates": "5cf2e618a8b37f90759d90631b3c8777097390e0bba6adf887db4b0e497024ac"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/reports/tables/weather_source_year_coverage.csv",
+      "relative_destination": "reports/tables/weather_source_year_coverage.csv",
+      "bytes": 19281,
+      "source_sha256": "685ca3b9d6304e31ea8cf8289de406f9b95a166c7f22d536dcf2d649347bf665",
+      "copied_sha256": "685ca3b9d6304e31ea8cf8289de406f9b95a166c7f22d536dcf2d649347bf665",
+      "destination_sha256_after_portability_updates": "685ca3b9d6304e31ea8cf8289de406f9b95a166c7f22d536dcf2d649347bf665"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/requirements-research-lock.txt",
+      "relative_destination": "requirements-research-lock.txt",
+      "bytes": 2175,
+      "source_sha256": "05c45677d3855311b8d5f5a66364bf977ca19e6f8e89a85658612ba0b9087973",
+      "copied_sha256": "05c45677d3855311b8d5f5a66364bf977ca19e6f8e89a85658612ba0b9087973",
+      "destination_sha256_after_portability_updates": "05c45677d3855311b8d5f5a66364bf977ca19e6f8e89a85658612ba0b9087973"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/requirements-spatial.txt",
+      "relative_destination": "requirements-spatial.txt",
+      "bytes": 115,
+      "source_sha256": "43e39941f7858776e537b98e8aebadd9fd7702deb8dfac7ae7e731e93a41b601",
+      "copied_sha256": "43e39941f7858776e537b98e8aebadd9fd7702deb8dfac7ae7e731e93a41b601",
+      "destination_sha256_after_portability_updates": "43e39941f7858776e537b98e8aebadd9fd7702deb8dfac7ae7e731e93a41b601"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/requirements-weather.txt",
+      "relative_destination": "requirements-weather.txt",
+      "bytes": 120,
+      "source_sha256": "7850cf9b153f3d109a40cd56e1508626bd010ff997d41a52c86557d52202b375",
+      "copied_sha256": "7850cf9b153f3d109a40cd56e1508626bd010ff997d41a52c86557d52202b375",
+      "destination_sha256_after_portability_updates": "7850cf9b153f3d109a40cd56e1508626bd010ff997d41a52c86557d52202b375"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/scripts/audit_forest_inputs.py",
+      "relative_destination": "scripts/audit_forest_inputs.py",
+      "bytes": 6353,
+      "source_sha256": "07b01258797b60f57f2d204d4a779039694627cf74cfe9ea91d75b851cd32ce3",
+      "copied_sha256": "07b01258797b60f57f2d204d4a779039694627cf74cfe9ea91d75b851cd32ce3",
+      "destination_sha256_after_portability_updates": "07b01258797b60f57f2d204d4a779039694627cf74cfe9ea91d75b851cd32ce3"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/scripts/audit_weather_coverage.py",
+      "relative_destination": "scripts/audit_weather_coverage.py",
+      "bytes": 2118,
+      "source_sha256": "391892cecc94a28c300b858d3883b3a0ac28a8972306b2e20f992f059238af67",
+      "copied_sha256": "391892cecc94a28c300b858d3883b3a0ac28a8972306b2e20f992f059238af67",
+      "destination_sha256_after_portability_updates": "aae5f123e4ea7abf0a6ae7526c99ff11913748b21ef7e6dc6d762a6a79c5d32d"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/scripts/build_terrain_features.py",
+      "relative_destination": "scripts/build_terrain_features.py",
+      "bytes": 5016,
+      "source_sha256": "38bb36f0b7a3bb7e7182bb07ed3d33045e58be24675d49b4dac1204e44f92b31",
+      "copied_sha256": "38bb36f0b7a3bb7e7182bb07ed3d33045e58be24675d49b4dac1204e44f92b31",
+      "destination_sha256_after_portability_updates": "38bb36f0b7a3bb7e7182bb07ed3d33045e58be24675d49b4dac1204e44f92b31"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/scripts/build_weather_features.py",
+      "relative_destination": "scripts/build_weather_features.py",
+      "bytes": 5511,
+      "source_sha256": "b93fb38f08fe5577e1fabc1e7b366fb4157b8f8137259d8af24f2ebfb8f72a9d",
+      "copied_sha256": "b93fb38f08fe5577e1fabc1e7b366fb4157b8f8137259d8af24f2ebfb8f72a9d",
+      "destination_sha256_after_portability_updates": "b93fb38f08fe5577e1fabc1e7b366fb4157b8f8137259d8af24f2ebfb8f72a9d"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/scripts/download_era5_weather.py",
+      "relative_destination": "scripts/download_era5_weather.py",
+      "bytes": 2016,
+      "source_sha256": "bd8df5cc568342f1b15914f1c80a89a3e0da4a2eac4dd076159bdb2f399f444c",
+      "copied_sha256": "bd8df5cc568342f1b15914f1c80a89a3e0da4a2eac4dd076159bdb2f399f444c",
+      "destination_sha256_after_portability_updates": "bd8df5cc568342f1b15914f1c80a89a3e0da4a2eac4dd076159bdb2f399f444c"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/scripts/download_forest_inputs.py",
+      "relative_destination": "scripts/download_forest_inputs.py",
+      "bytes": 2586,
+      "source_sha256": "a443854abe384bb908501904c1420a5989f59bedb0a467246ec98d6afeb0a402",
+      "copied_sha256": "a443854abe384bb908501904c1420a5989f59bedb0a467246ec98d6afeb0a402",
+      "destination_sha256_after_portability_updates": "a443854abe384bb908501904c1420a5989f59bedb0a467246ec98d6afeb0a402"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/scripts/download_terrain.py",
+      "relative_destination": "scripts/download_terrain.py",
+      "bytes": 1577,
+      "source_sha256": "4062064084a56a37c994d991d285ca15b2f2882a4dc16164b20a1649cddb6172",
+      "copied_sha256": "4062064084a56a37c994d991d285ca15b2f2882a4dc16164b20a1649cddb6172",
+      "destination_sha256_after_portability_updates": "4062064084a56a37c994d991d285ca15b2f2882a4dc16164b20a1649cddb6172"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/component4/scripts/summarize_forest_grid.py",
+      "relative_destination": "scripts/summarize_forest_grid.py",
+      "bytes": 5601,
+      "source_sha256": "ec1a7b67502600410717dc8bfbeb579137ba7c0315e5654a7e1c12e66c87e673",
+      "copied_sha256": "ec1a7b67502600410717dc8bfbeb579137ba7c0315e5654a7e1c12e66c87e673",
+      "destination_sha256_after_portability_updates": "ec1a7b67502600410717dc8bfbeb579137ba7c0315e5654a7e1c12e66c87e673"
+    },
+    {
+      "source": "/Users/keerthikeerthi/Desktop/Final dataset for RP/SriLanka_Weather_Dataset.csv",
+      "relative_destination": "data/raw/weather/legacy/SriLanka_Weather_Dataset.csv",
+      "bytes": 23788545,
+      "source_sha256": "16ff1a4814fc4b487ebeb98cc1a486f209ac7fb8666672b4a82ead3c7cd25828",
+      "copied_sha256": "16ff1a4814fc4b487ebeb98cc1a486f209ac7fb8666672b4a82ead3c7cd25828",
+      "destination_sha256_after_portability_updates": "16ff1a4814fc4b487ebeb98cc1a486f209ac7fb8666672b4a82ead3c7cd25828"
+    }
+  ]
+}

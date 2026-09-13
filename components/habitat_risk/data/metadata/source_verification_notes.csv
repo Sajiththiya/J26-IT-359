@@ -1,0 +1,5 @@
+data_group,reported_source,pending_verification
+Bird observations,eBird,Original export details and checklist IDs
+Forest,Hansen GFC 2024 v1.12,"QGIS extraction method, masking and loss-year conversion"
+Weather,Kaggle; exact dataset unknown,"Dataset link, original provider, units, time interval and spatial matching"
+Elevation,Kaggle; exact dataset unknown,"Dataset link, units, resolution and extraction method"
