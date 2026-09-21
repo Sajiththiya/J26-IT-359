@@ -1,0 +1,946 @@
+possible_group_id,file_path,species,original_recording_id,group_size,group_status,exact_edges,probable_edges,uncertain_edges,independent_recording_verified
+possible_180c46cc17979be8,birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet.wav,Chestnut-backed_Owlet,535351,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_a75b5f5c5d3317b3,birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_2.wav,Chestnut-backed_Owlet,534574,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_650e0510c87b4daf,birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_3.wav,Chestnut-backed_Owlet,756579,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_1033e8fbd211ac24,birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_4.wav,Chestnut-backed_Owlet,619051,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_9b3e448e0072c70b,birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_5.wav,Chestnut-backed_Owlet,534446,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_955f1662cc8b96d5,birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_6.wav,Chestnut-backed_Owlet,534443,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_71264b3924b1008e,birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_7.wav,Chestnut-backed_Owlet,346212,2,review linked component,1,0,0,False
+possible_71264b3924b1008e,birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_53.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 23,2,review linked component,1,0,0,False
+possible_0a06a151a8390984,birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_8.wav,Chestnut-backed_Owlet,346134,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_308a3cea73ad38e4,birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_9.wav,Chestnut-backed_Owlet,311297,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_088bb12552d77711,birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_10.wav,Chestnut-backed_Owlet,237194,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_ae516312fc84662d,birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_11.wav,Chestnut-backed_Owlet,224191,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_30e5c45531316b54,birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_12.wav,Chestnut-backed_Owlet,43648,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_ead4e098b1a0c8fc,birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_13.wav,Chestnut-backed_Owlet,1097212,2,review linked component,0,1,0,False
+possible_ead4e098b1a0c8fc,birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_47.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 17,2,review linked component,0,1,0,False
+possible_2424ba18e19937af,birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_14.wav,Chestnut-backed_Owlet,1097210,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_c5a5b9d6df73fff2,birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_15.wav,Chestnut-backed_Owlet,618869,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_132ac2ff957767aa,birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_16.wav,Chestnut-backed_Owlet,536447,2,review linked component,0,1,0,False
+possible_132ac2ff957767aa,birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_52.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 22,2,review linked component,0,1,0,False
+possible_1e6265aeaf1ec8f0,birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_17.wav,Chestnut-backed_Owlet,366991,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_db2ffac6f4193b62,birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_18.wav,Chestnut-backed_Owlet,312517,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_5bfc249d56d6e906,birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_19.wav,Chestnut-backed_Owlet,312514,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_66c84eea32a6463a,birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_20.wav,Chestnut-backed_Owlet,311296,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_f8bbdae524198296,birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_21.wav,Chestnut-backed_Owlet,311294,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_7ec57cfe729619e1,birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_22.wav,Chestnut-backed_Owlet,311292,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_4b42dacb0248c238,birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_23.wav,Chestnut-backed_Owlet,211550,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_19aef2f877dea1aa,birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_24.wav,Chestnut-backed_Owlet,211548,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_88d2a391b3e2d4d4,birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_25.wav,Chestnut-backed_Owlet,207877,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_bdd85096b727ad95,birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_26.wav,Chestnut-backed_Owlet,37440,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_05632cc50fc8fe3e,birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_27.wav,Chestnut-backed_Owlet,682308,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_eee7fcdce6d3955c,birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_28.wav,Chestnut-backed_Owlet,380480,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_1b50f143075b7915,birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_29.wav,Chestnut-backed_Owlet,311295,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_0c0cee7cffc6c347,birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_30.wav,Chestnut-backed_Owlet,311293,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_7746c94ab8a6e2ce,birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_31.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 1,1,no accepted acoustic link; independence unknown,0,0,6,False
+possible_fd3d3471980c3305,birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_32.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 2,1,no accepted acoustic link; independence unknown,0,0,6,False
+possible_f1d88b38b90e93e8,birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_33.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 3,1,no accepted acoustic link; independence unknown,0,0,6,False
+possible_5e89d38f94766176,birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_34.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 4,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_6b2c6521bd782fd3,birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_35.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 5,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_4773347e81bee4cb,birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_36.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 6,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_28bb708f2af99ed2,birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_37.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 7,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_abd8b6f4d3730af2,birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_38.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 8,2,review linked component,0,1,0,False
+possible_abd8b6f4d3730af2,birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_40.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 10,2,review linked component,0,1,0,False
+possible_e72a0f9c8475e308,birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_39.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 9,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_eb876233920a4aee,birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_41.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 11,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_9723d658b04ba060,birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_42.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 12,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_05883ec4035b4129,birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_43.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 13,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_088c9d44b7d1cc18,birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_44.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 14,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_88d1b5cf07e03d26,birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_45.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 15,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_c0d5883775530d50,birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_46.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 16,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_80d0596793ef93b6,birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_48.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 18,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_649bd3a7cac06487,birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_49.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 19,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_51984d0b7b303323,birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_50.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 20,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_7cd92c383b6189dd,birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_51.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 21,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_d6a5de758d005498,birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_54.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 24,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_f3aba837c78482db,birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_55.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 25,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_4340f4b792f245a8,birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_56.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 26,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_ef842e285a554628,birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_57.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 27,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_7b45d412dda6ff27,birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_58.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 28,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_d136df11a80f6b38,birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_59.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 29,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_0619b49bb12264a6,birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_60.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 30,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_7acc48ee26a2b095,birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_61.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 31,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_b329b76dbb4fb04b,birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_62.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 32,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_7893e6b2ee8a0d57,birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_63.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 33,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_f7d1141e4bf4c633,birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_64.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 34,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_55bb390194f338dc,birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_65.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 35,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_8a716abf6edecbb8,birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_66.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 36,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_00218da5767a4412,birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_67.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 37,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_fe24e179f164fd6b,birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_68.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 38,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_4ef00e9be8f1d5fe,birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_69.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 39,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_a01bd25b30d16ca6,birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_70.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 40,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_3e40b40204828da7,birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_71.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 41,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_5490498bc4db055f,birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_72.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 42,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_c123dd2b0162c6cd,birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_73.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 43,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_4f2911d783ce619f,birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_74.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 44,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_ee8a3ead7b2b5222,birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_75.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 45,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_75e3cfbb04b5a17a,birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_76.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 46,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_0c22c3a9d9b6d691,birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_77.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 47,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_90bead710125ef04,birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_78.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 48,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_f856af19e70b5145,birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet.wav,Crimson-fronted_Barbet,543391,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_f6cd092beda099d2,birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_2.wav,Crimson-fronted_Barbet,756597,2,review linked component,0,1,0,False
+possible_f6cd092beda099d2,birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_26.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 13,2,review linked component,0,1,0,False
+possible_1e8cae2b602feca0,birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_3.wav,Crimson-fronted_Barbet,19626,2,review linked component,0,1,0,False
+possible_1e8cae2b602feca0,birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_27.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 14,2,review linked component,0,1,0,False
+possible_65d3d9d082e9d954,birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_4.wav,Crimson-fronted_Barbet,777853,2,review linked component,0,1,0,False
+possible_65d3d9d082e9d954,birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_28.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 15,2,review linked component,0,1,0,False
+possible_8a600dfb85b739a2,birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_5.wav,Crimson-fronted_Barbet,648750,2,review linked component,0,1,0,False
+possible_8a600dfb85b739a2,birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_29.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 16,2,review linked component,0,1,0,False
+possible_6044f1a544679944,birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_6.wav,Crimson-fronted_Barbet,619937,2,review linked component,0,1,0,False
+possible_6044f1a544679944,birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_30.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 17,2,review linked component,0,1,0,False
+possible_e4b3edc12d769bbc,birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_7.wav,Crimson-fronted_Barbet,311364,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_8681a314dd184bd9,birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_8.wav,Crimson-fronted_Barbet,311363,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_bf7aaa40821c91eb,birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_9.wav,Crimson-fronted_Barbet,311362,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_514dc6ea28a45e22,birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_10.wav,Crimson-fronted_Barbet,311361,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_ad58d78f4e23b6ad,birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_11.wav,Crimson-fronted_Barbet,207727,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_748a27ac49efcd2c,birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_12.wav,Crimson-fronted_Barbet,619935,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_1df3bac0957b78b7,birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_13.wav,Crimson-fronted_Barbet,518766,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_cecffb998c43b6cb,birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_14.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 1,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_484f9e536940aa0d,birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_15.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 2,1,no accepted acoustic link; independence unknown,0,0,1,False
+possible_a78b520cf8c4b051,birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_16.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 3,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_914fc5e287cc00b7,birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_17.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 4,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_4bd909fef9ac2b97,birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_18.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 5,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_89aad7f093f4d913,birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_19.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 6,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_07382af6a0cc8931,birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_20.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 7,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_4eb222e95b1b2a7e,birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_21.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 8,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_66f56532c70ba80f,birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_22.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 9,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_8d99deaf030ac24a,birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_23.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 10,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_7d2bd1d358ed3d21,birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_24.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 11,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_f57e2504258386df,birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_25.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 12,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_1b7c1b71344bcf52,birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_31.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 18,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_4dec77b8e06d13d9,birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_32.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 19,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_a405826ecb0da02f,birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_33.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 20,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_45d8a0a1e7150a8a,birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_34.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 21,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_57fa698ed1057458,birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_35.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 22,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_d0bcf990d7dea6ec,birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_36.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 23,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_09cd89c63532f80e,birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_37.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 24,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_96dc2e1bda6b5a71,birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_38.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 25,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_cf803de0051fc2e0,birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_39.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 26,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_59c945273223ef8a,birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_40.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 27,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_a7bd7762bc0d0653,birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_41.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 28,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_fe14d3b89bf305a1,birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_42.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 29,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_2cb381ddfed8dafe,birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_43.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 30,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_dd5ad2cb84dd6db9,birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_44.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 31,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_894b760b7a2f0360,birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_45.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 32,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_0897b993f67aab28,birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_46.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 33,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_b78efcd445d2f461,birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_47.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 34,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_1c3df8c463bf1010,birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_48.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 35,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_256a707941b16537,birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_49.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 36,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_612af05c6462104d,birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_50.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 37,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_9b95c779f169a6b0,birds_audio/Green-billed_Coucal/Green-billed_Coucal.wav,Green-billed_Coucal,1097217,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_0fe902e9d345a340,birds_audio/Green-billed_Coucal/Green-billed_Coucal_2.wav,Green-billed_Coucal,605498,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_9d75c822ed5385d4,birds_audio/Green-billed_Coucal/Green-billed_Coucal_3.wav,Green-billed_Coucal,311173,3,review linked component,0,1,0,False
+possible_9d75c822ed5385d4,birds_audio/Green-billed_Coucal/Green-billed_Coucal_4.wav,Green-billed_Coucal,311172,3,review linked component,0,1,0,False
+possible_9d75c822ed5385d4,birds_audio/Green-billed_Coucal/Green-billed_Coucal_32.wav,Green-billed_Coucal,Green-billed Coucal 8,3,review linked component,0,2,0,False
+possible_70ccca3487b17f05,birds_audio/Green-billed_Coucal/Green-billed_Coucal_5.wav,Green-billed_Coucal,211559,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_750f364bab60e4ad,birds_audio/Green-billed_Coucal/Green-billed_Coucal_6.wav,Green-billed_Coucal,190811,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_11db971140b40048,birds_audio/Green-billed_Coucal/Green-billed_Coucal_7.wav,Green-billed_Coucal,190810,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_23784721b0427985,birds_audio/Green-billed_Coucal/Green-billed_Coucal_8.wav,Green-billed_Coucal,19694,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_185a0620ee5d8b82,birds_audio/Green-billed_Coucal/Green-billed_Coucal_9.wav,Green-billed_Coucal,19267,2,review linked component,0,1,2,False
+possible_185a0620ee5d8b82,birds_audio/Green-billed_Coucal/Green-billed_Coucal_34.wav,Green-billed_Coucal,Green-billed Coucal 10,2,review linked component,0,1,5,False
+possible_a4736b75118e6fa6,birds_audio/Green-billed_Coucal/Green-billed_Coucal_10.wav,Green-billed_Coucal,1097216,2,review linked component,0,1,0,False
+possible_a4736b75118e6fa6,birds_audio/Green-billed_Coucal/Green-billed_Coucal_35.wav,Green-billed_Coucal,Green-billed Coucal 11,2,review linked component,0,1,0,False
+possible_f86c1ee79018ece8,birds_audio/Green-billed_Coucal/Green-billed_Coucal_11.wav,Green-billed_Coucal,605499,2,review linked component,0,1,1,False
+possible_f86c1ee79018ece8,birds_audio/Green-billed_Coucal/Green-billed_Coucal_36.wav,Green-billed_Coucal,Green-billed Coucal 12,2,review linked component,0,1,2,False
+possible_d0448b20f61a9ab3,birds_audio/Green-billed_Coucal/Green-billed_Coucal_12.wav,Green-billed_Coucal,605497,2,review linked component,0,1,0,False
+possible_d0448b20f61a9ab3,birds_audio/Green-billed_Coucal/Green-billed_Coucal_37.wav,Green-billed_Coucal,Green-billed Coucal 13,2,review linked component,0,1,0,False
+possible_578238d8b320ae9c,birds_audio/Green-billed_Coucal/Green-billed_Coucal_13.wav,Green-billed_Coucal,605496,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_20fd5b6437c39928,birds_audio/Green-billed_Coucal/Green-billed_Coucal_14.wav,Green-billed_Coucal,343015,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_fbcbd4db951cecfc,birds_audio/Green-billed_Coucal/Green-billed_Coucal_15.wav,Green-billed_Coucal,311175,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_29398d894235ecab,birds_audio/Green-billed_Coucal/Green-billed_Coucal_16.wav,Green-billed_Coucal,311174,2,review linked component,1,0,0,False
+possible_29398d894235ecab,birds_audio/Green-billed_Coucal/Green-billed_Coucal_42.wav,Green-billed_Coucal,Green-billed Coucal 18,2,review linked component,1,0,0,False
+possible_0979bcc6f5a081bd,birds_audio/Green-billed_Coucal/Green-billed_Coucal_17.wav,Green-billed_Coucal,311171,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_7b6e20c9d4ddd1dd,birds_audio/Green-billed_Coucal/Green-billed_Coucal_18.wav,Green-billed_Coucal,311170,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_bd373f757dc23e40,birds_audio/Green-billed_Coucal/Green-billed_Coucal_19.wav,Green-billed_Coucal,207878,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_9e12ae0dc3d3633b,birds_audio/Green-billed_Coucal/Green-billed_Coucal_20.wav,Green-billed_Coucal,67884,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_6e7afe1655548710,birds_audio/Green-billed_Coucal/Green-billed_Coucal_21.wav,Green-billed_Coucal,67883,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_e0c3ed4a07db662f,birds_audio/Green-billed_Coucal/Green-billed_Coucal_22.wav,Green-billed_Coucal,756566,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_4d5b94ecf778794c,birds_audio/Green-billed_Coucal/Green-billed_Coucal_23.wav,Green-billed_Coucal,756565,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_4d7fff1f67ab7a95,birds_audio/Green-billed_Coucal/Green-billed_Coucal_24.wav,Green-billed_Coucal,342683,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_f9ec5ac918c255d7,birds_audio/Green-billed_Coucal/Green-billed_Coucal_25.wav,Green-billed_Coucal,Green-billed Coucal 1,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_e340187819f0a73e,birds_audio/Green-billed_Coucal/Green-billed_Coucal_26.wav,Green-billed_Coucal,Green-billed Coucal 2,1,no accepted acoustic link; independence unknown,0,0,6,False
+possible_8bbd1d479cb91244,birds_audio/Green-billed_Coucal/Green-billed_Coucal_27.wav,Green-billed_Coucal,Green-billed Coucal 3,1,no accepted acoustic link; independence unknown,0,0,6,False
+possible_7403e1593c07c453,birds_audio/Green-billed_Coucal/Green-billed_Coucal_28.wav,Green-billed_Coucal,Green-billed Coucal 4,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_c43350fc98f10c05,birds_audio/Green-billed_Coucal/Green-billed_Coucal_29.wav,Green-billed_Coucal,Green-billed Coucal 5,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_fc8fe7fcd9fb80a6,birds_audio/Green-billed_Coucal/Green-billed_Coucal_30.wav,Green-billed_Coucal,Green-billed Coucal 6,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_85d3b9ef0c61cd70,birds_audio/Green-billed_Coucal/Green-billed_Coucal_31.wav,Green-billed_Coucal,Green-billed Coucal 7,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_c981ab93ef4cb09d,birds_audio/Green-billed_Coucal/Green-billed_Coucal_33.wav,Green-billed_Coucal,Green-billed Coucal 9,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_dc0d190ec4cca1a4,birds_audio/Green-billed_Coucal/Green-billed_Coucal_38.wav,Green-billed_Coucal,Green-billed Coucal 14,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_bb9908a29f75d739,birds_audio/Green-billed_Coucal/Green-billed_Coucal_39.wav,Green-billed_Coucal,Green-billed Coucal 15,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_4d911521fd1ac563,birds_audio/Green-billed_Coucal/Green-billed_Coucal_40.wav,Green-billed_Coucal,Green-billed Coucal 16,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_eb18bb2aef272b7b,birds_audio/Green-billed_Coucal/Green-billed_Coucal_41.wav,Green-billed_Coucal,Green-billed Coucal 17,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_8985be5412d6137a,birds_audio/Green-billed_Coucal/Green-billed_Coucal_43.wav,Green-billed_Coucal,Green-billed Coucal 19,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_2abcd53bbd2cfc75,birds_audio/Green-billed_Coucal/Green-billed_Coucal_44.wav,Green-billed_Coucal,Green-billed Coucal 20,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_482f91e1d63ae4af,birds_audio/Green-billed_Coucal/Green-billed_Coucal_45.wav,Green-billed_Coucal,Green-billed Coucal 21,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_824210bdbaf8e945,birds_audio/Green-billed_Coucal/Green-billed_Coucal_46.wav,Green-billed_Coucal,Green-billed Coucal 22,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_6f7b21e8b561b081,birds_audio/Green-billed_Coucal/Green-billed_Coucal_47.wav,Green-billed_Coucal,Green-billed Coucal 23,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_3b7f5e3c7146669c,birds_audio/Green-billed_Coucal/Green-billed_Coucal_48.wav,Green-billed_Coucal,Green-billed Coucal 24,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_dbc4ebd135b9e4bd,birds_audio/Green-billed_Coucal/Green-billed_Coucal_49.wav,Green-billed_Coucal,Green-billed Coucal 25,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_e4f0a81af7684e63,birds_audio/Green-billed_Coucal/Green-billed_Coucal_50.wav,Green-billed_Coucal,Green-billed Coucal 26,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_23fe795eac738faf,birds_audio/Green-billed_Coucal/Green-billed_Coucal_51.wav,Green-billed_Coucal,Green-billed Coucal 27,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_e28523498c091935,birds_audio/Green-billed_Coucal/Green-billed_Coucal_52.wav,Green-billed_Coucal,Green-billed Coucal 28,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_1e3e15d81a68c87b,birds_audio/Green-billed_Coucal/Green-billed_Coucal_53.wav,Green-billed_Coucal,Green-billed Coucal 29,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_4b5fd3d6ad8f237c,birds_audio/Green-billed_Coucal/Green-billed_Coucal_54.wav,Green-billed_Coucal,Green-billed Coucal 30,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_3cb91d0f19e85a6f,birds_audio/Green-billed_Coucal/Green-billed_Coucal_55.wav,Green-billed_Coucal,Green-billed Coucal 31,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_19b7f070bd2294ab,birds_audio/Green-billed_Coucal/Green-billed_Coucal_56.wav,Green-billed_Coucal,Green-billed Coucal 32,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_976044eccc4ec69a,birds_audio/Green-billed_Coucal/Green-billed_Coucal_57.wav,Green-billed_Coucal,Green-billed Coucal 33,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_e35d4b95c8e7aa31,birds_audio/Green-billed_Coucal/Green-billed_Coucal_58.wav,Green-billed_Coucal,Green-billed Coucal 34,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_158786dc29c593dc,birds_audio/Green-billed_Coucal/Green-billed_Coucal_59.wav,Green-billed_Coucal,Green-billed Coucal 35,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_708e88426c93c70b,birds_audio/Green-billed_Coucal/Green-billed_Coucal_60.wav,Green-billed_Coucal,Green-billed Coucal 36,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_c30d81ddb43f2c38,birds_audio/Green-billed_Coucal/Green-billed_Coucal_61.wav,Green-billed_Coucal,Green-billed Coucal 37,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_b281cfb8a547b381,birds_audio/Green-billed_Coucal/Green-billed_Coucal_62.wav,Green-billed_Coucal,Green-billed Coucal 38,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_1c3ee4b3192cb48f,birds_audio/Green-billed_Coucal/Green-billed_Coucal_63.wav,Green-billed_Coucal,Green-billed Coucal 39,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_98a4baae864123b4,birds_audio/Green-billed_Coucal/Green-billed_Coucal_64.wav,Green-billed_Coucal,Green-billed Coucal 40,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_35a8151f40390dc8,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush.wav,Spot-winged_Thrush,756592,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_6b1b015db045b73e,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_2.wav,Spot-winged_Thrush,756591,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_4279c6e48e579636,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_3.wav,Spot-winged_Thrush,756590,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_6bba17b5cf87a5b7,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_4.wav,Spot-winged_Thrush,648205,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_41decc18b212a846,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_5.wav,Spot-winged_Thrush,648204,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_50a0d03ad1734069,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_6.wav,Spot-winged_Thrush,536455,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_eac95bea9cbf8be0,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_7.wav,Spot-winged_Thrush,346140,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_780ef0a440513666,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_8.wav,Spot-winged_Thrush,345001,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_e22a48d10cfbaf90,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_9.wav,Spot-winged_Thrush,342682,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_aca4bc8cee0744b7,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_10.wav,Spot-winged_Thrush,311291,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_d7736e047d9b3b47,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_11.wav,Spot-winged_Thrush,311290,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_849bdaa3e671cd1d,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_12.wav,Spot-winged_Thrush,237195,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_89d6efd3e7be37b8,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_13.wav,Spot-winged_Thrush,211580,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_6a7aba1e46230ce3,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_14.wav,Spot-winged_Thrush,211579,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_b2bade033408d744,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_15.wav,Spot-winged_Thrush,190808,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_a18fa47d06ebdeac,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_16.wav,Spot-winged_Thrush,190807,2,review linked component,1,0,0,False
+possible_a18fa47d06ebdeac,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_64.wav,Spot-winged_Thrush,Spot-winged Thrush 18,2,review linked component,1,0,0,False
+possible_9acd569968b2db57,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_17.wav,Spot-winged_Thrush,181984,1,no accepted acoustic link; independence unknown,0,0,1,False
+possible_0a764c10a26a3a2d,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_18.wav,Spot-winged_Thrush,69757,2,review linked component,0,1,0,False
+possible_0a764c10a26a3a2d,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_56.wav,Spot-winged_Thrush,Spot-winged Thrush 10,2,review linked component,0,1,0,False
+possible_92b7d65951f3993e,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_19.wav,Spot-winged_Thrush,42794,2,review linked component,0,1,0,False
+possible_92b7d65951f3993e,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_57.wav,Spot-winged_Thrush,Spot-winged Thrush 11,2,review linked component,0,1,0,False
+possible_3744774e51448328,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_20.wav,Spot-winged_Thrush,1096446,2,review linked component,0,1,0,False
+possible_3744774e51448328,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_50.wav,Spot-winged_Thrush,Spot-winged Thrush 4,2,review linked component,0,1,0,False
+possible_2ba14223ad2fc412,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_21.wav,Spot-winged_Thrush,777387,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_74510be15268afe6,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_22.wav,Spot-winged_Thrush,777373,2,review linked component,0,1,0,False
+possible_74510be15268afe6,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_62.wav,Spot-winged_Thrush,Spot-winged Thrush 16,2,review linked component,0,1,0,False
+possible_4764208dbe4a35fe,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_23.wav,Spot-winged_Thrush,648202,1,no accepted acoustic link; independence unknown,0,0,1,False
+possible_b6e18463cba66042,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_24.wav,Spot-winged_Thrush,648201,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_e3554cbbe027c469,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_25.wav,Spot-winged_Thrush,648196,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_4a141df9b1dd1c59,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_26.wav,Spot-winged_Thrush,648194,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_a135ed476eb66f54,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_27.wav,Spot-winged_Thrush,648191,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_4724c5ceaaaac401,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_28.wav,Spot-winged_Thrush,648187,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_da8fe45163e57546,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_29.wav,Spot-winged_Thrush,648185,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_728635d45f4d66c0,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_30.wav,Spot-winged_Thrush,311289,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_5dd228f65c9cfb8a,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_31.wav,Spot-winged_Thrush,207885,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_612ea45e35be8616,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_32.wav,Spot-winged_Thrush,207884,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_2664a475bf7297d5,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_33.wav,Spot-winged_Thrush,199814,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_9f25e9d899badab2,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_34.wav,Spot-winged_Thrush,181985,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_f64f4c504e8ded63,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_35.wav,Spot-winged_Thrush,165381,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_8058539889eaca04,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_36.wav,Spot-winged_Thrush,102791,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_efb8a41f96d93128,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_37.wav,Spot-winged_Thrush,102790,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_9e450d21f7ef5091,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_38.wav,Spot-winged_Thrush,79368,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_894423d5c50921e1,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_39.wav,Spot-winged_Thrush,69759,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_337edd415b0a20f2,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_40.wav,Spot-winged_Thrush,69756,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_a1bd968ea0e0c11e,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_41.wav,Spot-winged_Thrush,69755,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_a81289d4b58cc1a2,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_42.wav,Spot-winged_Thrush,1096445,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_fadb2c42a454b0cd,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_43.wav,Spot-winged_Thrush,1076469,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_ddaca24f27852698,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_44.wav,Spot-winged_Thrush,648197,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_d24ca65f74622064,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_45.wav,Spot-winged_Thrush,453480,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_c918db7725737b78,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_46.wav,Spot-winged_Thrush,69758,2,review linked component,0,1,0,False
+possible_c918db7725737b78,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_49.wav,Spot-winged_Thrush,Spot-winged Thrush 3,2,review linked component,0,1,0,False
+possible_0cf33faae06f6598,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_47.wav,Spot-winged_Thrush,Spot-winged Thrush 1,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_cddfed13512fbd95,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_48.wav,Spot-winged_Thrush,Spot-winged Thrush 2,1,no accepted acoustic link; independence unknown,0,0,9,False
+possible_b74c865092f11fee,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_51.wav,Spot-winged_Thrush,Spot-winged Thrush 5,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_c59686eadf637cf1,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_52.wav,Spot-winged_Thrush,Spot-winged Thrush 6,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_a4bc81dec42a2646,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_53.wav,Spot-winged_Thrush,Spot-winged Thrush 7,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_364f33a2272e7637,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_54.wav,Spot-winged_Thrush,Spot-winged Thrush 8,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_ede9e2d4fb55e968,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_55.wav,Spot-winged_Thrush,Spot-winged Thrush 9,1,no accepted acoustic link; independence unknown,0,0,1,False
+possible_fc7e7b4ef2f5ddcd,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_58.wav,Spot-winged_Thrush,Spot-winged Thrush 12,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_c47c8b31034591db,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_59.wav,Spot-winged_Thrush,Spot-winged Thrush 13,1,no accepted acoustic link; independence unknown,0,0,1,False
+possible_37158a375728052f,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_60.wav,Spot-winged_Thrush,Spot-winged Thrush 14,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_c8abde1c13ca5f06,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_61.wav,Spot-winged_Thrush,Spot-winged Thrush 15,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_a0400a437eeeca20,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_63.wav,Spot-winged_Thrush,Spot-winged Thrush 17,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_f1af323ef01b1ddc,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_65.wav,Spot-winged_Thrush,Spot-winged Thrush 19,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_a4c87613374dbf40,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_66.wav,Spot-winged_Thrush,Spot-winged Thrush 20,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_c141423b658b34cb,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_67.wav,Spot-winged_Thrush,Spot-winged Thrush 21,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_b7386bf0fc238666,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_68.wav,Spot-winged_Thrush,Spot-winged Thrush 22,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_9bb70ab61082afac,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_69.wav,Spot-winged_Thrush,Spot-winged Thrush 23,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_97410bb0c0aa689d,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_70.wav,Spot-winged_Thrush,Spot-winged Thrush 24,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_c65ef946adeb7724,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_71.wav,Spot-winged_Thrush,Spot-winged Thrush 25,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_d819f5b43afb61ce,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_72.wav,Spot-winged_Thrush,Spot-winged Thrush 26,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_fc72321cb5cefd73,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_73.wav,Spot-winged_Thrush,Spot-winged Thrush 27,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_47881ce0a330e63e,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_74.wav,Spot-winged_Thrush,Spot-winged Thrush 28,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_97510321694c58a5,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_75.wav,Spot-winged_Thrush,Spot-winged Thrush 29,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_4b3a5ce07d621025,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_76.wav,Spot-winged_Thrush,Spot-winged Thrush 30,2,review linked component,0,1,0,False
+possible_4b3a5ce07d621025,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_77.wav,Spot-winged_Thrush,Spot-winged Thrush 31,2,review linked component,0,1,0,False
+possible_ac8755d9bbf0c222,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_78.wav,Spot-winged_Thrush,Spot-winged Thrush 32,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_87cc71b85438daf5,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_79.wav,Spot-winged_Thrush,Spot-winged Thrush 33,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_ff290669ef3819e4,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_80.wav,Spot-winged_Thrush,Spot-winged Thrush 34,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_1327cdb0adb58392,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_81.wav,Spot-winged_Thrush,Spot-winged Thrush 35,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_81a09999592bdb77,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_82.wav,Spot-winged_Thrush,Spot-winged Thrush 36,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_80178f436813e5ad,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_83.wav,Spot-winged_Thrush,Spot-winged Thrush 37,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_9e119667c900e412,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_84.wav,Spot-winged_Thrush,Spot-winged Thrush 38,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_f938dfbdc6ef6769,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_85.wav,Spot-winged_Thrush,Spot-winged Thrush 39,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_38a95e049d560d81,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_86.wav,Spot-winged_Thrush,Spot-winged Thrush 40,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_9fbd6cb47bf61007,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_87.wav,Spot-winged_Thrush,Spot-winged Thrush 41,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_0470565358393395,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_88.wav,Spot-winged_Thrush,Spot-winged Thrush 42,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_466e800581e6d0de,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_89.wav,Spot-winged_Thrush,Spot-winged Thrush 43,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_67c9b575f61dee6b,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_90.wav,Spot-winged_Thrush,Spot-winged Thrush 44,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_51a8aa6ed84c8580,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_91.wav,Spot-winged_Thrush,Spot-winged Thrush 45,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_ac26ce876146ec35,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_92.wav,Spot-winged_Thrush,Spot-winged Thrush 46,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_afd787467ca2e96f,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_93.wav,Spot-winged_Thrush,Spot-winged Thrush 47,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_857309bbc1249854,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_94.wav,Spot-winged_Thrush,Spot-winged Thrush 48,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_cf82c287752aad70,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_95.wav,Spot-winged_Thrush,Spot-winged Thrush 49,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_1a872dbba2fed03b,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_96.wav,Spot-winged_Thrush,Spot-winged Thrush 50,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_e8e303acf974aaf5,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_97.wav,Spot-winged_Thrush,Spot-winged Thrush 51,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_0b64a5877ee37d35,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_98.wav,Spot-winged_Thrush,Spot-winged Thrush 52,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_7958335c29f294a2,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_99.wav,Spot-winged_Thrush,Spot-winged Thrush 53,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_618fe389aefde0c6,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_100.wav,Spot-winged_Thrush,Spot-winged Thrush 54,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_e12b8ea649ad57a2,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_101.wav,Spot-winged_Thrush,Spot-winged Thrush 55,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_93b3110d813b9e74,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_102.wav,Spot-winged_Thrush,Spot-winged Thrush 56,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_6c6d587efc25d942,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_103.wav,Spot-winged_Thrush,Spot-winged Thrush 57,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_6be8cdf5e24ee0f0,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_104.wav,Spot-winged_Thrush,Spot-winged Thrush 58,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_a29e337b9fe1c82f,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_105.wav,Spot-winged_Thrush,Spot-winged Thrush 59,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_3012a61820667ffc,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_106.wav,Spot-winged_Thrush,Spot-winged Thrush 60,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_bd4f25ca27f91070,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_107.wav,Spot-winged_Thrush,Spot-winged Thrush 61,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_0ba849370217be8c,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_108.wav,Spot-winged_Thrush,Spot-winged Thrush 62,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_89e4d2cdef505c04,birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_109.wav,Spot-winged_Thrush,Spot-winged Thrush 63,1,no accepted acoustic link; independence unknown,0,0,3,False
+possible_0854d3e349059151,birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie.wav,Sri_Lanka_Blue_Magpie,1075554,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_9c48d815e11d6997,birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_2.wav,Sri_Lanka_Blue_Magpie,840505,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_b41027dedda1330e,birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_3.wav,Sri_Lanka_Blue_Magpie,777389,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_e99a2ae9a34e1015,birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_4.wav,Sri_Lanka_Blue_Magpie,629589,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_e9e3c00a13919f26,birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_5.wav,Sri_Lanka_Blue_Magpie,629588,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_e93643e0029547b5,birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_6.wav,Sri_Lanka_Blue_Magpie,629392,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_0eafcfc96fa26819,birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_7.wav,Sri_Lanka_Blue_Magpie,629391,2,review linked component,1,0,0,False
+possible_0eafcfc96fa26819,birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_34.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 13,2,review linked component,1,0,0,False
+possible_e5d013e64018443b,birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_8.wav,Sri_Lanka_Blue_Magpie,629390,2,review linked component,1,0,0,False
+possible_e5d013e64018443b,birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_35.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 14,2,review linked component,1,0,0,False
+possible_59932f70d85dda00,birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_9.wav,Sri_Lanka_Blue_Magpie,344989,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_1aaa29323e6de7e5,birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_10.wav,Sri_Lanka_Blue_Magpie,343022,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_03a71032b7359c96,birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_11.wav,Sri_Lanka_Blue_Magpie,343019,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_f7f9939410e9a63c,birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_12.wav,Sri_Lanka_Blue_Magpie,311534,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_9ae5f081e8344c54,birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_13.wav,Sri_Lanka_Blue_Magpie,207774,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_be0a49ceca17dd68,birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_14.wav,Sri_Lanka_Blue_Magpie,79369,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_fc1566d0a5737041,birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_15.wav,Sri_Lanka_Blue_Magpie,42787,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_7e7daf0969ef0c14,birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_16.wav,Sri_Lanka_Blue_Magpie,1075550,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_cc5e397500a06265,birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_17.wav,Sri_Lanka_Blue_Magpie,346141,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_f3e47529546b14f0,birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_18.wav,Sri_Lanka_Blue_Magpie,224203,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_1122496425893b01,birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_19.wav,Sri_Lanka_Blue_Magpie,211795,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_a6f2175697ec2587,birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_20.wav,Sri_Lanka_Blue_Magpie,629616,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_94ed2383ae98c445,birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_21.wav,Sri_Lanka_Blue_Magpie,629613,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_9d462e798eee8121,birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_22.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 1,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_d5c77a2982335204,birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_23.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 2,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_2ed22f41655ba800,birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_24.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 3,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_5944b89ea1430483,birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_25.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 4,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_6719f1a684041ac6,birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_26.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 5,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_12353afb068ade6e,birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_27.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 6,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_390be4d0b20e31f5,birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_28.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 7,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_53b65af66d9e760e,birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_29.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 8,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_9b80388d1f2831ef,birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_30.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 9,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_adde54bdff9c923d,birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_31.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 10,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_7012d27422fefcaa,birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_32.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 11,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_37363f3fe5be1e12,birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_33.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 12,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_14dc92995f82bcf6,birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_36.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 15,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_4bc0d2da284565d5,birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_37.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 16,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_7a651fdcd2a01377,birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_38.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 17,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_a3a53b3bb90cfdbe,birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_39.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 18,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_558beeb1f3378803,birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_40.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 19,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_3a9133d046853810,birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_41.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 20,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_87815c503ea3f918,birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_42.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 21,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_1274829fba66d564,birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_43.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 22,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_f195b4533a6e2c5d,birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_44.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 23,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_8a17d057fa6e6af6,birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_45.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 24,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_91c389a05034fd53,birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_46.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 25,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_897c73867d7eb0fd,birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_47.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 26,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_0bc2378ae8b1d0aa,birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_48.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 27,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_c8ea12541afeec5b,birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_49.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 28,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_ba6131144b82c50e,birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_50.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 29,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_92b187800cb5984d,birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_51.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 30,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_77c35922d0903578,birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_52.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 31,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_c33020f14b0cc0da,birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_53.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 32,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_8198cdfa2d6326c0,birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_54.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 33,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_e8fbbf186ebdf325,birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_55.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 34,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_aff5fcdd8b85f6a1,birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_56.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 35,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_4f48f586d1c6b2d9,birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_57.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 36,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_feb352810520543d,birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_58.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 37,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_04a0718cbafc2038,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth.wav,Sri_Lanka_Frogmouth,744717,2,review linked component,0,1,0,False
+possible_04a0718cbafc2038,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_247.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 212,2,review linked component,0,1,0,False
+possible_63912003b05167f6,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_2.wav,Sri_Lanka_Frogmouth,744715,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_5609271de07dbb5e,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_3.wav,Sri_Lanka_Frogmouth,311157,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_e08a02f12708cd25,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_4.wav,Sri_Lanka_Frogmouth,203504,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_586f2ef5d3d92891,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_5.wav,Sri_Lanka_Frogmouth,190668,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_6dfac99c4a5934f6,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_6.wav,Sri_Lanka_Frogmouth,167840,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_e819b0be15a26e29,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_7.wav,Sri_Lanka_Frogmouth,37438,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_753f55060bea548a,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_8.wav,Sri_Lanka_Frogmouth,1160424,2,review linked component,1,0,0,False
+possible_753f55060bea548a,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_185.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 150,2,review linked component,1,0,0,False
+possible_d54a6c687b327e2b,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_9.wav,Sri_Lanka_Frogmouth,1136726,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_a2ce21ccf9850e49,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_10.wav,Sri_Lanka_Frogmouth,1097279,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_e6d66fadb8aef817,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_11.wav,Sri_Lanka_Frogmouth,1096386,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_584e04f9da311ab9,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_12.wav,Sri_Lanka_Frogmouth,610130,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_cdb4a789a29db6e9,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_13.wav,Sri_Lanka_Frogmouth,474436,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_175460aa59759f56,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_14.wav,Sri_Lanka_Frogmouth,473613,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_f8271cc47eb495ac,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_15.wav,Sri_Lanka_Frogmouth,356746,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_9296145ea3d86e69,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_16.wav,Sri_Lanka_Frogmouth,217340,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_2ff7a2e9290270ad,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_17.wav,Sri_Lanka_Frogmouth,211798,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_416c0d4ca3d0998a,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_18.wav,Sri_Lanka_Frogmouth,201366,2,review linked component,1,0,0,False
+possible_416c0d4ca3d0998a,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_109.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 74,2,review linked component,1,0,0,False
+possible_19827a00ae05cfbf,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_19.wav,Sri_Lanka_Frogmouth,196561,2,review linked component,1,0,0,False
+possible_19827a00ae05cfbf,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_36.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 1,2,review linked component,1,0,0,False
+possible_516ec2bc3110af1c,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_20.wav,Sri_Lanka_Frogmouth,694103,2,review linked component,0,1,0,False
+possible_516ec2bc3110af1c,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_99.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 64,2,review linked component,0,1,0,False
+possible_6fc2497ddc554891,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_21.wav,Sri_Lanka_Frogmouth,680832,2,review linked component,0,1,0,False
+possible_6fc2497ddc554891,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_100.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 65,2,review linked component,0,1,0,False
+possible_1b6ff9d8186b9c4e,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_22.wav,Sri_Lanka_Frogmouth,548013,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_ea912da4269fc9dc,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_23.wav,Sri_Lanka_Frogmouth,453481,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_48910bdec5c1f447,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_24.wav,Sri_Lanka_Frogmouth,433796,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_32b54e5dc76ef953,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_25.wav,Sri_Lanka_Frogmouth,267340,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_2c00f29ddeb037cd,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_26.wav,Sri_Lanka_Frogmouth,266807,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_dea1d37d4324d5ab,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_27.wav,Sri_Lanka_Frogmouth,203505,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_b59395920dc2c6ab,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_28.wav,Sri_Lanka_Frogmouth,1097278,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_f38ff5cc318bd517,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_29.wav,Sri_Lanka_Frogmouth,1096384,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_beae047d18b71b66,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_30.wav,Sri_Lanka_Frogmouth,1096382,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_4135a550c1d58ae3,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_31.wav,Sri_Lanka_Frogmouth,1046015,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_18c2b0775fbde739,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_32.wav,Sri_Lanka_Frogmouth,786593,2,review linked component,0,1,0,False
+possible_18c2b0775fbde739,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_110.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 75,2,review linked component,0,1,0,False
+possible_1985fdfd53879ea5,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_33.wav,Sri_Lanka_Frogmouth,744714,2,review linked component,0,1,0,False
+possible_1985fdfd53879ea5,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_112.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 77,2,review linked component,0,1,0,False
+possible_2faabf035b3812be,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_34.wav,Sri_Lanka_Frogmouth,311156,2,review linked component,0,1,0,False
+possible_2faabf035b3812be,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_111.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 76,2,review linked component,0,1,0,False
+possible_bc18430a0a10b44c,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_35.wav,Sri_Lanka_Frogmouth,211799,2,review linked component,0,1,1,False
+possible_bc18430a0a10b44c,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_165.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 130,2,review linked component,0,1,0,False
+possible_3782779772c7c96a,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_37.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 2,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_c06dbd210f2b6b6b,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_38.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 3,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_784e489aee3aad19,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_39.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 4,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_271a31fd4d1ce6ed,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_40.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 5,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_f7d3438abbf267fd,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_41.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 6,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_59ed03faefdaccae,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_42.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 7,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_680d37ea2335bcd6,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_43.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 8,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_c9314755a648cf9a,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_44.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 9,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_a0cbb6385b5ec2c2,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_45.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 10,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_2ccc4622e2e32648,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_46.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 11,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_03b6e96615cc8ade,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_47.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 12,1,no accepted acoustic link; independence unknown,0,0,1,False
+possible_c1037d97ae29c2ee,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_48.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 13,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_588203ea385048af,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_49.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 14,1,no accepted acoustic link; independence unknown,0,0,2,False
+possible_5b9fc1a801bfcaef,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_50.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 15,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_bb378cea8e2dbf87,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_51.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 16,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_d90dcf3866ce531d,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_52.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 17,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_a66da7699100cb71,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_53.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 18,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_60ac83b045d8282a,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_54.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 19,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_a34dfa62924678ff,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_55.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 20,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_155788f705a6ba8d,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_56.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 21,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_902ba729b056ef74,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_57.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 22,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_be74a32855802124,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_58.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 23,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_eff994d0a0fe3f8b,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_59.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 24,1,no accepted acoustic link; independence unknown,0,0,6,False
+possible_0b8bb02300585af3,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_60.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 25,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_8c6e3bde097df8ac,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_61.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 26,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_e139ce6f21310bf9,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_62.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 27,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_bb83b73996c89c96,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_63.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 28,3,review linked component,1,1,0,False
+possible_bb83b73996c89c96,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_64.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 29,3,review linked component,1,0,0,False
+possible_bb83b73996c89c96,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_65.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 30,3,review linked component,0,1,0,False
+possible_8ee411b3b97cf56d,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_66.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 31,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_4cccd07cc67b93d2,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_67.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 32,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_663b76410988737b,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_68.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 33,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_d6212888d6ca098f,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_69.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 34,1,no accepted acoustic link; independence unknown,0,0,1,False
+possible_9dcbb768c985f083,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_70.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 35,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_e074f5ad1fe83c94,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_71.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 36,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_2dfd21b7dc16e56d,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_72.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 37,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_8e334c514e1c2e8d,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_73.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 38,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_8e50a5185bdb48e5,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_74.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 39,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_aeb34ab6b93f5adf,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_75.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 40,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_2b63eaf61ee7a46c,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_76.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 41,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_877189bc4b291642,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_77.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 42,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_8da8f66e7eac7bfd,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_78.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 43,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_2f19d266bac3fb0e,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_79.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 44,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_ada4b2cc6baf58c0,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_80.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 45,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_33d0732c40b98409,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_81.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 46,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_c98ce4b0d32b83b7,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_82.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 47,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_f18ef5f1a0ed7f25,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_83.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 48,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_8e12fece9fd1b7a2,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_84.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 49,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_1cd6337ee8d9817b,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_85.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 50,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_2079831e3760efd9,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_86.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 51,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_9d30b358eb3c91d1,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_87.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 52,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_809676205d3909d6,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_88.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 53,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_af0a1303e620c5ff,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_89.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 54,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_44fa05eda99e83f4,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_90.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 55,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_e010ddd7d1d1af66,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_91.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 56,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_ed75d04b9863a731,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_92.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 57,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_48c5598de2c4ae7d,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_93.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 58,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_1f2a2f4b181e0bae,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_94.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 59,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_c96bff3c827ed095,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_95.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 60,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_c1d31db3da73379c,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_96.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 61,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_b0ea6055e817b245,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_97.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 62,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_0d91c957ee59aaef,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_98.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 63,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_13affe133e6e1473,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_101.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 66,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_b9ac4faf0d124d50,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_102.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 67,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_f40a581a0465cdb2,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_103.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 68,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_ef805771fa76a006,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_104.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 69,1,no accepted acoustic link; independence unknown,0,0,1,False
+possible_e710f11a4ccf69ac,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_105.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 70,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_9cfa871a96f139be,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_106.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 71,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_7afb96e25d0f11ed,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_107.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 72,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_d42db383bb65c295,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_108.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 73,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_e6307ed81b841428,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_113.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 78,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_c0a01dce7f73a28a,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_114.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 79,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_1ffb3f8e10302ce7,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_115.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 80,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_d5f64d37a3fc0c79,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_116.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 81,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_bd51590bd7868b30,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_117.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 82,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_1abdc7f5a369ccdc,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_118.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 83,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_2f4cf3e6441ea1b0,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_119.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 84,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_dcb81e2b9f5c0de1,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_120.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 85,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_e26b8bd14deeab08,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_121.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 86,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_fe8ffc48b37d24a3,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_122.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 87,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_f4437168aa74a7d8,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_123.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 88,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_305477c8b483bc10,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_124.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 89,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_76471e8e3463f9fe,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_125.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 90,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_f551b727b5485b32,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_126.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 91,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_f6386755a644b176,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_127.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 92,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_a6d998636747149b,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_128.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 93,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_81717b7ac8ae4f30,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_129.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 94,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_59bc2679fe2d0a39,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_130.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 95,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_6efbf28174643a4b,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_131.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 96,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_a1f2875d25ce02c0,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_132.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 97,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_dadd932b691ca2b1,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_133.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 98,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_d4446fb789daadfc,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_134.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 99,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_aa1c59139d092c1f,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_135.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 100,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_087f0361c0ea33be,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_136.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 101,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_ac23bd6d70774dbb,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_137.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 102,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_81e061835d51e358,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_138.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 103,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_439481f779280727,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_139.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 104,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_31c42f38dfbc9f60,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_140.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 105,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_9155afc127625189,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_141.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 106,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_ae6e8585a288b349,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_142.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 107,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_7d80685296d072ff,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_143.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 108,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_d67c58297bbff379,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_144.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 109,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_4e1392686f5263d3,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_145.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 110,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_922d748f7f8e1189,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_146.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 111,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_a95b3a509eb0b7d3,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_147.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 112,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_c3ca387eb66a26f2,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_148.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 113,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_29f7c47d67612ed9,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_149.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 114,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_6f037ad461650cf3,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_150.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 115,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_056ba6ba397dae37,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_151.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 116,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_9616cf7aecbca6f6,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_152.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 117,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_1a0b56a1178d575c,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_153.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 118,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_0e4db4f70c72f96e,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_154.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 119,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_6d858b07a402c1ff,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_155.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 120,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_5c9dd580b20729ef,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_156.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 121,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_dffcc5b9bea56a69,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_157.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 122,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_87376fbcad1dbfc4,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_158.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 123,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_0f35adb72d613354,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_159.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 124,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_a9a5676e80e0cfce,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_160.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 125,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_50aa6cbc874e91cf,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_161.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 126,1,no accepted acoustic link; independence unknown,0,0,1,False
+possible_6f95e2b72cafc417,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_162.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 127,1,no accepted acoustic link; independence unknown,0,0,3,False
+possible_c5b2d9efbb96f0d5,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_163.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 128,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_3b94955711acc98a,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_164.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 129,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_c0c18026ae4b84ed,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_166.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 131,1,no accepted acoustic link; independence unknown,0,0,1,False
+possible_616d5894a8705860,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_167.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 132,1,no accepted acoustic link; independence unknown,0,0,3,False
+possible_217b10e9736b1523,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_168.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 133,1,no accepted acoustic link; independence unknown,0,0,4,False
+possible_1ff67d0bfb2282fc,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_169.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 134,1,no accepted acoustic link; independence unknown,0,0,4,False
+possible_e03099fded9b2ce5,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_170.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 135,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_0719ddf5b56aaa25,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_171.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 136,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_602ddc3d9b7c1416,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_172.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 137,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_e71bb9bfef0e5170,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_173.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 138,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_603feff641f947ef,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_174.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 139,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_03d6c7cce32fd9ee,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_175.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 140,1,no accepted acoustic link; independence unknown,0,0,2,False
+possible_75410a87d93c8e8c,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_176.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 141,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_dcd409a517e22c62,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_177.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 142,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_b88c73d3d1df8fee,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_178.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 143,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_16005442a5862fa4,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_179.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 144,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_aef5a643a4e4b078,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_180.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 145,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_79163515f395252a,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_181.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 146,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_02db0c317cc014d7,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_182.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 147,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_63089c4ccfce5de3,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_183.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 148,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_9231835e69a337b7,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_184.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 149,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_97cfba1ca526ce14,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_186.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 151,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_b0ad180187e48988,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_187.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 152,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_003662fdc034568b,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_188.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 153,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_06229325985b4924,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_189.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 154,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_efabc05673e603fe,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_190.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 155,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_2dc951a61f20fdca,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_191.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 156,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_8686b7e305e0ebaa,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_192.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 157,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_a48a38fc92d67efa,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_193.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 158,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_289d353d98322502,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_194.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 159,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_e5c7ae0b3061497d,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_195.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 160,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_2d0de1ebe5545c5a,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_196.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 161,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_9cde877f223cac6f,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_197.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 162,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_2060b560a6a46453,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_198.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 163,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_fc514d4658935030,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_199.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 164,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_226a97d5d61275fc,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_200.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 165,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_7e1fe09beae421be,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_201.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 166,1,no accepted acoustic link; independence unknown,0,0,1,False
+possible_d61fd17bf04fd084,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_202.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 167,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_839e2a2a9895778e,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_203.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 168,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_e2118a591a8aef59,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_204.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 169,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_2743556dba641d89,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_205.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 170,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_69fb6363897a6ca2,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_206.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 171,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_39178eee0667ad2e,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_207.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 172,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_9e5a963d37545f17,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_208.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 173,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_3e82ba2a1a46697e,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_209.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 174,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_25c0959a2efc5a80,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_210.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 175,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_7bcb368a13519bd4,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_211.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 176,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_67032cdbd1775043,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_212.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 177,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_ae0b4800c87b0a31,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_213.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 178,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_a1b41b5cdbebbba8,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_214.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 179,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_bfa69084db8f09ea,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_215.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 180,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_c19015dc3277b91c,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_216.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 181,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_8bd062bc96504a82,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_217.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 182,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_4f49dd5d4ea80a20,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_218.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 183,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_d95b51ec0301e3fd,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_219.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 184,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_7723126cf5ae886f,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_220.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 185,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_3a8658614655bde3,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_221.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 186,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_65552e9a125eabda,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_222.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 187,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_46377ff7ec2861ca,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_223.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 188,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_c4219a748741e1ee,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_224.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 189,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_bcf012140b2ce4c0,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_225.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 190,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_6077e3d2f017726d,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_226.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 191,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_91b70f5db5b6e895,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_227.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 192,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_9f38ded2d9ff589e,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_228.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 193,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_10b4d93ab580a848,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_229.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 194,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_359381f241e44561,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_230.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 195,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_68eb75f0dedfcfae,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_231.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 196,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_c49ae6c710fd5d26,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_232.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 197,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_b736b106eb00ab23,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_233.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 198,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_5933fbf77c128c04,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_234.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 199,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_aa147a7d2adce197,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_235.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 200,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_431e6083a2df385e,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_236.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 201,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_517fe62ae2863a64,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_237.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 202,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_a1217ee055681627,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_238.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 203,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_0c55db8289ebd629,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_239.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 204,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_4602627430c0ef9c,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_240.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 205,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_6a14ce4f7c6c9caa,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_241.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 206,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_68504ba595dadd96,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_242.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 207,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_8c53f519f741778d,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_243.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 208,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_7a3fd49bb98bb5ca,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_244.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 209,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_6827b6b5a42ec383,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_245.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 210,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_3ea387d1f7ea5a28,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_246.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 211,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_1f09e4ad27c11891,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_248.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 213,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_67466ad48a8ca7d0,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_249.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 214,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_939185e3131e6b70,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_250.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 215,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_6999ec5d6ba48d61,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_251.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 216,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_e7e47355a425dcf8,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_252.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 217,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_7f6cba44be3d1cf9,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_253.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 218,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_b4f44698af30c118,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_254.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 219,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_09d3219d14850f00,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_255.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 220,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_42d0850d44237d7a,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_256.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 221,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_305afc21443009ce,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_257.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 222,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_b1b9862acae43cc0,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_258.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 223,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_97445faae43d546a,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_259.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 224,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_275350f5cb545aca,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_260.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 225,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_faeab6c824fb2811,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_261.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 226,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_093a901109bcabf6,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_262.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 227,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_5df5cabde07638b6,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_263.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 228,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_5e2280f5f4424378,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_264.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 229,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_7ee350f8a40e3422,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_265.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 230,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_3caf581de8aff669,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_266.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 231,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_428ea01c359753a1,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_267.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 232,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_b9a834ed02641b95,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_268.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 233,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_7f6b33695f6be76e,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_269.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 234,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_90ec8b7f087630a2,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_270.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 235,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_4ceef94dbd367ecf,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_271.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 236,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_99b0b1c8efceb977,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_272.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 237,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_7a282ef55dcf47c1,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_273.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 238,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_8a2e799fd668ef13,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_274.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 239,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_e178545d29114be3,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_275.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 240,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_32f8e8837a372cbf,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_276.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 241,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_bcee3048eb938576,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_277.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 242,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_a701d19ae928a89c,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_278.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 243,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_4a1c8919b4a4c3ac,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_279.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 244,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_f96340c5bf270e60,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_280.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 245,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_e1a5d8f7f67c4be3,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_281.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 246,1,no accepted acoustic link; independence unknown,0,0,1,False
+possible_0e7f7a2644de6942,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_282.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 247,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_8e0a16ee8137a9dc,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_283.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 248,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_48778be431be660b,birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_284.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 249,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_caf123c79f0a581d,birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill.wav,Sri_Lanka_Grey_Hornbill,609368,2,review linked component,0,1,0,False
+possible_caf123c79f0a581d,birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_39.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 25,2,review linked component,0,1,0,False
+possible_300c2b29bb6068d3,birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_2.wav,Sri_Lanka_Grey_Hornbill,453488,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_352f4b4aaa6dca92,birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_3.wav,Sri_Lanka_Grey_Hornbill,346193,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_703fe51c4a183569,birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_4.wav,Sri_Lanka_Grey_Hornbill,304324,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_61c3c3c42ebfe110,birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_5.wav,Sri_Lanka_Grey_Hornbill,304322,2,review linked component,0,1,0,False
+possible_61c3c3c42ebfe110,birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_15.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 1,2,review linked component,0,1,0,False
+possible_94d0215055376988,birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_6.wav,Sri_Lanka_Grey_Hornbill,19377,2,review linked component,0,1,0,False
+possible_94d0215055376988,birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_18.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 4,2,review linked component,0,1,0,False
+possible_43eb3224bce45e97,birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_7.wav,Sri_Lanka_Grey_Hornbill,1046666,2,review linked component,0,1,0,False
+possible_43eb3224bce45e97,birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_16.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 2,2,review linked component,0,1,0,False
+possible_d992fc27887136ae,birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_8.wav,Sri_Lanka_Grey_Hornbill,311391,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_cd488877a276b687,birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_9.wav,Sri_Lanka_Grey_Hornbill,304326,2,review linked component,0,1,0,False
+possible_cd488877a276b687,birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_24.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 10,2,review linked component,0,1,0,False
+possible_5e6e563b99db4f3c,birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_10.wav,Sri_Lanka_Grey_Hornbill,301963,2,review linked component,0,1,0,False
+possible_5e6e563b99db4f3c,birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_29.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 15,2,review linked component,0,1,0,False
+possible_c1077f8359f352a2,birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_11.wav,Sri_Lanka_Grey_Hornbill,207656,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_9d0bfaf15bded180,birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_12.wav,Sri_Lanka_Grey_Hornbill,68883,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_56ba3dec1ce6bb81,birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_13.wav,Sri_Lanka_Grey_Hornbill,183240,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_98dd1edb2f72f71a,birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_14.wav,Sri_Lanka_Grey_Hornbill,68882,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_ccdaf8b332a2d470,birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_17.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 3,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_0bf865b1187ef122,birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_19.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 5,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_2e626c7a13342ff8,birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_20.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 6,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_3b1305c4e93797cb,birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_21.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 7,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_a8b192d28b17a24f,birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_22.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 8,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_22b63f3935609f0f,birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_23.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 9,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_4b7ebbd50bf17053,birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_25.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 11,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_e92a03b8d20a3407,birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_26.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 12,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_45ec7f7ce57f2079,birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_27.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 13,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_8cfe0735110d23b4,birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_28.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 14,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_0a190fe745dbe54a,birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_30.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 16,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_3a8f3d169b767c46,birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_31.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 17,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_9d95628b8ed2a258,birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_32.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 18,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_9e1bc987dfa914f1,birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_33.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 19,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_24f4d726d1294ae9,birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_34.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 20,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_98194feb8eb87476,birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_35.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 21,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_c03bad2f944929fe,birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_36.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 22,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_3442626ea85c0efe,birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_37.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 23,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_06cfbdb881af1260,birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_38.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 24,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_278227fe7cf37b34,birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_40.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 26,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_f6f39110c29d31e8,birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_41.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 27,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_a055d24fe1fc96a6,birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_42.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 28,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_acfec79c5490e4e0,birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_43.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 29,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_5af05389457378c2,birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_44.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 30,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_d7766b156d326f23,birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_45.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 31,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_77ba086eb267015a,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl.wav,Sri_Lanka_Junglefowl,545692,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_d635b648ac565479,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_2.wav,Sri_Lanka_Junglefowl,543396,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_05804b3a8e41a8b6,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_3.wav,Sri_Lanka_Junglefowl,543394,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_f35976d0fa036ead,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_4.wav,Sri_Lanka_Junglefowl,543393,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_085cb148058520f9,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_5.wav,Sri_Lanka_Junglefowl,1097205,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_a2d505ae6a077f28,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_6.wav,Sri_Lanka_Junglefowl,1097204,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_eb046b1b7890048a,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_7.wav,Sri_Lanka_Junglefowl,1097203,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_52b9add11549ccec,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_8.wav,Sri_Lanka_Junglefowl,1074067,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_3419deaa923e5f6e,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_9.wav,Sri_Lanka_Junglefowl,724572,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_f8ae1e74ec0b5ac3,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_10.wav,Sri_Lanka_Junglefowl,635300,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_a718e219fe3377fc,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_11.wav,Sri_Lanka_Junglefowl,604097,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_f83ea1c2bdc67bff,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_12.wav,Sri_Lanka_Junglefowl,604096,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_5bd141f61d0c7fe3,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_13.wav,Sri_Lanka_Junglefowl,604095,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_afc8eb8775bedd6a,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_14.wav,Sri_Lanka_Junglefowl,604094,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_0fe863f8247cb09f,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_15.wav,Sri_Lanka_Junglefowl,453366,2,review linked component,1,0,0,False
+possible_0fe863f8247cb09f,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_61.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 24,2,review linked component,1,0,0,False
+possible_27c98f0943296de0,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_16.wav,Sri_Lanka_Junglefowl,346150,2,review linked component,0,1,0,False
+possible_27c98f0943296de0,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_48.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 11,2,review linked component,0,1,0,False
+possible_307be2a86e3ee27e,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_17.wav,Sri_Lanka_Junglefowl,346143,2,review linked component,0,1,0,False
+possible_307be2a86e3ee27e,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_49.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 12,2,review linked component,0,1,0,False
+possible_575335527692439d,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_18.wav,Sri_Lanka_Junglefowl,311284,2,review linked component,0,1,1,False
+possible_575335527692439d,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_50.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 13,2,review linked component,0,1,1,False
+possible_e05567f02e6cf7ab,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_19.wav,Sri_Lanka_Junglefowl,311283,2,review linked component,0,1,1,False
+possible_e05567f02e6cf7ab,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_51.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 14,2,review linked component,0,1,1,False
+possible_3591639e19bec1e5,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_20.wav,Sri_Lanka_Junglefowl,311282,2,review linked component,0,1,0,False
+possible_3591639e19bec1e5,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_56.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 19,2,review linked component,0,1,0,False
+possible_16ed7427609259f8,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_21.wav,Sri_Lanka_Junglefowl,311281,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_ededf0d5d6029d8a,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_22.wav,Sri_Lanka_Junglefowl,211801,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_82ca29b28e624b26,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_23.wav,Sri_Lanka_Junglefowl,190812,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_ced2438d6a0b2acb,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_24.wav,Sri_Lanka_Junglefowl,183211,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_0cfb32cdd5945d5e,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_25.wav,Sri_Lanka_Junglefowl,183210,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_81591a655e378775,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_26.wav,Sri_Lanka_Junglefowl,68360,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_444ddb712286b5d9,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_27.wav,Sri_Lanka_Junglefowl,68359,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_a09e77b454ef26c3,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_28.wav,Sri_Lanka_Junglefowl,68358,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_9d6595e57e12a5b5,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_29.wav,Sri_Lanka_Junglefowl,19864,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_b2db65e681588ab4,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_30.wav,Sri_Lanka_Junglefowl,1096389,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_e5e1fb3a6cbd8b62,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_31.wav,Sri_Lanka_Junglefowl,777762,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_e43210a37ce89133,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_32.wav,Sri_Lanka_Junglefowl,237200,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_fc3b62dc0f59a637,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_33.wav,Sri_Lanka_Junglefowl,207888,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_89838e4808ca4a87,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_34.wav,Sri_Lanka_Junglefowl,207657,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_aae410a7d4253f68,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_35.wav,Sri_Lanka_Junglefowl,19380,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_3b91cd45bd91bf56,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_36.wav,Sri_Lanka_Junglefowl,1096388,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_a5c500e60df80d0e,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_37.wav,Sri_Lanka_Junglefowl,603875,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_750f283e12cd14a6,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_38.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 1,1,no accepted acoustic link; independence unknown,0,0,6,False
+possible_7de4ba744214b462,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_39.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 2,1,no accepted acoustic link; independence unknown,0,0,6,False
+possible_147f6b0eec67645a,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 3,1,no accepted acoustic link; independence unknown,0,0,1,False
+possible_cbd5754538c172e3,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_41.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 4,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_533ec9d7e7464e08,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_42.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 5,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_08136b1aa0e1df99,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_43.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 6,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_59863d50c57f7b23,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_44.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 7,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_5477adfde19a1887,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_45.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 8,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_8f653361947f1ec0,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_46.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 9,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_8777b55c6354fa47,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_47.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 10,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_254257b811f5fff6,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_52.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 15,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_7458f15cc70cb6e2,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_53.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 16,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_9f485f81f8b1fea1,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_54.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 17,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_1f59a1b9b7bcf730,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_55.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 18,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_82a3303c75af835d,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_57.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 20,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_5a0c0d75cdc2efed,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_58.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 21,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_10dca40c06b7fc7e,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_59.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 22,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_9bf1398ac005f1f1,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_60.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 23,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_c27e54f172337009,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_62.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 25,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_e44dcebc682770ee,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_63.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 26,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_e8cfc426f46ee4a0,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_64.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 27,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_6ba6a33a5f35a283,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_65.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 28,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_e5fe2c28b782c4c4,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_66.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 29,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_8e8bf4fe983b67a6,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_67.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 30,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_0bebe6d3667c98aa,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_68.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 31,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_962d09991058f552,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_69.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 32,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_c50079f8f1619edc,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_70.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 33,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_b17a0629d34faeb2,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_71.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 34,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_8e16013136d747e1,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_72.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 35,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_e5246825c76818cc,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_73.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 36,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_d5640d241aa685f2,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_74.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 37,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_e0294083de690c35,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_75.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 38,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_e233d5b6fab5245f,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_76.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 39,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_421190b7c5a441ba,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_77.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 40,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_507e3cb1e4d4b52b,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_78.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 41,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_b65eb46d217b29f1,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_79.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 42,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_73aec946616538f4,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_80.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 43,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_514e0a464bd37772,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_81.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 44,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_146d7c0362a81302,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_82.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 45,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_5229bdadba3cf8aa,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_83.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 46,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_886d016b47f15b3a,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_84.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 47,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_1b2173dc9d094cd2,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_85.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 48,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_1899c63125ee45ee,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_86.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 49,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_1db9f2f0993f3ba9,birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_87.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 50,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_bdf7d2ba01ee4844,birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl.wav,Sri_Lanka_Spurfowl,543399,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_3b7e17e07f57166f,birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_2.wav,Sri_Lanka_Spurfowl,543397,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_e90bbed160fcb597,birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_3.wav,Sri_Lanka_Spurfowl,587978,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_2f2b018964a95363,birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_4.wav,Sri_Lanka_Spurfowl,426324,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_46eb3bc4927ed874,birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_5.wav,Sri_Lanka_Spurfowl,346196,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_1b1bd217ab85b746,birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_6.wav,Sri_Lanka_Spurfowl,311280,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_92c0c492b1cac0e4,birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_7.wav,Sri_Lanka_Spurfowl,311279,1,no accepted acoustic link; independence unknown,0,0,1,False
+possible_50312bfdad8c937e,birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_8.wav,Sri_Lanka_Spurfowl,311277,1,no accepted acoustic link; independence unknown,0,0,1,False
+possible_10ba51ed18da03d8,birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_9.wav,Sri_Lanka_Spurfowl,311276,1,no accepted acoustic link; independence unknown,0,0,1,False
+possible_910ba4adb7d4e711,birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_10.wav,Sri_Lanka_Spurfowl,211804,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_2db77a144e997309,birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_11.wav,Sri_Lanka_Spurfowl,211803,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_4cfc5b261f2ae982,birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_12.wav,Sri_Lanka_Spurfowl,190817,2,review linked component,1,0,0,False
+possible_4cfc5b261f2ae982,birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_57.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 26,2,review linked component,1,0,0,False
+possible_1d6d245b8ae5dae3,birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_13.wav,Sri_Lanka_Spurfowl,19383,2,review linked component,0,1,0,False
+possible_1d6d245b8ae5dae3,birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_44.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 13,2,review linked component,0,1,0,False
+possible_1ac9d445d05c4b08,birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_14.wav,Sri_Lanka_Spurfowl,19382,2,review linked component,0,1,0,False
+possible_1ac9d445d05c4b08,birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_45.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 14,2,review linked component,0,1,0,False
+possible_4e8121ba2e4c0d38,birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_15.wav,Sri_Lanka_Spurfowl,983168,2,review linked component,0,1,0,False
+possible_4e8121ba2e4c0d38,birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_46.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 15,2,review linked component,0,1,0,False
+possible_70ca3bf54f3b82f8,birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_16.wav,Sri_Lanka_Spurfowl,656082,2,review linked component,0,1,0,False
+possible_70ca3bf54f3b82f8,birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_47.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 16,2,review linked component,0,1,0,False
+possible_a8916316969ad029,birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_17.wav,Sri_Lanka_Spurfowl,625920,2,review linked component,0,1,0,False
+possible_a8916316969ad029,birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_48.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 17,2,review linked component,0,1,0,False
+possible_11ac86e6b41634df,birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_18.wav,Sri_Lanka_Spurfowl,619059,2,review linked component,0,1,0,False
+possible_11ac86e6b41634df,birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_55.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 24,2,review linked component,0,1,0,False
+possible_378183c119d5ca7c,birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_19.wav,Sri_Lanka_Spurfowl,366992,2,review linked component,0,1,0,False
+possible_378183c119d5ca7c,birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_63.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 32,2,review linked component,0,1,0,False
+possible_f1cea8608ad8fbe8,birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_20.wav,Sri_Lanka_Spurfowl,311278,2,review linked component,0,1,0,False
+possible_f1cea8608ad8fbe8,birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_32.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 1,2,review linked component,0,1,0,False
+possible_eea13e416e1fe33a,birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_21.wav,Sri_Lanka_Spurfowl,237201,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_809dde6497889cc7,birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_22.wav,Sri_Lanka_Spurfowl,165384,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_a2670506cc8495ee,birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_23.wav,Sri_Lanka_Spurfowl,1097246,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_95c3758d1e30684a,birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_24.wav,Sri_Lanka_Spurfowl,777381,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_ff879505dc3af2f0,birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_25.wav,Sri_Lanka_Spurfowl,680833,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_4987835c380a9d75,birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_26.wav,Sri_Lanka_Spurfowl,181989,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_75b4a44c706c65bd,birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_27.wav,Sri_Lanka_Spurfowl,181988,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_836ff37fb1ebc97b,birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_28.wav,Sri_Lanka_Spurfowl,152875,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_1d71f4394259b4ce,birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_29.wav,Sri_Lanka_Spurfowl,152874,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_c492c63c604796d4,birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_30.wav,Sri_Lanka_Spurfowl,68355,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_f2fad5df35275734,birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_31.wav,Sri_Lanka_Spurfowl,68354,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_7e66c318fdd253b4,birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_33.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 2,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_f688457daecf629c,birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_34.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 3,1,no accepted acoustic link; independence unknown,0,0,1,False
+possible_b8e8b19690fdc746,birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_35.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 4,1,no accepted acoustic link; independence unknown,0,0,1,False
+possible_cfc433ec959f10f2,birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_36.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 5,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_e43f25374eabd039,birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_37.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 6,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_1a73a163beab1f6e,birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_38.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 7,1,no accepted acoustic link; independence unknown,0,0,1,False
+possible_3a1207fa813c9075,birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_39.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 8,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_b14d09c57827aa44,birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_40.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 9,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_5b2cecc7f8841bd4,birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_41.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 10,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_6bf50191826ba735,birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_42.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 11,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_a1e377344a7df7e6,birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_43.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 12,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_9f2b1e9a1eda18df,birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_49.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 18,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_a0ecd2260e0192b9,birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_50.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 19,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_3012d3223ca3c302,birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_51.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 20,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_0594dd75b9525fe8,birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_52.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 21,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_7067cba42338569f,birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_53.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 22,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_2b173b29eead6545,birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_54.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 23,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_b18edc9ab945e10a,birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_56.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 25,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_62fa9e9412389174,birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_58.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 27,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_53b8d75f47eb5b1b,birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_59.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 28,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_7568277bb7a2f076,birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_60.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 29,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_8f6d4178353904a1,birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_61.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 30,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_df139f7e3cd8c90c,birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_62.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 31,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_a6746ed3d78047a9,birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_64.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 33,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_85952b1018701d0d,birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_65.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 34,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_ceb1d6d2060a090b,birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_66.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 35,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_aa68d94cdd33e517,birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_67.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 36,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_8c0930750b5c5de7,birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_68.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 37,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_795b8975780d8d95,birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_69.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 38,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_f4c0920dd5581bf0,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet.wav,Yellow-fronted_Barbet,1097249,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_afc059fcb2642d48,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_2.wav,Yellow-fronted_Barbet,634460,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_19e9429884604531,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_3.wav,Yellow-fronted_Barbet,620157,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_3cc9d92a7479494a,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_4.wav,Yellow-fronted_Barbet,620148,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_50b9a8521c7bdea9,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_5.wav,Yellow-fronted_Barbet,620145,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_ef037120d93db10d,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_6.wav,Yellow-fronted_Barbet,591039,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_73e81a00b2ba7895,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_7.wav,Yellow-fronted_Barbet,591038,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_c8b019dc62ca0dc6,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_8.wav,Yellow-fronted_Barbet,453489,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_a65afeda2cb3bfd1,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_9.wav,Yellow-fronted_Barbet,453482,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_c52f467c2f3db30c,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_10.wav,Yellow-fronted_Barbet,346183,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_1f2e8d75b738fd02,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_11.wav,Yellow-fronted_Barbet,346153,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_ee5f71e5057b47ef,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_12.wav,Yellow-fronted_Barbet,311357,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_fb63c71e058feb3c,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_13.wav,Yellow-fronted_Barbet,311355,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_827b6892959f6aae,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_14.wav,Yellow-fronted_Barbet,311354,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_ce79b8f2870e06f4,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_15.wav,Yellow-fronted_Barbet,224187,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_af592801287cb88f,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_16.wav,Yellow-fronted_Barbet,183230,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_9dc888f0c10723ba,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_17.wav,Yellow-fronted_Barbet,183229,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_e388337ef9923910,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_18.wav,Yellow-fronted_Barbet,164019,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_8c8f82872bd77c0d,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_19.wav,Yellow-fronted_Barbet,19439,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_b7d3fdc74ec35c5d,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_20.wav,Yellow-fronted_Barbet,1097295,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_85e4d97378c4c3d8,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_21.wav,Yellow-fronted_Barbet,1097281,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_4c9b329f992e36b4,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_22.wav,Yellow-fronted_Barbet,1097248,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_6e6303bc04b58fd3,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_23.wav,Yellow-fronted_Barbet,1097247,2,review linked component,0,1,0,False
+possible_6e6303bc04b58fd3,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_58.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 12,2,review linked component,0,1,0,False
+possible_5bc42d925f45be83,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_24.wav,Yellow-fronted_Barbet,1074041,2,review linked component,0,1,0,False
+possible_5bc42d925f45be83,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_59.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 13,2,review linked component,0,1,0,False
+possible_00f3bad85d3a8c3b,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_25.wav,Yellow-fronted_Barbet,1074040,2,review linked component,0,1,0,False
+possible_00f3bad85d3a8c3b,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_60.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 14,2,review linked component,0,1,0,False
+possible_59515a09ae00051f,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_26.wav,Yellow-fronted_Barbet,1049760,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_87e211ad78880c28,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_27.wav,Yellow-fronted_Barbet,809314,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_f0223507fd5330ad,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_28.wav,Yellow-fronted_Barbet,777765,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_f981f303489f97e5,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_29.wav,Yellow-fronted_Barbet,777439,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_601f7e3b6c26208c,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_30.wav,Yellow-fronted_Barbet,777385,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_2842561abed98ba6,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_31.wav,Yellow-fronted_Barbet,620159,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_cc6a3f77e8a923c9,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_32.wav,Yellow-fronted_Barbet,620156,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_acc241b2cab28636,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_33.wav,Yellow-fronted_Barbet,620154,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_7ad99b2df28b368b,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_34.wav,Yellow-fronted_Barbet,620151,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_3f19534d9fe1ad2a,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_35.wav,Yellow-fronted_Barbet,311356,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_fc5b8720b97f4546,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_36.wav,Yellow-fronted_Barbet,311353,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_75583f6b101d3ffd,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_37.wav,Yellow-fronted_Barbet,311352,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_0b42407098882217,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_38.wav,Yellow-fronted_Barbet,207753,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_0774d0fd5230301f,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_39.wav,Yellow-fronted_Barbet,207752,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_e83bf4b41403f5f7,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_40.wav,Yellow-fronted_Barbet,164020,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_cb82cdad26d8753b,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_41.wav,Yellow-fronted_Barbet,152877,2,review linked component,0,1,0,False
+possible_cb82cdad26d8753b,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_66.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 20,2,review linked component,0,1,0,False
+possible_08691c4bb65a94ed,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_42.wav,Yellow-fronted_Barbet,68669,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_6de29cc9ca606e8d,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_43.wav,Yellow-fronted_Barbet,37620,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_099eee24faa6cb4d,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_44.wav,Yellow-fronted_Barbet,19440,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_c97948f4f97842e3,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_45.wav,Yellow-fronted_Barbet,1097271,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_91fc10b5cda1c50a,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_46.wav,Yellow-fronted_Barbet,19441,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_09ce340f4bbf282f,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_47.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 1,1,no accepted acoustic link; independence unknown,0,0,6,False
+possible_3e3aa840c96e63aa,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_48.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 2,1,no accepted acoustic link; independence unknown,0,0,6,False
+possible_cd799bfa8b217b50,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_49.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 3,1,no accepted acoustic link; independence unknown,0,0,6,False
+possible_8d3629a8286e05d1,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_50.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 4,1,no accepted acoustic link; independence unknown,0,0,6,False
+possible_69c9a3357bf5656c,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_51.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 5,1,no accepted acoustic link; independence unknown,0,0,6,False
+possible_0333673311953da6,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_52.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 6,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_ca6c1eff5b0b25ed,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_53.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 7,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_20254807cd8cd9cc,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_54.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 8,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_3dc119fe7e14edae,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_55.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 9,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_ee941a0c6458a44b,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_56.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 10,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_37ba7585a9e4ba68,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_57.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 11,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_c664fd79a7465133,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_61.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 15,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_c678b559946a6fef,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_62.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 16,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_d9d6293649271a14,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_63.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 17,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_5ed062eec44f4ff7,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_64.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 18,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_3aeacf0d44bd0753,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_65.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 19,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_2632aba07508e89d,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_67.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 21,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_c8777de3d7403f63,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_68.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 22,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_389fd17971e57b81,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_69.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 23,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_4edbf2adfb3ae446,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_70.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 24,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_a245083e633a20b7,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_71.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 25,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_ac708ae05534224f,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_72.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 26,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_850b1232a9894d4e,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_73.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 27,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_4ab813071b828dce,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_74.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 28,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_80abbb6c755abf5d,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_75.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 29,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_a4ea986a63d07895,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_76.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 30,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_e8904cd96434c28d,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_77.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 31,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_44dc0e1272356f32,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_78.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 32,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_38d86e125111dd7c,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_79.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 33,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_9c4cf1795827e135,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_80.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 34,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_f96f392923b50de5,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_81.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 35,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_1a817af2d7457524,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_82.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 36,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_2870fdbbf4b4f0e6,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_83.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 37,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_54a92363e77708bc,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_84.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 38,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_54fedf2e8c0f8cf2,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_85.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 39,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_403e2d4cb9fefe0d,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_86.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 40,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_a805afe27c874368,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_87.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 41,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_8279d3ef9bcde100,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_88.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 42,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_2d2287c86b91bc15,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_89.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 43,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_6abfb8f73c238dba,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_90.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 44,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_a1a8ba9b20ff8e46,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_91.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 45,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_d111a8a6edc69351,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_92.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 46,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_f778cd4ae9837ecf,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_93.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 47,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_b70d663b55f5eac6,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_94.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 48,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_d463936eee822f86,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_95.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 49,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_a7c61afc47e4d440,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_96.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 50,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_8da36d52fee13449,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_97.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 51,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_6bfc2a7b7fbcbff2,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_98.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 52,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_fc619b2e99043d15,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_99.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 53,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_d98fe98bc9e8795c,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_100.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 54,1,no accepted acoustic link; independence unknown,0,0,0,False
+possible_1498894af924b121,birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_101.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 55,1,no accepted acoustic link; independence unknown,0,0,0,False
