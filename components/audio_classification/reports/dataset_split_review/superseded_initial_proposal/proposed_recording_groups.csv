@@ -1,0 +1,946 @@
+original_file_path,species,original_recording_id,proposed_group_id,prior_similarity_group_id,exact_content_group_id,group_sources,group_clips,source_clips,proposed_split,unknown_provenance,uncertain_edges
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet.wav,Chestnut-backed_Owlet,535351,review_180c46cc17979be8,possible_180c46cc17979be8,content_5e08958dae3f5757,1,13,13,train,True,0
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_10.wav,Chestnut-backed_Owlet,237194,review_088bb12552d77711,possible_088bb12552d77711,content_97e7ad9699923ed7,1,8,8,test,True,0
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_11.wav,Chestnut-backed_Owlet,224191,review_ae516312fc84662d,possible_ae516312fc84662d,content_d97b64affa6be5e1,1,13,13,validation,True,0
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_12.wav,Chestnut-backed_Owlet,43648,review_30e5c45531316b54,possible_30e5c45531316b54,content_351914145ab8daf1,1,3,3,train,True,0
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_13.wav,Chestnut-backed_Owlet,1097212,review_ead4e098b1a0c8fc,possible_ead4e098b1a0c8fc,content_29375d42a4e04780,2,12,6,train,True,0
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_14.wav,Chestnut-backed_Owlet,1097210,review_2424ba18e19937af,possible_2424ba18e19937af,content_4167db5d7560acad,1,21,21,test,True,0
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_15.wav,Chestnut-backed_Owlet,618869,review_c5a5b9d6df73fff2,possible_c5a5b9d6df73fff2,content_5c127cae9891e027,1,24,24,test,True,0
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_16.wav,Chestnut-backed_Owlet,536447,review_132ac2ff957767aa,possible_132ac2ff957767aa,content_3019aca107bc0cea,2,14,7,train,True,0
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_17.wav,Chestnut-backed_Owlet,366991,review_1e6265aeaf1ec8f0,possible_1e6265aeaf1ec8f0,content_e1d3a9408ddb84fb,1,5,5,validation,True,0
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_18.wav,Chestnut-backed_Owlet,312517,review_db2ffac6f4193b62,possible_db2ffac6f4193b62,content_519dc4d00d3cb328,1,8,8,train,True,0
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_19.wav,Chestnut-backed_Owlet,312514,review_5bfc249d56d6e906,possible_5bfc249d56d6e906,content_2843d15cc0719043,1,5,5,train,True,0
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_2.wav,Chestnut-backed_Owlet,534574,review_a75b5f5c5d3317b3,possible_a75b5f5c5d3317b3,content_72116f286aa27846,1,12,12,train,True,0
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_20.wav,Chestnut-backed_Owlet,311296,review_66c84eea32a6463a,possible_66c84eea32a6463a,content_d649cebdab816ee7,1,10,10,train,True,0
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_21.wav,Chestnut-backed_Owlet,311294,review_f8bbdae524198296,possible_f8bbdae524198296,content_3bf2e972f8771923,1,4,4,train,True,0
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_22.wav,Chestnut-backed_Owlet,311292,review_7ec57cfe729619e1,possible_7ec57cfe729619e1,content_9f32794044766952,1,2,2,train,True,0
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_23.wav,Chestnut-backed_Owlet,211550,review_4b42dacb0248c238,possible_4b42dacb0248c238,content_db1c9267db626a02,1,6,6,train,True,0
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_24.wav,Chestnut-backed_Owlet,211548,review_19aef2f877dea1aa,possible_19aef2f877dea1aa,content_642cb69f28c64c4d,1,8,8,train,True,0
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_25.wav,Chestnut-backed_Owlet,207877,review_88d2a391b3e2d4d4,possible_88d2a391b3e2d4d4,content_53692dfb0a3559ca,1,11,11,train,True,0
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_26.wav,Chestnut-backed_Owlet,37440,review_bdd85096b727ad95,possible_bdd85096b727ad95,content_161f20b544b717fa,1,5,5,train,True,0
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_27.wav,Chestnut-backed_Owlet,682308,review_05632cc50fc8fe3e,possible_05632cc50fc8fe3e,content_464bc9b382f4dedf,1,6,6,validation,True,0
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_28.wav,Chestnut-backed_Owlet,380480,review_eee7fcdce6d3955c,possible_eee7fcdce6d3955c,content_33b25291c23aef2f,1,11,11,train,True,0
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_29.wav,Chestnut-backed_Owlet,311295,review_1b50f143075b7915,possible_1b50f143075b7915,content_ccf2d5bd39b1c404,1,8,8,train,True,0
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_3.wav,Chestnut-backed_Owlet,756579,review_650e0510c87b4daf,possible_650e0510c87b4daf,content_2790316c27281a2c,1,11,11,train,True,0
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_30.wav,Chestnut-backed_Owlet,311293,review_0c0cee7cffc6c347,possible_0c0cee7cffc6c347,content_fd8e2f71fd6a16d5,1,18,18,train,True,0
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_31.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 1,review_7746c94ab8a6e2ce,possible_7746c94ab8a6e2ce,content_505f7d6bf3451b70,1,21,21,train,True,6
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_32.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 2,review_fd3d3471980c3305,possible_fd3d3471980c3305,content_e93f6e06eeeac15e,1,58,58,train,True,6
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_33.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 3,review_f1d88b38b90e93e8,possible_f1d88b38b90e93e8,content_7f2dec779abb92fd,1,32,32,train,True,6
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_34.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 4,review_5e89d38f94766176,possible_5e89d38f94766176,content_9eca9ef140b18ff8,1,9,9,train,True,0
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_35.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 5,review_6b2c6521bd782fd3,possible_6b2c6521bd782fd3,content_78680125eaf29500,1,3,3,train,True,0
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_36.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 6,review_4773347e81bee4cb,possible_4773347e81bee4cb,content_4f610f520400f265,1,38,38,train,True,0
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_37.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 7,review_28bb708f2af99ed2,possible_28bb708f2af99ed2,content_3ca88e6fdb114027,1,9,9,validation,True,0
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_38.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 8,review_abd8b6f4d3730af2,possible_abd8b6f4d3730af2,content_d38ab8e726a07cbb,2,5,2,test,True,0
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_39.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 9,review_e72a0f9c8475e308,possible_e72a0f9c8475e308,content_5322b64286f1145d,1,2,2,test,True,0
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_4.wav,Chestnut-backed_Owlet,619051,review_1033e8fbd211ac24,possible_1033e8fbd211ac24,content_5400092eb7277817,1,7,7,train,True,0
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_40.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 10,review_abd8b6f4d3730af2,possible_abd8b6f4d3730af2,content_66f75b89e2fa723b,2,5,3,test,True,0
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_41.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 11,review_eb876233920a4aee,possible_eb876233920a4aee,content_4112af9757d41425,1,8,8,train,True,0
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_42.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 12,review_9723d658b04ba060,possible_9723d658b04ba060,content_24c3ead2c9d280ec,1,6,6,train,True,0
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_43.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 13,review_05883ec4035b4129,possible_05883ec4035b4129,content_3be5226cdb8f6867,1,14,14,validation,True,0
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_44.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 14,review_088c9d44b7d1cc18,possible_088c9d44b7d1cc18,content_2c7aaeac05f70fac,1,8,8,train,True,0
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_45.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 15,review_88d1b5cf07e03d26,possible_88d1b5cf07e03d26,content_f1e70a65b2b0c37b,1,13,13,train,True,0
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_46.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 16,review_c0d5883775530d50,possible_c0d5883775530d50,content_f08ad894acf15fb9,1,3,3,train,True,0
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_47.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 17,review_ead4e098b1a0c8fc,possible_ead4e098b1a0c8fc,content_bb3632ada9b901c3,2,12,6,train,True,0
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_48.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 18,review_80d0596793ef93b6,possible_80d0596793ef93b6,content_be8652d40db8af85,1,4,4,train,True,0
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_49.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 19,review_649bd3a7cac06487,possible_649bd3a7cac06487,content_48e162254e2b4849,1,5,5,train,True,0
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_5.wav,Chestnut-backed_Owlet,534446,review_9b3e448e0072c70b,possible_9b3e448e0072c70b,content_df9e2adc8ad7ffed,1,9,9,train,True,0
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_50.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 20,review_51984d0b7b303323,possible_51984d0b7b303323,content_48487abfb9341046,1,3,3,train,True,0
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_51.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 21,review_7cd92c383b6189dd,possible_7cd92c383b6189dd,content_a69ab47835414405,1,5,5,train,True,0
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_52.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 22,review_132ac2ff957767aa,possible_132ac2ff957767aa,content_86b8b68cb14008f3,2,14,7,train,True,0
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_53.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 23,review_71264b3924b1008e,possible_71264b3924b1008e,content_7f5d426cd6529879,2,10,5,train,True,0
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_54.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 24,review_d6a5de758d005498,possible_d6a5de758d005498,content_744820d4cf746364,1,8,8,train,True,0
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_55.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 25,review_f3aba837c78482db,possible_f3aba837c78482db,content_387ea606620e2246,1,3,3,train,True,0
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_56.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 26,review_4340f4b792f245a8,possible_4340f4b792f245a8,content_bde29ec209b48e27,1,13,13,train,True,0
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_57.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 27,review_ef842e285a554628,possible_ef842e285a554628,content_19165132ba58178d,1,2,2,train,True,0
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_58.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 28,review_7b45d412dda6ff27,possible_7b45d412dda6ff27,content_d69fcf8f45e7d8fd,1,5,5,train,True,0
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_59.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 29,review_d136df11a80f6b38,possible_d136df11a80f6b38,content_ac72ef9f8b632c8f,1,6,6,train,True,0
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_6.wav,Chestnut-backed_Owlet,534443,review_955f1662cc8b96d5,possible_955f1662cc8b96d5,content_c1b79444bbd17e49,1,11,11,train,True,0
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_60.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 30,review_0619b49bb12264a6,possible_0619b49bb12264a6,content_e7ed1009fe287ec9,1,9,9,train,True,0
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_61.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 31,review_7acc48ee26a2b095,possible_7acc48ee26a2b095,content_9722c51dd8bf60fc,1,3,3,train,True,0
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_62.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 32,review_b329b76dbb4fb04b,possible_b329b76dbb4fb04b,content_94d963e0b43f8bb8,1,9,9,validation,True,0
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_63.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 33,review_7893e6b2ee8a0d57,possible_7893e6b2ee8a0d57,content_56548f0a3dd18a3c,1,4,4,train,True,0
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_64.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 34,review_f7d1141e4bf4c633,possible_f7d1141e4bf4c633,content_467aae1c3bba55fd,1,24,24,train,True,0
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_65.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 35,review_55bb390194f338dc,possible_55bb390194f338dc,content_57acc6e1c7447aad,1,7,7,train,True,0
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_66.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 36,review_8a716abf6edecbb8,possible_8a716abf6edecbb8,content_5f293a1677ae19d8,1,5,5,train,True,0
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_67.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 37,review_00218da5767a4412,possible_00218da5767a4412,content_85616b72d1c9c2b2,1,7,7,train,True,0
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_68.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 38,review_fe24e179f164fd6b,possible_fe24e179f164fd6b,content_1d64688c18e315c8,1,6,6,train,True,0
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_69.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 39,review_4ef00e9be8f1d5fe,possible_4ef00e9be8f1d5fe,content_a3fe8ef3aaf80b15,1,2,2,train,True,0
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_7.wav,Chestnut-backed_Owlet,346212,review_71264b3924b1008e,possible_71264b3924b1008e,content_7f5d426cd6529879,2,10,5,train,True,0
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_70.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 40,review_a01bd25b30d16ca6,possible_a01bd25b30d16ca6,content_307f66229b4fc529,1,4,4,train,True,0
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_71.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 41,review_3e40b40204828da7,possible_3e40b40204828da7,content_1bfe9e7744069f6e,1,15,15,train,True,0
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_72.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 42,review_5490498bc4db055f,possible_5490498bc4db055f,content_ea0feee170ae325a,1,5,5,train,True,0
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_73.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 43,review_c123dd2b0162c6cd,possible_c123dd2b0162c6cd,content_e23bafd91024aa05,1,4,4,train,True,0
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_74.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 44,review_4f2911d783ce619f,possible_4f2911d783ce619f,content_2e3557017e3604b3,1,4,4,test,True,0
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_75.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 45,review_ee8a3ead7b2b5222,possible_ee8a3ead7b2b5222,content_43d71b4a477a9f95,1,7,7,test,True,0
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_76.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 46,review_75e3cfbb04b5a17a,possible_75e3cfbb04b5a17a,content_38ad23c013ed2f55,1,2,2,validation,True,0
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_77.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 47,review_0c22c3a9d9b6d691,possible_0c22c3a9d9b6d691,content_b9edbe99cef5d2ea,1,7,7,train,True,0
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_78.wav,Chestnut-backed_Owlet,Chestnut-backed Owlet 48,review_90bead710125ef04,possible_90bead710125ef04,content_590e50cc73b1687d,1,5,5,train,True,0
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_8.wav,Chestnut-backed_Owlet,346134,review_0a06a151a8390984,possible_0a06a151a8390984,content_2ba7d84f8ac55cda,1,6,6,train,True,0
+birds_audio/Chestnut-backed_Owlet/Chestnut-backed_Owlet_9.wav,Chestnut-backed_Owlet,311297,review_308a3cea73ad38e4,possible_308a3cea73ad38e4,content_bdc1a1043946caf2,1,14,14,validation,True,0
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet.wav,Crimson-fronted_Barbet,543391,review_f856af19e70b5145,possible_f856af19e70b5145,content_ed94b0113d04ca96,1,5,5,train,True,0
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_10.wav,Crimson-fronted_Barbet,311361,review_514dc6ea28a45e22,possible_514dc6ea28a45e22,content_d94074f17183cc08,1,9,9,train,True,0
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_11.wav,Crimson-fronted_Barbet,207727,review_ad58d78f4e23b6ad,possible_ad58d78f4e23b6ad,content_c92caf606b9a250b,1,3,3,train,True,0
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_12.wav,Crimson-fronted_Barbet,619935,review_748a27ac49efcd2c,possible_748a27ac49efcd2c,content_dbbbed5f2e939273,1,4,4,train,True,0
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_13.wav,Crimson-fronted_Barbet,518766,review_1df3bac0957b78b7,possible_1df3bac0957b78b7,content_2d8e92df8b551c4f,1,5,5,train,True,0
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_14.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 1,review_cecffb998c43b6cb,possible_cecffb998c43b6cb,content_15195ea7d17aa084,1,8,8,train,True,0
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_15.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 2,review_484f9e536940aa0d,possible_484f9e536940aa0d,content_c63079e681f66d7e,1,34,34,train,True,1
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_16.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 3,review_a78b520cf8c4b051,possible_a78b520cf8c4b051,content_3ae17c861b6d22ac,1,15,15,test,True,0
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_17.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 4,review_914fc5e287cc00b7,possible_914fc5e287cc00b7,content_c55ccff59f589c64,1,4,4,train,True,0
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_18.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 5,review_4bd909fef9ac2b97,possible_4bd909fef9ac2b97,content_cb424ba44febe2cf,1,3,3,train,True,0
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_19.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 6,review_89aad7f093f4d913,possible_89aad7f093f4d913,content_578835fa49a1a6c6,1,3,3,test,True,0
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_2.wav,Crimson-fronted_Barbet,756597,review_f6cd092beda099d2,possible_f6cd092beda099d2,content_1b635601b5e32f27,2,4,2,train,True,0
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_20.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 7,review_07382af6a0cc8931,possible_07382af6a0cc8931,content_1de0f5adb6431728,1,5,5,train,True,0
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_21.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 8,review_4eb222e95b1b2a7e,possible_4eb222e95b1b2a7e,content_8a1531da8ff4359c,1,5,5,train,True,0
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_22.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 9,review_66f56532c70ba80f,possible_66f56532c70ba80f,content_386ec5ed7f42eac9,1,3,3,validation,True,0
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_23.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 10,review_8d99deaf030ac24a,possible_8d99deaf030ac24a,content_70a7c4285490f0f0,1,4,4,train,True,0
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_24.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 11,review_7d2bd1d358ed3d21,possible_7d2bd1d358ed3d21,content_25119a4b5ad94c77,1,9,9,train,True,0
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_25.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 12,review_f57e2504258386df,possible_f57e2504258386df,content_276334eca3abfa0b,1,28,28,train,True,0
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_26.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 13,review_f6cd092beda099d2,possible_f6cd092beda099d2,content_5cc1ae6613ee1534,2,4,2,train,True,0
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_27.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 14,review_1e8cae2b602feca0,possible_1e8cae2b602feca0,content_dd4ec88bb631b556,2,4,2,test,True,0
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_28.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 15,review_65d3d9d082e9d954,possible_65d3d9d082e9d954,content_1a4fbb86eea78f3f,2,10,5,train,True,0
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_29.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 16,review_8a600dfb85b739a2,possible_8a600dfb85b739a2,content_cd91e9a0ed3a87d4,2,8,4,train,True,0
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_3.wav,Crimson-fronted_Barbet,19626,review_1e8cae2b602feca0,possible_1e8cae2b602feca0,content_40a22eb6e824dd9d,2,4,2,test,True,0
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_30.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 17,review_6044f1a544679944,possible_6044f1a544679944,content_137146083c3cdca6,2,12,6,train,True,0
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_31.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 18,review_1b7c1b71344bcf52,possible_1b7c1b71344bcf52,content_fc70857d179971f3,1,2,2,train,True,0
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_32.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 19,review_4dec77b8e06d13d9,possible_4dec77b8e06d13d9,content_3b063bd6fbbe36ac,1,12,12,test,True,0
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_33.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 20,review_a405826ecb0da02f,possible_a405826ecb0da02f,content_6d59d52189e7b356,1,14,14,train,True,0
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_34.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 21,review_45d8a0a1e7150a8a,possible_45d8a0a1e7150a8a,content_550fb82ef832a1d9,1,5,5,validation,True,0
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_35.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 22,review_57fa698ed1057458,possible_57fa698ed1057458,content_7930c9904dd0c1e5,1,19,19,train,True,0
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_36.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 23,review_d0bcf990d7dea6ec,possible_d0bcf990d7dea6ec,content_c7176477c1a038d2,1,7,7,train,True,0
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_37.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 24,review_09cd89c63532f80e,possible_09cd89c63532f80e,content_338b0c2f18d6a480,1,13,13,validation,True,0
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_38.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 25,review_96dc2e1bda6b5a71,possible_96dc2e1bda6b5a71,content_580b4452b732258d,1,23,23,train,True,0
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_39.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 26,review_cf803de0051fc2e0,possible_cf803de0051fc2e0,content_c94cb930a7f268e0,1,1,1,train,True,0
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_4.wav,Crimson-fronted_Barbet,777853,review_65d3d9d082e9d954,possible_65d3d9d082e9d954,content_f445eeb1854a753a,2,10,5,train,True,0
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_40.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 27,review_59c945273223ef8a,possible_59c945273223ef8a,content_1da1a5f5b9790fd9,1,9,9,train,True,0
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_41.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 28,review_a7bd7762bc0d0653,possible_a7bd7762bc0d0653,content_c1aa38d5ae1ca768,1,1,1,train,True,0
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_42.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 29,review_fe14d3b89bf305a1,possible_fe14d3b89bf305a1,content_bca52d3ba94df710,1,7,7,validation,True,0
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_43.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 30,review_2cb381ddfed8dafe,possible_2cb381ddfed8dafe,content_5553931fd1827001,1,3,3,train,True,0
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_44.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 31,review_dd5ad2cb84dd6db9,possible_dd5ad2cb84dd6db9,content_abf06c36d099e3cb,1,3,3,train,True,0
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_45.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 32,review_894b760b7a2f0360,possible_894b760b7a2f0360,content_ca18e4920490133f,1,3,3,train,True,0
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_46.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 33,review_0897b993f67aab28,possible_0897b993f67aab28,content_ebea411b54415182,1,3,3,train,True,0
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_47.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 34,review_b78efcd445d2f461,possible_b78efcd445d2f461,content_807ce0a1c0818c19,1,2,2,train,True,0
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_48.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 35,review_1c3df8c463bf1010,possible_1c3df8c463bf1010,content_7b9d330047ab5519,1,4,4,train,True,0
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_49.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 36,review_256a707941b16537,possible_256a707941b16537,content_ad838b2fc8283df5,1,3,3,train,True,0
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_5.wav,Crimson-fronted_Barbet,648750,review_8a600dfb85b739a2,possible_8a600dfb85b739a2,content_738e41a2eb9bda9e,2,8,4,train,True,0
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_50.wav,Crimson-fronted_Barbet,Crimson-fronted Barbet 37,review_612af05c6462104d,possible_612af05c6462104d,content_abb632c8fce51ee9,1,4,4,validation,True,0
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_6.wav,Crimson-fronted_Barbet,619937,review_6044f1a544679944,possible_6044f1a544679944,content_f6337c2d27cd07f6,2,12,6,train,True,0
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_7.wav,Crimson-fronted_Barbet,311364,review_e4b3edc12d769bbc,possible_e4b3edc12d769bbc,content_c2650bed2b336473,1,3,3,train,True,0
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_8.wav,Crimson-fronted_Barbet,311363,review_8681a314dd184bd9,possible_8681a314dd184bd9,content_538bc85cc441d6a7,1,6,6,train,True,0
+birds_audio/Crimson-fronted_Barbet/Crimson-fronted_Barbet_9.wav,Crimson-fronted_Barbet,311362,review_bf7aaa40821c91eb,possible_bf7aaa40821c91eb,content_23fff6be4e2f995b,1,3,3,train,True,0
+birds_audio/Green-billed_Coucal/Green-billed_Coucal.wav,Green-billed_Coucal,1097217,review_9b95c779f169a6b0,possible_9b95c779f169a6b0,content_8362a07f55dce590,1,1,1,train,True,0
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_10.wav,Green-billed_Coucal,1097216,review_a4736b75118e6fa6,possible_a4736b75118e6fa6,content_141d1c55ee53c7ce,2,18,9,test,True,0
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_11.wav,Green-billed_Coucal,605499,review_f86c1ee79018ece8,possible_f86c1ee79018ece8,content_dd71a9d35b85f966,2,64,32,train,True,1
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_12.wav,Green-billed_Coucal,605497,review_d0448b20f61a9ab3,possible_d0448b20f61a9ab3,content_65935d901b543450,2,12,6,train,True,0
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_13.wav,Green-billed_Coucal,605496,review_578238d8b320ae9c,possible_578238d8b320ae9c,content_bed90333a2a355f3,1,2,2,train,True,0
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_14.wav,Green-billed_Coucal,343015,review_20fd5b6437c39928,possible_20fd5b6437c39928,content_5cf2864fcde95dbc,1,2,2,train,True,0
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_15.wav,Green-billed_Coucal,311175,review_fbcbd4db951cecfc,possible_fbcbd4db951cecfc,content_b7e053678bdd029b,1,10,10,train,True,0
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_16.wav,Green-billed_Coucal,311174,review_29398d894235ecab,possible_29398d894235ecab,content_4aadfd3e3c22d3ef,2,10,5,train,True,0
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_17.wav,Green-billed_Coucal,311171,review_0979bcc6f5a081bd,possible_0979bcc6f5a081bd,content_0f6708e133ad0fe7,1,13,13,train,True,0
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_18.wav,Green-billed_Coucal,311170,review_7b6e20c9d4ddd1dd,possible_7b6e20c9d4ddd1dd,content_3c4e69659c24fd5e,1,10,10,validation,True,0
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_19.wav,Green-billed_Coucal,207878,review_bd373f757dc23e40,possible_bd373f757dc23e40,content_f3370dbe2cafa6d9,1,3,3,validation,True,0
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_2.wav,Green-billed_Coucal,605498,review_0fe902e9d345a340,possible_0fe902e9d345a340,content_248e6b1d31956d9d,1,3,3,train,True,0
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_20.wav,Green-billed_Coucal,67884,review_9e12ae0dc3d3633b,possible_9e12ae0dc3d3633b,content_386985e9948ee22e,1,2,2,train,True,0
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_21.wav,Green-billed_Coucal,67883,review_6e7afe1655548710,possible_6e7afe1655548710,content_d6c3db1c15912758,1,9,9,train,True,0
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_22.wav,Green-billed_Coucal,756566,review_e0c3ed4a07db662f,possible_e0c3ed4a07db662f,content_e7e501ab6bec7aaa,1,12,12,train,True,0
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_23.wav,Green-billed_Coucal,756565,review_4d5b94ecf778794c,possible_4d5b94ecf778794c,content_444d66235e728b95,1,3,3,train,True,0
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_24.wav,Green-billed_Coucal,342683,review_4d7fff1f67ab7a95,possible_4d7fff1f67ab7a95,content_de6ed59d7f43cc67,1,1,1,train,True,0
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_25.wav,Green-billed_Coucal,Green-billed Coucal 1,review_f9ec5ac918c255d7,possible_f9ec5ac918c255d7,content_e05ca4b6ff2cd3da,1,29,29,test,True,0
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_26.wav,Green-billed_Coucal,Green-billed Coucal 2,review_e340187819f0a73e,possible_e340187819f0a73e,content_b43351f26ec8a047,1,157,157,train,True,6
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_27.wav,Green-billed_Coucal,Green-billed Coucal 3,review_8bbd1d479cb91244,possible_8bbd1d479cb91244,content_14d2445234f9bd17,1,6,6,train,True,6
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_28.wav,Green-billed_Coucal,Green-billed Coucal 4,review_7403e1593c07c453,possible_7403e1593c07c453,content_04884f95815d0dcb,1,7,7,train,True,0
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_29.wav,Green-billed_Coucal,Green-billed Coucal 5,review_c43350fc98f10c05,possible_c43350fc98f10c05,content_db9cfbe75eec688f,1,10,10,train,True,0
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_3.wav,Green-billed_Coucal,311173,review_9d75c822ed5385d4,possible_9d75c822ed5385d4,content_e54d49f20c17d0bf,3,51,15,train,True,0
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_30.wav,Green-billed_Coucal,Green-billed Coucal 6,review_fc8fe7fcd9fb80a6,possible_fc8fe7fcd9fb80a6,content_10d6220be72c78d8,1,48,48,validation,True,0
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_31.wav,Green-billed_Coucal,Green-billed Coucal 7,review_85d3b9ef0c61cd70,possible_85d3b9ef0c61cd70,content_2a6bcac5f3316c7d,1,9,9,train,True,0
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_32.wav,Green-billed_Coucal,Green-billed Coucal 8,review_9d75c822ed5385d4,possible_9d75c822ed5385d4,content_653469537a425baf,3,51,25,train,True,0
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_33.wav,Green-billed_Coucal,Green-billed Coucal 9,review_c981ab93ef4cb09d,possible_c981ab93ef4cb09d,content_7b4362aa62254123,1,23,23,train,True,0
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_34.wav,Green-billed_Coucal,Green-billed Coucal 10,review_185a0620ee5d8b82,possible_185a0620ee5d8b82,content_defec7741ffcb10f,2,70,35,train,True,5
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_35.wav,Green-billed_Coucal,Green-billed Coucal 11,review_a4736b75118e6fa6,possible_a4736b75118e6fa6,content_45a8ba9e0574bdf6,2,18,9,test,True,0
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_36.wav,Green-billed_Coucal,Green-billed Coucal 12,review_f86c1ee79018ece8,possible_f86c1ee79018ece8,content_5bcf078d8f85000c,2,64,32,train,True,2
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_37.wav,Green-billed_Coucal,Green-billed Coucal 13,review_d0448b20f61a9ab3,possible_d0448b20f61a9ab3,content_e9aeea401b492565,2,12,6,train,True,0
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_38.wav,Green-billed_Coucal,Green-billed Coucal 14,review_dc0d190ec4cca1a4,possible_dc0d190ec4cca1a4,content_079a482d6b98dbd7,1,2,2,train,True,0
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_39.wav,Green-billed_Coucal,Green-billed Coucal 15,review_bb9908a29f75d739,possible_bb9908a29f75d739,content_d3fd2596b6911bc0,1,2,2,validation,True,0
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_4.wav,Green-billed_Coucal,311172,review_9d75c822ed5385d4,possible_9d75c822ed5385d4,content_4e2892d8af469b8b,3,51,11,train,True,0
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_40.wav,Green-billed_Coucal,Green-billed Coucal 16,review_4d911521fd1ac563,possible_4d911521fd1ac563,content_2796bbbec928cf33,1,2,2,train,True,0
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_41.wav,Green-billed_Coucal,Green-billed Coucal 17,review_eb18bb2aef272b7b,possible_eb18bb2aef272b7b,content_5cbcc12456f3d9b3,1,4,4,train,True,0
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_42.wav,Green-billed_Coucal,Green-billed Coucal 18,review_29398d894235ecab,possible_29398d894235ecab,content_4aadfd3e3c22d3ef,2,10,5,train,True,0
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_43.wav,Green-billed_Coucal,Green-billed Coucal 19,review_8985be5412d6137a,possible_8985be5412d6137a,content_fc60cda522ab5bf0,1,5,5,train,True,0
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_44.wav,Green-billed_Coucal,Green-billed Coucal 20,review_2abcd53bbd2cfc75,possible_2abcd53bbd2cfc75,content_abd85369ca727584,1,3,3,test,True,0
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_45.wav,Green-billed_Coucal,Green-billed Coucal 21,review_482f91e1d63ae4af,possible_482f91e1d63ae4af,content_c38da2f5e2abb378,1,1,1,train,True,0
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_46.wav,Green-billed_Coucal,Green-billed Coucal 22,review_824210bdbaf8e945,possible_824210bdbaf8e945,content_833decdd03ad6bf5,1,4,4,train,True,0
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_47.wav,Green-billed_Coucal,Green-billed Coucal 23,review_6f7b21e8b561b081,possible_6f7b21e8b561b081,content_28eaee6c7b62a89f,1,2,2,train,True,0
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_48.wav,Green-billed_Coucal,Green-billed Coucal 24,review_3b7f5e3c7146669c,possible_3b7f5e3c7146669c,content_d07f06aaf8f73624,1,23,23,train,True,0
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_49.wav,Green-billed_Coucal,Green-billed Coucal 25,review_dbc4ebd135b9e4bd,possible_dbc4ebd135b9e4bd,content_d7681a9f51dcadff,1,4,4,train,True,0
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_5.wav,Green-billed_Coucal,211559,review_70ccca3487b17f05,possible_70ccca3487b17f05,content_54c998a1927d494c,1,6,6,train,True,0
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_50.wav,Green-billed_Coucal,Green-billed Coucal 26,review_e4f0a81af7684e63,possible_e4f0a81af7684e63,content_034f3d815c456888,1,6,6,train,True,0
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_51.wav,Green-billed_Coucal,Green-billed Coucal 27,review_23fe795eac738faf,possible_23fe795eac738faf,content_32c53909f585055d,1,1,1,validation,True,0
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_52.wav,Green-billed_Coucal,Green-billed Coucal 28,review_e28523498c091935,possible_e28523498c091935,content_f816a19872f87de8,1,1,1,train,True,0
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_53.wav,Green-billed_Coucal,Green-billed Coucal 29,review_1e3e15d81a68c87b,possible_1e3e15d81a68c87b,content_ef5c5663f6e1491f,1,1,1,train,True,0
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_54.wav,Green-billed_Coucal,Green-billed Coucal 30,review_4b5fd3d6ad8f237c,possible_4b5fd3d6ad8f237c,content_85e11f48f9abce61,1,1,1,test,True,0
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_55.wav,Green-billed_Coucal,Green-billed Coucal 31,review_3cb91d0f19e85a6f,possible_3cb91d0f19e85a6f,content_b85cb28be1c2fb4b,1,11,11,train,True,0
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_56.wav,Green-billed_Coucal,Green-billed Coucal 32,review_19b7f070bd2294ab,possible_19b7f070bd2294ab,content_46798c80001c95f3,1,22,22,validation,True,0
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_57.wav,Green-billed_Coucal,Green-billed Coucal 33,review_976044eccc4ec69a,possible_976044eccc4ec69a,content_a7d0ce33bb702a3c,1,17,17,test,True,0
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_58.wav,Green-billed_Coucal,Green-billed Coucal 34,review_e35d4b95c8e7aa31,possible_e35d4b95c8e7aa31,content_5be6416ef21b8bab,1,16,16,test,True,0
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_59.wav,Green-billed_Coucal,Green-billed Coucal 35,review_158786dc29c593dc,possible_158786dc29c593dc,content_c98add584ab143ba,1,89,89,train,True,0
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_6.wav,Green-billed_Coucal,190811,review_750f364bab60e4ad,possible_750f364bab60e4ad,content_569c83ecb75b50fa,1,4,4,train,True,0
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_60.wav,Green-billed_Coucal,Green-billed Coucal 36,review_708e88426c93c70b,possible_708e88426c93c70b,content_578009fb78c1ca46,1,3,3,train,True,0
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_61.wav,Green-billed_Coucal,Green-billed Coucal 37,review_c30d81ddb43f2c38,possible_c30d81ddb43f2c38,content_3de35c4a3cadd7b5,1,1,1,train,True,0
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_62.wav,Green-billed_Coucal,Green-billed Coucal 38,review_b281cfb8a547b381,possible_b281cfb8a547b381,content_cc7e3d4c8b14fcf0,1,2,2,train,True,0
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_63.wav,Green-billed_Coucal,Green-billed Coucal 39,review_1c3ee4b3192cb48f,possible_1c3ee4b3192cb48f,content_f890e61bf322f392,1,8,8,train,True,0
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_64.wav,Green-billed_Coucal,Green-billed Coucal 40,review_98a4baae864123b4,possible_98a4baae864123b4,content_9fef4aa9ee1fe979,1,5,5,train,True,0
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_7.wav,Green-billed_Coucal,190810,review_11db971140b40048,possible_11db971140b40048,content_229c819df81fa6bc,1,3,3,train,True,0
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_8.wav,Green-billed_Coucal,19694,review_23784721b0427985,possible_23784721b0427985,content_c681ffe136c8f673,1,9,9,train,True,0
+birds_audio/Green-billed_Coucal/Green-billed_Coucal_9.wav,Green-billed_Coucal,19267,review_185a0620ee5d8b82,possible_185a0620ee5d8b82,content_ee7c31a6fb5403a2,2,70,35,train,True,2
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush.wav,Spot-winged_Thrush,756592,review_35a8151f40390dc8,possible_35a8151f40390dc8,content_38454f1a7a509790,1,13,13,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_10.wav,Spot-winged_Thrush,311291,review_aca4bc8cee0744b7,possible_aca4bc8cee0744b7,content_9ac2ca3549ddfcf4,1,15,15,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_100.wav,Spot-winged_Thrush,Spot-winged Thrush 54,review_618fe389aefde0c6,possible_618fe389aefde0c6,content_c0debf27e1191489,1,4,4,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_101.wav,Spot-winged_Thrush,Spot-winged Thrush 55,review_e12b8ea649ad57a2,possible_e12b8ea649ad57a2,content_7b9bf82a012e38ef,1,18,18,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_102.wav,Spot-winged_Thrush,Spot-winged Thrush 56,review_93b3110d813b9e74,possible_93b3110d813b9e74,content_31baa132cd07c086,1,19,19,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_103.wav,Spot-winged_Thrush,Spot-winged Thrush 57,review_6c6d587efc25d942,possible_6c6d587efc25d942,content_e57c3306bfb085a9,1,2,2,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_104.wav,Spot-winged_Thrush,Spot-winged Thrush 58,review_6be8cdf5e24ee0f0,possible_6be8cdf5e24ee0f0,content_97274c6fd31c4e6d,1,1,1,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_105.wav,Spot-winged_Thrush,Spot-winged Thrush 59,review_a29e337b9fe1c82f,possible_a29e337b9fe1c82f,content_42eb810df5ef61b1,1,11,11,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_106.wav,Spot-winged_Thrush,Spot-winged Thrush 60,review_3012a61820667ffc,possible_3012a61820667ffc,content_75a4af2f582a4571,1,1,1,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_107.wav,Spot-winged_Thrush,Spot-winged Thrush 61,review_bd4f25ca27f91070,possible_bd4f25ca27f91070,content_1844d102f2c2c1a0,1,14,14,test,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_108.wav,Spot-winged_Thrush,Spot-winged Thrush 62,review_0ba849370217be8c,possible_0ba849370217be8c,content_6ac1ae8b3e58fa32,1,25,25,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_109.wav,Spot-winged_Thrush,Spot-winged Thrush 63,review_89e4d2cdef505c04,possible_89e4d2cdef505c04,content_f752074dcd8da565,1,68,68,train,True,3
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_11.wav,Spot-winged_Thrush,311290,review_d7736e047d9b3b47,possible_d7736e047d9b3b47,content_59f905db2d1bcc66,1,32,32,validation,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_12.wav,Spot-winged_Thrush,237195,review_849bdaa3e671cd1d,possible_849bdaa3e671cd1d,content_b63ab1f4a9c3f013,1,13,13,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_13.wav,Spot-winged_Thrush,211580,review_89d6efd3e7be37b8,possible_89d6efd3e7be37b8,content_6630e21f6ff9482c,1,24,24,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_14.wav,Spot-winged_Thrush,211579,review_6a7aba1e46230ce3,possible_6a7aba1e46230ce3,content_ae9c8d83cc8b88e8,1,6,6,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_15.wav,Spot-winged_Thrush,190808,review_b2bade033408d744,possible_b2bade033408d744,content_69e96714b20c4fef,1,8,8,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_16.wav,Spot-winged_Thrush,190807,review_a18fa47d06ebdeac,possible_a18fa47d06ebdeac,content_99b892b05380ef8e,2,18,9,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_17.wav,Spot-winged_Thrush,181984,review_9acd569968b2db57,possible_9acd569968b2db57,content_4b71525afaeb5c13,1,18,18,train,True,1
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_18.wav,Spot-winged_Thrush,69757,review_0a764c10a26a3a2d,possible_0a764c10a26a3a2d,content_157994570a216a35,2,44,22,validation,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_19.wav,Spot-winged_Thrush,42794,review_92b7d65951f3993e,possible_92b7d65951f3993e,content_a62bbf84f748f38e,2,24,12,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_2.wav,Spot-winged_Thrush,756591,review_6b1b015db045b73e,possible_6b1b015db045b73e,content_fa9149ff7e856d2b,1,26,26,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_20.wav,Spot-winged_Thrush,1096446,review_3744774e51448328,possible_3744774e51448328,content_9bf84474c6fd7b3f,2,12,6,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_21.wav,Spot-winged_Thrush,777387,review_2ba14223ad2fc412,possible_2ba14223ad2fc412,content_fcc4372e18028870,1,4,4,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_22.wav,Spot-winged_Thrush,777373,review_74510be15268afe6,possible_74510be15268afe6,content_184a6fb5ea791b57,2,20,10,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_23.wav,Spot-winged_Thrush,648202,review_4764208dbe4a35fe,possible_4764208dbe4a35fe,content_94c04de7aa6d6ce0,1,6,6,train,True,1
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_24.wav,Spot-winged_Thrush,648201,review_b6e18463cba66042,possible_b6e18463cba66042,content_9250a011e7072ea7,1,7,7,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_25.wav,Spot-winged_Thrush,648196,review_e3554cbbe027c469,possible_e3554cbbe027c469,content_d0193ace71426293,1,5,5,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_26.wav,Spot-winged_Thrush,648194,review_4a141df9b1dd1c59,possible_4a141df9b1dd1c59,content_86c02c01fd917c18,1,15,15,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_27.wav,Spot-winged_Thrush,648191,review_a135ed476eb66f54,possible_a135ed476eb66f54,content_0375df1f3a159b66,1,7,7,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_28.wav,Spot-winged_Thrush,648187,review_4724c5ceaaaac401,possible_4724c5ceaaaac401,content_99a1aee772211f5f,1,24,24,validation,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_29.wav,Spot-winged_Thrush,648185,review_da8fe45163e57546,possible_da8fe45163e57546,content_62e2010d414a0837,1,3,3,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_3.wav,Spot-winged_Thrush,756590,review_4279c6e48e579636,possible_4279c6e48e579636,content_e5d0b406471b79ac,1,10,10,test,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_30.wav,Spot-winged_Thrush,311289,review_728635d45f4d66c0,possible_728635d45f4d66c0,content_7dfc9da7b7c18f1a,1,3,3,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_31.wav,Spot-winged_Thrush,207885,review_5dd228f65c9cfb8a,possible_5dd228f65c9cfb8a,content_46f077dd224a1649,1,5,5,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_32.wav,Spot-winged_Thrush,207884,review_612ea45e35be8616,possible_612ea45e35be8616,content_19ba68e8362e8720,1,13,13,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_33.wav,Spot-winged_Thrush,199814,review_2664a475bf7297d5,possible_2664a475bf7297d5,content_218d56f24e286875,1,17,17,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_34.wav,Spot-winged_Thrush,181985,review_9f25e9d899badab2,possible_9f25e9d899badab2,content_03d4fd6ae7bf54d5,1,25,25,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_35.wav,Spot-winged_Thrush,165381,review_f64f4c504e8ded63,possible_f64f4c504e8ded63,content_91c838ca63ab4850,1,13,13,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_36.wav,Spot-winged_Thrush,102791,review_8058539889eaca04,possible_8058539889eaca04,content_da3b8bc748a6a9e6,1,14,14,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_37.wav,Spot-winged_Thrush,102790,review_efb8a41f96d93128,possible_efb8a41f96d93128,content_0ef5932e6fbf2cf8,1,22,22,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_38.wav,Spot-winged_Thrush,79368,review_9e450d21f7ef5091,possible_9e450d21f7ef5091,content_ea0759982e2d20f6,1,15,15,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_39.wav,Spot-winged_Thrush,69759,review_894423d5c50921e1,possible_894423d5c50921e1,content_b0d1ba952abb3eb6,1,8,8,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_4.wav,Spot-winged_Thrush,648205,review_6bba17b5cf87a5b7,possible_6bba17b5cf87a5b7,content_6b16efa0352e8787,1,1,1,validation,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_40.wav,Spot-winged_Thrush,69756,review_337edd415b0a20f2,possible_337edd415b0a20f2,content_aa8c3eac3e48fa70,1,16,16,validation,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_41.wav,Spot-winged_Thrush,69755,review_a1bd968ea0e0c11e,possible_a1bd968ea0e0c11e,content_ef64eae412a1786b,1,24,24,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_42.wav,Spot-winged_Thrush,1096445,review_a81289d4b58cc1a2,possible_a81289d4b58cc1a2,content_e7eaca58aaa9c097,1,21,21,validation,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_43.wav,Spot-winged_Thrush,1076469,review_fadb2c42a454b0cd,possible_fadb2c42a454b0cd,content_86c35b5358e67168,1,8,8,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_44.wav,Spot-winged_Thrush,648197,review_ddaca24f27852698,possible_ddaca24f27852698,content_63dd20a0d8e65cd5,1,13,13,test,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_45.wav,Spot-winged_Thrush,453480,review_d24ca65f74622064,possible_d24ca65f74622064,content_67788a7d4c4a5802,1,9,9,test,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_46.wav,Spot-winged_Thrush,69758,review_c918db7725737b78,possible_c918db7725737b78,content_f441c395ae6bf1df,2,66,33,test,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_47.wav,Spot-winged_Thrush,Spot-winged Thrush 1,review_0cf33faae06f6598,possible_0cf33faae06f6598,content_802091df41aa7089,1,14,14,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_48.wav,Spot-winged_Thrush,Spot-winged Thrush 2,review_cddfed13512fbd95,possible_cddfed13512fbd95,content_f937b826c9e665dd,1,401,401,train,True,9
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_49.wav,Spot-winged_Thrush,Spot-winged Thrush 3,review_c918db7725737b78,possible_c918db7725737b78,content_e746c77c2f9f22c4,2,66,33,test,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_5.wav,Spot-winged_Thrush,648204,review_41decc18b212a846,possible_41decc18b212a846,content_e9e8affc521bea05,1,10,10,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_50.wav,Spot-winged_Thrush,Spot-winged Thrush 4,review_3744774e51448328,possible_3744774e51448328,content_b77c60e2d7ebefb4,2,12,6,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_51.wav,Spot-winged_Thrush,Spot-winged Thrush 5,review_b74c865092f11fee,possible_b74c865092f11fee,content_fe3c6439b26302b6,1,2,2,validation,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_52.wav,Spot-winged_Thrush,Spot-winged Thrush 6,review_c59686eadf637cf1,possible_c59686eadf637cf1,content_4b179bebd3c29666,1,12,12,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_53.wav,Spot-winged_Thrush,Spot-winged Thrush 7,review_a4bc81dec42a2646,possible_a4bc81dec42a2646,content_56cc1e6e827a1a82,1,12,12,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_54.wav,Spot-winged_Thrush,Spot-winged Thrush 8,review_364f33a2272e7637,possible_364f33a2272e7637,content_acd7ea5e0756b1df,1,15,15,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_55.wav,Spot-winged_Thrush,Spot-winged Thrush 9,review_ede9e2d4fb55e968,possible_ede9e2d4fb55e968,content_4c5543cfc25fc939,1,18,18,test,True,1
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_56.wav,Spot-winged_Thrush,Spot-winged Thrush 10,review_0a764c10a26a3a2d,possible_0a764c10a26a3a2d,content_c345532640deae5d,2,44,22,validation,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_57.wav,Spot-winged_Thrush,Spot-winged Thrush 11,review_92b7d65951f3993e,possible_92b7d65951f3993e,content_386abd2283785049,2,24,12,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_58.wav,Spot-winged_Thrush,Spot-winged Thrush 12,review_fc7e7b4ef2f5ddcd,possible_fc7e7b4ef2f5ddcd,content_8e8ac241b5b6c4dd,1,5,5,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_59.wav,Spot-winged_Thrush,Spot-winged Thrush 13,review_c47c8b31034591db,possible_c47c8b31034591db,content_d0d5b88abd7c1cd0,1,6,6,train,True,1
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_6.wav,Spot-winged_Thrush,536455,review_50a0d03ad1734069,possible_50a0d03ad1734069,content_cf46b6c82360349c,1,19,19,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_60.wav,Spot-winged_Thrush,Spot-winged Thrush 14,review_37158a375728052f,possible_37158a375728052f,content_bc8ba51823d105ce,1,5,5,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_61.wav,Spot-winged_Thrush,Spot-winged Thrush 15,review_c8abde1c13ca5f06,possible_c8abde1c13ca5f06,content_fcf80a7a789802c9,1,3,3,test,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_62.wav,Spot-winged_Thrush,Spot-winged Thrush 16,review_74510be15268afe6,possible_74510be15268afe6,content_67263065362bde17,2,20,10,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_63.wav,Spot-winged_Thrush,Spot-winged Thrush 17,review_a0400a437eeeca20,possible_a0400a437eeeca20,content_36872ecba428af36,1,13,13,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_64.wav,Spot-winged_Thrush,Spot-winged Thrush 18,review_a18fa47d06ebdeac,possible_a18fa47d06ebdeac,content_99b892b05380ef8e,2,18,9,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_65.wav,Spot-winged_Thrush,Spot-winged Thrush 19,review_f1af323ef01b1ddc,possible_f1af323ef01b1ddc,content_38fd4019c025be9b,1,4,4,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_66.wav,Spot-winged_Thrush,Spot-winged Thrush 20,review_a4c87613374dbf40,possible_a4c87613374dbf40,content_732cce08cdac3a20,1,8,8,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_67.wav,Spot-winged_Thrush,Spot-winged Thrush 21,review_c141423b658b34cb,possible_c141423b658b34cb,content_14ae7febbaccfb8f,1,9,9,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_68.wav,Spot-winged_Thrush,Spot-winged Thrush 22,review_b7386bf0fc238666,possible_b7386bf0fc238666,content_867d6fb37b40bbb6,1,13,13,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_69.wav,Spot-winged_Thrush,Spot-winged Thrush 23,review_9bb70ab61082afac,possible_9bb70ab61082afac,content_b2cece3ff1137466,1,16,16,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_7.wav,Spot-winged_Thrush,346140,review_eac95bea9cbf8be0,possible_eac95bea9cbf8be0,content_da60d5820b08e3e7,1,9,9,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_70.wav,Spot-winged_Thrush,Spot-winged Thrush 24,review_97410bb0c0aa689d,possible_97410bb0c0aa689d,content_e029ee7c735aa1fb,1,16,16,test,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_71.wav,Spot-winged_Thrush,Spot-winged Thrush 25,review_c65ef946adeb7724,possible_c65ef946adeb7724,content_125d4a0b31a31869,1,7,7,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_72.wav,Spot-winged_Thrush,Spot-winged Thrush 26,review_d819f5b43afb61ce,possible_d819f5b43afb61ce,content_af1c72f4471832a7,1,9,9,validation,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_73.wav,Spot-winged_Thrush,Spot-winged Thrush 27,review_fc72321cb5cefd73,possible_fc72321cb5cefd73,content_f64d5822b697f190,1,13,13,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_74.wav,Spot-winged_Thrush,Spot-winged Thrush 28,review_47881ce0a330e63e,possible_47881ce0a330e63e,content_0f9e0ccfaf9e1473,1,4,4,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_75.wav,Spot-winged_Thrush,Spot-winged Thrush 29,review_97510321694c58a5,possible_97510321694c58a5,content_c7ad3982f9990c70,1,3,3,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_76.wav,Spot-winged_Thrush,Spot-winged Thrush 30,review_4b3a5ce07d621025,possible_4b3a5ce07d621025,content_b3db425fe33b5d54,2,8,2,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_77.wav,Spot-winged_Thrush,Spot-winged Thrush 31,review_4b3a5ce07d621025,possible_4b3a5ce07d621025,content_56bed52c1bc7764a,2,8,6,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_78.wav,Spot-winged_Thrush,Spot-winged Thrush 32,review_ac8755d9bbf0c222,possible_ac8755d9bbf0c222,content_5a2159b53a96740d,1,10,10,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_79.wav,Spot-winged_Thrush,Spot-winged Thrush 33,review_87cc71b85438daf5,possible_87cc71b85438daf5,content_362fd292741dc6df,1,7,7,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_8.wav,Spot-winged_Thrush,345001,review_780ef0a440513666,possible_780ef0a440513666,content_b571f5cef6992d01,1,9,9,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_80.wav,Spot-winged_Thrush,Spot-winged Thrush 34,review_ff290669ef3819e4,possible_ff290669ef3819e4,content_54372a4e40c02656,1,18,18,validation,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_81.wav,Spot-winged_Thrush,Spot-winged Thrush 35,review_1327cdb0adb58392,possible_1327cdb0adb58392,content_6f184b01c6bf7b08,1,20,20,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_82.wav,Spot-winged_Thrush,Spot-winged Thrush 36,review_81a09999592bdb77,possible_81a09999592bdb77,content_f50bcc421a71f9c7,1,18,18,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_83.wav,Spot-winged_Thrush,Spot-winged Thrush 37,review_80178f436813e5ad,possible_80178f436813e5ad,content_5d76436eed955d00,1,10,10,validation,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_84.wav,Spot-winged_Thrush,Spot-winged Thrush 38,review_9e119667c900e412,possible_9e119667c900e412,content_907d7ac53ceba8d1,1,8,8,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_85.wav,Spot-winged_Thrush,Spot-winged Thrush 39,review_f938dfbdc6ef6769,possible_f938dfbdc6ef6769,content_e08c8053f8df9b44,1,10,10,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_86.wav,Spot-winged_Thrush,Spot-winged Thrush 40,review_38a95e049d560d81,possible_38a95e049d560d81,content_c816c2b95afffe8f,1,32,32,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_87.wav,Spot-winged_Thrush,Spot-winged Thrush 41,review_9fbd6cb47bf61007,possible_9fbd6cb47bf61007,content_60bf23b436dcb56c,1,11,11,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_88.wav,Spot-winged_Thrush,Spot-winged Thrush 42,review_0470565358393395,possible_0470565358393395,content_2704aa3ef33b4bf5,1,2,2,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_89.wav,Spot-winged_Thrush,Spot-winged Thrush 43,review_466e800581e6d0de,possible_466e800581e6d0de,content_dacc47cbecaa03c6,1,3,3,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_9.wav,Spot-winged_Thrush,342682,review_e22a48d10cfbaf90,possible_e22a48d10cfbaf90,content_deed8e6c0d0d1456,1,13,13,test,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_90.wav,Spot-winged_Thrush,Spot-winged Thrush 44,review_67c9b575f61dee6b,possible_67c9b575f61dee6b,content_b836d175592d9a29,1,3,3,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_91.wav,Spot-winged_Thrush,Spot-winged Thrush 45,review_51a8aa6ed84c8580,possible_51a8aa6ed84c8580,content_9c2da0023586c179,1,3,3,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_92.wav,Spot-winged_Thrush,Spot-winged Thrush 46,review_ac26ce876146ec35,possible_ac26ce876146ec35,content_bf3cd68ad51b1d31,1,3,3,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_93.wav,Spot-winged_Thrush,Spot-winged Thrush 47,review_afd787467ca2e96f,possible_afd787467ca2e96f,content_0f065bb928c1b79f,1,2,2,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_94.wav,Spot-winged_Thrush,Spot-winged Thrush 48,review_857309bbc1249854,possible_857309bbc1249854,content_ad755c8089956284,1,5,5,test,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_95.wav,Spot-winged_Thrush,Spot-winged Thrush 49,review_cf82c287752aad70,possible_cf82c287752aad70,content_ad36331db743db53,1,5,5,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_96.wav,Spot-winged_Thrush,Spot-winged Thrush 50,review_1a872dbba2fed03b,possible_1a872dbba2fed03b,content_490b273ed8eb85c1,1,5,5,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_97.wav,Spot-winged_Thrush,Spot-winged Thrush 51,review_e8e303acf974aaf5,possible_e8e303acf974aaf5,content_7f8027943832fc8d,1,6,6,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_98.wav,Spot-winged_Thrush,Spot-winged Thrush 52,review_0b64a5877ee37d35,possible_0b64a5877ee37d35,content_aa687b7138e31e4d,1,6,6,train,True,0
+birds_audio/Spot-winged_Thrush/Spot-winged_Thrush_99.wav,Spot-winged_Thrush,Spot-winged Thrush 53,review_7958335c29f294a2,possible_7958335c29f294a2,content_d444681b3965b362,1,8,8,train,True,0
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie.wav,Sri_Lanka_Blue_Magpie,1075554,review_0854d3e349059151,possible_0854d3e349059151,content_85865115d8cdd0a9,1,15,15,train,True,0
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_10.wav,Sri_Lanka_Blue_Magpie,343022,review_1aaa29323e6de7e5,possible_1aaa29323e6de7e5,content_68c77c9ba62e6aa0,1,4,4,train,True,0
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_11.wav,Sri_Lanka_Blue_Magpie,343019,review_03a71032b7359c96,possible_03a71032b7359c96,content_57d2bcb09a704780,1,2,2,train,True,0
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_12.wav,Sri_Lanka_Blue_Magpie,311534,review_f7f9939410e9a63c,possible_f7f9939410e9a63c,content_59ebb21841270a9f,1,12,12,train,True,0
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_13.wav,Sri_Lanka_Blue_Magpie,207774,review_9ae5f081e8344c54,possible_9ae5f081e8344c54,content_86969b246aace6ef,1,5,5,train,True,0
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_14.wav,Sri_Lanka_Blue_Magpie,79369,review_be0a49ceca17dd68,possible_be0a49ceca17dd68,content_049bc63d1edb23d0,1,7,7,train,True,0
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_15.wav,Sri_Lanka_Blue_Magpie,42787,review_fc1566d0a5737041,possible_fc1566d0a5737041,content_0daa9b241b3207e1,1,21,21,validation,True,0
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_16.wav,Sri_Lanka_Blue_Magpie,1075550,review_7e7daf0969ef0c14,possible_7e7daf0969ef0c14,content_649bbdc709776b5e,1,2,2,train,True,0
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_17.wav,Sri_Lanka_Blue_Magpie,346141,review_cc5e397500a06265,possible_cc5e397500a06265,content_e2915e538f681e74,1,14,14,train,True,0
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_18.wav,Sri_Lanka_Blue_Magpie,224203,review_f3e47529546b14f0,possible_f3e47529546b14f0,content_bea579bd1c9d1c68,1,17,17,train,True,0
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_19.wav,Sri_Lanka_Blue_Magpie,211795,review_1122496425893b01,possible_1122496425893b01,content_3e69593a8a027915,1,9,9,train,True,0
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_2.wav,Sri_Lanka_Blue_Magpie,840505,review_9c48d815e11d6997,possible_9c48d815e11d6997,content_e3c632910314fe9d,1,12,12,train,True,0
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_20.wav,Sri_Lanka_Blue_Magpie,629616,review_a6f2175697ec2587,possible_a6f2175697ec2587,content_72b72aa509f3cc08,1,7,7,train,True,0
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_21.wav,Sri_Lanka_Blue_Magpie,629613,review_94ed2383ae98c445,possible_94ed2383ae98c445,content_92c4509e1ee22c55,1,3,3,train,True,0
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_22.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 1,review_9d462e798eee8121,possible_9d462e798eee8121,content_8e942edef4ba4955,1,7,7,validation,True,0
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_23.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 2,review_d5c77a2982335204,possible_d5c77a2982335204,content_96702d2d31e82964,1,3,3,train,True,0
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_24.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 3,review_2ed22f41655ba800,possible_2ed22f41655ba800,content_c9f18cb9520d413e,1,35,35,train,True,0
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_25.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 4,review_5944b89ea1430483,possible_5944b89ea1430483,content_8704b767ceb00105,1,9,9,train,True,0
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_26.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 5,review_6719f1a684041ac6,possible_6719f1a684041ac6,content_18509dfbd5c1055a,1,10,10,test,True,0
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_27.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 6,review_12353afb068ade6e,possible_12353afb068ade6e,content_565ad1eaed2432a8,1,2,2,train,True,0
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_28.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 7,review_390be4d0b20e31f5,possible_390be4d0b20e31f5,content_9d63916e04e04f94,1,5,5,validation,True,0
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_29.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 8,review_53b65af66d9e760e,possible_53b65af66d9e760e,content_eaaab51d8a3f482e,1,2,2,train,True,0
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_3.wav,Sri_Lanka_Blue_Magpie,777389,review_b41027dedda1330e,possible_b41027dedda1330e,content_41964857e39e5a0b,1,29,29,train,True,0
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_30.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 9,review_9b80388d1f2831ef,possible_9b80388d1f2831ef,content_d0e8ac0d48ef6c10,1,6,6,validation,True,0
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_31.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 10,review_adde54bdff9c923d,possible_adde54bdff9c923d,content_f1dd7a7233cc457d,1,7,7,train,True,0
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_32.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 11,review_7012d27422fefcaa,possible_7012d27422fefcaa,content_f4936a7589d09fbb,1,4,4,train,True,0
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_33.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 12,review_37363f3fe5be1e12,possible_37363f3fe5be1e12,content_ace7f15e333f5fa7,1,32,32,train,True,0
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_34.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 13,review_0eafcfc96fa26819,possible_0eafcfc96fa26819,content_2cad7eb199715f6e,2,20,10,test,True,0
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_35.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 14,review_e5d013e64018443b,possible_e5d013e64018443b,content_54c32eff88e76b57,2,14,7,train,True,0
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_36.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 15,review_14dc92995f82bcf6,possible_14dc92995f82bcf6,content_92ecd5c877caf31a,1,12,12,train,True,0
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_37.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 16,review_4bc0d2da284565d5,possible_4bc0d2da284565d5,content_3a6f4cc2e26feeb6,1,14,14,train,True,0
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_38.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 17,review_7a651fdcd2a01377,possible_7a651fdcd2a01377,content_6670c7ef588e2308,1,14,14,train,True,0
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_39.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 18,review_a3a53b3bb90cfdbe,possible_a3a53b3bb90cfdbe,content_6f019501ab032bf1,1,3,3,train,True,0
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_4.wav,Sri_Lanka_Blue_Magpie,629589,review_e99a2ae9a34e1015,possible_e99a2ae9a34e1015,content_32c760a98b27e5d6,1,4,4,test,True,0
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_40.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 19,review_558beeb1f3378803,possible_558beeb1f3378803,content_b568b11cd2b9604a,1,4,4,train,True,0
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_41.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 20,review_3a9133d046853810,possible_3a9133d046853810,content_df7ab88ed7950d0b,1,4,4,train,True,0
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_42.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 21,review_87815c503ea3f918,possible_87815c503ea3f918,content_2b5aa7f48f3f66c7,1,3,3,train,True,0
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_43.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 22,review_1274829fba66d564,possible_1274829fba66d564,content_25fddf7ac31ba4c0,1,6,6,train,True,0
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_44.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 23,review_f195b4533a6e2c5d,possible_f195b4533a6e2c5d,content_26c082c9f95d545f,1,3,3,train,True,0
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_45.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 24,review_8a17d057fa6e6af6,possible_8a17d057fa6e6af6,content_8cb03df5c5342b23,1,12,12,train,True,0
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_46.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 25,review_91c389a05034fd53,possible_91c389a05034fd53,content_6939550e338b477b,1,1,1,train,True,0
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_47.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 26,review_897c73867d7eb0fd,possible_897c73867d7eb0fd,content_d2c14ea8b045edfa,1,1,1,train,True,0
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_48.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 27,review_0bc2378ae8b1d0aa,possible_0bc2378ae8b1d0aa,content_8c1e0147005ced5d,1,1,1,validation,True,0
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_49.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 28,review_c8ea12541afeec5b,possible_c8ea12541afeec5b,content_6f49ed6a47939ce4,1,8,8,validation,True,0
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_5.wav,Sri_Lanka_Blue_Magpie,629588,review_e9e3c00a13919f26,possible_e9e3c00a13919f26,content_73c4629420efd918,1,6,6,train,True,0
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_50.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 29,review_ba6131144b82c50e,possible_ba6131144b82c50e,content_7dcf517618ecc3fe,1,11,11,test,True,0
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_51.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 30,review_92b187800cb5984d,possible_92b187800cb5984d,content_a1a2199bfebe2c43,1,10,10,train,True,0
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_52.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 31,review_77c35922d0903578,possible_77c35922d0903578,content_56f0911a29fa3b17,1,5,5,train,True,0
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_53.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 32,review_c33020f14b0cc0da,possible_c33020f14b0cc0da,content_a4749adae582cf25,1,5,5,train,True,0
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_54.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 33,review_8198cdfa2d6326c0,possible_8198cdfa2d6326c0,content_a063ad4e60b779df,1,5,5,train,True,0
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_55.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 34,review_e8fbbf186ebdf325,possible_e8fbbf186ebdf325,content_a14da8303a020eda,1,8,8,train,True,0
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_56.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 35,review_aff5fcdd8b85f6a1,possible_aff5fcdd8b85f6a1,content_037beaccba95642d,1,2,2,test,True,0
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_57.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 36,review_4f48f586d1c6b2d9,possible_4f48f586d1c6b2d9,content_e00c3d7439e1eb95,1,2,2,train,True,0
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_58.wav,Sri_Lanka_Blue_Magpie,Sri Lanka Blue-Magpie 37,review_feb352810520543d,possible_feb352810520543d,content_f19c2b3726705afe,1,13,13,train,True,0
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_6.wav,Sri_Lanka_Blue_Magpie,629392,review_e93643e0029547b5,possible_e93643e0029547b5,content_4db0eb11fdf53011,1,9,9,train,True,0
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_7.wav,Sri_Lanka_Blue_Magpie,629391,review_0eafcfc96fa26819,possible_0eafcfc96fa26819,content_2cad7eb199715f6e,2,20,10,test,True,0
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_8.wav,Sri_Lanka_Blue_Magpie,629390,review_e5d013e64018443b,possible_e5d013e64018443b,content_54c32eff88e76b57,2,14,7,train,True,0
+birds_audio/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_9.wav,Sri_Lanka_Blue_Magpie,344989,review_59932f70d85dda00,possible_59932f70d85dda00,content_9f1a3591d960623f,1,5,5,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth.wav,Sri_Lanka_Frogmouth,744717,review_04a0718cbafc2038,possible_04a0718cbafc2038,content_468e58c9bd925450,2,4,2,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_10.wav,Sri_Lanka_Frogmouth,1097279,review_a2ce21ccf9850e49,possible_a2ce21ccf9850e49,content_56c89a71829f3051,1,15,15,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_100.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 65,review_6fc2497ddc554891,possible_6fc2497ddc554891,content_964ff008f6c077cc,2,18,9,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_101.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 66,review_13affe133e6e1473,possible_13affe133e6e1473,content_1c9f2fc18a14e859,1,2,2,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_102.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 67,review_b9ac4faf0d124d50,possible_b9ac4faf0d124d50,content_f363fb792d626708,1,4,4,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_103.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 68,review_f40a581a0465cdb2,possible_f40a581a0465cdb2,content_2888d19d7297768c,1,4,4,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_104.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 69,review_ef805771fa76a006,possible_ef805771fa76a006,content_c0e26842c37b5f77,1,24,24,train,True,1
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_105.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 70,review_e710f11a4ccf69ac,possible_e710f11a4ccf69ac,content_d13d727b73a38783,1,4,4,test,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_106.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 71,review_9cfa871a96f139be,possible_9cfa871a96f139be,content_f069566c12a5112f,1,15,15,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_107.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 72,review_7afb96e25d0f11ed,possible_7afb96e25d0f11ed,content_233eb639fdb80515,1,2,2,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_108.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 73,review_d42db383bb65c295,possible_d42db383bb65c295,content_384173f47390c277,1,4,4,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_109.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 74,review_416c0d4ca3d0998a,possible_416c0d4ca3d0998a,content_db2c01872ffdd5f9,2,8,4,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_11.wav,Sri_Lanka_Frogmouth,1096386,review_e6d66fadb8aef817,possible_e6d66fadb8aef817,content_a90091dc3faebbe9,1,12,12,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_110.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 75,review_18c2b0775fbde739,possible_18c2b0775fbde739,content_bc8540d1360d3512,2,2,1,test,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_111.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 76,review_2faabf035b3812be,possible_2faabf035b3812be,content_d0d0891f2cb5cb25,2,24,12,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_112.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 77,review_1985fdfd53879ea5,possible_1985fdfd53879ea5,content_1976de60bc71e28f,2,42,21,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_113.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 78,review_e6307ed81b841428,possible_e6307ed81b841428,content_c7d3329db4ffab61,1,8,8,test,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_114.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 79,review_c0a01dce7f73a28a,possible_c0a01dce7f73a28a,content_e40eac20fb1413b5,1,8,8,validation,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_115.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 80,review_1ffb3f8e10302ce7,possible_1ffb3f8e10302ce7,content_9dcfe6921fe94ae9,1,9,9,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_116.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 81,review_d5f64d37a3fc0c79,possible_d5f64d37a3fc0c79,content_4363dbd9c8206f02,1,1,1,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_117.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 82,review_bd51590bd7868b30,possible_bd51590bd7868b30,content_f5920843563ec134,1,3,3,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_118.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 83,review_1abdc7f5a369ccdc,possible_1abdc7f5a369ccdc,content_d38bb6a0f6305794,1,2,2,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_119.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 84,review_2f4cf3e6441ea1b0,possible_2f4cf3e6441ea1b0,content_1a96981ffc36fd29,1,2,2,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_12.wav,Sri_Lanka_Frogmouth,610130,review_584e04f9da311ab9,possible_584e04f9da311ab9,content_704252f5ba8f87f7,1,12,12,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_120.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 85,review_dcb81e2b9f5c0de1,possible_dcb81e2b9f5c0de1,content_badda92c5f22991f,1,4,4,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_121.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 86,review_e26b8bd14deeab08,possible_e26b8bd14deeab08,content_7abe068a220e0def,1,5,5,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_122.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 87,review_fe8ffc48b37d24a3,possible_fe8ffc48b37d24a3,content_256f3ef3e37d975d,1,2,2,validation,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_123.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 88,review_f4437168aa74a7d8,possible_f4437168aa74a7d8,content_b5109df5ce5ef486,1,3,3,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_124.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 89,review_305477c8b483bc10,possible_305477c8b483bc10,content_9df9f6453cb7699a,1,2,2,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_125.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 90,review_76471e8e3463f9fe,possible_76471e8e3463f9fe,content_f6cab84bab952066,1,2,2,test,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_126.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 91,review_f551b727b5485b32,possible_f551b727b5485b32,content_3b388d2961e804c8,1,13,13,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_127.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 92,review_f6386755a644b176,possible_f6386755a644b176,content_ee2fee785a0f5533,1,8,8,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_128.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 93,review_a6d998636747149b,possible_a6d998636747149b,content_60df5829c47faa18,1,1,1,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_129.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 94,review_81717b7ac8ae4f30,possible_81717b7ac8ae4f30,content_bf363373cb3183e0,1,3,3,test,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_13.wav,Sri_Lanka_Frogmouth,474436,review_cdb4a789a29db6e9,possible_cdb4a789a29db6e9,content_ce4ed61bd14c2ff4,1,3,3,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_130.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 95,review_59bc2679fe2d0a39,possible_59bc2679fe2d0a39,content_f5d06ec18916a308,1,4,4,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_131.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 96,review_6efbf28174643a4b,possible_6efbf28174643a4b,content_39ce0fdffd55a389,1,7,7,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_132.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 97,review_a1f2875d25ce02c0,possible_a1f2875d25ce02c0,content_e8dd011c31d7a082,1,5,5,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_133.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 98,review_dadd932b691ca2b1,possible_dadd932b691ca2b1,content_fddb579981512889,1,2,2,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_134.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 99,review_d4446fb789daadfc,possible_d4446fb789daadfc,content_685f9e6d51a5aa17,1,1,1,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_135.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 100,review_aa1c59139d092c1f,possible_aa1c59139d092c1f,content_4705dd4705bca42c,1,12,12,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_136.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 101,review_087f0361c0ea33be,possible_087f0361c0ea33be,content_cdbed19641c2edeb,1,19,19,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_137.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 102,review_ac23bd6d70774dbb,possible_ac23bd6d70774dbb,content_4ed53e724d8c9b7d,1,1,1,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_138.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 103,review_81e061835d51e358,possible_81e061835d51e358,content_beaba4137d8b1162,1,9,9,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_139.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 104,review_439481f779280727,possible_439481f779280727,content_fab709dc21bf8c61,1,10,10,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_14.wav,Sri_Lanka_Frogmouth,473613,review_175460aa59759f56,possible_175460aa59759f56,content_c6dfef4ca6e2811a,1,2,2,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_140.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 105,review_31c42f38dfbc9f60,possible_31c42f38dfbc9f60,content_e032cd52f32f57ab,1,5,5,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_141.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 106,review_9155afc127625189,possible_9155afc127625189,content_ccd4334da1fa17a6,1,6,6,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_142.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 107,review_ae6e8585a288b349,possible_ae6e8585a288b349,content_eb7d1c6b4befa986,1,3,3,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_143.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 108,review_7d80685296d072ff,possible_7d80685296d072ff,content_d8eb86f4eab14ec0,1,3,3,validation,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_144.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 109,review_d67c58297bbff379,possible_d67c58297bbff379,content_a4248c878fa668a8,1,11,11,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_145.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 110,review_4e1392686f5263d3,possible_4e1392686f5263d3,content_4bc1d9e5d2e0befd,1,5,5,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_146.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 111,review_922d748f7f8e1189,possible_922d748f7f8e1189,content_c7ea9960b9d2c5f3,1,3,3,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_147.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 112,review_a95b3a509eb0b7d3,possible_a95b3a509eb0b7d3,content_e82fcd813e09c23e,1,2,2,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_148.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 113,review_c3ca387eb66a26f2,possible_c3ca387eb66a26f2,content_39626d2b2503c772,1,8,8,test,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_149.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 114,review_29f7c47d67612ed9,possible_29f7c47d67612ed9,content_09b33ba1632a82aa,1,3,3,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_15.wav,Sri_Lanka_Frogmouth,356746,review_f8271cc47eb495ac,possible_f8271cc47eb495ac,content_fb13d2d4767f6887,1,6,6,test,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_150.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 115,review_6f037ad461650cf3,possible_6f037ad461650cf3,content_d12fb3126093a6b0,1,17,17,validation,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_151.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 116,review_056ba6ba397dae37,possible_056ba6ba397dae37,content_a2675d86fbdf92fd,1,9,9,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_152.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 117,review_9616cf7aecbca6f6,possible_9616cf7aecbca6f6,content_5031b78f04c7fc81,1,1,1,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_153.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 118,review_1a0b56a1178d575c,possible_1a0b56a1178d575c,content_8381bc41c8033463,1,1,1,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_154.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 119,review_0e4db4f70c72f96e,possible_0e4db4f70c72f96e,content_1c6235469497c565,1,1,1,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_155.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 120,review_6d858b07a402c1ff,possible_6d858b07a402c1ff,content_69635508be010e25,1,1,1,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_156.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 121,review_5c9dd580b20729ef,possible_5c9dd580b20729ef,content_0e04694ab0f480a0,1,1,1,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_157.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 122,review_dffcc5b9bea56a69,possible_dffcc5b9bea56a69,content_a6291f74e603d32f,1,1,1,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_158.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 123,review_87376fbcad1dbfc4,possible_87376fbcad1dbfc4,content_d1e52b916c38a3ef,1,1,1,validation,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_159.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 124,review_0f35adb72d613354,possible_0f35adb72d613354,content_8c00b12ba4c220b7,1,2,2,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_16.wav,Sri_Lanka_Frogmouth,217340,review_9296145ea3d86e69,possible_9296145ea3d86e69,content_57313716b42edd58,1,8,8,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_160.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 125,review_a9a5676e80e0cfce,possible_a9a5676e80e0cfce,content_a734f0d14a16357e,1,22,22,validation,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_161.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 126,review_50aa6cbc874e91cf,possible_50aa6cbc874e91cf,content_0dc2404f43f4603c,1,26,26,train,True,1
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_162.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 127,review_6f95e2b72cafc417,possible_6f95e2b72cafc417,content_82872d9c7c4304c3,1,24,24,train,True,3
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_163.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 128,review_c5b2d9efbb96f0d5,possible_c5b2d9efbb96f0d5,content_befc18fe5c0cfd62,1,2,2,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_164.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 129,review_3b94955711acc98a,possible_3b94955711acc98a,content_351a7b5b03dc6118,1,56,56,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_165.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 130,review_bc18430a0a10b44c,possible_bc18430a0a10b44c,content_ad670d5a1a23530c,2,40,20,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_166.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 131,review_c0c18026ae4b84ed,possible_c0c18026ae4b84ed,content_1caf14ccd8595599,1,2,2,train,True,1
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_167.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 132,review_616d5894a8705860,possible_616d5894a8705860,content_5614f385072eb79c,1,17,17,train,True,3
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_168.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 133,review_217b10e9736b1523,possible_217b10e9736b1523,content_97ad242072585d8b,1,21,21,train,True,4
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_169.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 134,review_1ff67d0bfb2282fc,possible_1ff67d0bfb2282fc,content_9b960e8b3eeee80f,1,56,56,test,True,4
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_17.wav,Sri_Lanka_Frogmouth,211798,review_2ff7a2e9290270ad,possible_2ff7a2e9290270ad,content_abae1fc4e2ebdccd,1,3,3,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_170.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 135,review_e03099fded9b2ce5,possible_e03099fded9b2ce5,content_b72ce5118000c512,1,6,6,validation,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_171.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 136,review_0719ddf5b56aaa25,possible_0719ddf5b56aaa25,content_41ffeff1a6ede8c8,1,2,2,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_172.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 137,review_602ddc3d9b7c1416,possible_602ddc3d9b7c1416,content_c84b41bfbad8408a,1,11,11,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_173.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 138,review_e71bb9bfef0e5170,possible_e71bb9bfef0e5170,content_461d44896b02ce89,1,12,12,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_174.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 139,review_603feff641f947ef,possible_603feff641f947ef,content_88549d8b54dcc66d,1,18,18,validation,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_175.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 140,review_03d6c7cce32fd9ee,possible_03d6c7cce32fd9ee,content_b9fe0ad717e6c4ae,1,24,24,train,True,2
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_176.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 141,review_75410a87d93c8e8c,possible_75410a87d93c8e8c,content_94e49f7ee71d3b59,1,1,1,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_177.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 142,review_dcd409a517e22c62,possible_dcd409a517e22c62,content_235fe3e674131a97,1,9,9,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_178.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 143,review_b88c73d3d1df8fee,possible_b88c73d3d1df8fee,content_01a15fedfbad76b3,1,2,2,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_179.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 144,review_16005442a5862fa4,possible_16005442a5862fa4,content_8ce1348eaf53c0b1,1,2,2,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_18.wav,Sri_Lanka_Frogmouth,201366,review_416c0d4ca3d0998a,possible_416c0d4ca3d0998a,content_db2c01872ffdd5f9,2,8,4,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_180.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 145,review_aef5a643a4e4b078,possible_aef5a643a4e4b078,content_689700ad27e49519,1,4,4,test,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_181.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 146,review_79163515f395252a,possible_79163515f395252a,content_f5ade92056691ce4,1,7,7,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_182.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 147,review_02db0c317cc014d7,possible_02db0c317cc014d7,content_14c5614e73d67937,1,7,7,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_183.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 148,review_63089c4ccfce5de3,possible_63089c4ccfce5de3,content_461b7fb27c0cf1c4,1,11,11,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_184.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 149,review_9231835e69a337b7,possible_9231835e69a337b7,content_b9fcf392b9c76047,1,5,5,validation,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_185.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 150,review_753f55060bea548a,possible_753f55060bea548a,content_fece0e4f9118e83c,2,16,8,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_186.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 151,review_97cfba1ca526ce14,possible_97cfba1ca526ce14,content_b3cf5a332be375fd,1,4,4,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_187.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 152,review_b0ad180187e48988,possible_b0ad180187e48988,content_64ec29dbb6a8d3c3,1,31,31,test,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_188.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 153,review_003662fdc034568b,possible_003662fdc034568b,content_b87f00884300be9e,1,1,1,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_189.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 154,review_06229325985b4924,possible_06229325985b4924,content_edc2e5a2941a9f86,1,10,10,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_19.wav,Sri_Lanka_Frogmouth,196561,review_19827a00ae05cfbf,possible_19827a00ae05cfbf,content_b7bb61d5918c518f,2,2,1,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_190.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 155,review_efabc05673e603fe,possible_efabc05673e603fe,content_80769f8f227f6886,1,4,4,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_191.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 156,review_2dc951a61f20fdca,possible_2dc951a61f20fdca,content_3bce8b8e608fb059,1,5,5,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_192.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 157,review_8686b7e305e0ebaa,possible_8686b7e305e0ebaa,content_b63d90a695c66266,1,4,4,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_193.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 158,review_a48a38fc92d67efa,possible_a48a38fc92d67efa,content_a5bea013c476d1f7,1,7,7,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_194.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 159,review_289d353d98322502,possible_289d353d98322502,content_2e1ba3df41e85846,1,7,7,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_195.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 160,review_e5c7ae0b3061497d,possible_e5c7ae0b3061497d,content_6b28351aa861f3bc,1,7,7,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_196.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 161,review_2d0de1ebe5545c5a,possible_2d0de1ebe5545c5a,content_f00a1f20b31ce474,1,22,22,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_197.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 162,review_9cde877f223cac6f,possible_9cde877f223cac6f,content_c6c9c2f5c5a996bf,1,26,26,validation,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_198.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 163,review_2060b560a6a46453,possible_2060b560a6a46453,content_d696c5b0295faa85,1,4,4,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_199.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 164,review_fc514d4658935030,possible_fc514d4658935030,content_80899142539377dd,1,5,5,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_2.wav,Sri_Lanka_Frogmouth,744715,review_63912003b05167f6,possible_63912003b05167f6,content_11f6c566e714db38,1,1,1,test,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_20.wav,Sri_Lanka_Frogmouth,694103,review_516ec2bc3110af1c,possible_516ec2bc3110af1c,content_a1ab390878099cc2,2,18,9,validation,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_200.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 165,review_226a97d5d61275fc,possible_226a97d5d61275fc,content_e924f17a34cfff05,1,4,4,test,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_201.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 166,review_7e1fe09beae421be,possible_7e1fe09beae421be,content_42fdc1be5b2b8e0b,1,21,21,train,True,1
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_202.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 167,review_d61fd17bf04fd084,possible_d61fd17bf04fd084,content_55d8a9f2891a0bf9,1,14,14,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_203.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 168,review_839e2a2a9895778e,possible_839e2a2a9895778e,content_da6cbbc2e0f16879,1,15,15,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_204.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 169,review_e2118a591a8aef59,possible_e2118a591a8aef59,content_f45d77a0d8a967c6,1,4,4,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_205.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 170,review_2743556dba641d89,possible_2743556dba641d89,content_88e2cda1e305779c,1,10,10,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_206.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 171,review_69fb6363897a6ca2,possible_69fb6363897a6ca2,content_3c16d1851d8f1e1b,1,5,5,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_207.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 172,review_39178eee0667ad2e,possible_39178eee0667ad2e,content_aed3e20a4dc65d77,1,19,19,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_208.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 173,review_9e5a963d37545f17,possible_9e5a963d37545f17,content_d0e77279caad2a68,1,6,6,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_209.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 174,review_3e82ba2a1a46697e,possible_3e82ba2a1a46697e,content_fa795d0d1b07af0d,1,6,6,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_21.wav,Sri_Lanka_Frogmouth,680832,review_6fc2497ddc554891,possible_6fc2497ddc554891,content_4d4b75d11859c455,2,18,9,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_210.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 175,review_25c0959a2efc5a80,possible_25c0959a2efc5a80,content_5442ffe44f59b3cc,1,3,3,validation,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_211.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 176,review_7bcb368a13519bd4,possible_7bcb368a13519bd4,content_f89774eb3fa91e09,1,2,2,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_212.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 177,review_67032cdbd1775043,possible_67032cdbd1775043,content_b52d8ce0714413b5,1,24,24,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_213.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 178,review_ae0b4800c87b0a31,possible_ae0b4800c87b0a31,content_f8367b8073b26d6e,1,10,10,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_214.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 179,review_a1b41b5cdbebbba8,possible_a1b41b5cdbebbba8,content_be83469fe8d465b7,1,3,3,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_215.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 180,review_bfa69084db8f09ea,possible_bfa69084db8f09ea,content_5b5577e010cb01a7,1,1,1,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_216.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 181,review_c19015dc3277b91c,possible_c19015dc3277b91c,content_1c99a7c06e74d6ab,1,2,2,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_217.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 182,review_8bd062bc96504a82,possible_8bd062bc96504a82,content_301e8c779ad212ab,1,2,2,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_218.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 183,review_4f49dd5d4ea80a20,possible_4f49dd5d4ea80a20,content_1e599cee32e43fe3,1,2,2,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_219.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 184,review_d95b51ec0301e3fd,possible_d95b51ec0301e3fd,content_f8fc63826e5fcaf0,1,4,4,validation,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_22.wav,Sri_Lanka_Frogmouth,548013,review_1b6ff9d8186b9c4e,possible_1b6ff9d8186b9c4e,content_179cefcda010cb1b,1,6,6,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_220.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 185,review_7723126cf5ae886f,possible_7723126cf5ae886f,content_18e49acdbe7ae5e0,1,2,2,test,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_221.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 186,review_3a8658614655bde3,possible_3a8658614655bde3,content_fe50ba2d40665610,1,14,14,validation,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_222.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 187,review_65552e9a125eabda,possible_65552e9a125eabda,content_9d3cf785c2a348b7,1,10,10,test,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_223.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 188,review_46377ff7ec2861ca,possible_46377ff7ec2861ca,content_d757b87f623a905e,1,3,3,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_224.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 189,review_c4219a748741e1ee,possible_c4219a748741e1ee,content_731b15476705991d,1,5,5,test,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_225.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 190,review_bcf012140b2ce4c0,possible_bcf012140b2ce4c0,content_43647d15efc0e894,1,7,7,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_226.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 191,review_6077e3d2f017726d,possible_6077e3d2f017726d,content_123907d87522c6ff,1,6,6,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_227.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 192,review_91b70f5db5b6e895,possible_91b70f5db5b6e895,content_e846d819a01f4047,1,4,4,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_228.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 193,review_9f38ded2d9ff589e,possible_9f38ded2d9ff589e,content_a9e93171cc33b3fe,1,5,5,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_229.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 194,review_10b4d93ab580a848,possible_10b4d93ab580a848,content_03c93ae3181092be,1,3,3,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_23.wav,Sri_Lanka_Frogmouth,453481,review_ea912da4269fc9dc,possible_ea912da4269fc9dc,content_a80537e3fe0de8f1,1,8,8,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_230.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 195,review_359381f241e44561,possible_359381f241e44561,content_7e1c897c6bbacccc,1,1,1,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_231.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 196,review_68eb75f0dedfcfae,possible_68eb75f0dedfcfae,content_97787548c357cb1a,1,1,1,test,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_232.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 197,review_c49ae6c710fd5d26,possible_c49ae6c710fd5d26,content_83f2fd5f9bf65648,1,17,17,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_233.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 198,review_b736b106eb00ab23,possible_b736b106eb00ab23,content_9a7cfb8a1f9ba213,1,9,9,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_234.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 199,review_5933fbf77c128c04,possible_5933fbf77c128c04,content_386dfde37752cdbc,1,11,11,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_235.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 200,review_aa147a7d2adce197,possible_aa147a7d2adce197,content_547b6706f56b7eb3,1,11,11,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_236.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 201,review_431e6083a2df385e,possible_431e6083a2df385e,content_a7da37f968e279ee,1,7,7,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_237.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 202,review_517fe62ae2863a64,possible_517fe62ae2863a64,content_98a56bec298ec872,1,4,4,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_238.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 203,review_a1217ee055681627,possible_a1217ee055681627,content_097ec864aeb5ef9e,1,2,2,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_239.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 204,review_0c55db8289ebd629,possible_0c55db8289ebd629,content_0baebed63b578e61,1,1,1,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_24.wav,Sri_Lanka_Frogmouth,433796,review_48910bdec5c1f447,possible_48910bdec5c1f447,content_bd3a2f4853ec0feb,1,17,17,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_240.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 205,review_4602627430c0ef9c,possible_4602627430c0ef9c,content_24db5188a0189528,1,1,1,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_241.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 206,review_6a14ce4f7c6c9caa,possible_6a14ce4f7c6c9caa,content_7139e1442a4b6acc,1,3,3,test,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_242.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 207,review_68504ba595dadd96,possible_68504ba595dadd96,content_2e51e3cf38d0c878,1,6,6,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_243.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 208,review_8c53f519f741778d,possible_8c53f519f741778d,content_bfbcf1fc70a969a2,1,1,1,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_244.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 209,review_7a3fd49bb98bb5ca,possible_7a3fd49bb98bb5ca,content_3995866198985679,1,4,4,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_245.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 210,review_6827b6b5a42ec383,possible_6827b6b5a42ec383,content_83c8f1b75e17b3a9,1,9,9,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_246.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 211,review_3ea387d1f7ea5a28,possible_3ea387d1f7ea5a28,content_c8c0742b5665591b,1,2,2,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_247.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 212,review_04a0718cbafc2038,possible_04a0718cbafc2038,content_a348ceff446dc6b4,2,4,2,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_248.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 213,review_1f09e4ad27c11891,possible_1f09e4ad27c11891,content_f9fc92174e426ec7,1,2,2,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_249.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 214,review_67466ad48a8ca7d0,possible_67466ad48a8ca7d0,content_5b57e5ad9a3e4cc2,1,2,2,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_25.wav,Sri_Lanka_Frogmouth,267340,review_32b54e5dc76ef953,possible_32b54e5dc76ef953,content_5e9ede59e82d093c,1,5,5,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_250.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 215,review_939185e3131e6b70,possible_939185e3131e6b70,content_41dfa21eb764bf72,1,4,4,test,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_251.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 216,review_6999ec5d6ba48d61,possible_6999ec5d6ba48d61,content_8b22eb9f7ee899b7,1,4,4,test,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_252.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 217,review_e7e47355a425dcf8,possible_e7e47355a425dcf8,content_05183fe4cd9275ae,1,5,5,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_253.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 218,review_7f6cba44be3d1cf9,possible_7f6cba44be3d1cf9,content_3e160ec9a002ba06,1,7,7,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_254.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 219,review_b4f44698af30c118,possible_b4f44698af30c118,content_f3af6879ffd2c312,1,1,1,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_255.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 220,review_09d3219d14850f00,possible_09d3219d14850f00,content_dd60794f35ef9dcc,1,4,4,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_256.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 221,review_42d0850d44237d7a,possible_42d0850d44237d7a,content_433d34916bf0389f,1,2,2,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_257.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 222,review_305afc21443009ce,possible_305afc21443009ce,content_f289d2579c2e5446,1,1,1,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_258.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 223,review_b1b9862acae43cc0,possible_b1b9862acae43cc0,content_239da67d6ca6e009,1,3,3,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_259.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 224,review_97445faae43d546a,possible_97445faae43d546a,content_ce104865641e74ab,1,4,4,validation,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_26.wav,Sri_Lanka_Frogmouth,266807,review_2c00f29ddeb037cd,possible_2c00f29ddeb037cd,content_f4e024dcc6ec60d8,1,25,25,test,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_260.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 225,review_275350f5cb545aca,possible_275350f5cb545aca,content_61c2e31dd77e13b7,1,5,5,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_261.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 226,review_faeab6c824fb2811,possible_faeab6c824fb2811,content_e25ade189226c441,1,4,4,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_262.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 227,review_093a901109bcabf6,possible_093a901109bcabf6,content_bfa78d5a1699557e,1,5,5,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_263.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 228,review_5df5cabde07638b6,possible_5df5cabde07638b6,content_2716f9a579575c4b,1,6,6,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_264.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 229,review_5e2280f5f4424378,possible_5e2280f5f4424378,content_3f41087713d57927,1,1,1,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_265.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 230,review_7ee350f8a40e3422,possible_7ee350f8a40e3422,content_10ea09125f42629a,1,3,3,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_266.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 231,review_3caf581de8aff669,possible_3caf581de8aff669,content_d50b053b3fda944f,1,1,1,test,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_267.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 232,review_428ea01c359753a1,possible_428ea01c359753a1,content_4e5d69114009480a,1,4,4,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_268.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 233,review_b9a834ed02641b95,possible_b9a834ed02641b95,content_9bd34a17dd4e243b,1,2,2,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_269.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 234,review_7f6b33695f6be76e,possible_7f6b33695f6be76e,content_5b0ccf6d3d65c120,1,7,7,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_27.wav,Sri_Lanka_Frogmouth,203505,review_dea1d37d4324d5ab,possible_dea1d37d4324d5ab,content_ab4d30a85ca99fa4,1,2,2,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_270.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 235,review_90ec8b7f087630a2,possible_90ec8b7f087630a2,content_abe8d0eaf1d753f8,1,4,4,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_271.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 236,review_4ceef94dbd367ecf,possible_4ceef94dbd367ecf,content_8f3d193670a5fa72,1,9,9,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_272.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 237,review_99b0b1c8efceb977,possible_99b0b1c8efceb977,content_182e9928202b7a35,1,23,23,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_273.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 238,review_7a282ef55dcf47c1,possible_7a282ef55dcf47c1,content_a8f33e30a7412d30,1,1,1,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_274.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 239,review_8a2e799fd668ef13,possible_8a2e799fd668ef13,content_10ddce51c69a1411,1,1,1,test,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_275.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 240,review_e178545d29114be3,possible_e178545d29114be3,content_d090092cf44122b0,1,2,2,validation,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_276.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 241,review_32f8e8837a372cbf,possible_32f8e8837a372cbf,content_daad8005236840a0,1,8,8,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_277.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 242,review_bcee3048eb938576,possible_bcee3048eb938576,content_c6c879d3326e83fb,1,1,1,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_278.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 243,review_a701d19ae928a89c,possible_a701d19ae928a89c,content_be0829e0332d0b44,1,6,6,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_279.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 244,review_4a1c8919b4a4c3ac,possible_4a1c8919b4a4c3ac,content_1347347a1e155e70,1,5,5,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_28.wav,Sri_Lanka_Frogmouth,1097278,review_b59395920dc2c6ab,possible_b59395920dc2c6ab,content_d10571cd3f3c004f,1,8,8,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_280.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 245,review_f96340c5bf270e60,possible_f96340c5bf270e60,content_577881b71c76ef80,1,35,35,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_281.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 246,review_e1a5d8f7f67c4be3,possible_e1a5d8f7f67c4be3,content_91734096e2718eb9,1,2,2,train,True,1
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_282.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 247,review_0e7f7a2644de6942,possible_0e7f7a2644de6942,content_6518bbdfbbc6e2e1,1,3,3,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_283.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 248,review_8e0a16ee8137a9dc,possible_8e0a16ee8137a9dc,content_aa44b8eaa5ded116,1,4,4,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_284.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 249,review_48778be431be660b,possible_48778be431be660b,content_83ff5f70df46abfb,1,8,8,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_29.wav,Sri_Lanka_Frogmouth,1096384,review_f38ff5cc318bd517,possible_f38ff5cc318bd517,content_37c22fe24e61cf56,1,17,17,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_3.wav,Sri_Lanka_Frogmouth,311157,review_5609271de07dbb5e,possible_5609271de07dbb5e,content_66379d87ce3de06d,1,10,10,validation,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_30.wav,Sri_Lanka_Frogmouth,1096382,review_beae047d18b71b66,possible_beae047d18b71b66,content_2ea1dc1cfbf7d134,1,3,3,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_31.wav,Sri_Lanka_Frogmouth,1046015,review_4135a550c1d58ae3,possible_4135a550c1d58ae3,content_40ca30df04b79171,1,8,8,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_32.wav,Sri_Lanka_Frogmouth,786593,review_18c2b0775fbde739,possible_18c2b0775fbde739,content_627f72e90e85a6ed,2,2,1,test,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_33.wav,Sri_Lanka_Frogmouth,744714,review_1985fdfd53879ea5,possible_1985fdfd53879ea5,content_73e26a296c8c7eb6,2,42,21,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_34.wav,Sri_Lanka_Frogmouth,311156,review_2faabf035b3812be,possible_2faabf035b3812be,content_41b49d706d1b0541,2,24,12,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_35.wav,Sri_Lanka_Frogmouth,211799,review_bc18430a0a10b44c,possible_bc18430a0a10b44c,content_f5ea9ec7832b407b,2,40,20,train,True,1
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_36.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 1,review_19827a00ae05cfbf,possible_19827a00ae05cfbf,content_b7bb61d5918c518f,2,2,1,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_37.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 2,review_3782779772c7c96a,possible_3782779772c7c96a,content_559591463bc7b498,1,17,17,test,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_38.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 3,review_c06dbd210f2b6b6b,possible_c06dbd210f2b6b6b,content_23c59b0b8663309e,1,3,3,validation,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_39.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 4,review_784e489aee3aad19,possible_784e489aee3aad19,content_4aa6ce431acef418,1,5,5,validation,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_4.wav,Sri_Lanka_Frogmouth,203504,review_e08a02f12708cd25,possible_e08a02f12708cd25,content_6ed941aaa2cd9b7b,1,1,1,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_40.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 5,review_271a31fd4d1ce6ed,possible_271a31fd4d1ce6ed,content_4902dc6ca14674d7,1,5,5,validation,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_41.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 6,review_f7d3438abbf267fd,possible_f7d3438abbf267fd,content_b2bcae4820ef6fec,1,1,1,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_42.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 7,review_59ed03faefdaccae,possible_59ed03faefdaccae,content_c092f18fb620f476,1,13,13,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_43.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 8,review_680d37ea2335bcd6,possible_680d37ea2335bcd6,content_c003503ada07aba5,1,20,20,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_44.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 9,review_c9314755a648cf9a,possible_c9314755a648cf9a,content_7696463b84d351e7,1,12,12,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_45.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 10,review_a0cbb6385b5ec2c2,possible_a0cbb6385b5ec2c2,content_af12f5d06f0964d5,1,23,23,validation,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_46.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 11,review_2ccc4622e2e32648,possible_2ccc4622e2e32648,content_d2aba9807899d180,1,7,7,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_47.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 12,review_03b6e96615cc8ade,possible_03b6e96615cc8ade,content_f18f147de72a5aba,1,14,14,train,True,1
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_48.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 13,review_c1037d97ae29c2ee,possible_c1037d97ae29c2ee,content_91fa660d06f21e8a,1,16,16,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_49.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 14,review_588203ea385048af,possible_588203ea385048af,content_1f49f6d0f4f6e3f4,1,25,25,train,True,2
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_5.wav,Sri_Lanka_Frogmouth,190668,review_586f2ef5d3d92891,possible_586f2ef5d3d92891,content_eee181797df4ea50,1,7,7,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_50.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 15,review_5b9fc1a801bfcaef,possible_5b9fc1a801bfcaef,content_5ec3aaf4e9016ce0,1,2,2,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_51.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 16,review_bb378cea8e2dbf87,possible_bb378cea8e2dbf87,content_be7e458dc54e6cdc,1,6,6,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_52.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 17,review_d90dcf3866ce531d,possible_d90dcf3866ce531d,content_23e0c0569c77a537,1,7,7,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_53.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 18,review_a66da7699100cb71,possible_a66da7699100cb71,content_7e058bbf6f31c899,1,1,1,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_54.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 19,review_60ac83b045d8282a,possible_60ac83b045d8282a,content_3cc3fd9fef68d22c,1,1,1,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_55.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 20,review_a34dfa62924678ff,possible_a34dfa62924678ff,content_facd3ee2787fc29c,1,2,2,test,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_56.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 21,review_155788f705a6ba8d,possible_155788f705a6ba8d,content_06b7c61b01b3bd6d,1,7,7,validation,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_57.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 22,review_902ba729b056ef74,possible_902ba729b056ef74,content_a8179e63103cd5f6,1,7,7,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_58.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 23,review_be74a32855802124,possible_be74a32855802124,content_be220f469cad507d,1,9,9,test,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_59.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 24,review_eff994d0a0fe3f8b,possible_eff994d0a0fe3f8b,content_29b48625f1b9cb3d,1,26,26,train,True,6
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_6.wav,Sri_Lanka_Frogmouth,167840,review_6dfac99c4a5934f6,possible_6dfac99c4a5934f6,content_bf5947279684ee77,1,4,4,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_60.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 25,review_0b8bb02300585af3,possible_0b8bb02300585af3,content_d1bc133943c7b122,1,4,4,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_61.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 26,review_8c6e3bde097df8ac,possible_8c6e3bde097df8ac,content_83b52dd61df2a629,1,9,9,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_62.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 27,review_e139ce6f21310bf9,possible_e139ce6f21310bf9,content_0d78c0da29dd3195,1,10,10,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_63.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 28,review_bb83b73996c89c96,possible_bb83b73996c89c96,content_d655d87a930e4c7e,3,54,18,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_64.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 29,review_bb83b73996c89c96,possible_bb83b73996c89c96,content_d655d87a930e4c7e,3,54,18,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_65.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 30,review_bb83b73996c89c96,possible_bb83b73996c89c96,content_da4a10f178e8a70f,3,54,18,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_66.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 31,review_8ee411b3b97cf56d,possible_8ee411b3b97cf56d,content_226ecfa0d4af3409,1,7,7,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_67.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 32,review_4cccd07cc67b93d2,possible_4cccd07cc67b93d2,content_4a18e51486366d01,1,54,54,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_68.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 33,review_663b76410988737b,possible_663b76410988737b,content_afd86c99a197da31,1,1,1,validation,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_69.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 34,review_d6212888d6ca098f,possible_d6212888d6ca098f,content_defca219ca2b0458,1,17,17,train,True,1
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_7.wav,Sri_Lanka_Frogmouth,37438,review_e819b0be15a26e29,possible_e819b0be15a26e29,content_d52d8eab4acfd6f0,1,5,5,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_70.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 35,review_9dcbb768c985f083,possible_9dcbb768c985f083,content_38ac23c68585562f,1,2,2,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_71.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 36,review_e074f5ad1fe83c94,possible_e074f5ad1fe83c94,content_1b079d28d40a2623,1,24,24,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_72.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 37,review_2dfd21b7dc16e56d,possible_2dfd21b7dc16e56d,content_ff55cae450757978,1,4,4,test,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_73.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 38,review_8e334c514e1c2e8d,possible_8e334c514e1c2e8d,content_c73294dc657bb4a6,1,1,1,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_74.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 39,review_8e50a5185bdb48e5,possible_8e50a5185bdb48e5,content_fa5bfbde12ca732d,1,1,1,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_75.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 40,review_aeb34ab6b93f5adf,possible_aeb34ab6b93f5adf,content_35602347cdac1630,1,2,2,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_76.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 41,review_2b63eaf61ee7a46c,possible_2b63eaf61ee7a46c,content_e8c63b6320efb647,1,4,4,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_77.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 42,review_877189bc4b291642,possible_877189bc4b291642,content_44e9134d5de43c51,1,8,8,test,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_78.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 43,review_8da8f66e7eac7bfd,possible_8da8f66e7eac7bfd,content_e98555db78c5345f,1,2,2,validation,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_79.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 44,review_2f19d266bac3fb0e,possible_2f19d266bac3fb0e,content_957f06ed244717bf,1,4,4,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_8.wav,Sri_Lanka_Frogmouth,1160424,review_753f55060bea548a,possible_753f55060bea548a,content_fece0e4f9118e83c,2,16,8,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_80.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 45,review_ada4b2cc6baf58c0,possible_ada4b2cc6baf58c0,content_ce975256fa5436e6,1,6,6,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_81.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 46,review_33d0732c40b98409,possible_33d0732c40b98409,content_2a766e0e1b475d7e,1,6,6,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_82.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 47,review_c98ce4b0d32b83b7,possible_c98ce4b0d32b83b7,content_88883d291cee59b3,1,1,1,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_83.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 48,review_f18ef5f1a0ed7f25,possible_f18ef5f1a0ed7f25,content_f9d9d0dddce03638,1,3,3,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_84.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 49,review_8e12fece9fd1b7a2,possible_8e12fece9fd1b7a2,content_dc65e63e480db85f,1,9,9,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_85.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 50,review_1cd6337ee8d9817b,possible_1cd6337ee8d9817b,content_01c15926e7dc71f0,1,3,3,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_86.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 51,review_2079831e3760efd9,possible_2079831e3760efd9,content_7d80b6635cb8b03a,1,3,3,validation,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_87.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 52,review_9d30b358eb3c91d1,possible_9d30b358eb3c91d1,content_4ba407217abd0d4e,1,29,29,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_88.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 53,review_809676205d3909d6,possible_809676205d3909d6,content_4b4427e381dd5927,1,32,32,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_89.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 54,review_af0a1303e620c5ff,possible_af0a1303e620c5ff,content_d5d2ae4d35215b87,1,8,8,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_9.wav,Sri_Lanka_Frogmouth,1136726,review_d54a6c687b327e2b,possible_d54a6c687b327e2b,content_6ac2aec282bcce40,1,8,8,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_90.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 55,review_44fa05eda99e83f4,possible_44fa05eda99e83f4,content_fd1a2f3f0b590780,1,4,4,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_91.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 56,review_e010ddd7d1d1af66,possible_e010ddd7d1d1af66,content_e61e43ef0c853bb4,1,7,7,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_92.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 57,review_ed75d04b9863a731,possible_ed75d04b9863a731,content_bfd0ecd55e854aad,1,4,4,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_93.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 58,review_48c5598de2c4ae7d,possible_48c5598de2c4ae7d,content_2920ffb9c7aa4ead,1,3,3,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_94.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 59,review_1f2a2f4b181e0bae,possible_1f2a2f4b181e0bae,content_5756ca0ced0d1748,1,3,3,validation,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_95.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 60,review_c96bff3c827ed095,possible_c96bff3c827ed095,content_fd01f4df686d27ba,1,4,4,validation,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_96.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 61,review_c1d31db3da73379c,possible_c1d31db3da73379c,content_5b5847d50ebddef3,1,5,5,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_97.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 62,review_b0ea6055e817b245,possible_b0ea6055e817b245,content_7f6c03f7f0d85152,1,7,7,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_98.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 63,review_0d91c957ee59aaef,possible_0d91c957ee59aaef,content_ac4645a45838f0c8,1,1,1,train,True,0
+birds_audio/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_99.wav,Sri_Lanka_Frogmouth,Sri Lanka Frogmouth 64,review_516ec2bc3110af1c,possible_516ec2bc3110af1c,content_5f0e3a013caddee4,2,18,9,validation,True,0
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill.wav,Sri_Lanka_Grey_Hornbill,609368,review_caf123c79f0a581d,possible_caf123c79f0a581d,content_2a558011380145bb,2,6,3,train,True,0
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_10.wav,Sri_Lanka_Grey_Hornbill,301963,review_5e6e563b99db4f3c,possible_5e6e563b99db4f3c,content_8ac0f51acc35aad5,2,4,2,train,True,0
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_11.wav,Sri_Lanka_Grey_Hornbill,207656,review_c1077f8359f352a2,possible_c1077f8359f352a2,content_71bac9580a23e177,1,16,16,train,True,0
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_12.wav,Sri_Lanka_Grey_Hornbill,68883,review_9d0bfaf15bded180,possible_9d0bfaf15bded180,content_7c9e401559152272,1,20,20,train,True,0
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_13.wav,Sri_Lanka_Grey_Hornbill,183240,review_56ba3dec1ce6bb81,possible_56ba3dec1ce6bb81,content_a7964a7891ecb3d0,1,14,14,test,True,0
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_14.wav,Sri_Lanka_Grey_Hornbill,68882,review_98dd1edb2f72f71a,possible_98dd1edb2f72f71a,content_7a83a40df878a68a,1,3,3,train,True,0
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_15.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 1,review_61c3c3c42ebfe110,possible_61c3c3c42ebfe110,content_4022597cad0869e5,2,4,2,train,True,0
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_16.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 2,review_43eb3224bce45e97,possible_43eb3224bce45e97,content_c68b12be877f713e,2,4,2,train,True,0
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_17.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 3,review_ccdaf8b332a2d470,possible_ccdaf8b332a2d470,content_51a804d09e752f24,1,2,2,train,True,0
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_18.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 4,review_94d0215055376988,possible_94d0215055376988,content_0938bf8a1b2431cc,2,4,2,train,True,0
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_19.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 5,review_0bf865b1187ef122,possible_0bf865b1187ef122,content_9d0ce3f66ff25ce2,1,3,3,train,True,0
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_2.wav,Sri_Lanka_Grey_Hornbill,453488,review_300c2b29bb6068d3,possible_300c2b29bb6068d3,content_ef6e4ca27b9374b0,1,2,2,train,True,0
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_20.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 6,review_2e626c7a13342ff8,possible_2e626c7a13342ff8,content_b319162046f10c67,1,9,9,train,True,0
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_21.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 7,review_3b1305c4e93797cb,possible_3b1305c4e93797cb,content_48040a52592b0805,1,6,6,validation,True,0
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_22.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 8,review_a8b192d28b17a24f,possible_a8b192d28b17a24f,content_16280785aff104ac,1,9,9,train,True,0
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_23.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 9,review_22b63f3935609f0f,possible_22b63f3935609f0f,content_9e582aac3c7fe479,1,7,7,train,True,0
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_24.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 10,review_cd488877a276b687,possible_cd488877a276b687,content_336d614504640b33,2,16,8,validation,True,0
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_25.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 11,review_4b7ebbd50bf17053,possible_4b7ebbd50bf17053,content_fa76419f143731eb,1,7,7,train,True,0
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_26.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 12,review_e92a03b8d20a3407,possible_e92a03b8d20a3407,content_a6d504df9813692f,1,2,2,test,True,0
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_27.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 13,review_45ec7f7ce57f2079,possible_45ec7f7ce57f2079,content_f23e3e5a6bc2407f,1,9,9,train,True,0
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_28.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 14,review_8cfe0735110d23b4,possible_8cfe0735110d23b4,content_6fe2cf7ed24c0533,1,1,1,train,True,0
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_29.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 15,review_5e6e563b99db4f3c,possible_5e6e563b99db4f3c,content_808460d46aa73c98,2,4,2,train,True,0
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_3.wav,Sri_Lanka_Grey_Hornbill,346193,review_352f4b4aaa6dca92,possible_352f4b4aaa6dca92,content_d1beb8edec5c07b8,1,6,6,test,True,0
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_30.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 16,review_0a190fe745dbe54a,possible_0a190fe745dbe54a,content_7921a53c8e1f6beb,1,4,4,train,True,0
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_31.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 17,review_3a8f3d169b767c46,possible_3a8f3d169b767c46,content_12db8a47c6b4d7cc,1,9,9,train,True,0
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_32.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 18,review_9d95628b8ed2a258,possible_9d95628b8ed2a258,content_cb9f7cb93d1d1ed0,1,5,5,test,True,0
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_33.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 19,review_9e1bc987dfa914f1,possible_9e1bc987dfa914f1,content_dcb1ff4b5522327d,1,7,7,train,True,0
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_34.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 20,review_24f4d726d1294ae9,possible_24f4d726d1294ae9,content_de94829bd952f024,1,2,2,train,True,0
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_35.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 21,review_98194feb8eb87476,possible_98194feb8eb87476,content_68667876142b46b7,1,4,4,train,True,0
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_36.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 22,review_c03bad2f944929fe,possible_c03bad2f944929fe,content_50cd0481fe8097d4,1,3,3,validation,True,0
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_37.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 23,review_3442626ea85c0efe,possible_3442626ea85c0efe,content_b428f89f06187679,1,1,1,validation,True,0
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_38.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 24,review_06cfbdb881af1260,possible_06cfbdb881af1260,content_7d9e9d0b3c14d04b,1,3,3,train,True,0
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_39.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 25,review_caf123c79f0a581d,possible_caf123c79f0a581d,content_6c5dc77dbe307a95,2,6,3,train,True,0
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_4.wav,Sri_Lanka_Grey_Hornbill,304324,review_703fe51c4a183569,possible_703fe51c4a183569,content_7018bf0375ae76f8,1,18,18,train,True,0
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_40.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 26,review_278227fe7cf37b34,possible_278227fe7cf37b34,content_98acd83ae5eecd22,1,4,4,train,True,0
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_41.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 27,review_f6f39110c29d31e8,possible_f6f39110c29d31e8,content_2e94c69f9aaa72f2,1,4,4,train,True,0
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_42.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 28,review_a055d24fe1fc96a6,possible_a055d24fe1fc96a6,content_8ac2727d1d548796,1,9,9,train,True,0
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_43.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 29,review_acfec79c5490e4e0,possible_acfec79c5490e4e0,content_47894ea7ed203ac5,1,7,7,train,True,0
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_44.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 30,review_5af05389457378c2,possible_5af05389457378c2,content_0876d5d1c7368c97,1,23,23,train,True,0
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_45.wav,Sri_Lanka_Grey_Hornbill,Sri Lanka Gray Hornbill 31,review_d7766b156d326f23,possible_d7766b156d326f23,content_3bc24420288b9971,1,6,6,train,True,0
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_5.wav,Sri_Lanka_Grey_Hornbill,304322,review_61c3c3c42ebfe110,possible_61c3c3c42ebfe110,content_14bbc5da57e2fa2f,2,4,2,train,True,0
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_6.wav,Sri_Lanka_Grey_Hornbill,19377,review_94d0215055376988,possible_94d0215055376988,content_ef9a8f642cdc84b0,2,4,2,train,True,0
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_7.wav,Sri_Lanka_Grey_Hornbill,1046666,review_43eb3224bce45e97,possible_43eb3224bce45e97,content_36882fa4336652e4,2,4,2,train,True,0
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_8.wav,Sri_Lanka_Grey_Hornbill,311391,review_d992fc27887136ae,possible_d992fc27887136ae,content_471563fb5e6e3b2e,1,2,2,train,True,0
+birds_audio/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_9.wav,Sri_Lanka_Grey_Hornbill,304326,review_cd488877a276b687,possible_cd488877a276b687,content_3308b94d5ef70e6b,2,16,8,validation,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl.wav,Sri_Lanka_Junglefowl,545692,review_77ba086eb267015a,possible_77ba086eb267015a,content_e5f804df4c9749f9,1,21,21,train,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_10.wav,Sri_Lanka_Junglefowl,635300,review_f8ae1e74ec0b5ac3,possible_f8ae1e74ec0b5ac3,content_0e04cf98e8035f6d,1,7,7,train,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_11.wav,Sri_Lanka_Junglefowl,604097,review_a718e219fe3377fc,possible_a718e219fe3377fc,content_8cbad808949b77ac,1,4,4,train,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_12.wav,Sri_Lanka_Junglefowl,604096,review_f83ea1c2bdc67bff,possible_f83ea1c2bdc67bff,content_9f92e290ada48cdc,1,9,9,test,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_13.wav,Sri_Lanka_Junglefowl,604095,review_5bd141f61d0c7fe3,possible_5bd141f61d0c7fe3,content_70f4f50f4bfb3c27,1,7,7,train,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_14.wav,Sri_Lanka_Junglefowl,604094,review_afc8eb8775bedd6a,possible_afc8eb8775bedd6a,content_c7dd136f52a6b1b8,1,16,16,train,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_15.wav,Sri_Lanka_Junglefowl,453366,review_0fe863f8247cb09f,possible_0fe863f8247cb09f,content_6ec6e181fc325d3b,2,12,6,train,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_16.wav,Sri_Lanka_Junglefowl,346150,review_27c98f0943296de0,possible_27c98f0943296de0,content_a18d4408c1c3297a,2,20,10,test,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_17.wav,Sri_Lanka_Junglefowl,346143,review_307be2a86e3ee27e,possible_307be2a86e3ee27e,content_79d979c44eda10e2,2,22,11,train,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_18.wav,Sri_Lanka_Junglefowl,311284,review_575335527692439d,possible_575335527692439d,content_6e5ab99ea57e9d2f,2,18,9,validation,True,1
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_19.wav,Sri_Lanka_Junglefowl,311283,review_e05567f02e6cf7ab,possible_e05567f02e6cf7ab,content_7f35d941da538dde,2,40,20,train,True,1
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_2.wav,Sri_Lanka_Junglefowl,543396,review_d635b648ac565479,possible_d635b648ac565479,content_0e86124882fe15e1,1,2,2,train,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_20.wav,Sri_Lanka_Junglefowl,311282,review_3591639e19bec1e5,possible_3591639e19bec1e5,content_3c9af956efa05cd7,2,4,2,train,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_21.wav,Sri_Lanka_Junglefowl,311281,review_16ed7427609259f8,possible_16ed7427609259f8,content_b853f62711c1952f,1,4,4,train,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_22.wav,Sri_Lanka_Junglefowl,211801,review_ededf0d5d6029d8a,possible_ededf0d5d6029d8a,content_c261c1f2e6ee82f3,1,12,12,validation,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_23.wav,Sri_Lanka_Junglefowl,190812,review_82ca29b28e624b26,possible_82ca29b28e624b26,content_a0f11749e2fbbb2a,1,5,5,train,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_24.wav,Sri_Lanka_Junglefowl,183211,review_ced2438d6a0b2acb,possible_ced2438d6a0b2acb,content_e3264c5d3fe74520,1,4,4,train,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_25.wav,Sri_Lanka_Junglefowl,183210,review_0cfb32cdd5945d5e,possible_0cfb32cdd5945d5e,content_a8ebb49d2592fe67,1,13,13,train,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_26.wav,Sri_Lanka_Junglefowl,68360,review_81591a655e378775,possible_81591a655e378775,content_0b574c17419002cb,1,33,33,test,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_27.wav,Sri_Lanka_Junglefowl,68359,review_444ddb712286b5d9,possible_444ddb712286b5d9,content_ad1aa97c10c0d715,1,12,12,train,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_28.wav,Sri_Lanka_Junglefowl,68358,review_a09e77b454ef26c3,possible_a09e77b454ef26c3,content_30bf27bfb3eafdac,1,17,17,train,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_29.wav,Sri_Lanka_Junglefowl,19864,review_9d6595e57e12a5b5,possible_9d6595e57e12a5b5,content_e5dc8413f96b8def,1,15,15,validation,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_3.wav,Sri_Lanka_Junglefowl,543394,review_05804b3a8e41a8b6,possible_05804b3a8e41a8b6,content_7c1e163c2aaa1693,1,1,1,train,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_30.wav,Sri_Lanka_Junglefowl,1096389,review_b2db65e681588ab4,possible_b2db65e681588ab4,content_af053d7094d1c32b,1,9,9,train,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_31.wav,Sri_Lanka_Junglefowl,777762,review_e5e1fb3a6cbd8b62,possible_e5e1fb3a6cbd8b62,content_8418908538095502,1,3,3,validation,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_32.wav,Sri_Lanka_Junglefowl,237200,review_e43210a37ce89133,possible_e43210a37ce89133,content_319da1f57f20c3a8,1,6,6,train,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_33.wav,Sri_Lanka_Junglefowl,207888,review_fc3b62dc0f59a637,possible_fc3b62dc0f59a637,content_a3f3344cfa069073,1,9,9,train,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_34.wav,Sri_Lanka_Junglefowl,207657,review_89838e4808ca4a87,possible_89838e4808ca4a87,content_88a36b24214d72d3,1,15,15,test,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_35.wav,Sri_Lanka_Junglefowl,19380,review_aae410a7d4253f68,possible_aae410a7d4253f68,content_19e87563762b53d2,1,6,6,train,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_36.wav,Sri_Lanka_Junglefowl,1096388,review_3b91cd45bd91bf56,possible_3b91cd45bd91bf56,content_8635f5c9fee2d5f3,1,8,8,validation,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_37.wav,Sri_Lanka_Junglefowl,603875,review_a5c500e60df80d0e,possible_a5c500e60df80d0e,content_27fc5be9136cad40,1,5,5,train,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_38.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 1,review_750f283e12cd14a6,possible_750f283e12cd14a6,content_60bf737151651d96,1,58,58,train,True,6
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_39.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 2,review_7de4ba744214b462,possible_7de4ba744214b462,content_92f8539dc70fdcdb,1,52,52,train,True,6
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_4.wav,Sri_Lanka_Junglefowl,543393,review_f35976d0fa036ead,possible_f35976d0fa036ead,content_426bd889e9811bc3,1,1,1,train,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 3,review_147f6b0eec67645a,possible_147f6b0eec67645a,content_ac570a6c793ec0b2,1,87,87,train,True,1
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_41.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 4,review_cbd5754538c172e3,possible_cbd5754538c172e3,content_42153560e3daafc8,1,5,5,train,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_42.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 5,review_533ec9d7e7464e08,possible_533ec9d7e7464e08,content_8be4c44f5eaf967a,1,11,11,test,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_43.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 6,review_08136b1aa0e1df99,possible_08136b1aa0e1df99,content_9c72bb09c0bdaa60,1,119,119,train,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_44.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 7,review_59863d50c57f7b23,possible_59863d50c57f7b23,content_e83a8bbbb340906a,1,7,7,train,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_45.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 8,review_5477adfde19a1887,possible_5477adfde19a1887,content_3763b207a451a204,1,28,28,train,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_46.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 9,review_8f653361947f1ec0,possible_8f653361947f1ec0,content_005de90733d7a80a,1,5,5,train,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_47.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 10,review_8777b55c6354fa47,possible_8777b55c6354fa47,content_896ee70cb2299e78,1,15,15,train,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_48.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 11,review_27c98f0943296de0,possible_27c98f0943296de0,content_a0418662ffe3a554,2,20,10,test,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_49.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 12,review_307be2a86e3ee27e,possible_307be2a86e3ee27e,content_cc8fed1c00f1d499,2,22,11,train,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_5.wav,Sri_Lanka_Junglefowl,1097205,review_085cb148058520f9,possible_085cb148058520f9,content_6c2e62f15df4d2d6,1,1,1,test,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_50.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 13,review_575335527692439d,possible_575335527692439d,content_e265467e7277057d,2,18,9,validation,True,1
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_51.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 14,review_e05567f02e6cf7ab,possible_e05567f02e6cf7ab,content_0df47f7e8bac28bb,2,40,20,train,True,1
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_52.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 15,review_254257b811f5fff6,possible_254257b811f5fff6,content_9178f1527b15f5e7,1,4,4,train,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_53.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 16,review_7458f15cc70cb6e2,possible_7458f15cc70cb6e2,content_f9ee2114de10e807,1,5,5,train,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_54.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 17,review_9f485f81f8b1fea1,possible_9f485f81f8b1fea1,content_85ea0e15cb6bce0d,1,19,19,train,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_55.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 18,review_1f59a1b9b7bcf730,possible_1f59a1b9b7bcf730,content_8bc42fb6000b41e5,1,16,16,train,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_56.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 19,review_3591639e19bec1e5,possible_3591639e19bec1e5,content_573f8f7f859442a7,2,4,2,train,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_57.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 20,review_82a3303c75af835d,possible_82a3303c75af835d,content_db0206a1830b34b8,1,4,4,train,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_58.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 21,review_5a0c0d75cdc2efed,possible_5a0c0d75cdc2efed,content_a45702cfc8324c2b,1,14,14,train,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_59.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 22,review_10dca40c06b7fc7e,possible_10dca40c06b7fc7e,content_ac9ac8c28a2a933b,1,3,3,train,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_6.wav,Sri_Lanka_Junglefowl,1097204,review_a2d505ae6a077f28,possible_a2d505ae6a077f28,content_7c164ba3a740dc90,1,8,8,train,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_60.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 23,review_9bf1398ac005f1f1,possible_9bf1398ac005f1f1,content_618c95cdf7e9bbf6,1,22,22,validation,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_61.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 24,review_0fe863f8247cb09f,possible_0fe863f8247cb09f,content_6ec6e181fc325d3b,2,12,6,train,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_62.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 25,review_c27e54f172337009,possible_c27e54f172337009,content_f721209bf0cc6cff,1,9,9,train,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_63.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 26,review_e44dcebc682770ee,possible_e44dcebc682770ee,content_034d301fe7018692,1,3,3,train,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_64.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 27,review_e8cfc426f46ee4a0,possible_e8cfc426f46ee4a0,content_f4750fe75b381b1d,1,4,4,train,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_65.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 28,review_6ba6a33a5f35a283,possible_6ba6a33a5f35a283,content_07398622f2ad37ae,1,3,3,train,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_66.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 29,review_e5fe2c28b782c4c4,possible_e5fe2c28b782c4c4,content_210434a036df5791,1,2,2,train,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_67.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 30,review_8e8bf4fe983b67a6,possible_8e8bf4fe983b67a6,content_6b7d8adb3d7651ef,1,4,4,train,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_68.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 31,review_0bebe6d3667c98aa,possible_0bebe6d3667c98aa,content_311cfc16e78d4378,1,26,26,train,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_69.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 32,review_962d09991058f552,possible_962d09991058f552,content_5d3fc385fd7df2c5,1,2,2,train,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_7.wav,Sri_Lanka_Junglefowl,1097203,review_eb046b1b7890048a,possible_eb046b1b7890048a,content_328459bba02f2cc0,1,10,10,train,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_70.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 33,review_c50079f8f1619edc,possible_c50079f8f1619edc,content_00e2e2ecd3d7013f,1,6,6,train,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_71.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 34,review_b17a0629d34faeb2,possible_b17a0629d34faeb2,content_b93a29dfa4c667a3,1,2,2,train,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_72.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 35,review_8e16013136d747e1,possible_8e16013136d747e1,content_d22efbc36ef825c2,1,5,5,train,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_73.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 36,review_e5246825c76818cc,possible_e5246825c76818cc,content_db5ce860ccc994b3,1,1,1,validation,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_74.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 37,review_d5640d241aa685f2,possible_d5640d241aa685f2,content_08bae1a80086923c,1,1,1,train,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_75.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 38,review_e0294083de690c35,possible_e0294083de690c35,content_d3b0dd0d42f9945c,1,1,1,train,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_76.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 39,review_e233d5b6fab5245f,possible_e233d5b6fab5245f,content_e89c6d94b179d4a0,1,6,6,train,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_77.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 40,review_421190b7c5a441ba,possible_421190b7c5a441ba,content_d73fb134e14a04fd,1,3,3,train,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_78.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 41,review_507e3cb1e4d4b52b,possible_507e3cb1e4d4b52b,content_5db0945aa740bf6a,1,1,1,train,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_79.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 42,review_b65eb46d217b29f1,possible_b65eb46d217b29f1,content_b0c45df7f7e65d8f,1,7,7,test,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_8.wav,Sri_Lanka_Junglefowl,1074067,review_52b9add11549ccec,possible_52b9add11549ccec,content_087722241db0f5f0,1,3,3,train,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_80.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 43,review_73aec946616538f4,possible_73aec946616538f4,content_8344ab5a60e2f097,1,10,10,test,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_81.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 44,review_514e0a464bd37772,possible_514e0a464bd37772,content_21bf7d7a6239c293,1,1,1,train,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_82.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 45,review_146d7c0362a81302,possible_146d7c0362a81302,content_da7409cb31810fa9,1,5,5,train,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_83.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 46,review_5229bdadba3cf8aa,possible_5229bdadba3cf8aa,content_317aefff5ebc5a29,1,7,7,train,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_84.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 47,review_886d016b47f15b3a,possible_886d016b47f15b3a,content_9dfc2792cd43ae3a,1,34,34,train,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_85.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 48,review_1b2173dc9d094cd2,possible_1b2173dc9d094cd2,content_45a3c697e6b9ab16,1,11,11,train,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_86.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 49,review_1899c63125ee45ee,possible_1899c63125ee45ee,content_b84607c15b8a6e5d,1,31,31,validation,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_87.wav,Sri_Lanka_Junglefowl,Sri Lanka Junglefowl 50,review_1db9f2f0993f3ba9,possible_1db9f2f0993f3ba9,content_ca7e2b9acbf0e0b1,1,2,2,train,True,0
+birds_audio/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_9.wav,Sri_Lanka_Junglefowl,724572,review_3419deaa923e5f6e,possible_3419deaa923e5f6e,content_0c4b2d674e95eead,1,10,10,train,True,0
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl.wav,Sri_Lanka_Spurfowl,543399,review_bdf7d2ba01ee4844,possible_bdf7d2ba01ee4844,content_5038d4d74df07c00,1,6,6,train,True,0
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_10.wav,Sri_Lanka_Spurfowl,211804,review_910ba4adb7d4e711,possible_910ba4adb7d4e711,content_e836b50e69b4cd8c,1,4,4,train,True,0
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_11.wav,Sri_Lanka_Spurfowl,211803,review_2db77a144e997309,possible_2db77a144e997309,content_3705a8b140d6f168,1,12,12,train,True,0
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_12.wav,Sri_Lanka_Spurfowl,190817,review_4cfc5b261f2ae982,possible_4cfc5b261f2ae982,content_9dea7fcea94a474f,2,12,6,train,True,0
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_13.wav,Sri_Lanka_Spurfowl,19383,review_1d6d245b8ae5dae3,possible_1d6d245b8ae5dae3,content_6e1349c8d9a43cb6,2,22,11,test,True,0
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_14.wav,Sri_Lanka_Spurfowl,19382,review_1ac9d445d05c4b08,possible_1ac9d445d05c4b08,content_f86e2d37de2326b2,2,16,8,train,True,0
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_15.wav,Sri_Lanka_Spurfowl,983168,review_4e8121ba2e4c0d38,possible_4e8121ba2e4c0d38,content_7038ab8a0a08bc09,2,28,14,train,True,0
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_16.wav,Sri_Lanka_Spurfowl,656082,review_70ca3bf54f3b82f8,possible_70ca3bf54f3b82f8,content_cadb19c2b803002a,2,18,9,validation,True,0
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_17.wav,Sri_Lanka_Spurfowl,625920,review_a8916316969ad029,possible_a8916316969ad029,content_a74078a961b8f482,2,42,21,train,True,0
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_18.wav,Sri_Lanka_Spurfowl,619059,review_11ac86e6b41634df,possible_11ac86e6b41634df,content_487ff7cc70303637,2,6,3,train,True,0
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_19.wav,Sri_Lanka_Spurfowl,366992,review_378183c119d5ca7c,possible_378183c119d5ca7c,content_5b36d132fb83f856,2,18,9,train,True,0
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_2.wav,Sri_Lanka_Spurfowl,543397,review_3b7e17e07f57166f,possible_3b7e17e07f57166f,content_7c3c9b922dd5372e,1,14,14,train,True,0
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_20.wav,Sri_Lanka_Spurfowl,311278,review_f1cea8608ad8fbe8,possible_f1cea8608ad8fbe8,content_8da66bf403789bdd,2,4,2,train,True,0
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_21.wav,Sri_Lanka_Spurfowl,237201,review_eea13e416e1fe33a,possible_eea13e416e1fe33a,content_fd166f39e9638913,1,4,4,train,True,0
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_22.wav,Sri_Lanka_Spurfowl,165384,review_809dde6497889cc7,possible_809dde6497889cc7,content_fb83e164ad4973cc,1,3,3,train,True,0
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_23.wav,Sri_Lanka_Spurfowl,1097246,review_a2670506cc8495ee,possible_a2670506cc8495ee,content_57d2b21c12cfae61,1,10,10,train,True,0
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_24.wav,Sri_Lanka_Spurfowl,777381,review_95c3758d1e30684a,possible_95c3758d1e30684a,content_2e84a95ea67b4127,1,26,26,train,True,0
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_25.wav,Sri_Lanka_Spurfowl,680833,review_ff879505dc3af2f0,possible_ff879505dc3af2f0,content_c2a559b742462208,1,3,3,train,True,0
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_26.wav,Sri_Lanka_Spurfowl,181989,review_4987835c380a9d75,possible_4987835c380a9d75,content_4772592e79d2ca69,1,8,8,train,True,0
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_27.wav,Sri_Lanka_Spurfowl,181988,review_75b4a44c706c65bd,possible_75b4a44c706c65bd,content_29e9731aea1fd581,1,4,4,train,True,0
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_28.wav,Sri_Lanka_Spurfowl,152875,review_836ff37fb1ebc97b,possible_836ff37fb1ebc97b,content_61a3a604f0c7c171,1,6,6,train,True,0
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_29.wav,Sri_Lanka_Spurfowl,152874,review_1d71f4394259b4ce,possible_1d71f4394259b4ce,content_3e21412b847a5b6c,1,9,9,train,True,0
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_3.wav,Sri_Lanka_Spurfowl,587978,review_e90bbed160fcb597,possible_e90bbed160fcb597,content_a35c86d59498d75f,1,8,8,train,True,0
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_30.wav,Sri_Lanka_Spurfowl,68355,review_c492c63c604796d4,possible_c492c63c604796d4,content_64a2b4e31478b4ef,1,9,9,train,True,0
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_31.wav,Sri_Lanka_Spurfowl,68354,review_f2fad5df35275734,possible_f2fad5df35275734,content_7ad26368278efad1,1,29,29,test,True,0
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_32.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 1,review_f1cea8608ad8fbe8,possible_f1cea8608ad8fbe8,content_4b5b1455cf53895b,2,4,2,train,True,0
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_33.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 2,review_7e66c318fdd253b4,possible_7e66c318fdd253b4,content_8027c8b5c38709a0,1,19,19,train,True,0
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_34.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 3,review_f688457daecf629c,possible_f688457daecf629c,content_ba0770de0a396cfc,1,37,37,train,True,1
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_35.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 4,review_b8e8b19690fdc746,possible_b8e8b19690fdc746,content_49fc2057c37a5616,1,41,41,validation,True,1
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_36.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 5,review_cfc433ec959f10f2,possible_cfc433ec959f10f2,content_3ebde628d4ade578,1,12,12,train,True,0
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_37.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 6,review_e43f25374eabd039,possible_e43f25374eabd039,content_596b7cd1681dd61d,1,15,15,train,True,0
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_38.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 7,review_1a73a163beab1f6e,possible_1a73a163beab1f6e,content_7c70565ca62c4961,1,8,8,validation,True,1
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_39.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 8,review_3a1207fa813c9075,possible_3a1207fa813c9075,content_e9c2597438debe50,1,72,72,train,True,0
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_4.wav,Sri_Lanka_Spurfowl,426324,review_2f2b018964a95363,possible_2f2b018964a95363,content_e63faf3f63fdc394,1,10,10,train,True,0
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_40.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 9,review_b14d09c57827aa44,possible_b14d09c57827aa44,content_4bad2738bc9f448f,1,20,20,train,True,0
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_41.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 10,review_5b2cecc7f8841bd4,possible_5b2cecc7f8841bd4,content_8f0616fece141bd3,1,21,21,train,True,0
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_42.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 11,review_6bf50191826ba735,possible_6bf50191826ba735,content_8a0bf746e359e182,1,18,18,train,True,0
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_43.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 12,review_a1e377344a7df7e6,possible_a1e377344a7df7e6,content_aa8fb20f62cb7454,1,11,11,test,True,0
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_44.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 13,review_1d6d245b8ae5dae3,possible_1d6d245b8ae5dae3,content_7955ff0cd12e381f,2,22,11,test,True,0
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_45.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 14,review_1ac9d445d05c4b08,possible_1ac9d445d05c4b08,content_6bb0e92973c85844,2,16,8,train,True,0
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_46.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 15,review_4e8121ba2e4c0d38,possible_4e8121ba2e4c0d38,content_571e67b9c16a7ba4,2,28,14,train,True,0
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_47.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 16,review_70ca3bf54f3b82f8,possible_70ca3bf54f3b82f8,content_d72978df471c5f3b,2,18,9,validation,True,0
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_48.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 17,review_a8916316969ad029,possible_a8916316969ad029,content_64db9d5ea5f317b0,2,42,21,train,True,0
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_49.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 18,review_9f2b1e9a1eda18df,possible_9f2b1e9a1eda18df,content_252bda64ae503df6,1,6,6,test,True,0
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_5.wav,Sri_Lanka_Spurfowl,346196,review_46eb3bc4927ed874,possible_46eb3bc4927ed874,content_b700afe05898e1ff,1,11,11,test,True,0
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_50.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 19,review_a0ecd2260e0192b9,possible_a0ecd2260e0192b9,content_bcbe5c21e8300ee0,1,19,19,train,True,0
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_51.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 20,review_3012d3223ca3c302,possible_3012d3223ca3c302,content_17ca2820cfe2483d,1,11,11,train,True,0
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_52.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 21,review_0594dd75b9525fe8,possible_0594dd75b9525fe8,content_a0ecf84c9388328b,1,19,19,train,True,0
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_53.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 22,review_7067cba42338569f,possible_7067cba42338569f,content_3335d8fc36605fa1,1,5,5,train,True,0
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_54.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 23,review_2b173b29eead6545,possible_2b173b29eead6545,content_058a0165f03163ed,1,15,15,train,True,0
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_55.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 24,review_11ac86e6b41634df,possible_11ac86e6b41634df,content_75e6146be1b86944,2,6,3,train,True,0
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_56.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 25,review_b18edc9ab945e10a,possible_b18edc9ab945e10a,content_ea7b05cc3a479c26,1,21,21,train,True,0
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_57.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 26,review_4cfc5b261f2ae982,possible_4cfc5b261f2ae982,content_9dea7fcea94a474f,2,12,6,train,True,0
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_58.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 27,review_62fa9e9412389174,possible_62fa9e9412389174,content_f3598ddc332bfc09,1,17,17,train,True,0
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_59.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 28,review_53b8d75f47eb5b1b,possible_53b8d75f47eb5b1b,content_00c7c49c3b7362fa,1,4,4,train,True,0
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_6.wav,Sri_Lanka_Spurfowl,311280,review_1b1bd217ab85b746,possible_1b1bd217ab85b746,content_61c83b98eabc127b,1,10,10,train,True,0
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_60.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 29,review_7568277bb7a2f076,possible_7568277bb7a2f076,content_265f430f68c02a89,1,4,4,test,True,0
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_61.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 30,review_8f6d4178353904a1,possible_8f6d4178353904a1,content_2700359701d25fff,1,3,3,validation,True,0
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_62.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 31,review_df139f7e3cd8c90c,possible_df139f7e3cd8c90c,content_dcb8b4ad4928b26a,1,6,6,train,True,0
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_63.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 32,review_378183c119d5ca7c,possible_378183c119d5ca7c,content_1d17f0b5d7a5d394,2,18,9,train,True,0
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_64.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 33,review_a6746ed3d78047a9,possible_a6746ed3d78047a9,content_7f8324db70c92e65,1,8,8,validation,True,0
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_65.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 34,review_85952b1018701d0d,possible_85952b1018701d0d,content_1d664c3a35569913,1,4,4,train,True,0
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_66.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 35,review_ceb1d6d2060a090b,possible_ceb1d6d2060a090b,content_26e79660b4f26059,1,15,15,train,True,0
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_67.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 36,review_aa68d94cdd33e517,possible_aa68d94cdd33e517,content_30df977273f3d647,1,2,2,train,True,0
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_68.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 37,review_8c0930750b5c5de7,possible_8c0930750b5c5de7,content_d22ea2e222614679,1,8,8,train,True,0
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_69.wav,Sri_Lanka_Spurfowl,Sri Lanka Spurfowl 38,review_795b8975780d8d95,possible_795b8975780d8d95,content_cbfe6de3d8a93299,1,4,4,validation,True,0
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_7.wav,Sri_Lanka_Spurfowl,311279,review_92c0c492b1cac0e4,possible_92c0c492b1cac0e4,content_8834adfd147841f1,1,8,8,train,True,1
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_8.wav,Sri_Lanka_Spurfowl,311277,review_50312bfdad8c937e,possible_50312bfdad8c937e,content_bd19118a80d87378,1,6,6,train,True,1
+birds_audio/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_9.wav,Sri_Lanka_Spurfowl,311276,review_10ba51ed18da03d8,possible_10ba51ed18da03d8,content_266f0c9b11cc0c03,1,6,6,train,True,1
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet.wav,Yellow-fronted_Barbet,1097249,review_f4c0920dd5581bf0,possible_f4c0920dd5581bf0,content_3309851263e30a49,1,4,4,train,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_10.wav,Yellow-fronted_Barbet,346183,review_c52f467c2f3db30c,possible_c52f467c2f3db30c,content_1157f1116aeea76c,1,6,6,train,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_100.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 54,review_d98fe98bc9e8795c,possible_d98fe98bc9e8795c,content_c9b49c7a5e277f0f,1,6,6,train,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_101.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 55,review_1498894af924b121,possible_1498894af924b121,content_b87be5b1d93bb673,1,11,11,train,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_11.wav,Yellow-fronted_Barbet,346153,review_1f2e8d75b738fd02,possible_1f2e8d75b738fd02,content_cdc1bfed13b07bc6,1,3,3,train,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_12.wav,Yellow-fronted_Barbet,311357,review_ee5f71e5057b47ef,possible_ee5f71e5057b47ef,content_be48f39f76e7c01f,1,4,4,train,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_13.wav,Yellow-fronted_Barbet,311355,review_fb63c71e058feb3c,possible_fb63c71e058feb3c,content_f997f4a26be3f965,1,8,8,test,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_14.wav,Yellow-fronted_Barbet,311354,review_827b6892959f6aae,possible_827b6892959f6aae,content_1a369c1fb1da655a,1,5,5,validation,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_15.wav,Yellow-fronted_Barbet,224187,review_ce79b8f2870e06f4,possible_ce79b8f2870e06f4,content_d062e43cc6c93fab,1,6,6,train,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_16.wav,Yellow-fronted_Barbet,183230,review_af592801287cb88f,possible_af592801287cb88f,content_23f2caec37e798a3,1,5,5,train,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_17.wav,Yellow-fronted_Barbet,183229,review_9dc888f0c10723ba,possible_9dc888f0c10723ba,content_b4a06c42360004e5,1,5,5,train,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_18.wav,Yellow-fronted_Barbet,164019,review_e388337ef9923910,possible_e388337ef9923910,content_4a06bb9995100b3f,1,8,8,validation,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_19.wav,Yellow-fronted_Barbet,19439,review_8c8f82872bd77c0d,possible_8c8f82872bd77c0d,content_eb979f8e7fe4ce1c,1,6,6,train,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_2.wav,Yellow-fronted_Barbet,634460,review_afc059fcb2642d48,possible_afc059fcb2642d48,content_50d04f0905ad3880,1,6,6,test,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_20.wav,Yellow-fronted_Barbet,1097295,review_b7d3fdc74ec35c5d,possible_b7d3fdc74ec35c5d,content_fc0a6def534a20c1,1,4,4,train,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_21.wav,Yellow-fronted_Barbet,1097281,review_85e4d97378c4c3d8,possible_85e4d97378c4c3d8,content_13e6f47743b103b3,1,8,8,train,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_22.wav,Yellow-fronted_Barbet,1097248,review_4c9b329f992e36b4,possible_4c9b329f992e36b4,content_e96dd5a9c43f92c1,1,3,3,train,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_23.wav,Yellow-fronted_Barbet,1097247,review_6e6303bc04b58fd3,possible_6e6303bc04b58fd3,content_10bfd6da923031b9,2,14,7,train,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_24.wav,Yellow-fronted_Barbet,1074041,review_5bc42d925f45be83,possible_5bc42d925f45be83,content_c888095a271b7544,2,16,8,train,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_25.wav,Yellow-fronted_Barbet,1074040,review_00f3bad85d3a8c3b,possible_00f3bad85d3a8c3b,content_89fd4aef4a157ef4,2,16,8,train,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_26.wav,Yellow-fronted_Barbet,1049760,review_59515a09ae00051f,possible_59515a09ae00051f,content_79ed1313c2127443,1,5,5,train,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_27.wav,Yellow-fronted_Barbet,809314,review_87e211ad78880c28,possible_87e211ad78880c28,content_2c32bb37ad335bbf,1,8,8,train,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_28.wav,Yellow-fronted_Barbet,777765,review_f0223507fd5330ad,possible_f0223507fd5330ad,content_4359322c05e26626,1,2,2,train,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_29.wav,Yellow-fronted_Barbet,777439,review_f981f303489f97e5,possible_f981f303489f97e5,content_bda4395dc34aae74,1,9,9,train,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_3.wav,Yellow-fronted_Barbet,620157,review_19e9429884604531,possible_19e9429884604531,content_2a924586ed3874c3,1,3,3,train,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_30.wav,Yellow-fronted_Barbet,777385,review_601f7e3b6c26208c,possible_601f7e3b6c26208c,content_67b30765f2370d89,1,4,4,test,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_31.wav,Yellow-fronted_Barbet,620159,review_2842561abed98ba6,possible_2842561abed98ba6,content_3777989c99577bab,1,13,13,train,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_32.wav,Yellow-fronted_Barbet,620156,review_cc6a3f77e8a923c9,possible_cc6a3f77e8a923c9,content_d61cce640e246602,1,19,19,validation,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_33.wav,Yellow-fronted_Barbet,620154,review_acc241b2cab28636,possible_acc241b2cab28636,content_54bee7836568f71b,1,8,8,validation,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_34.wav,Yellow-fronted_Barbet,620151,review_7ad99b2df28b368b,possible_7ad99b2df28b368b,content_fb9efab9c61f8c2b,1,2,2,train,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_35.wav,Yellow-fronted_Barbet,311356,review_3f19534d9fe1ad2a,possible_3f19534d9fe1ad2a,content_41a9893c3a96d7c7,1,7,7,train,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_36.wav,Yellow-fronted_Barbet,311353,review_fc5b8720b97f4546,possible_fc5b8720b97f4546,content_e2c0ebe2f983f712,1,3,3,train,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_37.wav,Yellow-fronted_Barbet,311352,review_75583f6b101d3ffd,possible_75583f6b101d3ffd,content_f325d315a3ed3b72,1,13,13,test,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_38.wav,Yellow-fronted_Barbet,207753,review_0b42407098882217,possible_0b42407098882217,content_296c8e3d0136bfd1,1,9,9,train,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_39.wav,Yellow-fronted_Barbet,207752,review_0774d0fd5230301f,possible_0774d0fd5230301f,content_e003d78d1da4d5d5,1,13,13,train,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_4.wav,Yellow-fronted_Barbet,620148,review_3cc9d92a7479494a,possible_3cc9d92a7479494a,content_dc82fd4926b8280e,1,9,9,train,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_40.wav,Yellow-fronted_Barbet,164020,review_e83bf4b41403f5f7,possible_e83bf4b41403f5f7,content_82c88d261edafcf7,1,3,3,train,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_41.wav,Yellow-fronted_Barbet,152877,review_cb82cdad26d8753b,possible_cb82cdad26d8753b,content_69448c2feff0ec80,2,8,4,train,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_42.wav,Yellow-fronted_Barbet,68669,review_08691c4bb65a94ed,possible_08691c4bb65a94ed,content_95439d6780833cd3,1,11,11,train,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_43.wav,Yellow-fronted_Barbet,37620,review_6de29cc9ca606e8d,possible_6de29cc9ca606e8d,content_e66fefbcd709fb8b,1,6,6,train,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_44.wav,Yellow-fronted_Barbet,19440,review_099eee24faa6cb4d,possible_099eee24faa6cb4d,content_5e07ac2b3402bc06,1,13,13,train,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_45.wav,Yellow-fronted_Barbet,1097271,review_c97948f4f97842e3,possible_c97948f4f97842e3,content_8c53f0666c8331e3,1,9,9,train,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_46.wav,Yellow-fronted_Barbet,19441,review_91fc10b5cda1c50a,possible_91fc10b5cda1c50a,content_f4cd1c38c7e3c9e1,1,23,23,train,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_47.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 1,review_09ce340f4bbf282f,possible_09ce340f4bbf282f,content_96db7c15553e5b36,1,25,25,train,True,6
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_48.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 2,review_3e3aa840c96e63aa,possible_3e3aa840c96e63aa,content_597179fd5478632c,1,65,65,train,True,6
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_49.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 3,review_cd799bfa8b217b50,possible_cd799bfa8b217b50,content_35831d743075c366,1,33,33,train,True,6
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_5.wav,Yellow-fronted_Barbet,620145,review_50b9a8521c7bdea9,possible_50b9a8521c7bdea9,content_b20f28f61161b611,1,3,3,test,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_50.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 4,review_8d3629a8286e05d1,possible_8d3629a8286e05d1,content_23bc2d2e46b46881,1,18,18,test,True,6
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_51.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 5,review_69c9a3357bf5656c,possible_69c9a3357bf5656c,content_8a1f1c23f1c7d34b,1,27,27,train,True,6
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_52.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 6,review_0333673311953da6,possible_0333673311953da6,content_7cbc498e4cc1aaed,1,19,19,test,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_53.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 7,review_ca6c1eff5b0b25ed,possible_ca6c1eff5b0b25ed,content_a4919332031e951d,1,36,36,train,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_54.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 8,review_20254807cd8cd9cc,possible_20254807cd8cd9cc,content_9a1e354497e7bd26,1,14,14,validation,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_55.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 9,review_3dc119fe7e14edae,possible_3dc119fe7e14edae,content_6835a1e02147c516,1,6,6,train,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_56.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 10,review_ee941a0c6458a44b,possible_ee941a0c6458a44b,content_d0855d3b2efd3366,1,8,8,train,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_57.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 11,review_37ba7585a9e4ba68,possible_37ba7585a9e4ba68,content_16b18cded12939f8,1,3,3,train,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_58.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 12,review_6e6303bc04b58fd3,possible_6e6303bc04b58fd3,content_6b146a081824633f,2,14,7,train,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_59.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 13,review_5bc42d925f45be83,possible_5bc42d925f45be83,content_76696fae728daa9d,2,16,8,train,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_6.wav,Yellow-fronted_Barbet,591039,review_ef037120d93db10d,possible_ef037120d93db10d,content_4023a9c2f9bc3096,1,7,7,train,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_60.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 14,review_00f3bad85d3a8c3b,possible_00f3bad85d3a8c3b,content_a38428a0c86d0ae7,2,16,8,train,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_61.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 15,review_c664fd79a7465133,possible_c664fd79a7465133,content_43e44e754019a607,1,5,5,train,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_62.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 16,review_c678b559946a6fef,possible_c678b559946a6fef,content_f9751794925c81ab,1,2,2,train,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_63.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 17,review_d9d6293649271a14,possible_d9d6293649271a14,content_b602b11bcbb5e6fd,1,4,4,train,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_64.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 18,review_5ed062eec44f4ff7,possible_5ed062eec44f4ff7,content_89226bb38ae2579a,1,10,10,train,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_65.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 19,review_3aeacf0d44bd0753,possible_3aeacf0d44bd0753,content_a0dae79334c87498,1,3,3,train,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_66.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 20,review_cb82cdad26d8753b,possible_cb82cdad26d8753b,content_037899162c5607cf,2,8,4,train,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_67.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 21,review_2632aba07508e89d,possible_2632aba07508e89d,content_c8ea20addde9a23e,1,5,5,train,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_68.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 22,review_c8777de3d7403f63,possible_c8777de3d7403f63,content_16d3dbf8629a3008,1,4,4,validation,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_69.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 23,review_389fd17971e57b81,possible_389fd17971e57b81,content_ee6457bb13be6c91,1,2,2,train,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_7.wav,Yellow-fronted_Barbet,591038,review_73e81a00b2ba7895,possible_73e81a00b2ba7895,content_ddd46f9255c42a80,1,6,6,test,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_70.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 24,review_4edbf2adfb3ae446,possible_4edbf2adfb3ae446,content_158fd40d9aef6edd,1,8,8,train,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_71.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 25,review_a245083e633a20b7,possible_a245083e633a20b7,content_83a3960472bdae74,1,8,8,train,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_72.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 26,review_ac708ae05534224f,possible_ac708ae05534224f,content_69c7d6b7cfd3e192,1,10,10,validation,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_73.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 27,review_850b1232a9894d4e,possible_850b1232a9894d4e,content_456eb1cb1456bc6c,1,12,12,train,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_74.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 28,review_4ab813071b828dce,possible_4ab813071b828dce,content_4a294c03b44fca51,1,4,4,train,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_75.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 29,review_80abbb6c755abf5d,possible_80abbb6c755abf5d,content_7ad283dc450de7ac,1,7,7,train,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_76.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 30,review_a4ea986a63d07895,possible_a4ea986a63d07895,content_14b01267bf44fe95,1,8,8,train,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_77.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 31,review_e8904cd96434c28d,possible_e8904cd96434c28d,content_520cc538b39b8e85,1,1,1,train,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_78.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 32,review_44dc0e1272356f32,possible_44dc0e1272356f32,content_8fb4132a0f992802,1,4,4,train,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_79.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 33,review_38d86e125111dd7c,possible_38d86e125111dd7c,content_124fae660ce098b4,1,2,2,train,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_8.wav,Yellow-fronted_Barbet,453489,review_c8b019dc62ca0dc6,possible_c8b019dc62ca0dc6,content_fcc0f4747d5a93e7,1,3,3,train,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_80.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 34,review_9c4cf1795827e135,possible_9c4cf1795827e135,content_0787d6c472ae13d9,1,1,1,validation,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_81.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 35,review_f96f392923b50de5,possible_f96f392923b50de5,content_f41b1275b2827645,1,4,4,train,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_82.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 36,review_1a817af2d7457524,possible_1a817af2d7457524,content_dbc826ddc66338a2,1,5,5,train,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_83.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 37,review_2870fdbbf4b4f0e6,possible_2870fdbbf4b4f0e6,content_e15616f8fcf7a821,1,5,5,train,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_84.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 38,review_54a92363e77708bc,possible_54a92363e77708bc,content_cef7b6de65e765f0,1,4,4,train,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_85.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 39,review_54fedf2e8c0f8cf2,possible_54fedf2e8c0f8cf2,content_33d6920d2f89d969,1,10,10,train,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_86.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 40,review_403e2d4cb9fefe0d,possible_403e2d4cb9fefe0d,content_cf2bc03135ff82a3,1,4,4,validation,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_87.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 41,review_a805afe27c874368,possible_a805afe27c874368,content_7b6b93f02d5149e7,1,5,5,train,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_88.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 42,review_8279d3ef9bcde100,possible_8279d3ef9bcde100,content_73cb5786d039ae97,1,5,5,train,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_89.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 43,review_2d2287c86b91bc15,possible_2d2287c86b91bc15,content_67b6ca6eeee22ab7,1,2,2,train,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_9.wav,Yellow-fronted_Barbet,453482,review_a65afeda2cb3bfd1,possible_a65afeda2cb3bfd1,content_bc97d89a06e029a0,1,11,11,validation,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_90.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 44,review_6abfb8f73c238dba,possible_6abfb8f73c238dba,content_9bb5962068f54a8f,1,1,1,train,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_91.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 45,review_a1a8ba9b20ff8e46,possible_a1a8ba9b20ff8e46,content_fc0ebf2c9b7d473b,1,5,5,train,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_92.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 46,review_d111a8a6edc69351,possible_d111a8a6edc69351,content_e3b4fe2583ff2eb3,1,3,3,train,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_93.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 47,review_f778cd4ae9837ecf,possible_f778cd4ae9837ecf,content_44a757e38bd7c2a1,1,4,4,test,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_94.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 48,review_b70d663b55f5eac6,possible_b70d663b55f5eac6,content_a99b2a3d20800061,1,4,4,train,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_95.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 49,review_d463936eee822f86,possible_d463936eee822f86,content_009424b3b259fbbf,1,1,1,test,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_96.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 50,review_a7c61afc47e4d440,possible_a7c61afc47e4d440,content_3d0db048f97e1855,1,3,3,train,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_97.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 51,review_8da36d52fee13449,possible_8da36d52fee13449,content_61c38ca2e4ed084f,1,4,4,train,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_98.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 52,review_6bfc2a7b7fbcbff2,possible_6bfc2a7b7fbcbff2,content_795b5bc2fb505509,1,11,11,train,True,0
+birds_audio/Yellow-fronted_Barbet/Yellow-fronted_Barbet_99.wav,Yellow-fronted_Barbet,Yellow-fronted Barbet 53,review_fc619b2e99043d15,possible_fc619b2e99043d15,content_ce6bbf8df342e452,1,25,25,train,True,0

@@ -1,0 +1,11 @@
+species,clips,padded_clips,heavily_padded_ge_50_percent,silent_clips,near_silent_nonpadding_content,near_silent_full_clip,mean_padding_percent,max_padding_percent
+Chestnut-backed_Owlet,707,78,38,0,4,9,5.594352899575672,99.84
+Crimson-fronted_Barbet,335,50,21,0,3,7,7.273891791044775,98.75875
+Green-billed_Coucal,843,64,35,0,10,14,4.073164294187426,99.51125
+Spot-winged_Thrush,1681,108,55,0,12,16,3.2418746281975017,99.15
+Sri_Lanka_Blue_Magpie,486,56,30,0,1,2,5.932319958847737,99.4225
+Sri_Lanka_Frogmouth,2213,284,136,2,146,167,6.229879688206055,99.4575
+Sri_Lanka_Grey_Hornbill,265,45,24,1,1,2,8.299679245283018,96.05
+Sri_Lanka_Junglefowl,1053,87,32,0,16,23,3.547420465337132,99.63
+Sri_Lanka_Spurfowl,817,69,34,0,6,13,4.0632359241126075,98.88
+Yellow-fronted_Barbet,833,101,42,1,14,20,5.757711584633854,99.96625
