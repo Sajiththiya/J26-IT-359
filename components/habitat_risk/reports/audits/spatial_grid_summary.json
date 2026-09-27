@@ -1,0 +1,26 @@
+{
+  "grid_id": "lka_laea_5000m",
+  "study_area": "All Sri Lanka",
+  "grid_cells": 2869,
+  "locations": 7245,
+  "outside_boundary_locations": 17,
+  "cells_with_records": 1112,
+  "recorded_scientific_names": 25,
+  "priority_scores_calculated": false,
+  "boundary_sha256": "8f4eb476e3861d778ab1e7fa8f691ff1e16a449e1ca2b762f7d4af1ac7a94875",
+  "config": {
+    "study_area": "All Sri Lanka",
+    "boundary_file": "data/raw/boundaries/LKA_ADM0.geojson",
+    "grid_size_m": 5000,
+    "grid_status": "provisional exploration; assess ecological scale before modelling",
+    "projected_crs": "+proj=laea +lat_0=7.9 +lon_0=80.7 +datum=WGS84 +units=m +no_defs",
+    "grid_origin_m": [
+      0,
+      0
+    ],
+    "species_scope": "Endemic birds; resolve taxonomy and eligibility before filtering retained records",
+    "source_verification": "See source registry: forest/weather/terrain sources acquired; observation/trait limitations remain",
+    "priority_method": "Not selected; no vulnerability weights or priority scores assigned",
+    "research_direction": "Endemic-bird habitat-risk assessment using a justified HRI"
+  }
+}
