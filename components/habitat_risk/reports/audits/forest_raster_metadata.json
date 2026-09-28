@@ -1,0 +1,218 @@
+[
+  {
+    "path": "data/raw/forest/Hansen_GFC-2024-v1.12_datamask_10N_070E.tif",
+    "band_from_filename": "datamask",
+    "crs": "EPSG:4326",
+    "bounds": [
+      70.0,
+      0.0,
+      80.0,
+      10.0
+    ],
+    "width": 40000,
+    "height": 40000,
+    "count": 1,
+    "dtype": "uint8",
+    "pixel_size_degrees": [
+      0.00025,
+      0.00025
+    ],
+    "transform": [
+      0.00025,
+      0.0,
+      70.0,
+      0.0,
+      -0.00025,
+      10.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "nodata": null,
+    "mask_flags": [
+      [
+        "all_valid"
+      ]
+    ]
+  },
+  {
+    "path": "data/raw/forest/Hansen_GFC-2024-v1.12_datamask_10N_080E.tif",
+    "band_from_filename": "datamask",
+    "crs": "EPSG:4326",
+    "bounds": [
+      80.0,
+      0.0,
+      90.0,
+      10.0
+    ],
+    "width": 40000,
+    "height": 40000,
+    "count": 1,
+    "dtype": "uint8",
+    "pixel_size_degrees": [
+      0.00025,
+      0.00025
+    ],
+    "transform": [
+      0.00025,
+      0.0,
+      80.0,
+      0.0,
+      -0.00025,
+      10.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "nodata": null,
+    "mask_flags": [
+      [
+        "all_valid"
+      ]
+    ]
+  },
+  {
+    "path": "data/raw/forest/Hansen_GFC-2024-v1.12_lossyear_10N_070E.tif",
+    "band_from_filename": "lossyear",
+    "crs": "EPSG:4326",
+    "bounds": [
+      70.0,
+      0.0,
+      80.0,
+      10.0
+    ],
+    "width": 40000,
+    "height": 40000,
+    "count": 1,
+    "dtype": "uint8",
+    "pixel_size_degrees": [
+      0.00025,
+      0.00025
+    ],
+    "transform": [
+      0.00025,
+      0.0,
+      70.0,
+      0.0,
+      -0.00025,
+      10.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "nodata": null,
+    "mask_flags": [
+      [
+        "all_valid"
+      ]
+    ]
+  },
+  {
+    "path": "data/raw/forest/Hansen_GFC-2024-v1.12_lossyear_10N_080E.tif",
+    "band_from_filename": "lossyear",
+    "crs": "EPSG:4326",
+    "bounds": [
+      80.0,
+      0.0,
+      90.0,
+      10.0
+    ],
+    "width": 40000,
+    "height": 40000,
+    "count": 1,
+    "dtype": "uint8",
+    "pixel_size_degrees": [
+      0.00025,
+      0.00025
+    ],
+    "transform": [
+      0.00025,
+      0.0,
+      80.0,
+      0.0,
+      -0.00025,
+      10.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "nodata": null,
+    "mask_flags": [
+      [
+        "all_valid"
+      ]
+    ]
+  },
+  {
+    "path": "data/raw/forest/Hansen_GFC-2024-v1.12_treecover2000_10N_070E.tif",
+    "band_from_filename": "treecover2000",
+    "crs": "EPSG:4326",
+    "bounds": [
+      70.0,
+      0.0,
+      80.0,
+      10.0
+    ],
+    "width": 40000,
+    "height": 40000,
+    "count": 1,
+    "dtype": "uint8",
+    "pixel_size_degrees": [
+      0.00025,
+      0.00025
+    ],
+    "transform": [
+      0.00025,
+      0.0,
+      70.0,
+      0.0,
+      -0.00025,
+      10.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "nodata": null,
+    "mask_flags": [
+      [
+        "all_valid"
+      ]
+    ]
+  },
+  {
+    "path": "data/raw/forest/Hansen_GFC-2024-v1.12_treecover2000_10N_080E.tif",
+    "band_from_filename": "treecover2000",
+    "crs": "EPSG:4326",
+    "bounds": [
+      80.0,
+      0.0,
+      90.0,
+      10.0
+    ],
+    "width": 40000,
+    "height": 40000,
+    "count": 1,
+    "dtype": "uint8",
+    "pixel_size_degrees": [
+      0.00025,
+      0.00025
+    ],
+    "transform": [
+      0.00025,
+      0.0,
+      80.0,
+      0.0,
+      -0.00025,
+      10.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "nodata": null,
+    "mask_flags": [
+      [
+        "all_valid"
+      ]
+    ]
+  }
+]

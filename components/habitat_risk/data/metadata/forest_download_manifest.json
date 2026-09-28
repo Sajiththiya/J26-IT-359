@@ -1,0 +1,56 @@
+[
+  {
+    "path": "data/raw/forest/Hansen_GFC-2024-v1.12_treecover2000_10N_070E.tif",
+    "url": "https://storage.googleapis.com/earthenginepartners-hansen/GFC-2024-v1.12/Hansen_GFC-2024-v1.12_treecover2000_10N_070E.tif",
+    "bytes": 39994094,
+    "sha256": "dae0780148920a76ae9d9608be3bc63dbbd6ce36c417fe18b818d67fc73bb529",
+    "provider_md5_base64": "eezng9+vmKIfW6MxBCfPNw==",
+    "provider_checksum_verified": true,
+    "verified_at_utc": "2026-10-02T04:01:07.205986+00:00"
+  },
+  {
+    "path": "data/raw/forest/Hansen_GFC-2024-v1.12_lossyear_10N_070E.tif",
+    "url": "https://storage.googleapis.com/earthenginepartners-hansen/GFC-2024-v1.12/Hansen_GFC-2024-v1.12_lossyear_10N_070E.tif",
+    "bytes": 15489803,
+    "sha256": "6553ca6d035fe118e886b18c034b6c40c7db1abd2bba88ab410c5712926d947d",
+    "provider_md5_base64": "9r1Z+3ftuqrqw1wGrd5DEg==",
+    "provider_checksum_verified": true,
+    "verified_at_utc": "2026-10-02T04:02:11.476226+00:00"
+  },
+  {
+    "path": "data/raw/forest/Hansen_GFC-2024-v1.12_datamask_10N_070E.tif",
+    "url": "https://storage.googleapis.com/earthenginepartners-hansen/GFC-2024-v1.12/Hansen_GFC-2024-v1.12_datamask_10N_070E.tif",
+    "bytes": 19749143,
+    "sha256": "1c41a73d80d66159f74e68b88e53475887dd0942ca4630826a4e5ce67bc49070",
+    "provider_md5_base64": "AYfzHbKRD1SQgcpdIb0LNw==",
+    "provider_checksum_verified": true,
+    "verified_at_utc": "2026-10-02T04:03:32.526009+00:00"
+  },
+  {
+    "path": "data/raw/forest/Hansen_GFC-2024-v1.12_treecover2000_10N_080E.tif",
+    "url": "https://storage.googleapis.com/earthenginepartners-hansen/GFC-2024-v1.12/Hansen_GFC-2024-v1.12_treecover2000_10N_080E.tif",
+    "bytes": 64754171,
+    "sha256": "28dca31f9d545e9b8b0d0bfd9e27eae6110bbd3c9c518890b78eda813a7f9ba4",
+    "provider_md5_base64": "/JbzEPNgYV47VSHVEqWSfQ==",
+    "provider_checksum_verified": true,
+    "verified_at_utc": "2026-10-02T04:03:33.191601+00:00"
+  },
+  {
+    "path": "data/raw/forest/Hansen_GFC-2024-v1.12_lossyear_10N_080E.tif",
+    "url": "https://storage.googleapis.com/earthenginepartners-hansen/GFC-2024-v1.12/Hansen_GFC-2024-v1.12_lossyear_10N_080E.tif",
+    "bytes": 17206412,
+    "sha256": "8e770dee00b4e15ecc9bd95785515471d5e920987afe14201ef12c50419c29f1",
+    "provider_md5_base64": "h4R18HlNS9QAIHSAb2rGUw==",
+    "provider_checksum_verified": true,
+    "verified_at_utc": "2026-10-02T04:03:33.779873+00:00"
+  },
+  {
+    "path": "data/raw/forest/Hansen_GFC-2024-v1.12_datamask_10N_080E.tif",
+    "url": "https://storage.googleapis.com/earthenginepartners-hansen/GFC-2024-v1.12/Hansen_GFC-2024-v1.12_datamask_10N_080E.tif",
+    "bytes": 16329355,
+    "sha256": "9d85b51b600eaefb0a5cc4edd26e7f5dcfb30bf49dabfd76f182332806cde2d0",
+    "provider_md5_base64": "pQWxUikrqfHk23EsSwLl2A==",
+    "provider_checksum_verified": true,
+    "verified_at_utc": "2026-10-02T04:04:42.033917+00:00"
+  }
+]
