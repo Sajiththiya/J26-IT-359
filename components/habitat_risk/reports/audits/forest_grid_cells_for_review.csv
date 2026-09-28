@@ -1,0 +1,3 @@
+cell_id,sampled_pixels,sampled_area_m2,no_data_area_m2,mapped_land_area_m2,persistent_water_area_m2,observed_area_fraction_of_sampled_footprint,mean_canopy_percent_on_mapped_land,status
+lka_laea_5000m_-15_35,0,0.0,0.0,0.0,0.0,,,no_pixel_centres
+lka_laea_5000m_12_-39,0,0.0,0.0,0.0,0.0,,,no_pixel_centres

@@ -1,0 +1,24 @@
+{
+  "raster_count": 6,
+  "bands_found": [
+    "datamask",
+    "lossyear",
+    "treecover2000"
+  ],
+  "locations_outside_tree_loss_footprints": 0,
+  "grid_counts": {
+    "fully_inside_tree_loss_footprints": 2869,
+    "partially_inside_tree_loss_footprints": 0,
+    "outside_tree_loss_footprints": 0
+  },
+  "sample_comparisons": 1000,
+  "provider_checksums_verified_at_download": true,
+  "aligned_tile_groups": 2,
+  "sample_mismatches": 0,
+  "footprint_is_not_valid_data_mask": true,
+  "ready_for_full_country_labels": false,
+  "remaining": [
+    "Review grid-level evidence and cells with no pixel centres",
+    "Justified canopy threshold, coverage policy and final spatial scale"
+  ]
+}
