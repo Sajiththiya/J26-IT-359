@@ -1,0 +1,44 @@
+Audio sample sources and licenses
+=================================
+
+Rain/Rain/Rain.ogg
+  Title: Rain (1).ogg
+  Creator: ezwa
+  License: Public domain
+  Source: https://commons.wikimedia.org/wiki/File:Rain_(1).ogg
+
+Rain/Wind/Wind_in_high_trees.ogg
+  Title: Kalenica, Góry Sowie - forest ambience, wind in high trees
+  Creator: udo noll
+  License: CC BY-SA 3.0
+  Source: https://archive.org/details/aporee_46350_52652
+
+Rain/Insects/Cicada_chirping.mp3
+  Title: 嘉155,十字村, Alishan Township, Chiayi County - Cicada chirping
+  Creator: Wu,Tsan-Cheng
+  License: CC BY-NC-ND 3.0
+  Source: https://archive.org/details/aporee_71309_83191
+
+Rain/Streams - flowing water/Stream_water.ogg
+  Title: 南雅奇岩, Ruifang District, New Taipei City - Stream water sound
+  Creator: Wu,Tsan-Cheng
+  License: CC BY 3.0
+  Source: https://archive.org/details/aporee_16328_18931
+
+Rain/Forest ambient sound/Spring_forest_ambience.ogg
+  Title: Gogulec nature reserve, Zlotkowo - spring forest ambience
+  Creator: udo noll
+  License: Creative Commons Public Domain Mark 1.0
+  Source: https://archive.org/details/aporee_45242_51389
+
+Rain/Other bird calls - mixed bird sounds/Bird_calls.ogg
+  Title: Zhong Lu Keng Wetlands, Puli Township, Nantou County - Bird calls
+  Creator: Wu,Tsan-Cheng
+  License: CC BY 3.0
+  Source: https://archive.org/details/aporee_30109_34626
+
+License note: Follow the listed license when reusing or redistributing a sample.
+Attribution is required for CC BY and CC BY-SA; CC BY-SA also requires adaptations
+to be shared under the same license. The cicada recording is non-commercial and
+must not be shared in an adapted form. Credit is included for provenance even where
+the license does not require it.
