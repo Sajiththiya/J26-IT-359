@@ -1,0 +1,5 @@
+clip_path,augmentation_type,status,reason
+birds_audio_split/train/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_129__clip_00003.wav,all_noise_levels,skipped,digital silence / no measurable source signal; clean reference retained
+birds_audio_split/train/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_197__clip_00026.wav,all_noise_levels,skipped,digital silence / no measurable source signal; clean reference retained
+birds_audio_split/train/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_3__clip_00006.wav,all_noise_levels,skipped,digital silence / no measurable source signal; clean reference retained
+birds_audio_split/train/Yellow-fronted_Barbet/Yellow-fronted_Barbet_51__clip_00027.wav,all_noise_levels,skipped,digital silence / no measurable source signal; clean reference retained

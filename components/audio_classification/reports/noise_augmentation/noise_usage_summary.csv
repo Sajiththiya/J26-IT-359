@@ -1,0 +1,7 @@
+noise_file,category,original_format,original_subtype,original_rate,original_channels,decoded_duration_seconds,decoder,generated_examples,unique_offsets,target_rate,target_channels,independent_noise_recordings
+Noisy/Forest ambient sound/Spring_forest_ambience.ogg,Forest ambient sound,OGG,VORBIS,48000,2,180.0,direct,3739,3738,16000,1,1
+Noisy/Insects/Cicada_chirping.mp3,Insects,MP3,MPEG_LAYER_III,48000,2,416.064,direct,3668,3666,16000,1,1
+Noisy/Other bird calls - mixed bird sounds/Bird_calls.ogg,Other bird calls - mixed bird sounds,OGG,VORBIS,48000,2,312.048,direct,3639,3638,16000,1,1
+Noisy/Rain/Rain.ogg,Rain,OGG,VORBIS,44100,1,44.95675,in_memory_vorbis_selection,3727,3718,16000,1,1
+Noisy/Streams - flowing water/Stream_water.ogg,Streams - flowing water,OGG,VORBIS,48000,2,140.064,direct,3691,3690,16000,1,1
+Noisy/Wind/Wind_in_high_trees.ogg,Wind,OGG,VORBIS,44100,2,272.7610625,direct,3676,3676,16000,1,1
