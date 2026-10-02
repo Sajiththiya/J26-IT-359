@@ -1,0 +1,14 @@
+{
+  "source": "ERA5-Land monthly averaged reanalysis",
+  "rows": 40166,
+  "status_counts": {
+    "coverage_pass": 35154,
+    "insufficient_source_coverage": 5012
+  },
+  "temperature": "Day-weighted annual mean, K minus 273.15",
+  "precipitation": "moda mean daily m times days in month times 1000, then annual sum",
+  "spatial_method": "Area-weighted source-cell overlap; >=95% finite full-year source coverage required",
+  "native_resolution": "0.1 degree distributed grid; no independent 5km weather detail",
+  "source_sha256": "8b1b108d502a919fe1b8f6d52e294686dce1e560c4965ddd0a3122e64a773f71",
+  "live_source_processed": true
+}

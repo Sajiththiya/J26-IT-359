@@ -1,0 +1,20 @@
+[
+  {
+    "url": "https://srtm.csi.cgiar.org/wp-content/uploads/files/srtm_5x5/TIFF/srtm_52_11.zip",
+    "path": "data/raw/terrain/srtm_52_11.zip",
+    "sha256": "01f26871d1dfef392a022c35a33fd80317296d0b669db7baa62a9be3c029d721",
+    "bytes": 5459464,
+    "zip_crc_verified": true,
+    "provider_checksum_available": false,
+    "retrieved_at_utc": "2026-10-02T15:14:47.172960+00:00"
+  },
+  {
+    "url": "https://srtm.csi.cgiar.org/wp-content/uploads/files/srtm_5x5/TIFF/srtm_53_11.zip",
+    "path": "data/raw/terrain/srtm_53_11.zip",
+    "sha256": "7c64ee94edb5ea43ecf1239e2a169733801935baf1b3a2a61a2e1af460d8462f",
+    "bytes": 7207142,
+    "zip_crc_verified": true,
+    "provider_checksum_available": false,
+    "retrieved_at_utc": "2026-10-02T15:14:56.769688+00:00"
+  }
+]
