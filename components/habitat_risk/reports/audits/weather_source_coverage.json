@@ -1,0 +1,18 @@
+{
+  "source_path": "/Users/keerthikeerthi/Desktop/Final dataset for RP/SriLanka_Weather_Dataset.csv",
+  "source_sha256": "16ff1a4814fc4b487ebeb98cc1a486f209ac7fb8666672b4a82ead3c7cd25828",
+  "rows": 147480,
+  "cities": 30,
+  "invalid_dates": 0,
+  "date_min": "2010-01-01",
+  "date_max": "2023-06-17",
+  "complete_city_years": 390,
+  "incomplete_city_years": 30,
+  "ready_to_join": false,
+  "remaining": [
+    "Verify provider, product, units and time zone",
+    "Replace city-based nearest-location estimates with justified grid weather extraction",
+    "Obtain full reference-year 2023 if retaining target year 2024",
+    "Obtain independent terrain raster; weather-source elevation is unsuitable as local terrain"
+  ]
+}
