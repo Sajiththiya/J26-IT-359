@@ -1,0 +1,26 @@
+{
+  "label2id": {
+    "Chestnut-backed_Owlet": 0,
+    "Crimson-fronted_Barbet": 1,
+    "Green-billed_Coucal": 2,
+    "Spot-winged_Thrush": 3,
+    "Sri_Lanka_Blue_Magpie": 4,
+    "Sri_Lanka_Frogmouth": 5,
+    "Sri_Lanka_Grey_Hornbill": 6,
+    "Sri_Lanka_Junglefowl": 7,
+    "Sri_Lanka_Spurfowl": 8,
+    "Yellow-fronted_Barbet": 9
+  },
+  "id2label": {
+    "0": "Chestnut-backed_Owlet",
+    "1": "Crimson-fronted_Barbet",
+    "2": "Green-billed_Coucal",
+    "3": "Spot-winged_Thrush",
+    "4": "Sri_Lanka_Blue_Magpie",
+    "5": "Sri_Lanka_Frogmouth",
+    "6": "Sri_Lanka_Grey_Hornbill",
+    "7": "Sri_Lanka_Junglefowl",
+    "8": "Sri_Lanka_Spurfowl",
+    "9": "Yellow-fronted_Barbet"
+  }
+}
