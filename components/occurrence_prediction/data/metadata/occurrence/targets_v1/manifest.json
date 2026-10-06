@@ -1,0 +1,127 @@
+{
+  "created_date_local": "2026-10-12",
+  "target": "target_occurrence",
+  "target_definition": {
+    "1": "Species detected on this checklist",
+    "0": "Not detected on a verified suitable complete checklist; not confirmed biological absence",
+    "blank": "Insufficient evidence for a non-detection"
+  },
+  "input_observation_rows": 102929,
+  "input_checklists": 35376,
+  "endemic_species": 24,
+  "full_export_rows_scanned": 3340843,
+  "source_taxa_on_input_checklists": 490,
+  "verified_checklists": 35376,
+  "complete_verified_checklists": 31487,
+  "eligible_checklists_before_shared_event_deduplication": 25216,
+  "selected_independent_surveys": 21067,
+  "shared_checklists_removed_from_training": 4149,
+  "audit_target_rows": 849024,
+  "training_rows": 505608,
+  "training_positive_rows": 54213,
+  "training_non_detection_rows": 451395,
+  "audit_unknown_rows": 208517,
+  "training_feature_missing_counts": {
+    "scientific_name": 0,
+    "latitude": 0,
+    "longitude": 0,
+    "year": 0,
+    "month": 0,
+    "temperature_mean_c": 0,
+    "rainfall_mm": 0,
+    "elevation_m": 888,
+    "ndvi": 183360,
+    "land_cover": 48,
+    "duration_minutes": 0,
+    "survey_distance_km": 0,
+    "protocol": 0,
+    "hours_of_day": 0,
+    "number_observers": 0
+  },
+  "exclusion_reason_counts": {
+    "duration_missing_invalid_or_over_6h": 6311,
+    "distance_missing_invalid_or_over_10km": 7347,
+    "unsupported_protocol": 4873,
+    "observer_count_missing_invalid_or_over_10": 3101,
+    "start_time_missing_or_invalid": 2515,
+    "incomplete_checklist": 3889,
+    "outside_verified_grid": 36,
+    "speed_over_100kmh": 12
+  },
+  "effort_rule": {
+    "protocols": [
+      "Traveling",
+      "Stationary"
+    ],
+    "duration_minutes": "(0,360]",
+    "travel_distance_km": "(0,10]",
+    "maximum_speed_kmph": 100,
+    "observer_count": "[1,10]",
+    "start_time": "valid required",
+    "spatial_scope": "existing verified Sri Lanka 5km cell"
+  },
+  "shared_checklists": "survey_group_id is the original GROUP IDENTIFIER where supplied, otherwise checklist_id. Training retains the lexically first eligible checklist for each group; labels refer to its own original species list, not an unverified union of shared lists.",
+  "X": [
+    "scientific_name",
+    "latitude",
+    "longitude",
+    "year",
+    "month",
+    "temperature_mean_c",
+    "rainfall_mm",
+    "elevation_m",
+    "ndvi",
+    "land_cover",
+    "duration_minutes",
+    "survey_distance_km",
+    "protocol",
+    "hours_of_day",
+    "number_observers"
+  ],
+  "y": "target_occurrence",
+  "grouping_columns": [
+    "survey_group_id",
+    "checklist_id",
+    "cell_id",
+    "year",
+    "observation_date"
+  ],
+  "exclude_from_X": [
+    "target_occurrence",
+    "label_status",
+    "checklist_id",
+    "survey_group_id",
+    "cell_id",
+    "all_species_reported"
+  ],
+  "validation_status": "passed",
+  "original_files_moved_or_modified": false,
+  "inputs": [
+    {
+      "path": "/Users/keerthikeerthi/Downloads/component3/data/processed/requested_observation_dataset.csv",
+      "sha256": "9891e3e7d08d4b380658af203e4ab82fe0b853c1ce9c201013cfa7ff4c251e82"
+    },
+    {
+      "path": "/Users/keerthikeerthi/Downloads/component3/data/processed/hri/wp2_v1/final_species_scope.csv",
+      "sha256": "7c5327c901318f8e16cd892b0d0b3e2459468b257abd5cc4534277ed3457c460"
+    },
+    {
+      "path": "/Users/keerthikeerthi/Downloads/component3/data/processed/requested_observation_dataset_metadata.json",
+      "sha256": "7fec656a5d2104cd964c4c052562bfe4882c24f9b49a824d028697d050b145e2"
+    },
+    {
+      "path": "/Users/keerthikeerthi/Desktop/Filter data/ebd_LK_relMay-2026.txt",
+      "sha256": "e1844b9d851437589a7e6358c3df8b07de0a68498604bcfdea269988d44b8633"
+    }
+  ],
+  "references": [
+    "https://ebird.github.io/ebird-best-practices/ebird.html"
+  ],
+  "limitations": [
+    "Sampling frame is only the checklists in the supplied endemic-filtered CSV. Checklists containing no selected endemic observations are not added. Detection frequencies and model probabilities are conditional on this selected frame, not national occupancy.",
+    "Species scope follows the existing verified 24-species WP2 release, not a claim to cover all Sri Lankan endemic species. Batrachostomus moniliger is excluded.",
+    "Environmental missing values remain missing. Fit preprocessing using training folds only. Land cover switches product/classification in 2021; retain the original metadata.",
+    "Weather provider/units remain partially verified. NDVI is a 16-day composite; annual land cover and contemporaneous weather require care for forecasting.",
+    "Targets describe checklist detection, not true ecological absence. Use spatial cell blocks and temporal holdouts; never split checklist/species rows independently."
+  ]
+}
