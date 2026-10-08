@@ -47,7 +47,7 @@ CORE_RISKS = ["forest_amount_risk", "recent_loss_risk",
 
 WEIGHTS = {
     # Primary: transparent equal contribution; not claimed expert weights.
-    "core_equal": dict(zip(CORE_RISKS, [0.25] * 4)),
+    "core_equal": json.loads((ROOT / "configs/hri.json").read_text())["weights"],
     # Analytical alternatives used only for sensitivity.
     "core_condition_emphasis": dict(zip(CORE_RISKS, [0.40, 0.20, 0.20, 0.20])),
     "core_disturbance_emphasis": dict(zip(CORE_RISKS, [0.15, 0.35, 0.30, 0.20])),
@@ -61,6 +61,9 @@ WEIGHTS = {
         "population_pressure_risk": 0.20,
     },
 }
+
+if set(WEIGHTS["core_equal"]) != set(CORE_RISKS) or not np.isclose(sum(WEIGHTS["core_equal"].values()), 1):
+    raise ValueError("Configured HRI core weights must cover all four indicators and sum to one")
 
 
 def sha256(path):

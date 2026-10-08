@@ -5,6 +5,15 @@ Prepared 2026-10-09. The executable, supervisor-facing implementation is
 `scripts/calculate_hri.py`. Outputs are in `data/processed/hri/hri_v1/`.
 This stage constructs and validates indices. It does not fit ML models.
 
+Forecast extension (2026-10-20): `notebooks/hri/HRI_t_plus_1/` now implements
+end-of-year t to t+1 experiments with separate geographic blocks and future
+years. The primary weights below remain 0.25 each and are recorded in
+`configs/hri.json`; no literature-estimated or expert-approved replacement
+weights have been supplied. Historical index definitions remain unchanged.
+The new forecasting protocol distinguishes persistence, predictable index
+component updates, and learned residuals. High forecast R² for this constructed
+index does not independently validate ecological risk.
+
 ## Interpretation and assessment unit
 
 One result row represents one 5 km grid cell in one reference year under one
