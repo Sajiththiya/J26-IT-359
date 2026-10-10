@@ -1,0 +1,57 @@
+{
+  "version": "expanded-pressure-provisional-v1",
+  "status": "User-authorized provisional scenarios; ecological expert approval pending",
+  "primary_label_unchanged": "core_equal",
+  "reference_years": [2010, 2011, 2012, 2013, 2014],
+  "first_assessment_year": 2015,
+  "minimum_climate_reference_years_per_cell": 3,
+  "normalization_quantile": 0.99,
+  "weights_are_not": ["empirically established ecological importance", "model feature importance", "expert elicitation results"],
+  "domain_weights": {"forest": 0.60, "climate_departure": 0.20, "population_pressure": 0.20},
+  "within_domain_weights": {
+    "forest": {"forest_amount_risk": 0.3333333333333333, "recent_loss_risk": 0.25, "cumulative_loss_risk": 0.16666666666666666, "fragmentation_risk": 0.25},
+    "climate_departure": {"temperature_departure_risk": 0.375, "precipitation_departure_risk": 0.375, "temperature_trend_magnitude_risk": 0.125, "precipitation_trend_magnitude_risk": 0.125},
+    "population_pressure": {"population_pressure_risk": 1.0}
+  },
+  "rationale": {
+    "forest": "Retains the forest-oriented scope and allocates a smaller share to cumulative loss because it overlaps with recent loss. Exact shares are analyst assumptions.",
+    "climate_departure": "Both directions of departure/trend are exploratory exposure signals; they are not species-specific harm estimates. Trends receive a smaller share than departures.",
+    "population_pressure": "Population density is one pressure proxy. It does not replace roads, built-up area or a full human-footprint index.",
+    "all_domains": "Group weights prevent giving a domain extra influence merely because it has more columns. These numerical priorities require ecological review."
+  },
+  "domain_sensitivity_scenarios": {
+    "balanced_domains": {"forest": 0.3333333333333333, "climate_departure": 0.3333333333333333, "population_pressure": 0.3333333333333333},
+    "forest_emphasis": {"forest": 0.75, "climate_departure": 0.15, "population_pressure": 0.10},
+    "climate_emphasis": {"forest": 0.45, "climate_departure": 0.35, "population_pressure": 0.20},
+    "population_emphasis": {"forest": 0.45, "climate_departure": 0.20, "population_pressure": 0.35}
+  },
+  "forest_climate_only_weights": {"forest": 0.80, "climate_departure": 0.20, "population_pressure": 0.0},
+  "sampled_vegetation_sensitivity": {
+    "enabled": true,
+    "domain_weights": {"forest": 0.55, "climate_departure": 0.20, "population_pressure": 0.15},
+    "sampled_greenness_deficit_weight": 0.10,
+    "interpretation": "Sparse point-sampled greenness illustration only. NDVI sensor/date/season/QA provenance is unverified; never use this score as a released HRI or forecasting label."
+  },
+  "context_only": {
+    "annual_mean_temperature_and_precipitation": "Source inputs for reference departures; do not weight both raw values and their departures again.",
+    "elevation_mean_sd_and_slope": "Retain as context/species modifiers; generic risk direction is unsupported. No arbitrary high-elevation or steep-slope penalty.",
+    "sampled_elevation": "Observation context; duplicates terrain and has uneven sampling.",
+    "sampled_land_cover": "Retain product-prefixed categories. Risk mappings await product/version/date verification and ecological justification; do not score integer codes.",
+    "bird_counts_and_survey_effort": "Sampling/observation context, not habitat-pressure components.",
+    "coverage_and_missing_flags": "Uncertainty/eligibility only; do not increase or decrease risk using sampling completeness."
+  },
+  "unavailable_layers": ["annual QA-filtered national NDVI", "aligned annual land-cover transitions", "roads", "built-up fraction", "night lights", "historical protected-area/IBA boundaries"],
+  "missing_policy": "Require every positively weighted component. Preserve NaN and report available nominal weight. Never silently renormalize or extrapolate population after 2020.",
+  "risk_class_status": "Use existing thirds for comparison only; communication thresholds are not ecologically validated.",
+  "weight_perturbation_draws": 200,
+  "dirichlet_concentration_domains": 50,
+  "dirichlet_concentration_within_domains": 30,
+  "random_seed": 42,
+  "sources": {
+    "composite_weighting": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2008/08/handbook-on-constructing-composite-indicators-methodology-and-user-guide_g1gh9301/9789264043466-en.pdf",
+    "climate_exposure_not_complete_vulnerability": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0065427",
+    "human_pressure": "https://www.nature.com/articles/ncomms12558",
+    "vegetation_measurement_and_QA": "https://lpdaac.usgs.gov/documents/449/MOD13_ATBD_V5.pdf"
+  },
+  "source_limit": "Sources support methods or broad mechanisms; none establishes the exact percentages in this file."
+}
