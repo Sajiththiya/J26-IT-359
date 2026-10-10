@@ -54,6 +54,9 @@ components/c1-bird-recognition/data/splits/
 # C1 generated model artifacts
 components/c1-bird-recognition/artifacts/
 
+# C1 generated dataset audit reports
+components/c1-bird-recognition/data/reports/
+
 # Experiment logs
 runs/
 wandb/
