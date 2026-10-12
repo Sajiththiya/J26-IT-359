@@ -1,0 +1,24 @@
+{
+  "source_folder": "/Users/keerthikeerthi/Desktop/Final dataset for RP",
+  "files": [
+    {
+      "original_path": "/Users/keerthikeerthi/Desktop/Final dataset for RP/Hansen_GFC-2024-v1.12_lossyear_10N_080E.tif",
+      "project_path": "data/raw/forest/Hansen_GFC-2024-v1.12_lossyear_10N_080E.tif",
+      "sha256": "8e770dee00b4e15ecc9bd95785515471d5e920987afe14201ef12c50419c29f1",
+      "bytes": 17206412
+    },
+    {
+      "original_path": "/Users/keerthikeerthi/Desktop/Final dataset for RP/Hansen_GFC-2024-v1.12_treecover2000_10N_080E.tif",
+      "project_path": "data/raw/forest/Hansen_GFC-2024-v1.12_treecover2000_10N_080E.tif",
+      "sha256": "28dca31f9d545e9b8b0d0bfd9e27eae6110bbd3c9c518890b78eda813a7f9ba4",
+      "bytes": 64754171
+    },
+    {
+      "original_path": "/Users/keerthikeerthi/Desktop/Final dataset for RP/build_final_dataset.py",
+      "project_path": "data/raw/source_scripts/build_final_dataset.py",
+      "sha256": "ca6fc185011aa43b826c350f36d08597f666a7b434a357d52140a6d217e5e7df",
+      "bytes": 7830
+    }
+  ],
+  "notes": "Original files left unchanged. Source script archived for inspection, not executed. Raster provider download URLs not recovered."
+}

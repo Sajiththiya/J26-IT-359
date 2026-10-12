@@ -1,0 +1,5 @@
+data_group,verification_status,unfilled_core_fields
+Bird observations,unverified,source_url; original_filename; units; temporal_coverage; extraction_or_join_method; local_evidence_paths
+Forest,unverified,source_url; original_filename; units; temporal_coverage; extraction_or_join_method; local_evidence_paths
+Weather,unverified,source_url; original_filename; units; temporal_coverage; extraction_or_join_method; local_evidence_paths
+Elevation,unverified,source_url; original_filename; units; temporal_coverage; extraction_or_join_method; local_evidence_paths

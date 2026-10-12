@@ -1,0 +1,22 @@
+{
+  "source": "CGIAR-CSI SRTM v4.1 90m",
+  "cell_count": 2869,
+  "status_counts": {
+    "coverage_pass": 2598,
+    "below_working_95pct_coverage": 265,
+    "no_pixel_centres": 6
+  },
+  "elevation_mean_range_m": [
+    1.822761518880725,
+    2083.990507170442
+  ],
+  "method": "Bilinear projection to 90m local LAEA, central finite-difference slope, pixel-centre zonal mean/population SD. Four valid neighbours required for slope.",
+  "limitations": [
+    "SRTM surface heights may include vegetation/buildings; not guaranteed bare earth",
+    "Void-filled product; interpolation mask not acquired",
+    "90m terrain smooths finer slopes; 5km grid provisional",
+    "95% coverage criterion is a working choice, not ecological standard",
+    "Boundary pixels use centre assignment, not fractional clipping"
+  ],
+  "source_epoch": "SRTM mission 2000; product processing may use auxiliary DEMs"
+}

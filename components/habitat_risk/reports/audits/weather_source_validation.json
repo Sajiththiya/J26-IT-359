@@ -1,0 +1,11 @@
+{
+  "months": 168,
+  "years": [
+    2010,
+    2023
+  ],
+  "experiment_version": "0001",
+  "monthly_precipitation_nonnegative": true,
+  "independent_annual_point_checks": 9,
+  "checks_passed": true
+}

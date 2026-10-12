@@ -1,0 +1,16 @@
+{
+  "research_objective": "Endemic-bird habitat risk assessment in Sri Lanka",
+  "workflow_status": "visible_cleaning_and_HRI_definition",
+  "assessment_unit": null,
+  "time_window": null,
+  "indicators": [],
+  "indicator_transformations": null,
+  "weights": null,
+  "risk_class_thresholds": null,
+  "missing_data_policy": null,
+  "species_vulnerability_role": null,
+  "ml_target": null,
+  "model_plan": "Resolve two-model outline versus earlier ten-model request after defining target",
+  "HRI_training_dataset_ready": false,
+  "notes": "Unset values are research decisions, not defaults. Archived forest-loss labels are not HRI labels."
+}
