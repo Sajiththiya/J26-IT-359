@@ -74,6 +74,29 @@ Choose the new virtual environment as your notebook kernel. Requirements pin pac
 
 ## Notebook workflow
 
+### Expanded indicators and provisional importance weights
+
+[`08_expanded_hri_provisional_weights.ipynb`](notebooks/hri/08_expanded_hri_provisional_weights.ipynb)
+adds an all-variable audit table, nine weighted pressure proxies, explicitly
+provisional 60/20/20 forest/climate/population priorities, alternative weights,
+and a separate sparse sampled-NDVI illustration. All terrain and product-prefixed
+land-cover values are retained as context pending justified risk mappings.
+See [expanded methodology](docs/methodology/hri_expanded_provisional.md) for
+coverage limits, numerical assumptions and source evidence. This version does
+not replace the existing core HRI or its frozen forecasting results.
+
+### HRI(t+1): audited forecasting workflow
+
+Use [`notebooks/hri/HRI_t_plus_1/README.md`](notebooks/hri/HRI_t_plus_1/README.md)
+for the new end-of-year t to t+1 workflow. It includes forest inputs and current
+HRI, exact next-year labels, 25 km block separation, later-year validation,
+forward CV tuning for Ridge/Random Forest/XGBoost, and mean/persistence/known-
+component baselines. Existing model CSVs receive future-target annotation
+columns, and their earlier fields and split assignments are retained. Core
+equal-contribution weights are explicit in `configs/hri.json`; ecological
+expert approval is still pending. Read the separate v2 reports before using
+these models for SHAP or recommendations.
+
 ### Model Experiment 2: nine environmental inputs
 
 The ten notebooks in `notebooks/hri/Model_Training/` now use the six climate
@@ -104,7 +127,7 @@ Notebook 07 rebuilds the final CSV and scales available numeric context using
 training statistics, keeping missing context as missing. Its three existing
 split files are refreshed. The final CSV retains physical units, while split
 files contain scaled values. No new output files are required. Model-training
-notebooks still use their explicit 18-feature lists; added context is excluded
+notebooks still use their explicit nine-feature lists; added context is excluded
 until its suitability for a separate experiment is reviewed.
 
 National annual NDVI would require a separate quality-filtered raster extraction
@@ -146,7 +169,7 @@ data/processed/hri/   Reserved for an accepted HRI release
 data/splits/hri/    Reserved for HRI validation partitions
 reports/            Source audits, coverage checks and figures
 docs/               Current HRI workflow, source setup and original proposal
-artifacts/hri/      Reserved future model artifacts
+artifacts/hri/      HRI model experiments, forecast evaluations and reports
 ```
 
 ## Provenance and transfer

@@ -1,5 +1,13 @@
 # Optimized HRI model training
 
+For next-year HRI prediction, use [`../HRI_t_plus_1/README.md`](../HRI_t_plus_1/README.md).
+This folder remains the same-year nine-predictor comparison. Appended future
+target columns in the input CSVs are outcomes and must stay outside its
+explicit feature list.
+
+The executed next-year experiment and final tests are documented in
+[HRI(t+1) v2 results](../../../artifacts/hri/hri_t_plus_1_v2/RESULTS.md).
+
 These ten self-contained notebooks follow the step-by-step structure of `../Model_Training/`. Each notebook contains its own data loading, preprocessing pipeline, grouped cross-validation, hyperparameter search, validation plots, result exports, and locked final-test cell. Run from any working directory within the repository with the project Python environment selected as the Jupyter kernel. The separate `optimized_training.py` module provides an optional command-line way to run the same experiments.
 
 ## Method

@@ -9,6 +9,7 @@ component risks are intentionally excluded because the targets are calculated
 directly from those components.
 """
 
+import json
 import random
 from pathlib import Path
 
@@ -139,6 +140,16 @@ def main() -> None:
         raise ValueError("Every split must contain all reference years")
 
     OUTPUT.parent.mkdir(parents=True, exist_ok=True)
+    # Append exact next-calendar-year labels; final-year/unavailable labels remain missing.
+    # These columns are outcomes and must never enter a predictor feature list.
+    notebook_path = ROOT / "notebooks/hri/HRI_t_plus_1/00_hri_t_plus_1_data_preparation.ipynb"
+    notebook = json.loads(notebook_path.read_text())
+    namespace = {"ROOT": ROOT, "__name__": "hri_dataset_annotation"}
+    # Load definitions only; execution and review cells are deliberately excluded.
+    for cell in notebook["cells"]:
+        if cell["cell_type"] == "code" and "runtime_data" in cell.get("metadata", {}).get("tags", []):
+            exec(compile("".join(cell["source"]), str(notebook_path), "exec"), namespace)
+    data = namespace["add_next_year_targets"](data, hri)
     data.to_csv(OUTPUT, index=False)
 
     print(f"Wrote {len(data):,} rows and {len(data.columns)} columns to {OUTPUT}")
