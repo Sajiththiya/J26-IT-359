@@ -1,0 +1,20 @@
+{
+  "conversion": "Python scripts to visible notebook cells; trained artifacts unchanged",
+  "source_backup": "data/processed/hri/hri_t_plus_1_v2/original_code_backup.zip",
+  "original_source_sha256": {
+    "forecast_data.py": "46d9736b8fc277abfb4d649955044f9e21372f6359938f4c7e92bbdf7e28d3bd",
+    "training.py": "f1a6959c8e9588df318676162781662199c4cc0096e606227cb9cd14d5683487",
+    "train_ridge.py": "a1d84ac0de44801b31efc03e5ebd9ed2af38fe8db548d389b00f0495260ae24b",
+    "train_random_forest.py": "e991babdf43b7869943d7d3bb2cf34f90d13a0b8bbcffde879dc82bf7700a4f6",
+    "train_xgboost.py": "09ccee2e42040e4e5b784b8acc2ff6e7d22cde1d981e6acd04710738d9499843",
+    "run_all.py": "13870eb8bfe2ee2e8d6183714a105dc1cf0d02e4446de71ae96c2ed89995e7a1"
+  },
+  "notebooks": [
+    "00_hri_t_plus_1_data_preparation.ipynb",
+    "01_ridge_training.ipynb",
+    "02_random_forest_training.ipynb",
+    "03_xgboost_training.ipynb",
+    "04_model_comparison_and_final_test.ipynb"
+  ],
+  "saved_models": "Not retrained or reserialized; training.HriForecaster registered from notebook cells"
+}
