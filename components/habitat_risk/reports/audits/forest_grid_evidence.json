@@ -1,0 +1,18 @@
+{
+  "grid_cells": 2869,
+  "histogram_rows": 1197096,
+  "source_release": "Hansen GFC 2024 v1.12",
+  "status_counts": {
+    "evidence_available": 2867,
+    "no_pixel_centres": 2
+  },
+  "method": "Native pixel centres inside clipped country cells; WGS84 geodesic pixel areas; no boundary pixel fractional weighting.",
+  "limitations": [
+    "Mapped areas, not unbiased statistical area estimates.",
+    "Small coastal cells may contain no pixel centres.",
+    "Observed fraction includes water and is not a final modelling eligibility rule.",
+    "No baseline canopy threshold selected; no target labels generated.",
+    "Loss code zero means no mapped loss through 2024, not missing data.",
+    "Grid remains provisional; historical release revisions mean hindcast interpretation."
+  ]
+}

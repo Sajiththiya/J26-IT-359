@@ -1,0 +1,3 @@
+dataset,records,species,years,coordinate_pairs,numeric_count_sum,presence_only_records
+complete,102929,25,14,7245,233828.0,12743
+deduplicated_sensitivity,84518,25,14,7245,190977.0,10876

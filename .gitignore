@@ -1,3 +1,18 @@
+.DS_Store
+**/.venv/
+**/__pycache__/
+**/*.py[cod]
+**/.ipynb_checkpoints/
+.env
+.env.*
+**/.env
+**/.env.*
+**/.cdsapirc
+**/data/raw/**
+**/data/interim/**
+**/data/processed/**
+**/artifacts/**
+/draft/**/*.csv
 
 # ==========================================
 # J26-IT-359 - Git Ignore Configuration
@@ -68,3 +83,6 @@ tensorboard/
 *.tmp
 *.temp
 *.log
+
+# Keep component directory placeholders versioned
+!**/.gitkeep
