@@ -12,5 +12,77 @@
 **/data/interim/**
 **/data/processed/**
 **/artifacts/**
-!**/.gitkeep
 /draft/**/*.csv
+
+# ==========================================
+# J26-IT-359 - Git Ignore Configuration
+# ==========================================
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyd
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Local environment variables and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# IDE and OS generated files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Jupyter / Google Colab
+.ipynb_checkpoints/
+
+# Local image datasets
+components/c1-bird-recognition/data/raw/
+components/c1-bird-recognition/data/interim/
+components/c1-bird-recognition/data/processed/
+components/c1-bird-recognition/data/splits/
+*.zip
+*.rar
+*.7z
+
+# Model checkpoints and trained weights
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.keras
+*.onnx
+*.safetensors
+
+# C1 generated model artifacts
+components/c1-bird-recognition/artifacts/
+
+# C1 generated dataset audit reports
+components/c1-bird-recognition/data/reports/
+
+# Experiment logs
+runs/
+wandb/
+mlruns/
+lightning_logs/
+tensorboard/
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Keep component directory placeholders versioned
+!**/.gitkeep
