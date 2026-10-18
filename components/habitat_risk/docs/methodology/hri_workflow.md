@@ -10,7 +10,7 @@ Bird records, partial species traits, source provenance, a provisional national 
 
 ## Lecturer-facing implementation
 
-Use `notebooks/hri/01_bird_data_cleaning.ipynb` first. Its code is short and visible. Preserve original rows and show flags before making cleaning decisions. Do not hide processing inside calls to archived scripts. Each later teaching notebook should show its input, transformation, reason, output preview and checks. Do not execute processing in the background on the student's behalf.
+Use `notebooks/hri/01_bird_occurrence_cleaning_and_review.ipynb` first. Preserve original rows and show flags before making cleaning decisions. Each later notebook should show its input, transformation, reason, output preview and checks.
 
 ## Decisions to establish before HRI calculation
 
@@ -35,11 +35,11 @@ Use `notebooks/hri/01_bird_data_cleaning.ipynb` first. Its code is short and vis
 7. SHAP and recommendations: explanations interpreted as associations, supported actions and a documented evaluation method.
 8. Dashboard/report: risk, uncertainty and data gaps shown distinctly; align all claims with actual evidence.
 
-Current completion state: source acquisition and exploratory preprocessing exist; the new teaching notebook and any existing user execution outputs are preserved. HRI steps 2–8 above are not declared complete. Notebooks 01–04 and 06 remain active, alongside the simple teaching notebooks. Obsolete target-dependent notebooks/scripts were removed at the user’s later request; recovery copies and previous results are retained. See the active README and removal manifest.
+Current completion state is documented in the active README and versioned output audits. The six notebooks under `notebooks/hri/` are the single active notebook sequence; redundant root-level notebooks have been removed.
 
 ## Preservation and code adaptation policy
 
-Preserve and adapt useful preparation notebooks 01–04 and 06. The user subsequently authorised removing irrelevant forest-loss modelling notebooks/scripts. Modify retained code in reviewable steps and preserve original source data and useful evidence. The simple notebooks under notebooks/hri explain the same work for teaching. No new download or wholesale rerun is required.
+Modify the retained six-notebook HRI sequence in reviewable steps and preserve original source data and useful evidence. No new download or wholesale rerun is required merely because the notebook layout was cleaned up.
 
 Keep existing forest, weather, terrain and mapping calculations where appropriate. Add supported risk transformations and an HRI calculation only after their rationale is documented. Replace target-dependent modelling logic for the chosen HRI task when defined; renaming future_loss_fraction to HRI would be incorrect. Model selection between the latest two-model outline and earlier ten-model request remains unresolved.
 
@@ -49,4 +49,8 @@ Removed active notebooks 05 and 07–14, plus their nine target-dependent script
 
 ## Integrated preparation code now available
 
-The original notebooks 01–04 contain self-contained HRI sections: inventory, cleaning plus species verification, provenance, and grid/year integration. They are written but not executed by the assistant. Use the README execution sequence rather than running all historical cells. Notebook 04 creates separate cell/year environmental and cell/year/species evidence tables to avoid repeated environmental rows. All country cells remain represented, with coverage/occurrence flags; invalid mapping/date rows are exported for review. No HRI score or class is fabricated.
+The active sequence covers occurrence cleaning, species verification,
+environmental feature engineering, cell-year assembly, HRI input preparation,
+HRI construction, and leakage-controlled split normalization for modelling.
+Environmental cell-year and species-evidence tables remain separate to avoid
+duplicating environmental rows.

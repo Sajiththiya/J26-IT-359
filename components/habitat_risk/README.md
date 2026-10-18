@@ -1,6 +1,50 @@
 # Endemic-bird habitat-risk assessment — active component
 
-This component continues the existing work toward a justified Habitat Risk Index (HRI) for Sri Lankan endemic birds. Original source data, useful preprocessing, grid evidence, traits and the newly combined preparation tables are preserved. Forest-loss prediction experiments and their model releases were not copied as the active research task.
+## HRI release (2026-10-09)
+
+The executed [`notebooks/hri/06_habitat_risk_index_construction.ipynb`](notebooks/hri/06_habitat_risk_index_construction.ipynb)
+calculates the versioned HRI release in `data/processed/hri/hri_v1/` using fully
+visible code. The primary `core_equal` result is a forest-oriented environmental
+index; climate and population are separately labelled extensions. It includes
+weight/indicator/applicability sensitivity, year-t versus year-t+1 forest-loss
+validation, bird-evidence context, maps and a machine-readable audit. It does
+not train ML models. Read
+[`docs/methodology/hri_methodology.md`](docs/methodology/hri_methodology.md)
+before interpreting scores or classes.
+
+## Latest preparation release (2026-10-08)
+
+Use [`notebooks/hri/05_hri_input_preparation.ipynb`](notebooks/hri/05_hri_input_preparation.ipynb)
+for the full visible code preparing inputs before HRI construction. Its script
+equivalent is [`scripts/prepare_hri_inputs.py`](scripts/prepare_hri_inputs.py).
+The new output directory is `data/processed/hri/pre_hri_v1/`; see its audit for
+actual execution status and coverage. The workflow adds national fragmentation,
+a documented working 30% canopy choice with sensitivity tests, WorldPop
+2010–2020 population estimates, and a new audited master. Population for
+2021–2023 remains missing. HRI weights, transformations, ecological applicability
+and validation remain research decisions; no models are trained.
+
+Read [`docs/methodology/pre_hri_data_preparation.md`](docs/methodology/pre_hri_data_preparation.md)
+for sources, methods, deferrals and limitations. The older WP5/WP6 creation-time
+statements below describe their initial state; saved outputs now exist. Earlier
+root-level bird CSVs were archived; `data/processed/hri/wp2_v1/` is the versioned
+bird release. Raw/processed datasets remain local and Git-ignored.
+
+This component includes a versioned forest-oriented environmental HRI for the
+Sri Lankan endemic-bird risk assessment. Original source data, preprocessing,
+grid evidence and incomplete species-trait evidence remain preserved.
+
+## Habitat Risk Index
+
+The executed HRI notebook is
+[`notebooks/hri/06_habitat_risk_index_construction.ipynb`](notebooks/hri/06_habitat_risk_index_construction.ipynb);
+its reusable implementation is [`scripts/calculate_hri.py`](scripts/calculate_hri.py).
+Read [`docs/methodology/hri_methodology.md`](docs/methodology/hri_methodology.md)
+before interpreting the outputs in `data/processed/hri/hri_v1/`.
+
+Species vulnerability remains evidence-incomplete, so no numerical conservation
+priority score is approved or generated. Forest-loss prediction modelling is
+outside the active bird-risk assessment and is not included in this component.
 
 Work Package 3 evidence is tracked in [`literature_review_matrix.xlsx`](literature_review_matrix.xlsx). Its indicator and decision sheets distinguish supported core candidates, conditional candidates, context variables and uncertainty layers. See the [literature-review workflow](docs/methodology/literature_review_workflow.md) before adding indicators or assigning weights.
 
@@ -28,26 +72,70 @@ pip install -r requirements.txt
 
 Choose the new virtual environment as your notebook kernel. Requirements pin packages used in the source environment; installation on this new environment has not been performed. Historical lock files are retained for provenance. No environment, CDS credentials or Git history was copied.
 
-## Existing notebook workflow
+## Notebook workflow
 
-WP6 is written in [`notebooks/hri/04_master_cell_year_dataset.ipynb`](notebooks/hri/04_master_cell_year_dataset.ipynb). Run its 12 numbered steps manually after WP5. It validates the 40,166-key scaffold, verifies WP5 input checksums, admits documented environmental sources, masks invalid values with explicit reasons, and provides missingness, plots, correlation, VIF, a feature dictionary and the five requested exports. Species evidence stays separate. Missing primary threshold or national fragmentation keeps the master explicitly partial; optional source admission requires extending the feature registry. No WP6 processing was executed when creating this notebook.
+### Model Experiment 2: nine environmental inputs
 
-WP5 supervisor-facing code is in [`notebooks/hri/03_environmental_features.ipynb`](notebooks/hri/03_environmental_features.ipynb). Its 13 numbered steps are unexecuted: run manually, one cell at a time. It reuses forest/weather/terrain evidence, provides foreground raster fragmentation, and records missing optional sources explicitly. The default fragmentation run is a five-cell preview. A national release and approved canopy threshold require the documented review steps; vegetation, pressure and conservation acquisition are deferred until suitable source inputs are supplied. No WP5 output datasets have been generated by adding this notebook.
+The ten notebooks in `notebooks/hri/Model_Training/` now use the six climate
+and three terrain features only, with `hri_score_0_100` as target. They exclude
+missing-value flags and observation context. Nonfinite/missing selected inputs
+or targets are dropped within each frozen split; missing context alone does not
+remove a row. The supplied predictors were already imputed during preparation,
+so this does not restrict the experiment to originally observed complete cases.
+Results are written to `artifacts/hri/experiment_2/<model>/` and compared in
+`artifacts/hri/experiment_2/model_summary.csv`. The saved Experiment 1 archive
+and existing 18-feature results remain preserved. Final-test scoring stays locked.
 
-1. `01_data_understanding.ipynb`: inspect source data; use its HRI inventory section.
-2. `02_data_cleaning.ipynb`: run the self-contained **HRI preparation — visible cleaning and species join** section. It writes bird/species drafts.
-3. `03_source_verification.ipynb`: review the HRI source checkpoint and known limitations.
-4. `04_spatial_units_and_features.ipynb`: run **HRI preparation — combine the existing evidence**, A–F, to write the combined tables.
-5. `06_forest_grid_evidence.ipynb`: retained forest extraction reference. Existing summaries are already available; no rerun is needed merely to continue the new workflow.
+### Observation context in the existing model dataset
 
-The `notebooks/hri/` notebooks explain cleaning/species verification more simply. They are teaching alternatives, not extra mandatory processing passes. Existing outputs were preserved; historical display paths may refer to the original project. New code finds this component by walking up to its `configs/` and `data/` folders. Do not blindly Run All across both legacy and HRI sections.
+`scripts/build_final_model_dataset.py` also reads
+`data/processed/requested_observation_dataset.csv`. It aggregates sampled NDVI,
+elevation, land-cover mode, and survey effort once per checklist/location/date,
+then joins by `cell_id + reference_year`. All added columns use `context__`.
+The existing 18 model features and HRI targets are unchanged. Missing context
+means unavailable evidence; it is not zero species richness, zero effort, or
+zero vegetation. Counts summarize checklist-location events, not bird absence.
+The CSV's NDVI product, date window and QA provenance have not been established;
+these measurements must remain exploratory observation context. `ESA_CCI_*`
+and `ESRI_*` categories retain their source prefixes and are not interchangeable
+numeric predictors.
 
-Next: resolve cleaning and coverage review decisions, justify risk indicators, then define HRI transformations, weights, classes and validation. Fragmentation/human pressure and trait uncertainty are not magically resolved by merging tables. The ML target and model-count choice still require specification. No HRI training model or final HRI dataset is claimed.
+Notebook 07 rebuilds the final CSV and scales available numeric context using
+training statistics, keeping missing context as missing. Its three existing
+split files are refreshed. The final CSV retains physical units, while split
+files contain scaled values. No new output files are required. Model-training
+notebooks still use their explicit 18-feature lists; added context is excluded
+until its suitability for a separate experiment is reviewed.
+
+National annual NDVI would require a separate quality-filtered raster extraction
+for every grid cell and year (for example MOD13Q1.061). Observation-point means
+cannot replace this measurement. Missing survey duration/distance cannot be
+recovered from satellite products. No national raster download or substitution
+is performed by this observation integration.
+
+The active notebooks are one numbered sequence under `notebooks/hri/`:
+
+1. `01_bird_occurrence_cleaning_and_review.ipynb`
+2. `02_endemic_species_verification.ipynb`
+3. `03_environmental_feature_engineering.ipynb`
+4. `04_cell_year_dataset_assembly.ipynb`
+5. `05_hri_input_preparation.ipynb`
+6. `06_habitat_risk_index_construction.ipynb`
+7. `07_habitat_risk_split_normalization.ipynb`
+
+Run them in order when rebuilding the workflow. Notebook 07 reads the released
+model dataset, preserves its existing cell-level partitions, fits normalization
+on training rows only, and writes the three model-input split files. The older root-level notebooks
+were removed after their relevant HRI work was incorporated into this sequence.
+Existing outputs and historical audit manifests remain preserved.
+
+Next: complete the missing species-trait evidence and approve the vulnerability
+and biodiversity-importance rules before generating conservation priority.
 
 ## Folder structure
 
 ```text
-notebooks/          Existing research notebooks and simple teaching versions
+notebooks/hri/      Active numbered HRI notebook workflow
 configs/            Study geometry and unresolved HRI decisions
 scripts/            Reusable source acquisition and extraction utilities
 data/raw/           Original observations, boundaries, forest, weather and terrain
