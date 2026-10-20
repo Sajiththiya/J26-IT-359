@@ -1,0 +1,26 @@
+{
+  "versions": {
+    "torch": "2.14.1",
+    "transformers": "4.57.1",
+    "scikit-learn": "1.7.2",
+    "optuna": "4.5.0",
+    "numpy": "2.3.2",
+    "soundfile": "0.13.1",
+    "librosa": "0.11.0"
+  },
+  "python": "3.13.3",
+  "device": "Apple MPS",
+  "mixed_precision_enabled": false,
+  "amp_dtype": null,
+  "seed": 42,
+  "checkpoint": "facebook/wav2vec2-base",
+  "revision": "0b5b8e868dd84f03fd87d01f9c4ff0f080fecfe8",
+  "full_cv": false,
+  "n_trials": 3,
+  "batch_choices": [
+    4,
+    8,
+    16
+  ],
+  "gradient_accumulation": 4
+}

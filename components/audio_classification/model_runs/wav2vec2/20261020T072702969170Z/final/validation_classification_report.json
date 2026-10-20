@@ -1,0 +1,75 @@
+{
+  "Chestnut-backed_Owlet": {
+    "precision": 0.41739130434782606,
+    "recall": 0.7741935483870968,
+    "f1-score": 0.5423728813559322,
+    "support": 62.0
+  },
+  "Crimson-fronted_Barbet": {
+    "precision": 0.6129032258064516,
+    "recall": 0.4523809523809524,
+    "f1-score": 0.5205479452054794,
+    "support": 42.0
+  },
+  "Green-billed_Coucal": {
+    "precision": 0.3185840707964602,
+    "recall": 0.42857142857142855,
+    "f1-score": 0.36548223350253806,
+    "support": 84.0
+  },
+  "Spot-winged_Thrush": {
+    "precision": 0.9047619047619048,
+    "recall": 0.6168831168831169,
+    "f1-score": 0.7335907335907336,
+    "support": 154.0
+  },
+  "Sri_Lanka_Blue_Magpie": {
+    "precision": 0.6615384615384615,
+    "recall": 0.7818181818181819,
+    "f1-score": 0.7166666666666667,
+    "support": 55.0
+  },
+  "Sri_Lanka_Frogmouth": {
+    "precision": 0.8303030303030303,
+    "recall": 0.6199095022624435,
+    "f1-score": 0.7098445595854922,
+    "support": 221.0
+  },
+  "Sri_Lanka_Grey_Hornbill": {
+    "precision": 0.8695652173913043,
+    "recall": 0.7142857142857143,
+    "f1-score": 0.7843137254901961,
+    "support": 28.0
+  },
+  "Sri_Lanka_Junglefowl": {
+    "precision": 0.4489795918367347,
+    "recall": 0.3793103448275862,
+    "f1-score": 0.411214953271028,
+    "support": 116.0
+  },
+  "Sri_Lanka_Spurfowl": {
+    "precision": 0.7102803738317757,
+    "recall": 0.9382716049382716,
+    "f1-score": 0.8085106382978723,
+    "support": 81.0
+  },
+  "Yellow-fronted_Barbet": {
+    "precision": 0.6796116504854369,
+    "recall": 0.8536585365853658,
+    "f1-score": 0.7567567567567568,
+    "support": 82.0
+  },
+  "accuracy": 0.6356756756756756,
+  "macro avg": {
+    "precision": 0.6453918831099386,
+    "recall": 0.6559282930940158,
+    "f1-score": 0.6349301093722696,
+    "support": 925.0
+  },
+  "weighted avg": {
+    "precision": 0.6781475687302214,
+    "recall": 0.6356756756756756,
+    "f1-score": 0.6407146615289632,
+    "support": 925.0
+  }
+}

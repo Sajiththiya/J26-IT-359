@@ -1,0 +1,16 @@
+{
+  "hyperparameters": {
+    "learning_rate": 2e-05,
+    "dropout": 0.1,
+    "max_epochs": 5,
+    "batch_size": 8,
+    "weight_decay": 0.01
+  },
+  "objective": "training-only grouped holdout macro F1",
+  "best_trial": 1,
+  "score": 0.659747533501948,
+  "fold_scores": [
+    0.659747533501948
+  ],
+  "fold_std": null
+}

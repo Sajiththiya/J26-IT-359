@@ -1,0 +1,926 @@
+audio_path,species,label,parent_recording_id,final_group_id,predicted_label
+val/Chestnut-backed_Owlet/Chestnut-backed_Owlet__clip_00001.wav,Chestnut-backed_Owlet,0,535351,final_180c46cc17979be8,0
+val/Chestnut-backed_Owlet/Chestnut-backed_Owlet__clip_00002.wav,Chestnut-backed_Owlet,0,535351,final_180c46cc17979be8,0
+val/Chestnut-backed_Owlet/Chestnut-backed_Owlet__clip_00003.wav,Chestnut-backed_Owlet,0,535351,final_180c46cc17979be8,0
+val/Chestnut-backed_Owlet/Chestnut-backed_Owlet__clip_00004.wav,Chestnut-backed_Owlet,0,535351,final_180c46cc17979be8,9
+val/Chestnut-backed_Owlet/Chestnut-backed_Owlet__clip_00005.wav,Chestnut-backed_Owlet,0,535351,final_180c46cc17979be8,0
+val/Chestnut-backed_Owlet/Chestnut-backed_Owlet__clip_00006.wav,Chestnut-backed_Owlet,0,535351,final_180c46cc17979be8,0
+val/Chestnut-backed_Owlet/Chestnut-backed_Owlet__clip_00007.wav,Chestnut-backed_Owlet,0,535351,final_180c46cc17979be8,0
+val/Chestnut-backed_Owlet/Chestnut-backed_Owlet__clip_00008.wav,Chestnut-backed_Owlet,0,535351,final_180c46cc17979be8,0
+val/Chestnut-backed_Owlet/Chestnut-backed_Owlet__clip_00009.wav,Chestnut-backed_Owlet,0,535351,final_180c46cc17979be8,0
+val/Chestnut-backed_Owlet/Chestnut-backed_Owlet__clip_00010.wav,Chestnut-backed_Owlet,0,535351,final_180c46cc17979be8,0
+val/Chestnut-backed_Owlet/Chestnut-backed_Owlet__clip_00011.wav,Chestnut-backed_Owlet,0,535351,final_180c46cc17979be8,0
+val/Chestnut-backed_Owlet/Chestnut-backed_Owlet__clip_00012.wav,Chestnut-backed_Owlet,0,535351,final_180c46cc17979be8,0
+val/Chestnut-backed_Owlet/Chestnut-backed_Owlet__clip_00013.wav,Chestnut-backed_Owlet,0,535351,final_180c46cc17979be8,0
+val/Chestnut-backed_Owlet/Chestnut-backed_Owlet_2__clip_00001.wav,Chestnut-backed_Owlet,0,534574,final_a75b5f5c5d3317b3,0
+val/Chestnut-backed_Owlet/Chestnut-backed_Owlet_2__clip_00002.wav,Chestnut-backed_Owlet,0,534574,final_a75b5f5c5d3317b3,0
+val/Chestnut-backed_Owlet/Chestnut-backed_Owlet_2__clip_00003.wav,Chestnut-backed_Owlet,0,534574,final_a75b5f5c5d3317b3,0
+val/Chestnut-backed_Owlet/Chestnut-backed_Owlet_2__clip_00004.wav,Chestnut-backed_Owlet,0,534574,final_a75b5f5c5d3317b3,0
+val/Chestnut-backed_Owlet/Chestnut-backed_Owlet_2__clip_00005.wav,Chestnut-backed_Owlet,0,534574,final_a75b5f5c5d3317b3,0
+val/Chestnut-backed_Owlet/Chestnut-backed_Owlet_2__clip_00006.wav,Chestnut-backed_Owlet,0,534574,final_a75b5f5c5d3317b3,0
+val/Chestnut-backed_Owlet/Chestnut-backed_Owlet_2__clip_00007.wav,Chestnut-backed_Owlet,0,534574,final_a75b5f5c5d3317b3,0
+val/Chestnut-backed_Owlet/Chestnut-backed_Owlet_2__clip_00008.wav,Chestnut-backed_Owlet,0,534574,final_a75b5f5c5d3317b3,0
+val/Chestnut-backed_Owlet/Chestnut-backed_Owlet_2__clip_00009.wav,Chestnut-backed_Owlet,0,534574,final_a75b5f5c5d3317b3,0
+val/Chestnut-backed_Owlet/Chestnut-backed_Owlet_2__clip_00010.wav,Chestnut-backed_Owlet,0,534574,final_a75b5f5c5d3317b3,0
+val/Chestnut-backed_Owlet/Chestnut-backed_Owlet_2__clip_00011.wav,Chestnut-backed_Owlet,0,534574,final_a75b5f5c5d3317b3,0
+val/Chestnut-backed_Owlet/Chestnut-backed_Owlet_2__clip_00012.wav,Chestnut-backed_Owlet,0,534574,final_a75b5f5c5d3317b3,0
+val/Chestnut-backed_Owlet/Chestnut-backed_Owlet_5__clip_00001.wav,Chestnut-backed_Owlet,0,534446,final_9b3e448e0072c70b,0
+val/Chestnut-backed_Owlet/Chestnut-backed_Owlet_5__clip_00002.wav,Chestnut-backed_Owlet,0,534446,final_9b3e448e0072c70b,2
+val/Chestnut-backed_Owlet/Chestnut-backed_Owlet_5__clip_00003.wav,Chestnut-backed_Owlet,0,534446,final_9b3e448e0072c70b,0
+val/Chestnut-backed_Owlet/Chestnut-backed_Owlet_5__clip_00004.wav,Chestnut-backed_Owlet,0,534446,final_9b3e448e0072c70b,0
+val/Chestnut-backed_Owlet/Chestnut-backed_Owlet_5__clip_00005.wav,Chestnut-backed_Owlet,0,534446,final_9b3e448e0072c70b,7
+val/Chestnut-backed_Owlet/Chestnut-backed_Owlet_5__clip_00006.wav,Chestnut-backed_Owlet,0,534446,final_9b3e448e0072c70b,7
+val/Chestnut-backed_Owlet/Chestnut-backed_Owlet_5__clip_00007.wav,Chestnut-backed_Owlet,0,534446,final_9b3e448e0072c70b,0
+val/Chestnut-backed_Owlet/Chestnut-backed_Owlet_5__clip_00008.wav,Chestnut-backed_Owlet,0,534446,final_9b3e448e0072c70b,0
+val/Chestnut-backed_Owlet/Chestnut-backed_Owlet_5__clip_00009.wav,Chestnut-backed_Owlet,0,534446,final_9b3e448e0072c70b,5
+val/Chestnut-backed_Owlet/Chestnut-backed_Owlet_12__clip_00001.wav,Chestnut-backed_Owlet,0,43648,final_30e5c45531316b54,0
+val/Chestnut-backed_Owlet/Chestnut-backed_Owlet_12__clip_00002.wav,Chestnut-backed_Owlet,0,43648,final_30e5c45531316b54,0
+val/Chestnut-backed_Owlet/Chestnut-backed_Owlet_12__clip_00003.wav,Chestnut-backed_Owlet,0,43648,final_30e5c45531316b54,0
+val/Chestnut-backed_Owlet/Chestnut-backed_Owlet_27__clip_00001.wav,Chestnut-backed_Owlet,0,682308,final_05632cc50fc8fe3e,0
+val/Chestnut-backed_Owlet/Chestnut-backed_Owlet_27__clip_00002.wav,Chestnut-backed_Owlet,0,682308,final_05632cc50fc8fe3e,0
+val/Chestnut-backed_Owlet/Chestnut-backed_Owlet_27__clip_00003.wav,Chestnut-backed_Owlet,0,682308,final_05632cc50fc8fe3e,0
+val/Chestnut-backed_Owlet/Chestnut-backed_Owlet_27__clip_00004.wav,Chestnut-backed_Owlet,0,682308,final_05632cc50fc8fe3e,0
+val/Chestnut-backed_Owlet/Chestnut-backed_Owlet_27__clip_00005.wav,Chestnut-backed_Owlet,0,682308,final_05632cc50fc8fe3e,0
+val/Chestnut-backed_Owlet/Chestnut-backed_Owlet_27__clip_00006.wav,Chestnut-backed_Owlet,0,682308,final_05632cc50fc8fe3e,0
+val/Chestnut-backed_Owlet/Chestnut-backed_Owlet_59__clip_00001.wav,Chestnut-backed_Owlet,0,Chestnut-backed Owlet 29,final_d136df11a80f6b38,4
+val/Chestnut-backed_Owlet/Chestnut-backed_Owlet_59__clip_00002.wav,Chestnut-backed_Owlet,0,Chestnut-backed Owlet 29,final_d136df11a80f6b38,4
+val/Chestnut-backed_Owlet/Chestnut-backed_Owlet_59__clip_00003.wav,Chestnut-backed_Owlet,0,Chestnut-backed Owlet 29,final_d136df11a80f6b38,4
+val/Chestnut-backed_Owlet/Chestnut-backed_Owlet_59__clip_00004.wav,Chestnut-backed_Owlet,0,Chestnut-backed Owlet 29,final_d136df11a80f6b38,4
+val/Chestnut-backed_Owlet/Chestnut-backed_Owlet_59__clip_00005.wav,Chestnut-backed_Owlet,0,Chestnut-backed Owlet 29,final_d136df11a80f6b38,4
+val/Chestnut-backed_Owlet/Chestnut-backed_Owlet_59__clip_00006.wav,Chestnut-backed_Owlet,0,Chestnut-backed Owlet 29,final_d136df11a80f6b38,8
+val/Chestnut-backed_Owlet/Chestnut-backed_Owlet_67__clip_00001.wav,Chestnut-backed_Owlet,0,Chestnut-backed Owlet 37,final_00218da5767a4412,0
+val/Chestnut-backed_Owlet/Chestnut-backed_Owlet_67__clip_00002.wav,Chestnut-backed_Owlet,0,Chestnut-backed Owlet 37,final_00218da5767a4412,2
+val/Chestnut-backed_Owlet/Chestnut-backed_Owlet_67__clip_00003.wav,Chestnut-backed_Owlet,0,Chestnut-backed Owlet 37,final_00218da5767a4412,2
+val/Chestnut-backed_Owlet/Chestnut-backed_Owlet_67__clip_00004.wav,Chestnut-backed_Owlet,0,Chestnut-backed Owlet 37,final_00218da5767a4412,0
+val/Chestnut-backed_Owlet/Chestnut-backed_Owlet_67__clip_00005.wav,Chestnut-backed_Owlet,0,Chestnut-backed Owlet 37,final_00218da5767a4412,2
+val/Chestnut-backed_Owlet/Chestnut-backed_Owlet_67__clip_00006.wav,Chestnut-backed_Owlet,0,Chestnut-backed Owlet 37,final_00218da5767a4412,0
+val/Chestnut-backed_Owlet/Chestnut-backed_Owlet_67__clip_00007.wav,Chestnut-backed_Owlet,0,Chestnut-backed Owlet 37,final_00218da5767a4412,0
+val/Chestnut-backed_Owlet/Chestnut-backed_Owlet_68__clip_00001.wav,Chestnut-backed_Owlet,0,Chestnut-backed Owlet 38,final_fe24e179f164fd6b,0
+val/Chestnut-backed_Owlet/Chestnut-backed_Owlet_68__clip_00002.wav,Chestnut-backed_Owlet,0,Chestnut-backed Owlet 38,final_fe24e179f164fd6b,0
+val/Chestnut-backed_Owlet/Chestnut-backed_Owlet_68__clip_00003.wav,Chestnut-backed_Owlet,0,Chestnut-backed Owlet 38,final_fe24e179f164fd6b,0
+val/Chestnut-backed_Owlet/Chestnut-backed_Owlet_68__clip_00004.wav,Chestnut-backed_Owlet,0,Chestnut-backed Owlet 38,final_fe24e179f164fd6b,0
+val/Chestnut-backed_Owlet/Chestnut-backed_Owlet_68__clip_00005.wav,Chestnut-backed_Owlet,0,Chestnut-backed Owlet 38,final_fe24e179f164fd6b,0
+val/Chestnut-backed_Owlet/Chestnut-backed_Owlet_68__clip_00006.wav,Chestnut-backed_Owlet,0,Chestnut-backed Owlet 38,final_fe24e179f164fd6b,0
+val/Crimson-fronted_Barbet/Crimson-fronted_Barbet_11__clip_00001.wav,Crimson-fronted_Barbet,1,207727,final_ad58d78f4e23b6ad,1
+val/Crimson-fronted_Barbet/Crimson-fronted_Barbet_11__clip_00002.wav,Crimson-fronted_Barbet,1,207727,final_ad58d78f4e23b6ad,0
+val/Crimson-fronted_Barbet/Crimson-fronted_Barbet_11__clip_00003.wav,Crimson-fronted_Barbet,1,207727,final_ad58d78f4e23b6ad,0
+val/Crimson-fronted_Barbet/Crimson-fronted_Barbet_15__clip_00001.wav,Crimson-fronted_Barbet,1,Crimson-fronted Barbet 2,final_7b29023f60b194a9,9
+val/Crimson-fronted_Barbet/Crimson-fronted_Barbet_15__clip_00002.wav,Crimson-fronted_Barbet,1,Crimson-fronted Barbet 2,final_7b29023f60b194a9,8
+val/Crimson-fronted_Barbet/Crimson-fronted_Barbet_15__clip_00003.wav,Crimson-fronted_Barbet,1,Crimson-fronted Barbet 2,final_7b29023f60b194a9,0
+val/Crimson-fronted_Barbet/Crimson-fronted_Barbet_15__clip_00004.wav,Crimson-fronted_Barbet,1,Crimson-fronted Barbet 2,final_7b29023f60b194a9,1
+val/Crimson-fronted_Barbet/Crimson-fronted_Barbet_15__clip_00005.wav,Crimson-fronted_Barbet,1,Crimson-fronted Barbet 2,final_7b29023f60b194a9,1
+val/Crimson-fronted_Barbet/Crimson-fronted_Barbet_15__clip_00006.wav,Crimson-fronted_Barbet,1,Crimson-fronted Barbet 2,final_7b29023f60b194a9,1
+val/Crimson-fronted_Barbet/Crimson-fronted_Barbet_15__clip_00007.wav,Crimson-fronted_Barbet,1,Crimson-fronted Barbet 2,final_7b29023f60b194a9,1
+val/Crimson-fronted_Barbet/Crimson-fronted_Barbet_15__clip_00008.wav,Crimson-fronted_Barbet,1,Crimson-fronted Barbet 2,final_7b29023f60b194a9,2
+val/Crimson-fronted_Barbet/Crimson-fronted_Barbet_15__clip_00009.wav,Crimson-fronted_Barbet,1,Crimson-fronted Barbet 2,final_7b29023f60b194a9,1
+val/Crimson-fronted_Barbet/Crimson-fronted_Barbet_15__clip_00010.wav,Crimson-fronted_Barbet,1,Crimson-fronted Barbet 2,final_7b29023f60b194a9,0
+val/Crimson-fronted_Barbet/Crimson-fronted_Barbet_15__clip_00011.wav,Crimson-fronted_Barbet,1,Crimson-fronted Barbet 2,final_7b29023f60b194a9,0
+val/Crimson-fronted_Barbet/Crimson-fronted_Barbet_15__clip_00012.wav,Crimson-fronted_Barbet,1,Crimson-fronted Barbet 2,final_7b29023f60b194a9,0
+val/Crimson-fronted_Barbet/Crimson-fronted_Barbet_15__clip_00013.wav,Crimson-fronted_Barbet,1,Crimson-fronted Barbet 2,final_7b29023f60b194a9,1
+val/Crimson-fronted_Barbet/Crimson-fronted_Barbet_15__clip_00014.wav,Crimson-fronted_Barbet,1,Crimson-fronted Barbet 2,final_7b29023f60b194a9,1
+val/Crimson-fronted_Barbet/Crimson-fronted_Barbet_15__clip_00015.wav,Crimson-fronted_Barbet,1,Crimson-fronted Barbet 2,final_7b29023f60b194a9,0
+val/Crimson-fronted_Barbet/Crimson-fronted_Barbet_15__clip_00016.wav,Crimson-fronted_Barbet,1,Crimson-fronted Barbet 2,final_7b29023f60b194a9,1
+val/Crimson-fronted_Barbet/Crimson-fronted_Barbet_15__clip_00017.wav,Crimson-fronted_Barbet,1,Crimson-fronted Barbet 2,final_7b29023f60b194a9,0
+val/Crimson-fronted_Barbet/Crimson-fronted_Barbet_15__clip_00018.wav,Crimson-fronted_Barbet,1,Crimson-fronted Barbet 2,final_7b29023f60b194a9,1
+val/Crimson-fronted_Barbet/Crimson-fronted_Barbet_15__clip_00019.wav,Crimson-fronted_Barbet,1,Crimson-fronted Barbet 2,final_7b29023f60b194a9,1
+val/Crimson-fronted_Barbet/Crimson-fronted_Barbet_15__clip_00020.wav,Crimson-fronted_Barbet,1,Crimson-fronted Barbet 2,final_7b29023f60b194a9,0
+val/Crimson-fronted_Barbet/Crimson-fronted_Barbet_15__clip_00021.wav,Crimson-fronted_Barbet,1,Crimson-fronted Barbet 2,final_7b29023f60b194a9,0
+val/Crimson-fronted_Barbet/Crimson-fronted_Barbet_15__clip_00022.wav,Crimson-fronted_Barbet,1,Crimson-fronted Barbet 2,final_7b29023f60b194a9,0
+val/Crimson-fronted_Barbet/Crimson-fronted_Barbet_15__clip_00023.wav,Crimson-fronted_Barbet,1,Crimson-fronted Barbet 2,final_7b29023f60b194a9,1
+val/Crimson-fronted_Barbet/Crimson-fronted_Barbet_15__clip_00024.wav,Crimson-fronted_Barbet,1,Crimson-fronted Barbet 2,final_7b29023f60b194a9,0
+val/Crimson-fronted_Barbet/Crimson-fronted_Barbet_15__clip_00025.wav,Crimson-fronted_Barbet,1,Crimson-fronted Barbet 2,final_7b29023f60b194a9,1
+val/Crimson-fronted_Barbet/Crimson-fronted_Barbet_15__clip_00026.wav,Crimson-fronted_Barbet,1,Crimson-fronted Barbet 2,final_7b29023f60b194a9,1
+val/Crimson-fronted_Barbet/Crimson-fronted_Barbet_15__clip_00027.wav,Crimson-fronted_Barbet,1,Crimson-fronted Barbet 2,final_7b29023f60b194a9,0
+val/Crimson-fronted_Barbet/Crimson-fronted_Barbet_15__clip_00028.wav,Crimson-fronted_Barbet,1,Crimson-fronted Barbet 2,final_7b29023f60b194a9,0
+val/Crimson-fronted_Barbet/Crimson-fronted_Barbet_15__clip_00029.wav,Crimson-fronted_Barbet,1,Crimson-fronted Barbet 2,final_7b29023f60b194a9,0
+val/Crimson-fronted_Barbet/Crimson-fronted_Barbet_15__clip_00030.wav,Crimson-fronted_Barbet,1,Crimson-fronted Barbet 2,final_7b29023f60b194a9,2
+val/Crimson-fronted_Barbet/Crimson-fronted_Barbet_15__clip_00031.wav,Crimson-fronted_Barbet,1,Crimson-fronted Barbet 2,final_7b29023f60b194a9,2
+val/Crimson-fronted_Barbet/Crimson-fronted_Barbet_15__clip_00032.wav,Crimson-fronted_Barbet,1,Crimson-fronted Barbet 2,final_7b29023f60b194a9,2
+val/Crimson-fronted_Barbet/Crimson-fronted_Barbet_15__clip_00033.wav,Crimson-fronted_Barbet,1,Crimson-fronted Barbet 2,final_7b29023f60b194a9,2
+val/Crimson-fronted_Barbet/Crimson-fronted_Barbet_15__clip_00034.wav,Crimson-fronted_Barbet,1,Crimson-fronted Barbet 2,final_7b29023f60b194a9,0
+val/Crimson-fronted_Barbet/Crimson-fronted_Barbet_31__clip_00001.wav,Crimson-fronted_Barbet,1,Crimson-fronted Barbet 18,final_1b7c1b71344bcf52,1
+val/Crimson-fronted_Barbet/Crimson-fronted_Barbet_31__clip_00002.wav,Crimson-fronted_Barbet,1,Crimson-fronted Barbet 18,final_1b7c1b71344bcf52,1
+val/Crimson-fronted_Barbet/Crimson-fronted_Barbet_41__clip_00001.wav,Crimson-fronted_Barbet,1,Crimson-fronted Barbet 28,final_a7bd7762bc0d0653,1
+val/Crimson-fronted_Barbet/Crimson-fronted_Barbet_47__clip_00001.wav,Crimson-fronted_Barbet,1,Crimson-fronted Barbet 34,final_b78efcd445d2f461,1
+val/Crimson-fronted_Barbet/Crimson-fronted_Barbet_47__clip_00002.wav,Crimson-fronted_Barbet,1,Crimson-fronted Barbet 34,final_b78efcd445d2f461,1
+val/Green-billed_Coucal/Green-billed_Coucal_12__clip_00001.wav,Green-billed_Coucal,2,605497,final_d0448b20f61a9ab3,2
+val/Green-billed_Coucal/Green-billed_Coucal_12__clip_00002.wav,Green-billed_Coucal,2,605497,final_d0448b20f61a9ab3,2
+val/Green-billed_Coucal/Green-billed_Coucal_12__clip_00003.wav,Green-billed_Coucal,2,605497,final_d0448b20f61a9ab3,2
+val/Green-billed_Coucal/Green-billed_Coucal_12__clip_00004.wav,Green-billed_Coucal,2,605497,final_d0448b20f61a9ab3,2
+val/Green-billed_Coucal/Green-billed_Coucal_12__clip_00005.wav,Green-billed_Coucal,2,605497,final_d0448b20f61a9ab3,2
+val/Green-billed_Coucal/Green-billed_Coucal_12__clip_00006.wav,Green-billed_Coucal,2,605497,final_d0448b20f61a9ab3,2
+val/Green-billed_Coucal/Green-billed_Coucal_15__clip_00001.wav,Green-billed_Coucal,2,311175,final_1b6dff2405cd9a3c,2
+val/Green-billed_Coucal/Green-billed_Coucal_15__clip_00002.wav,Green-billed_Coucal,2,311175,final_1b6dff2405cd9a3c,3
+val/Green-billed_Coucal/Green-billed_Coucal_15__clip_00003.wav,Green-billed_Coucal,2,311175,final_1b6dff2405cd9a3c,5
+val/Green-billed_Coucal/Green-billed_Coucal_15__clip_00004.wav,Green-billed_Coucal,2,311175,final_1b6dff2405cd9a3c,2
+val/Green-billed_Coucal/Green-billed_Coucal_15__clip_00005.wav,Green-billed_Coucal,2,311175,final_1b6dff2405cd9a3c,2
+val/Green-billed_Coucal/Green-billed_Coucal_15__clip_00006.wav,Green-billed_Coucal,2,311175,final_1b6dff2405cd9a3c,7
+val/Green-billed_Coucal/Green-billed_Coucal_15__clip_00007.wav,Green-billed_Coucal,2,311175,final_1b6dff2405cd9a3c,2
+val/Green-billed_Coucal/Green-billed_Coucal_15__clip_00008.wav,Green-billed_Coucal,2,311175,final_1b6dff2405cd9a3c,2
+val/Green-billed_Coucal/Green-billed_Coucal_15__clip_00009.wav,Green-billed_Coucal,2,311175,final_1b6dff2405cd9a3c,2
+val/Green-billed_Coucal/Green-billed_Coucal_15__clip_00010.wav,Green-billed_Coucal,2,311175,final_1b6dff2405cd9a3c,1
+val/Green-billed_Coucal/Green-billed_Coucal_25__clip_00001.wav,Green-billed_Coucal,2,Green-billed Coucal 1,final_f9ec5ac918c255d7,2
+val/Green-billed_Coucal/Green-billed_Coucal_25__clip_00002.wav,Green-billed_Coucal,2,Green-billed Coucal 1,final_f9ec5ac918c255d7,2
+val/Green-billed_Coucal/Green-billed_Coucal_25__clip_00003.wav,Green-billed_Coucal,2,Green-billed Coucal 1,final_f9ec5ac918c255d7,2
+val/Green-billed_Coucal/Green-billed_Coucal_25__clip_00004.wav,Green-billed_Coucal,2,Green-billed Coucal 1,final_f9ec5ac918c255d7,2
+val/Green-billed_Coucal/Green-billed_Coucal_25__clip_00005.wav,Green-billed_Coucal,2,Green-billed Coucal 1,final_f9ec5ac918c255d7,2
+val/Green-billed_Coucal/Green-billed_Coucal_25__clip_00006.wav,Green-billed_Coucal,2,Green-billed Coucal 1,final_f9ec5ac918c255d7,6
+val/Green-billed_Coucal/Green-billed_Coucal_25__clip_00007.wav,Green-billed_Coucal,2,Green-billed Coucal 1,final_f9ec5ac918c255d7,2
+val/Green-billed_Coucal/Green-billed_Coucal_25__clip_00008.wav,Green-billed_Coucal,2,Green-billed Coucal 1,final_f9ec5ac918c255d7,2
+val/Green-billed_Coucal/Green-billed_Coucal_25__clip_00009.wav,Green-billed_Coucal,2,Green-billed Coucal 1,final_f9ec5ac918c255d7,2
+val/Green-billed_Coucal/Green-billed_Coucal_25__clip_00010.wav,Green-billed_Coucal,2,Green-billed Coucal 1,final_f9ec5ac918c255d7,2
+val/Green-billed_Coucal/Green-billed_Coucal_25__clip_00011.wav,Green-billed_Coucal,2,Green-billed Coucal 1,final_f9ec5ac918c255d7,2
+val/Green-billed_Coucal/Green-billed_Coucal_25__clip_00012.wav,Green-billed_Coucal,2,Green-billed Coucal 1,final_f9ec5ac918c255d7,2
+val/Green-billed_Coucal/Green-billed_Coucal_25__clip_00013.wav,Green-billed_Coucal,2,Green-billed Coucal 1,final_f9ec5ac918c255d7,2
+val/Green-billed_Coucal/Green-billed_Coucal_25__clip_00014.wav,Green-billed_Coucal,2,Green-billed Coucal 1,final_f9ec5ac918c255d7,7
+val/Green-billed_Coucal/Green-billed_Coucal_25__clip_00015.wav,Green-billed_Coucal,2,Green-billed Coucal 1,final_f9ec5ac918c255d7,7
+val/Green-billed_Coucal/Green-billed_Coucal_25__clip_00016.wav,Green-billed_Coucal,2,Green-billed Coucal 1,final_f9ec5ac918c255d7,7
+val/Green-billed_Coucal/Green-billed_Coucal_25__clip_00017.wav,Green-billed_Coucal,2,Green-billed Coucal 1,final_f9ec5ac918c255d7,7
+val/Green-billed_Coucal/Green-billed_Coucal_25__clip_00018.wav,Green-billed_Coucal,2,Green-billed Coucal 1,final_f9ec5ac918c255d7,7
+val/Green-billed_Coucal/Green-billed_Coucal_25__clip_00019.wav,Green-billed_Coucal,2,Green-billed Coucal 1,final_f9ec5ac918c255d7,7
+val/Green-billed_Coucal/Green-billed_Coucal_25__clip_00020.wav,Green-billed_Coucal,2,Green-billed Coucal 1,final_f9ec5ac918c255d7,7
+val/Green-billed_Coucal/Green-billed_Coucal_25__clip_00021.wav,Green-billed_Coucal,2,Green-billed Coucal 1,final_f9ec5ac918c255d7,7
+val/Green-billed_Coucal/Green-billed_Coucal_25__clip_00022.wav,Green-billed_Coucal,2,Green-billed Coucal 1,final_f9ec5ac918c255d7,8
+val/Green-billed_Coucal/Green-billed_Coucal_25__clip_00023.wav,Green-billed_Coucal,2,Green-billed Coucal 1,final_f9ec5ac918c255d7,8
+val/Green-billed_Coucal/Green-billed_Coucal_25__clip_00024.wav,Green-billed_Coucal,2,Green-billed Coucal 1,final_f9ec5ac918c255d7,7
+val/Green-billed_Coucal/Green-billed_Coucal_25__clip_00025.wav,Green-billed_Coucal,2,Green-billed Coucal 1,final_f9ec5ac918c255d7,9
+val/Green-billed_Coucal/Green-billed_Coucal_25__clip_00026.wav,Green-billed_Coucal,2,Green-billed Coucal 1,final_f9ec5ac918c255d7,8
+val/Green-billed_Coucal/Green-billed_Coucal_25__clip_00027.wav,Green-billed_Coucal,2,Green-billed Coucal 1,final_f9ec5ac918c255d7,7
+val/Green-billed_Coucal/Green-billed_Coucal_25__clip_00028.wav,Green-billed_Coucal,2,Green-billed Coucal 1,final_f9ec5ac918c255d7,8
+val/Green-billed_Coucal/Green-billed_Coucal_25__clip_00029.wav,Green-billed_Coucal,2,Green-billed Coucal 1,final_f9ec5ac918c255d7,1
+val/Green-billed_Coucal/Green-billed_Coucal_29__clip_00001.wav,Green-billed_Coucal,2,Green-billed Coucal 5,final_1b6dff2405cd9a3c,2
+val/Green-billed_Coucal/Green-billed_Coucal_29__clip_00002.wav,Green-billed_Coucal,2,Green-billed Coucal 5,final_1b6dff2405cd9a3c,3
+val/Green-billed_Coucal/Green-billed_Coucal_29__clip_00003.wav,Green-billed_Coucal,2,Green-billed Coucal 5,final_1b6dff2405cd9a3c,5
+val/Green-billed_Coucal/Green-billed_Coucal_29__clip_00004.wav,Green-billed_Coucal,2,Green-billed Coucal 5,final_1b6dff2405cd9a3c,2
+val/Green-billed_Coucal/Green-billed_Coucal_29__clip_00005.wav,Green-billed_Coucal,2,Green-billed Coucal 5,final_1b6dff2405cd9a3c,2
+val/Green-billed_Coucal/Green-billed_Coucal_29__clip_00006.wav,Green-billed_Coucal,2,Green-billed Coucal 5,final_1b6dff2405cd9a3c,7
+val/Green-billed_Coucal/Green-billed_Coucal_29__clip_00007.wav,Green-billed_Coucal,2,Green-billed Coucal 5,final_1b6dff2405cd9a3c,2
+val/Green-billed_Coucal/Green-billed_Coucal_29__clip_00008.wav,Green-billed_Coucal,2,Green-billed Coucal 5,final_1b6dff2405cd9a3c,2
+val/Green-billed_Coucal/Green-billed_Coucal_29__clip_00009.wav,Green-billed_Coucal,2,Green-billed Coucal 5,final_1b6dff2405cd9a3c,2
+val/Green-billed_Coucal/Green-billed_Coucal_29__clip_00010.wav,Green-billed_Coucal,2,Green-billed Coucal 5,final_1b6dff2405cd9a3c,1
+val/Green-billed_Coucal/Green-billed_Coucal_33__clip_00001.wav,Green-billed_Coucal,2,Green-billed Coucal 9,final_c981ab93ef4cb09d,9
+val/Green-billed_Coucal/Green-billed_Coucal_33__clip_00002.wav,Green-billed_Coucal,2,Green-billed Coucal 9,final_c981ab93ef4cb09d,9
+val/Green-billed_Coucal/Green-billed_Coucal_33__clip_00003.wav,Green-billed_Coucal,2,Green-billed Coucal 9,final_c981ab93ef4cb09d,9
+val/Green-billed_Coucal/Green-billed_Coucal_33__clip_00004.wav,Green-billed_Coucal,2,Green-billed Coucal 9,final_c981ab93ef4cb09d,9
+val/Green-billed_Coucal/Green-billed_Coucal_33__clip_00005.wav,Green-billed_Coucal,2,Green-billed Coucal 9,final_c981ab93ef4cb09d,9
+val/Green-billed_Coucal/Green-billed_Coucal_33__clip_00006.wav,Green-billed_Coucal,2,Green-billed Coucal 9,final_c981ab93ef4cb09d,9
+val/Green-billed_Coucal/Green-billed_Coucal_33__clip_00007.wav,Green-billed_Coucal,2,Green-billed Coucal 9,final_c981ab93ef4cb09d,9
+val/Green-billed_Coucal/Green-billed_Coucal_33__clip_00008.wav,Green-billed_Coucal,2,Green-billed Coucal 9,final_c981ab93ef4cb09d,9
+val/Green-billed_Coucal/Green-billed_Coucal_33__clip_00009.wav,Green-billed_Coucal,2,Green-billed Coucal 9,final_c981ab93ef4cb09d,9
+val/Green-billed_Coucal/Green-billed_Coucal_33__clip_00010.wav,Green-billed_Coucal,2,Green-billed Coucal 9,final_c981ab93ef4cb09d,9
+val/Green-billed_Coucal/Green-billed_Coucal_33__clip_00011.wav,Green-billed_Coucal,2,Green-billed Coucal 9,final_c981ab93ef4cb09d,9
+val/Green-billed_Coucal/Green-billed_Coucal_33__clip_00012.wav,Green-billed_Coucal,2,Green-billed Coucal 9,final_c981ab93ef4cb09d,9
+val/Green-billed_Coucal/Green-billed_Coucal_33__clip_00013.wav,Green-billed_Coucal,2,Green-billed Coucal 9,final_c981ab93ef4cb09d,9
+val/Green-billed_Coucal/Green-billed_Coucal_33__clip_00014.wav,Green-billed_Coucal,2,Green-billed Coucal 9,final_c981ab93ef4cb09d,9
+val/Green-billed_Coucal/Green-billed_Coucal_33__clip_00015.wav,Green-billed_Coucal,2,Green-billed Coucal 9,final_c981ab93ef4cb09d,8
+val/Green-billed_Coucal/Green-billed_Coucal_33__clip_00016.wav,Green-billed_Coucal,2,Green-billed Coucal 9,final_c981ab93ef4cb09d,8
+val/Green-billed_Coucal/Green-billed_Coucal_33__clip_00017.wav,Green-billed_Coucal,2,Green-billed Coucal 9,final_c981ab93ef4cb09d,8
+val/Green-billed_Coucal/Green-billed_Coucal_33__clip_00018.wav,Green-billed_Coucal,2,Green-billed Coucal 9,final_c981ab93ef4cb09d,8
+val/Green-billed_Coucal/Green-billed_Coucal_33__clip_00019.wav,Green-billed_Coucal,2,Green-billed Coucal 9,final_c981ab93ef4cb09d,8
+val/Green-billed_Coucal/Green-billed_Coucal_33__clip_00020.wav,Green-billed_Coucal,2,Green-billed Coucal 9,final_c981ab93ef4cb09d,8
+val/Green-billed_Coucal/Green-billed_Coucal_33__clip_00021.wav,Green-billed_Coucal,2,Green-billed Coucal 9,final_c981ab93ef4cb09d,8
+val/Green-billed_Coucal/Green-billed_Coucal_33__clip_00022.wav,Green-billed_Coucal,2,Green-billed Coucal 9,final_c981ab93ef4cb09d,8
+val/Green-billed_Coucal/Green-billed_Coucal_33__clip_00023.wav,Green-billed_Coucal,2,Green-billed Coucal 9,final_c981ab93ef4cb09d,8
+val/Green-billed_Coucal/Green-billed_Coucal_37__clip_00001.wav,Green-billed_Coucal,2,Green-billed Coucal 13,final_d0448b20f61a9ab3,2
+val/Green-billed_Coucal/Green-billed_Coucal_37__clip_00002.wav,Green-billed_Coucal,2,Green-billed Coucal 13,final_d0448b20f61a9ab3,2
+val/Green-billed_Coucal/Green-billed_Coucal_37__clip_00003.wav,Green-billed_Coucal,2,Green-billed Coucal 13,final_d0448b20f61a9ab3,2
+val/Green-billed_Coucal/Green-billed_Coucal_37__clip_00004.wav,Green-billed_Coucal,2,Green-billed Coucal 13,final_d0448b20f61a9ab3,2
+val/Green-billed_Coucal/Green-billed_Coucal_37__clip_00005.wav,Green-billed_Coucal,2,Green-billed Coucal 13,final_d0448b20f61a9ab3,2
+val/Green-billed_Coucal/Green-billed_Coucal_37__clip_00006.wav,Green-billed_Coucal,2,Green-billed Coucal 13,final_d0448b20f61a9ab3,2
+val/Spot-winged_Thrush/Spot-winged_Thrush_2__clip_00001.wav,Spot-winged_Thrush,3,756591,final_6b1b015db045b73e,2
+val/Spot-winged_Thrush/Spot-winged_Thrush_2__clip_00002.wav,Spot-winged_Thrush,3,756591,final_6b1b015db045b73e,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_2__clip_00003.wav,Spot-winged_Thrush,3,756591,final_6b1b015db045b73e,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_2__clip_00004.wav,Spot-winged_Thrush,3,756591,final_6b1b015db045b73e,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_2__clip_00005.wav,Spot-winged_Thrush,3,756591,final_6b1b015db045b73e,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_2__clip_00006.wav,Spot-winged_Thrush,3,756591,final_6b1b015db045b73e,2
+val/Spot-winged_Thrush/Spot-winged_Thrush_2__clip_00007.wav,Spot-winged_Thrush,3,756591,final_6b1b015db045b73e,2
+val/Spot-winged_Thrush/Spot-winged_Thrush_2__clip_00008.wav,Spot-winged_Thrush,3,756591,final_6b1b015db045b73e,4
+val/Spot-winged_Thrush/Spot-winged_Thrush_2__clip_00009.wav,Spot-winged_Thrush,3,756591,final_6b1b015db045b73e,4
+val/Spot-winged_Thrush/Spot-winged_Thrush_2__clip_00010.wav,Spot-winged_Thrush,3,756591,final_6b1b015db045b73e,2
+val/Spot-winged_Thrush/Spot-winged_Thrush_2__clip_00011.wav,Spot-winged_Thrush,3,756591,final_6b1b015db045b73e,2
+val/Spot-winged_Thrush/Spot-winged_Thrush_2__clip_00012.wav,Spot-winged_Thrush,3,756591,final_6b1b015db045b73e,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_2__clip_00013.wav,Spot-winged_Thrush,3,756591,final_6b1b015db045b73e,2
+val/Spot-winged_Thrush/Spot-winged_Thrush_2__clip_00014.wav,Spot-winged_Thrush,3,756591,final_6b1b015db045b73e,2
+val/Spot-winged_Thrush/Spot-winged_Thrush_2__clip_00015.wav,Spot-winged_Thrush,3,756591,final_6b1b015db045b73e,2
+val/Spot-winged_Thrush/Spot-winged_Thrush_2__clip_00016.wav,Spot-winged_Thrush,3,756591,final_6b1b015db045b73e,2
+val/Spot-winged_Thrush/Spot-winged_Thrush_2__clip_00017.wav,Spot-winged_Thrush,3,756591,final_6b1b015db045b73e,2
+val/Spot-winged_Thrush/Spot-winged_Thrush_2__clip_00018.wav,Spot-winged_Thrush,3,756591,final_6b1b015db045b73e,5
+val/Spot-winged_Thrush/Spot-winged_Thrush_2__clip_00019.wav,Spot-winged_Thrush,3,756591,final_6b1b015db045b73e,2
+val/Spot-winged_Thrush/Spot-winged_Thrush_2__clip_00020.wav,Spot-winged_Thrush,3,756591,final_6b1b015db045b73e,2
+val/Spot-winged_Thrush/Spot-winged_Thrush_2__clip_00021.wav,Spot-winged_Thrush,3,756591,final_6b1b015db045b73e,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_2__clip_00022.wav,Spot-winged_Thrush,3,756591,final_6b1b015db045b73e,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_2__clip_00023.wav,Spot-winged_Thrush,3,756591,final_6b1b015db045b73e,2
+val/Spot-winged_Thrush/Spot-winged_Thrush_2__clip_00024.wav,Spot-winged_Thrush,3,756591,final_6b1b015db045b73e,2
+val/Spot-winged_Thrush/Spot-winged_Thrush_2__clip_00025.wav,Spot-winged_Thrush,3,756591,final_6b1b015db045b73e,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_2__clip_00026.wav,Spot-winged_Thrush,3,756591,final_6b1b015db045b73e,7
+val/Spot-winged_Thrush/Spot-winged_Thrush_6__clip_00001.wav,Spot-winged_Thrush,3,536455,final_50a0d03ad1734069,8
+val/Spot-winged_Thrush/Spot-winged_Thrush_6__clip_00002.wav,Spot-winged_Thrush,3,536455,final_50a0d03ad1734069,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_6__clip_00003.wav,Spot-winged_Thrush,3,536455,final_50a0d03ad1734069,8
+val/Spot-winged_Thrush/Spot-winged_Thrush_6__clip_00004.wav,Spot-winged_Thrush,3,536455,final_50a0d03ad1734069,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_6__clip_00005.wav,Spot-winged_Thrush,3,536455,final_50a0d03ad1734069,8
+val/Spot-winged_Thrush/Spot-winged_Thrush_6__clip_00006.wav,Spot-winged_Thrush,3,536455,final_50a0d03ad1734069,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_6__clip_00007.wav,Spot-winged_Thrush,3,536455,final_50a0d03ad1734069,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_6__clip_00008.wav,Spot-winged_Thrush,3,536455,final_50a0d03ad1734069,2
+val/Spot-winged_Thrush/Spot-winged_Thrush_6__clip_00009.wav,Spot-winged_Thrush,3,536455,final_50a0d03ad1734069,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_6__clip_00010.wav,Spot-winged_Thrush,3,536455,final_50a0d03ad1734069,8
+val/Spot-winged_Thrush/Spot-winged_Thrush_6__clip_00011.wav,Spot-winged_Thrush,3,536455,final_50a0d03ad1734069,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_6__clip_00012.wav,Spot-winged_Thrush,3,536455,final_50a0d03ad1734069,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_6__clip_00013.wav,Spot-winged_Thrush,3,536455,final_50a0d03ad1734069,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_6__clip_00014.wav,Spot-winged_Thrush,3,536455,final_50a0d03ad1734069,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_6__clip_00015.wav,Spot-winged_Thrush,3,536455,final_50a0d03ad1734069,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_6__clip_00016.wav,Spot-winged_Thrush,3,536455,final_50a0d03ad1734069,8
+val/Spot-winged_Thrush/Spot-winged_Thrush_6__clip_00017.wav,Spot-winged_Thrush,3,536455,final_50a0d03ad1734069,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_6__clip_00018.wav,Spot-winged_Thrush,3,536455,final_50a0d03ad1734069,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_6__clip_00019.wav,Spot-winged_Thrush,3,536455,final_50a0d03ad1734069,8
+val/Spot-winged_Thrush/Spot-winged_Thrush_21__clip_00001.wav,Spot-winged_Thrush,3,777387,final_2ba14223ad2fc412,4
+val/Spot-winged_Thrush/Spot-winged_Thrush_21__clip_00002.wav,Spot-winged_Thrush,3,777387,final_2ba14223ad2fc412,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_21__clip_00003.wav,Spot-winged_Thrush,3,777387,final_2ba14223ad2fc412,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_21__clip_00004.wav,Spot-winged_Thrush,3,777387,final_2ba14223ad2fc412,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_28__clip_00001.wav,Spot-winged_Thrush,3,648187,final_4724c5ceaaaac401,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_28__clip_00002.wav,Spot-winged_Thrush,3,648187,final_4724c5ceaaaac401,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_28__clip_00003.wav,Spot-winged_Thrush,3,648187,final_4724c5ceaaaac401,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_28__clip_00004.wav,Spot-winged_Thrush,3,648187,final_4724c5ceaaaac401,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_28__clip_00005.wav,Spot-winged_Thrush,3,648187,final_4724c5ceaaaac401,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_28__clip_00006.wav,Spot-winged_Thrush,3,648187,final_4724c5ceaaaac401,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_28__clip_00007.wav,Spot-winged_Thrush,3,648187,final_4724c5ceaaaac401,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_28__clip_00008.wav,Spot-winged_Thrush,3,648187,final_4724c5ceaaaac401,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_28__clip_00009.wav,Spot-winged_Thrush,3,648187,final_4724c5ceaaaac401,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_28__clip_00010.wav,Spot-winged_Thrush,3,648187,final_4724c5ceaaaac401,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_28__clip_00011.wav,Spot-winged_Thrush,3,648187,final_4724c5ceaaaac401,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_28__clip_00012.wav,Spot-winged_Thrush,3,648187,final_4724c5ceaaaac401,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_28__clip_00013.wav,Spot-winged_Thrush,3,648187,final_4724c5ceaaaac401,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_28__clip_00014.wav,Spot-winged_Thrush,3,648187,final_4724c5ceaaaac401,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_28__clip_00015.wav,Spot-winged_Thrush,3,648187,final_4724c5ceaaaac401,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_28__clip_00016.wav,Spot-winged_Thrush,3,648187,final_4724c5ceaaaac401,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_28__clip_00017.wav,Spot-winged_Thrush,3,648187,final_4724c5ceaaaac401,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_28__clip_00018.wav,Spot-winged_Thrush,3,648187,final_4724c5ceaaaac401,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_28__clip_00019.wav,Spot-winged_Thrush,3,648187,final_4724c5ceaaaac401,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_28__clip_00020.wav,Spot-winged_Thrush,3,648187,final_4724c5ceaaaac401,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_28__clip_00021.wav,Spot-winged_Thrush,3,648187,final_4724c5ceaaaac401,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_28__clip_00022.wav,Spot-winged_Thrush,3,648187,final_4724c5ceaaaac401,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_28__clip_00023.wav,Spot-winged_Thrush,3,648187,final_4724c5ceaaaac401,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_28__clip_00024.wav,Spot-winged_Thrush,3,648187,final_4724c5ceaaaac401,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_32__clip_00001.wav,Spot-winged_Thrush,3,207884,final_612ea45e35be8616,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_32__clip_00002.wav,Spot-winged_Thrush,3,207884,final_612ea45e35be8616,4
+val/Spot-winged_Thrush/Spot-winged_Thrush_32__clip_00003.wav,Spot-winged_Thrush,3,207884,final_612ea45e35be8616,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_32__clip_00004.wav,Spot-winged_Thrush,3,207884,final_612ea45e35be8616,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_32__clip_00005.wav,Spot-winged_Thrush,3,207884,final_612ea45e35be8616,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_32__clip_00006.wav,Spot-winged_Thrush,3,207884,final_612ea45e35be8616,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_32__clip_00007.wav,Spot-winged_Thrush,3,207884,final_612ea45e35be8616,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_32__clip_00008.wav,Spot-winged_Thrush,3,207884,final_612ea45e35be8616,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_32__clip_00009.wav,Spot-winged_Thrush,3,207884,final_612ea45e35be8616,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_32__clip_00010.wav,Spot-winged_Thrush,3,207884,final_612ea45e35be8616,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_32__clip_00011.wav,Spot-winged_Thrush,3,207884,final_612ea45e35be8616,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_32__clip_00012.wav,Spot-winged_Thrush,3,207884,final_612ea45e35be8616,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_32__clip_00013.wav,Spot-winged_Thrush,3,207884,final_612ea45e35be8616,4
+val/Spot-winged_Thrush/Spot-winged_Thrush_51__clip_00001.wav,Spot-winged_Thrush,3,Spot-winged Thrush 5,final_b74c865092f11fee,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_51__clip_00002.wav,Spot-winged_Thrush,3,Spot-winged Thrush 5,final_b74c865092f11fee,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_70__clip_00001.wav,Spot-winged_Thrush,3,Spot-winged Thrush 24,final_97410bb0c0aa689d,4
+val/Spot-winged_Thrush/Spot-winged_Thrush_70__clip_00002.wav,Spot-winged_Thrush,3,Spot-winged Thrush 24,final_97410bb0c0aa689d,4
+val/Spot-winged_Thrush/Spot-winged_Thrush_70__clip_00003.wav,Spot-winged_Thrush,3,Spot-winged Thrush 24,final_97410bb0c0aa689d,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_70__clip_00004.wav,Spot-winged_Thrush,3,Spot-winged Thrush 24,final_97410bb0c0aa689d,8
+val/Spot-winged_Thrush/Spot-winged_Thrush_70__clip_00005.wav,Spot-winged_Thrush,3,Spot-winged Thrush 24,final_97410bb0c0aa689d,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_70__clip_00006.wav,Spot-winged_Thrush,3,Spot-winged Thrush 24,final_97410bb0c0aa689d,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_70__clip_00007.wav,Spot-winged_Thrush,3,Spot-winged Thrush 24,final_97410bb0c0aa689d,4
+val/Spot-winged_Thrush/Spot-winged_Thrush_70__clip_00008.wav,Spot-winged_Thrush,3,Spot-winged Thrush 24,final_97410bb0c0aa689d,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_70__clip_00009.wav,Spot-winged_Thrush,3,Spot-winged Thrush 24,final_97410bb0c0aa689d,4
+val/Spot-winged_Thrush/Spot-winged_Thrush_70__clip_00010.wav,Spot-winged_Thrush,3,Spot-winged Thrush 24,final_97410bb0c0aa689d,4
+val/Spot-winged_Thrush/Spot-winged_Thrush_70__clip_00011.wav,Spot-winged_Thrush,3,Spot-winged Thrush 24,final_97410bb0c0aa689d,4
+val/Spot-winged_Thrush/Spot-winged_Thrush_70__clip_00012.wav,Spot-winged_Thrush,3,Spot-winged Thrush 24,final_97410bb0c0aa689d,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_70__clip_00013.wav,Spot-winged_Thrush,3,Spot-winged Thrush 24,final_97410bb0c0aa689d,4
+val/Spot-winged_Thrush/Spot-winged_Thrush_70__clip_00014.wav,Spot-winged_Thrush,3,Spot-winged Thrush 24,final_97410bb0c0aa689d,4
+val/Spot-winged_Thrush/Spot-winged_Thrush_70__clip_00015.wav,Spot-winged_Thrush,3,Spot-winged Thrush 24,final_97410bb0c0aa689d,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_70__clip_00016.wav,Spot-winged_Thrush,3,Spot-winged Thrush 24,final_97410bb0c0aa689d,4
+val/Spot-winged_Thrush/Spot-winged_Thrush_80__clip_00001.wav,Spot-winged_Thrush,3,Spot-winged Thrush 34,final_ff290669ef3819e4,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_80__clip_00002.wav,Spot-winged_Thrush,3,Spot-winged Thrush 34,final_ff290669ef3819e4,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_80__clip_00003.wav,Spot-winged_Thrush,3,Spot-winged Thrush 34,final_ff290669ef3819e4,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_80__clip_00004.wav,Spot-winged_Thrush,3,Spot-winged Thrush 34,final_ff290669ef3819e4,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_80__clip_00005.wav,Spot-winged_Thrush,3,Spot-winged Thrush 34,final_ff290669ef3819e4,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_80__clip_00006.wav,Spot-winged_Thrush,3,Spot-winged Thrush 34,final_ff290669ef3819e4,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_80__clip_00007.wav,Spot-winged_Thrush,3,Spot-winged Thrush 34,final_ff290669ef3819e4,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_80__clip_00008.wav,Spot-winged_Thrush,3,Spot-winged Thrush 34,final_ff290669ef3819e4,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_80__clip_00009.wav,Spot-winged_Thrush,3,Spot-winged Thrush 34,final_ff290669ef3819e4,5
+val/Spot-winged_Thrush/Spot-winged_Thrush_80__clip_00010.wav,Spot-winged_Thrush,3,Spot-winged Thrush 34,final_ff290669ef3819e4,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_80__clip_00011.wav,Spot-winged_Thrush,3,Spot-winged Thrush 34,final_ff290669ef3819e4,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_80__clip_00012.wav,Spot-winged_Thrush,3,Spot-winged Thrush 34,final_ff290669ef3819e4,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_80__clip_00013.wav,Spot-winged_Thrush,3,Spot-winged Thrush 34,final_ff290669ef3819e4,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_80__clip_00014.wav,Spot-winged_Thrush,3,Spot-winged Thrush 34,final_ff290669ef3819e4,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_80__clip_00015.wav,Spot-winged_Thrush,3,Spot-winged Thrush 34,final_ff290669ef3819e4,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_80__clip_00016.wav,Spot-winged_Thrush,3,Spot-winged Thrush 34,final_ff290669ef3819e4,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_80__clip_00017.wav,Spot-winged_Thrush,3,Spot-winged Thrush 34,final_ff290669ef3819e4,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_80__clip_00018.wav,Spot-winged_Thrush,3,Spot-winged Thrush 34,final_ff290669ef3819e4,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_82__clip_00001.wav,Spot-winged_Thrush,3,Spot-winged Thrush 36,final_81a09999592bdb77,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_82__clip_00002.wav,Spot-winged_Thrush,3,Spot-winged Thrush 36,final_81a09999592bdb77,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_82__clip_00003.wav,Spot-winged_Thrush,3,Spot-winged Thrush 36,final_81a09999592bdb77,2
+val/Spot-winged_Thrush/Spot-winged_Thrush_82__clip_00004.wav,Spot-winged_Thrush,3,Spot-winged Thrush 36,final_81a09999592bdb77,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_82__clip_00005.wav,Spot-winged_Thrush,3,Spot-winged Thrush 36,final_81a09999592bdb77,2
+val/Spot-winged_Thrush/Spot-winged_Thrush_82__clip_00006.wav,Spot-winged_Thrush,3,Spot-winged Thrush 36,final_81a09999592bdb77,5
+val/Spot-winged_Thrush/Spot-winged_Thrush_82__clip_00007.wav,Spot-winged_Thrush,3,Spot-winged Thrush 36,final_81a09999592bdb77,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_82__clip_00008.wav,Spot-winged_Thrush,3,Spot-winged Thrush 36,final_81a09999592bdb77,8
+val/Spot-winged_Thrush/Spot-winged_Thrush_82__clip_00009.wav,Spot-winged_Thrush,3,Spot-winged Thrush 36,final_81a09999592bdb77,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_82__clip_00010.wav,Spot-winged_Thrush,3,Spot-winged Thrush 36,final_81a09999592bdb77,2
+val/Spot-winged_Thrush/Spot-winged_Thrush_82__clip_00011.wav,Spot-winged_Thrush,3,Spot-winged Thrush 36,final_81a09999592bdb77,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_82__clip_00012.wav,Spot-winged_Thrush,3,Spot-winged Thrush 36,final_81a09999592bdb77,2
+val/Spot-winged_Thrush/Spot-winged_Thrush_82__clip_00013.wav,Spot-winged_Thrush,3,Spot-winged Thrush 36,final_81a09999592bdb77,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_82__clip_00014.wav,Spot-winged_Thrush,3,Spot-winged Thrush 36,final_81a09999592bdb77,2
+val/Spot-winged_Thrush/Spot-winged_Thrush_82__clip_00015.wav,Spot-winged_Thrush,3,Spot-winged Thrush 36,final_81a09999592bdb77,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_82__clip_00016.wav,Spot-winged_Thrush,3,Spot-winged Thrush 36,final_81a09999592bdb77,7
+val/Spot-winged_Thrush/Spot-winged_Thrush_82__clip_00017.wav,Spot-winged_Thrush,3,Spot-winged Thrush 36,final_81a09999592bdb77,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_82__clip_00018.wav,Spot-winged_Thrush,3,Spot-winged Thrush 36,final_81a09999592bdb77,5
+val/Spot-winged_Thrush/Spot-winged_Thrush_87__clip_00001.wav,Spot-winged_Thrush,3,Spot-winged Thrush 41,final_9fbd6cb47bf61007,5
+val/Spot-winged_Thrush/Spot-winged_Thrush_87__clip_00002.wav,Spot-winged_Thrush,3,Spot-winged Thrush 41,final_9fbd6cb47bf61007,5
+val/Spot-winged_Thrush/Spot-winged_Thrush_87__clip_00003.wav,Spot-winged_Thrush,3,Spot-winged Thrush 41,final_9fbd6cb47bf61007,5
+val/Spot-winged_Thrush/Spot-winged_Thrush_87__clip_00004.wav,Spot-winged_Thrush,3,Spot-winged Thrush 41,final_9fbd6cb47bf61007,5
+val/Spot-winged_Thrush/Spot-winged_Thrush_87__clip_00005.wav,Spot-winged_Thrush,3,Spot-winged Thrush 41,final_9fbd6cb47bf61007,5
+val/Spot-winged_Thrush/Spot-winged_Thrush_87__clip_00006.wav,Spot-winged_Thrush,3,Spot-winged Thrush 41,final_9fbd6cb47bf61007,5
+val/Spot-winged_Thrush/Spot-winged_Thrush_87__clip_00007.wav,Spot-winged_Thrush,3,Spot-winged Thrush 41,final_9fbd6cb47bf61007,5
+val/Spot-winged_Thrush/Spot-winged_Thrush_87__clip_00008.wav,Spot-winged_Thrush,3,Spot-winged Thrush 41,final_9fbd6cb47bf61007,5
+val/Spot-winged_Thrush/Spot-winged_Thrush_87__clip_00009.wav,Spot-winged_Thrush,3,Spot-winged Thrush 41,final_9fbd6cb47bf61007,5
+val/Spot-winged_Thrush/Spot-winged_Thrush_87__clip_00010.wav,Spot-winged_Thrush,3,Spot-winged Thrush 41,final_9fbd6cb47bf61007,5
+val/Spot-winged_Thrush/Spot-winged_Thrush_87__clip_00011.wav,Spot-winged_Thrush,3,Spot-winged Thrush 41,final_9fbd6cb47bf61007,5
+val/Spot-winged_Thrush/Spot-winged_Thrush_90__clip_00001.wav,Spot-winged_Thrush,3,Spot-winged Thrush 44,final_67c9b575f61dee6b,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_90__clip_00002.wav,Spot-winged_Thrush,3,Spot-winged Thrush 44,final_67c9b575f61dee6b,3
+val/Spot-winged_Thrush/Spot-winged_Thrush_90__clip_00003.wav,Spot-winged_Thrush,3,Spot-winged Thrush 44,final_67c9b575f61dee6b,3
+val/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_16__clip_00001.wav,Sri_Lanka_Blue_Magpie,4,1075550,final_7e7daf0969ef0c14,4
+val/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_16__clip_00002.wav,Sri_Lanka_Blue_Magpie,4,1075550,final_7e7daf0969ef0c14,4
+val/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_33__clip_00001.wav,Sri_Lanka_Blue_Magpie,4,Sri Lanka Blue-Magpie 12,final_37363f3fe5be1e12,9
+val/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_33__clip_00002.wav,Sri_Lanka_Blue_Magpie,4,Sri Lanka Blue-Magpie 12,final_37363f3fe5be1e12,4
+val/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_33__clip_00003.wav,Sri_Lanka_Blue_Magpie,4,Sri Lanka Blue-Magpie 12,final_37363f3fe5be1e12,4
+val/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_33__clip_00004.wav,Sri_Lanka_Blue_Magpie,4,Sri Lanka Blue-Magpie 12,final_37363f3fe5be1e12,4
+val/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_33__clip_00005.wav,Sri_Lanka_Blue_Magpie,4,Sri Lanka Blue-Magpie 12,final_37363f3fe5be1e12,4
+val/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_33__clip_00006.wav,Sri_Lanka_Blue_Magpie,4,Sri Lanka Blue-Magpie 12,final_37363f3fe5be1e12,4
+val/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_33__clip_00007.wav,Sri_Lanka_Blue_Magpie,4,Sri Lanka Blue-Magpie 12,final_37363f3fe5be1e12,4
+val/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_33__clip_00008.wav,Sri_Lanka_Blue_Magpie,4,Sri Lanka Blue-Magpie 12,final_37363f3fe5be1e12,9
+val/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_33__clip_00009.wav,Sri_Lanka_Blue_Magpie,4,Sri Lanka Blue-Magpie 12,final_37363f3fe5be1e12,0
+val/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_33__clip_00010.wav,Sri_Lanka_Blue_Magpie,4,Sri Lanka Blue-Magpie 12,final_37363f3fe5be1e12,4
+val/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_33__clip_00011.wav,Sri_Lanka_Blue_Magpie,4,Sri Lanka Blue-Magpie 12,final_37363f3fe5be1e12,4
+val/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_33__clip_00012.wav,Sri_Lanka_Blue_Magpie,4,Sri Lanka Blue-Magpie 12,final_37363f3fe5be1e12,4
+val/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_33__clip_00013.wav,Sri_Lanka_Blue_Magpie,4,Sri Lanka Blue-Magpie 12,final_37363f3fe5be1e12,7
+val/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_33__clip_00014.wav,Sri_Lanka_Blue_Magpie,4,Sri Lanka Blue-Magpie 12,final_37363f3fe5be1e12,4
+val/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_33__clip_00015.wav,Sri_Lanka_Blue_Magpie,4,Sri Lanka Blue-Magpie 12,final_37363f3fe5be1e12,4
+val/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_33__clip_00016.wav,Sri_Lanka_Blue_Magpie,4,Sri Lanka Blue-Magpie 12,final_37363f3fe5be1e12,4
+val/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_33__clip_00017.wav,Sri_Lanka_Blue_Magpie,4,Sri Lanka Blue-Magpie 12,final_37363f3fe5be1e12,4
+val/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_33__clip_00018.wav,Sri_Lanka_Blue_Magpie,4,Sri Lanka Blue-Magpie 12,final_37363f3fe5be1e12,4
+val/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_33__clip_00019.wav,Sri_Lanka_Blue_Magpie,4,Sri Lanka Blue-Magpie 12,final_37363f3fe5be1e12,4
+val/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_33__clip_00020.wav,Sri_Lanka_Blue_Magpie,4,Sri Lanka Blue-Magpie 12,final_37363f3fe5be1e12,4
+val/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_33__clip_00021.wav,Sri_Lanka_Blue_Magpie,4,Sri Lanka Blue-Magpie 12,final_37363f3fe5be1e12,4
+val/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_33__clip_00022.wav,Sri_Lanka_Blue_Magpie,4,Sri Lanka Blue-Magpie 12,final_37363f3fe5be1e12,4
+val/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_33__clip_00023.wav,Sri_Lanka_Blue_Magpie,4,Sri Lanka Blue-Magpie 12,final_37363f3fe5be1e12,4
+val/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_33__clip_00024.wav,Sri_Lanka_Blue_Magpie,4,Sri Lanka Blue-Magpie 12,final_37363f3fe5be1e12,4
+val/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_33__clip_00025.wav,Sri_Lanka_Blue_Magpie,4,Sri Lanka Blue-Magpie 12,final_37363f3fe5be1e12,4
+val/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_33__clip_00026.wav,Sri_Lanka_Blue_Magpie,4,Sri Lanka Blue-Magpie 12,final_37363f3fe5be1e12,2
+val/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_33__clip_00027.wav,Sri_Lanka_Blue_Magpie,4,Sri Lanka Blue-Magpie 12,final_37363f3fe5be1e12,7
+val/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_33__clip_00028.wav,Sri_Lanka_Blue_Magpie,4,Sri Lanka Blue-Magpie 12,final_37363f3fe5be1e12,8
+val/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_33__clip_00029.wav,Sri_Lanka_Blue_Magpie,4,Sri Lanka Blue-Magpie 12,final_37363f3fe5be1e12,7
+val/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_33__clip_00030.wav,Sri_Lanka_Blue_Magpie,4,Sri Lanka Blue-Magpie 12,final_37363f3fe5be1e12,9
+val/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_33__clip_00031.wav,Sri_Lanka_Blue_Magpie,4,Sri Lanka Blue-Magpie 12,final_37363f3fe5be1e12,2
+val/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_33__clip_00032.wav,Sri_Lanka_Blue_Magpie,4,Sri Lanka Blue-Magpie 12,final_37363f3fe5be1e12,5
+val/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_38__clip_00001.wav,Sri_Lanka_Blue_Magpie,4,Sri Lanka Blue-Magpie 17,final_7a651fdcd2a01377,4
+val/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_38__clip_00002.wav,Sri_Lanka_Blue_Magpie,4,Sri Lanka Blue-Magpie 17,final_7a651fdcd2a01377,4
+val/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_38__clip_00003.wav,Sri_Lanka_Blue_Magpie,4,Sri Lanka Blue-Magpie 17,final_7a651fdcd2a01377,4
+val/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_38__clip_00004.wav,Sri_Lanka_Blue_Magpie,4,Sri Lanka Blue-Magpie 17,final_7a651fdcd2a01377,4
+val/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_38__clip_00005.wav,Sri_Lanka_Blue_Magpie,4,Sri Lanka Blue-Magpie 17,final_7a651fdcd2a01377,4
+val/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_38__clip_00006.wav,Sri_Lanka_Blue_Magpie,4,Sri Lanka Blue-Magpie 17,final_7a651fdcd2a01377,4
+val/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_38__clip_00007.wav,Sri_Lanka_Blue_Magpie,4,Sri Lanka Blue-Magpie 17,final_7a651fdcd2a01377,4
+val/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_38__clip_00008.wav,Sri_Lanka_Blue_Magpie,4,Sri Lanka Blue-Magpie 17,final_7a651fdcd2a01377,4
+val/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_38__clip_00009.wav,Sri_Lanka_Blue_Magpie,4,Sri Lanka Blue-Magpie 17,final_7a651fdcd2a01377,4
+val/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_38__clip_00010.wav,Sri_Lanka_Blue_Magpie,4,Sri Lanka Blue-Magpie 17,final_7a651fdcd2a01377,4
+val/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_38__clip_00011.wav,Sri_Lanka_Blue_Magpie,4,Sri Lanka Blue-Magpie 17,final_7a651fdcd2a01377,4
+val/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_38__clip_00012.wav,Sri_Lanka_Blue_Magpie,4,Sri Lanka Blue-Magpie 17,final_7a651fdcd2a01377,3
+val/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_38__clip_00013.wav,Sri_Lanka_Blue_Magpie,4,Sri Lanka Blue-Magpie 17,final_7a651fdcd2a01377,4
+val/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_38__clip_00014.wav,Sri_Lanka_Blue_Magpie,4,Sri Lanka Blue-Magpie 17,final_7a651fdcd2a01377,4
+val/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_39__clip_00001.wav,Sri_Lanka_Blue_Magpie,4,Sri Lanka Blue-Magpie 18,final_a3a53b3bb90cfdbe,4
+val/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_39__clip_00002.wav,Sri_Lanka_Blue_Magpie,4,Sri Lanka Blue-Magpie 18,final_a3a53b3bb90cfdbe,4
+val/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_39__clip_00003.wav,Sri_Lanka_Blue_Magpie,4,Sri Lanka Blue-Magpie 18,final_a3a53b3bb90cfdbe,4
+val/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_44__clip_00001.wav,Sri_Lanka_Blue_Magpie,4,Sri Lanka Blue-Magpie 23,final_f195b4533a6e2c5d,4
+val/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_44__clip_00002.wav,Sri_Lanka_Blue_Magpie,4,Sri Lanka Blue-Magpie 23,final_f195b4533a6e2c5d,4
+val/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_44__clip_00003.wav,Sri_Lanka_Blue_Magpie,4,Sri Lanka Blue-Magpie 23,final_f195b4533a6e2c5d,4
+val/Sri_Lanka_Blue_Magpie/Sri_Lanka_Blue_Magpie_46__clip_00001.wav,Sri_Lanka_Blue_Magpie,4,Sri Lanka Blue-Magpie 25,final_91c389a05034fd53,4
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_2__clip_00001.wav,Sri_Lanka_Frogmouth,5,744715,final_63912003b05167f6,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_10__clip_00001.wav,Sri_Lanka_Frogmouth,5,1097279,final_a2ce21ccf9850e49,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_10__clip_00002.wav,Sri_Lanka_Frogmouth,5,1097279,final_a2ce21ccf9850e49,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_10__clip_00003.wav,Sri_Lanka_Frogmouth,5,1097279,final_a2ce21ccf9850e49,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_10__clip_00004.wav,Sri_Lanka_Frogmouth,5,1097279,final_a2ce21ccf9850e49,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_10__clip_00005.wav,Sri_Lanka_Frogmouth,5,1097279,final_a2ce21ccf9850e49,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_10__clip_00006.wav,Sri_Lanka_Frogmouth,5,1097279,final_a2ce21ccf9850e49,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_10__clip_00007.wav,Sri_Lanka_Frogmouth,5,1097279,final_a2ce21ccf9850e49,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_10__clip_00008.wav,Sri_Lanka_Frogmouth,5,1097279,final_a2ce21ccf9850e49,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_10__clip_00009.wav,Sri_Lanka_Frogmouth,5,1097279,final_a2ce21ccf9850e49,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_10__clip_00010.wav,Sri_Lanka_Frogmouth,5,1097279,final_a2ce21ccf9850e49,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_10__clip_00011.wav,Sri_Lanka_Frogmouth,5,1097279,final_a2ce21ccf9850e49,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_10__clip_00012.wav,Sri_Lanka_Frogmouth,5,1097279,final_a2ce21ccf9850e49,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_10__clip_00013.wav,Sri_Lanka_Frogmouth,5,1097279,final_a2ce21ccf9850e49,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_10__clip_00014.wav,Sri_Lanka_Frogmouth,5,1097279,final_a2ce21ccf9850e49,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_10__clip_00015.wav,Sri_Lanka_Frogmouth,5,1097279,final_a2ce21ccf9850e49,1
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_74__clip_00001.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 39,final_8e50a5185bdb48e5,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_81__clip_00001.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 46,final_33d0732c40b98409,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_81__clip_00002.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 46,final_33d0732c40b98409,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_81__clip_00003.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 46,final_33d0732c40b98409,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_81__clip_00004.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 46,final_33d0732c40b98409,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_81__clip_00005.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 46,final_33d0732c40b98409,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_81__clip_00006.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 46,final_33d0732c40b98409,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_98__clip_00001.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 63,final_0d91c957ee59aaef,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_106__clip_00001.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 71,final_9cfa871a96f139be,2
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_106__clip_00002.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 71,final_9cfa871a96f139be,2
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_106__clip_00003.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 71,final_9cfa871a96f139be,2
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_106__clip_00004.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 71,final_9cfa871a96f139be,2
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_106__clip_00005.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 71,final_9cfa871a96f139be,2
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_106__clip_00006.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 71,final_9cfa871a96f139be,2
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_106__clip_00007.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 71,final_9cfa871a96f139be,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_106__clip_00008.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 71,final_9cfa871a96f139be,2
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_106__clip_00009.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 71,final_9cfa871a96f139be,1
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_106__clip_00010.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 71,final_9cfa871a96f139be,2
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_106__clip_00011.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 71,final_9cfa871a96f139be,2
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_106__clip_00012.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 71,final_9cfa871a96f139be,1
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_106__clip_00013.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 71,final_9cfa871a96f139be,2
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_106__clip_00014.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 71,final_9cfa871a96f139be,2
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_106__clip_00015.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 71,final_9cfa871a96f139be,1
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_119__clip_00001.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 84,final_2f4cf3e6441ea1b0,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_119__clip_00002.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 84,final_2f4cf3e6441ea1b0,0
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_128__clip_00001.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 93,final_a6d998636747149b,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_159__clip_00001.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 124,final_0f35adb72d613354,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_159__clip_00002.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 124,final_0f35adb72d613354,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_164__clip_00001.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 129,final_3b94955711acc98a,9
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_164__clip_00002.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 129,final_3b94955711acc98a,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_164__clip_00003.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 129,final_3b94955711acc98a,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_164__clip_00004.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 129,final_3b94955711acc98a,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_164__clip_00005.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 129,final_3b94955711acc98a,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_164__clip_00006.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 129,final_3b94955711acc98a,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_164__clip_00007.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 129,final_3b94955711acc98a,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_164__clip_00008.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 129,final_3b94955711acc98a,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_164__clip_00009.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 129,final_3b94955711acc98a,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_164__clip_00010.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 129,final_3b94955711acc98a,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_164__clip_00011.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 129,final_3b94955711acc98a,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_164__clip_00012.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 129,final_3b94955711acc98a,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_164__clip_00013.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 129,final_3b94955711acc98a,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_164__clip_00014.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 129,final_3b94955711acc98a,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_164__clip_00015.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 129,final_3b94955711acc98a,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_164__clip_00016.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 129,final_3b94955711acc98a,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_164__clip_00017.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 129,final_3b94955711acc98a,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_164__clip_00018.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 129,final_3b94955711acc98a,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_164__clip_00019.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 129,final_3b94955711acc98a,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_164__clip_00020.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 129,final_3b94955711acc98a,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_164__clip_00021.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 129,final_3b94955711acc98a,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_164__clip_00022.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 129,final_3b94955711acc98a,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_164__clip_00023.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 129,final_3b94955711acc98a,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_164__clip_00024.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 129,final_3b94955711acc98a,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_164__clip_00025.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 129,final_3b94955711acc98a,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_164__clip_00026.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 129,final_3b94955711acc98a,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_164__clip_00027.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 129,final_3b94955711acc98a,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_164__clip_00028.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 129,final_3b94955711acc98a,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_164__clip_00029.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 129,final_3b94955711acc98a,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_164__clip_00030.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 129,final_3b94955711acc98a,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_164__clip_00031.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 129,final_3b94955711acc98a,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_164__clip_00032.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 129,final_3b94955711acc98a,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_164__clip_00033.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 129,final_3b94955711acc98a,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_164__clip_00034.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 129,final_3b94955711acc98a,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_164__clip_00035.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 129,final_3b94955711acc98a,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_164__clip_00036.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 129,final_3b94955711acc98a,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_164__clip_00037.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 129,final_3b94955711acc98a,7
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_164__clip_00038.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 129,final_3b94955711acc98a,7
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_164__clip_00039.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 129,final_3b94955711acc98a,7
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_164__clip_00040.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 129,final_3b94955711acc98a,7
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_164__clip_00041.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 129,final_3b94955711acc98a,7
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_164__clip_00042.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 129,final_3b94955711acc98a,7
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_164__clip_00043.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 129,final_3b94955711acc98a,6
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_164__clip_00044.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 129,final_3b94955711acc98a,7
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_164__clip_00045.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 129,final_3b94955711acc98a,7
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_164__clip_00046.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 129,final_3b94955711acc98a,7
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_164__clip_00047.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 129,final_3b94955711acc98a,2
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_164__clip_00048.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 129,final_3b94955711acc98a,7
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_164__clip_00049.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 129,final_3b94955711acc98a,7
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_164__clip_00050.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 129,final_3b94955711acc98a,7
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_164__clip_00051.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 129,final_3b94955711acc98a,7
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_164__clip_00052.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 129,final_3b94955711acc98a,7
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_164__clip_00053.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 129,final_3b94955711acc98a,7
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_164__clip_00054.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 129,final_3b94955711acc98a,7
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_164__clip_00055.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 129,final_3b94955711acc98a,7
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_164__clip_00056.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 129,final_3b94955711acc98a,7
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_166__clip_00001.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 131,final_7712455700b2d2dd,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_166__clip_00002.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 131,final_7712455700b2d2dd,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_175__clip_00001.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 140,final_7712455700b2d2dd,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_175__clip_00002.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 140,final_7712455700b2d2dd,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_175__clip_00003.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 140,final_7712455700b2d2dd,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_175__clip_00004.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 140,final_7712455700b2d2dd,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_175__clip_00005.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 140,final_7712455700b2d2dd,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_175__clip_00006.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 140,final_7712455700b2d2dd,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_175__clip_00007.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 140,final_7712455700b2d2dd,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_175__clip_00008.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 140,final_7712455700b2d2dd,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_175__clip_00009.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 140,final_7712455700b2d2dd,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_175__clip_00010.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 140,final_7712455700b2d2dd,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_175__clip_00011.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 140,final_7712455700b2d2dd,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_175__clip_00012.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 140,final_7712455700b2d2dd,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_175__clip_00013.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 140,final_7712455700b2d2dd,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_175__clip_00014.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 140,final_7712455700b2d2dd,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_175__clip_00015.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 140,final_7712455700b2d2dd,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_175__clip_00016.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 140,final_7712455700b2d2dd,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_175__clip_00017.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 140,final_7712455700b2d2dd,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_175__clip_00018.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 140,final_7712455700b2d2dd,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_175__clip_00019.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 140,final_7712455700b2d2dd,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_175__clip_00020.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 140,final_7712455700b2d2dd,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_175__clip_00021.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 140,final_7712455700b2d2dd,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_175__clip_00022.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 140,final_7712455700b2d2dd,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_175__clip_00023.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 140,final_7712455700b2d2dd,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_175__clip_00024.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 140,final_7712455700b2d2dd,2
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_184__clip_00001.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 149,final_9231835e69a337b7,0
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_184__clip_00002.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 149,final_9231835e69a337b7,7
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_184__clip_00003.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 149,final_9231835e69a337b7,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_184__clip_00004.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 149,final_9231835e69a337b7,9
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_184__clip_00005.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 149,final_9231835e69a337b7,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_188__clip_00001.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 153,final_003662fdc034568b,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_191__clip_00001.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 156,final_2dc951a61f20fdca,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_191__clip_00002.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 156,final_2dc951a61f20fdca,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_191__clip_00003.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 156,final_2dc951a61f20fdca,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_191__clip_00004.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 156,final_2dc951a61f20fdca,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_191__clip_00005.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 156,final_2dc951a61f20fdca,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_202__clip_00001.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 167,final_d61fd17bf04fd084,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_202__clip_00002.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 167,final_d61fd17bf04fd084,7
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_202__clip_00003.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 167,final_d61fd17bf04fd084,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_202__clip_00004.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 167,final_d61fd17bf04fd084,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_202__clip_00005.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 167,final_d61fd17bf04fd084,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_202__clip_00006.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 167,final_d61fd17bf04fd084,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_202__clip_00007.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 167,final_d61fd17bf04fd084,8
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_202__clip_00008.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 167,final_d61fd17bf04fd084,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_202__clip_00009.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 167,final_d61fd17bf04fd084,7
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_202__clip_00010.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 167,final_d61fd17bf04fd084,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_202__clip_00011.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 167,final_d61fd17bf04fd084,8
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_202__clip_00012.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 167,final_d61fd17bf04fd084,8
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_202__clip_00013.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 167,final_d61fd17bf04fd084,7
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_202__clip_00014.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 167,final_d61fd17bf04fd084,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_203__clip_00001.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 168,final_839e2a2a9895778e,7
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_203__clip_00002.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 168,final_839e2a2a9895778e,7
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_203__clip_00003.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 168,final_839e2a2a9895778e,4
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_203__clip_00004.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 168,final_839e2a2a9895778e,7
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_203__clip_00005.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 168,final_839e2a2a9895778e,7
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_203__clip_00006.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 168,final_839e2a2a9895778e,3
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_203__clip_00007.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 168,final_839e2a2a9895778e,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_203__clip_00008.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 168,final_839e2a2a9895778e,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_203__clip_00009.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 168,final_839e2a2a9895778e,6
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_203__clip_00010.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 168,final_839e2a2a9895778e,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_203__clip_00011.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 168,final_839e2a2a9895778e,7
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_203__clip_00012.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 168,final_839e2a2a9895778e,7
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_203__clip_00013.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 168,final_839e2a2a9895778e,3
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_203__clip_00014.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 168,final_839e2a2a9895778e,4
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_203__clip_00015.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 168,final_839e2a2a9895778e,4
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_205__clip_00001.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 170,final_2743556dba641d89,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_205__clip_00002.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 170,final_2743556dba641d89,0
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_205__clip_00003.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 170,final_2743556dba641d89,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_205__clip_00004.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 170,final_2743556dba641d89,0
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_205__clip_00005.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 170,final_2743556dba641d89,1
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_205__clip_00006.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 170,final_2743556dba641d89,7
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_205__clip_00007.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 170,final_2743556dba641d89,7
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_205__clip_00008.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 170,final_2743556dba641d89,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_205__clip_00009.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 170,final_2743556dba641d89,7
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_205__clip_00010.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 170,final_2743556dba641d89,7
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_211__clip_00001.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 176,final_7bcb368a13519bd4,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_211__clip_00002.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 176,final_7bcb368a13519bd4,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_230__clip_00001.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 195,final_359381f241e44561,0
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_236__clip_00001.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 201,final_431e6083a2df385e,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_236__clip_00002.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 201,final_431e6083a2df385e,8
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_236__clip_00003.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 201,final_431e6083a2df385e,2
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_236__clip_00004.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 201,final_431e6083a2df385e,2
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_236__clip_00005.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 201,final_431e6083a2df385e,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_236__clip_00006.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 201,final_431e6083a2df385e,9
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_236__clip_00007.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 201,final_431e6083a2df385e,1
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_240__clip_00001.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 205,final_4602627430c0ef9c,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_257__clip_00001.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 222,final_305afc21443009ce,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_259__clip_00001.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 224,final_97445faae43d546a,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_259__clip_00002.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 224,final_97445faae43d546a,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_259__clip_00003.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 224,final_97445faae43d546a,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_259__clip_00004.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 224,final_97445faae43d546a,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_264__clip_00001.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 229,final_5e2280f5f4424378,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_265__clip_00001.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 230,final_7ee350f8a40e3422,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_265__clip_00002.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 230,final_7ee350f8a40e3422,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_265__clip_00003.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 230,final_7ee350f8a40e3422,9
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_272__clip_00001.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 237,final_99b0b1c8efceb977,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_272__clip_00002.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 237,final_99b0b1c8efceb977,7
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_272__clip_00003.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 237,final_99b0b1c8efceb977,7
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_272__clip_00004.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 237,final_99b0b1c8efceb977,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_272__clip_00005.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 237,final_99b0b1c8efceb977,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_272__clip_00006.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 237,final_99b0b1c8efceb977,7
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_272__clip_00007.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 237,final_99b0b1c8efceb977,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_272__clip_00008.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 237,final_99b0b1c8efceb977,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_272__clip_00009.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 237,final_99b0b1c8efceb977,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_272__clip_00010.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 237,final_99b0b1c8efceb977,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_272__clip_00011.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 237,final_99b0b1c8efceb977,9
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_272__clip_00012.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 237,final_99b0b1c8efceb977,1
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_272__clip_00013.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 237,final_99b0b1c8efceb977,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_272__clip_00014.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 237,final_99b0b1c8efceb977,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_272__clip_00015.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 237,final_99b0b1c8efceb977,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_272__clip_00016.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 237,final_99b0b1c8efceb977,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_272__clip_00017.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 237,final_99b0b1c8efceb977,9
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_272__clip_00018.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 237,final_99b0b1c8efceb977,9
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_272__clip_00019.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 237,final_99b0b1c8efceb977,9
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_272__clip_00020.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 237,final_99b0b1c8efceb977,2
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_272__clip_00021.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 237,final_99b0b1c8efceb977,2
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_272__clip_00022.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 237,final_99b0b1c8efceb977,2
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_272__clip_00023.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 237,final_99b0b1c8efceb977,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_281__clip_00001.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 246,final_7712455700b2d2dd,5
+val/Sri_Lanka_Frogmouth/Sri_Lanka_Frogmouth_281__clip_00002.wav,Sri_Lanka_Frogmouth,5,Sri Lanka Frogmouth 246,final_7712455700b2d2dd,5
+val/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill__clip_00001.wav,Sri_Lanka_Grey_Hornbill,6,609368,final_caf123c79f0a581d,2
+val/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill__clip_00002.wav,Sri_Lanka_Grey_Hornbill,6,609368,final_caf123c79f0a581d,6
+val/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill__clip_00003.wav,Sri_Lanka_Grey_Hornbill,6,609368,final_caf123c79f0a581d,6
+val/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_11__clip_00001.wav,Sri_Lanka_Grey_Hornbill,6,207656,final_c1077f8359f352a2,6
+val/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_11__clip_00002.wav,Sri_Lanka_Grey_Hornbill,6,207656,final_c1077f8359f352a2,6
+val/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_11__clip_00003.wav,Sri_Lanka_Grey_Hornbill,6,207656,final_c1077f8359f352a2,6
+val/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_11__clip_00004.wav,Sri_Lanka_Grey_Hornbill,6,207656,final_c1077f8359f352a2,9
+val/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_11__clip_00005.wav,Sri_Lanka_Grey_Hornbill,6,207656,final_c1077f8359f352a2,9
+val/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_11__clip_00006.wav,Sri_Lanka_Grey_Hornbill,6,207656,final_c1077f8359f352a2,6
+val/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_11__clip_00007.wav,Sri_Lanka_Grey_Hornbill,6,207656,final_c1077f8359f352a2,6
+val/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_11__clip_00008.wav,Sri_Lanka_Grey_Hornbill,6,207656,final_c1077f8359f352a2,6
+val/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_11__clip_00009.wav,Sri_Lanka_Grey_Hornbill,6,207656,final_c1077f8359f352a2,6
+val/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_11__clip_00010.wav,Sri_Lanka_Grey_Hornbill,6,207656,final_c1077f8359f352a2,9
+val/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_11__clip_00011.wav,Sri_Lanka_Grey_Hornbill,6,207656,final_c1077f8359f352a2,9
+val/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_11__clip_00012.wav,Sri_Lanka_Grey_Hornbill,6,207656,final_c1077f8359f352a2,6
+val/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_11__clip_00013.wav,Sri_Lanka_Grey_Hornbill,6,207656,final_c1077f8359f352a2,6
+val/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_11__clip_00014.wav,Sri_Lanka_Grey_Hornbill,6,207656,final_c1077f8359f352a2,9
+val/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_11__clip_00015.wav,Sri_Lanka_Grey_Hornbill,6,207656,final_c1077f8359f352a2,6
+val/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_11__clip_00016.wav,Sri_Lanka_Grey_Hornbill,6,207656,final_c1077f8359f352a2,6
+val/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_21__clip_00001.wav,Sri_Lanka_Grey_Hornbill,6,Sri Lanka Gray Hornbill 7,final_3b1305c4e93797cb,6
+val/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_21__clip_00002.wav,Sri_Lanka_Grey_Hornbill,6,Sri Lanka Gray Hornbill 7,final_3b1305c4e93797cb,6
+val/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_21__clip_00003.wav,Sri_Lanka_Grey_Hornbill,6,Sri Lanka Gray Hornbill 7,final_3b1305c4e93797cb,1
+val/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_21__clip_00004.wav,Sri_Lanka_Grey_Hornbill,6,Sri Lanka Gray Hornbill 7,final_3b1305c4e93797cb,6
+val/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_21__clip_00005.wav,Sri_Lanka_Grey_Hornbill,6,Sri Lanka Gray Hornbill 7,final_3b1305c4e93797cb,6
+val/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_21__clip_00006.wav,Sri_Lanka_Grey_Hornbill,6,Sri Lanka Gray Hornbill 7,final_3b1305c4e93797cb,6
+val/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_39__clip_00001.wav,Sri_Lanka_Grey_Hornbill,6,Sri Lanka Gray Hornbill 25,final_caf123c79f0a581d,2
+val/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_39__clip_00002.wav,Sri_Lanka_Grey_Hornbill,6,Sri Lanka Gray Hornbill 25,final_caf123c79f0a581d,6
+val/Sri_Lanka_Grey_Hornbill/Sri_Lanka_Grey_Hornbill_39__clip_00003.wav,Sri_Lanka_Grey_Hornbill,6,Sri Lanka Gray Hornbill 25,final_caf123c79f0a581d,6
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_4__clip_00001.wav,Sri_Lanka_Junglefowl,7,543393,final_f35976d0fa036ead,7
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_5__clip_00001.wav,Sri_Lanka_Junglefowl,7,1097205,final_085cb148058520f9,7
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_17__clip_00001.wav,Sri_Lanka_Junglefowl,7,346143,final_307be2a86e3ee27e,7
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_17__clip_00002.wav,Sri_Lanka_Junglefowl,7,346143,final_307be2a86e3ee27e,2
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_17__clip_00003.wav,Sri_Lanka_Junglefowl,7,346143,final_307be2a86e3ee27e,2
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_17__clip_00004.wav,Sri_Lanka_Junglefowl,7,346143,final_307be2a86e3ee27e,7
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_17__clip_00005.wav,Sri_Lanka_Junglefowl,7,346143,final_307be2a86e3ee27e,7
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_17__clip_00006.wav,Sri_Lanka_Junglefowl,7,346143,final_307be2a86e3ee27e,2
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_17__clip_00007.wav,Sri_Lanka_Junglefowl,7,346143,final_307be2a86e3ee27e,7
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_17__clip_00008.wav,Sri_Lanka_Junglefowl,7,346143,final_307be2a86e3ee27e,7
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_17__clip_00009.wav,Sri_Lanka_Junglefowl,7,346143,final_307be2a86e3ee27e,3
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_17__clip_00010.wav,Sri_Lanka_Junglefowl,7,346143,final_307be2a86e3ee27e,3
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_17__clip_00011.wav,Sri_Lanka_Junglefowl,7,346143,final_307be2a86e3ee27e,7
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00001.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,5
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00002.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,7
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00003.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,5
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00004.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,5
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00005.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,5
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00006.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,7
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00007.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,5
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00008.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,5
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00009.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,0
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00010.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,8
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00011.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,7
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00012.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,0
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00013.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,0
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00014.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,7
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00015.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,7
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00016.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,0
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00017.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,0
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00018.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,0
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00019.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,7
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00020.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,0
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00021.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,0
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00022.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,0
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00023.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,0
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00024.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,7
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00025.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,0
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00026.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,0
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00027.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,0
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00028.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,7
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00029.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,0
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00030.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,0
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00031.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,0
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00032.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,7
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00033.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,0
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00034.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,0
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00035.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,7
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00036.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,7
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00037.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,2
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00038.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,2
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00039.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,7
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00040.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,0
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00041.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,0
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00042.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,0
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00043.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,7
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00044.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,0
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00045.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,0
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00046.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,0
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00047.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,0
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00048.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,2
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00049.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,2
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00050.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,7
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00051.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,0
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00052.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,0
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00053.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,2
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00054.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,2
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00055.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,2
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00056.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,7
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00057.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,2
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00058.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,2
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00059.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,8
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00060.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,2
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00061.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,7
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00062.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,7
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00063.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,0
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00064.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,0
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00065.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,0
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00066.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,0
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00067.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,0
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00068.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,0
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00069.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,7
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00070.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,0
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00071.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,2
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00072.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,0
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00073.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,3
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00074.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,7
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00075.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,7
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00076.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,7
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00077.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,7
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00078.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,1
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00079.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,7
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00080.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,7
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00081.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,7
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00082.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,2
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00083.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,2
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00084.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,8
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00085.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,2
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00086.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,2
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_40__clip_00087.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 3,final_7b29023f60b194a9,2
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_49__clip_00001.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 12,final_307be2a86e3ee27e,7
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_49__clip_00002.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 12,final_307be2a86e3ee27e,2
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_49__clip_00003.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 12,final_307be2a86e3ee27e,2
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_49__clip_00004.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 12,final_307be2a86e3ee27e,7
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_49__clip_00005.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 12,final_307be2a86e3ee27e,7
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_49__clip_00006.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 12,final_307be2a86e3ee27e,2
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_49__clip_00007.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 12,final_307be2a86e3ee27e,7
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_49__clip_00008.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 12,final_307be2a86e3ee27e,7
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_49__clip_00009.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 12,final_307be2a86e3ee27e,3
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_49__clip_00010.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 12,final_307be2a86e3ee27e,3
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_49__clip_00011.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 12,final_307be2a86e3ee27e,7
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_66__clip_00001.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 29,final_e5fe2c28b782c4c4,7
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_66__clip_00002.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 29,final_e5fe2c28b782c4c4,7
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_73__clip_00001.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 36,final_e5246825c76818cc,7
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_74__clip_00001.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 37,final_d5640d241aa685f2,7
+val/Sri_Lanka_Junglefowl/Sri_Lanka_Junglefowl_75__clip_00001.wav,Sri_Lanka_Junglefowl,7,Sri Lanka Junglefowl 38,final_e0294083de690c35,7
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_17__clip_00001.wav,Sri_Lanka_Spurfowl,8,625920,final_a8916316969ad029,8
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_17__clip_00002.wav,Sri_Lanka_Spurfowl,8,625920,final_a8916316969ad029,8
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_17__clip_00003.wav,Sri_Lanka_Spurfowl,8,625920,final_a8916316969ad029,8
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_17__clip_00004.wav,Sri_Lanka_Spurfowl,8,625920,final_a8916316969ad029,8
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_17__clip_00005.wav,Sri_Lanka_Spurfowl,8,625920,final_a8916316969ad029,8
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_17__clip_00006.wav,Sri_Lanka_Spurfowl,8,625920,final_a8916316969ad029,8
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_17__clip_00007.wav,Sri_Lanka_Spurfowl,8,625920,final_a8916316969ad029,8
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_17__clip_00008.wav,Sri_Lanka_Spurfowl,8,625920,final_a8916316969ad029,8
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_17__clip_00009.wav,Sri_Lanka_Spurfowl,8,625920,final_a8916316969ad029,8
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_17__clip_00010.wav,Sri_Lanka_Spurfowl,8,625920,final_a8916316969ad029,8
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_17__clip_00011.wav,Sri_Lanka_Spurfowl,8,625920,final_a8916316969ad029,8
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_17__clip_00012.wav,Sri_Lanka_Spurfowl,8,625920,final_a8916316969ad029,8
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_17__clip_00013.wav,Sri_Lanka_Spurfowl,8,625920,final_a8916316969ad029,8
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_17__clip_00014.wav,Sri_Lanka_Spurfowl,8,625920,final_a8916316969ad029,8
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_17__clip_00015.wav,Sri_Lanka_Spurfowl,8,625920,final_a8916316969ad029,8
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_17__clip_00016.wav,Sri_Lanka_Spurfowl,8,625920,final_a8916316969ad029,8
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_17__clip_00017.wav,Sri_Lanka_Spurfowl,8,625920,final_a8916316969ad029,8
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_17__clip_00018.wav,Sri_Lanka_Spurfowl,8,625920,final_a8916316969ad029,8
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_17__clip_00019.wav,Sri_Lanka_Spurfowl,8,625920,final_a8916316969ad029,8
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_17__clip_00020.wav,Sri_Lanka_Spurfowl,8,625920,final_a8916316969ad029,8
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_17__clip_00021.wav,Sri_Lanka_Spurfowl,8,625920,final_a8916316969ad029,2
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_21__clip_00001.wav,Sri_Lanka_Spurfowl,8,237201,final_eea13e416e1fe33a,8
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_21__clip_00002.wav,Sri_Lanka_Spurfowl,8,237201,final_eea13e416e1fe33a,8
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_21__clip_00003.wav,Sri_Lanka_Spurfowl,8,237201,final_eea13e416e1fe33a,8
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_21__clip_00004.wav,Sri_Lanka_Spurfowl,8,237201,final_eea13e416e1fe33a,8
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_25__clip_00001.wav,Sri_Lanka_Spurfowl,8,680833,final_ff879505dc3af2f0,8
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_25__clip_00002.wav,Sri_Lanka_Spurfowl,8,680833,final_ff879505dc3af2f0,8
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_25__clip_00003.wav,Sri_Lanka_Spurfowl,8,680833,final_ff879505dc3af2f0,8
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_27__clip_00001.wav,Sri_Lanka_Spurfowl,8,181988,final_75b4a44c706c65bd,2
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_27__clip_00002.wav,Sri_Lanka_Spurfowl,8,181988,final_75b4a44c706c65bd,8
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_27__clip_00003.wav,Sri_Lanka_Spurfowl,8,181988,final_75b4a44c706c65bd,8
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_27__clip_00004.wav,Sri_Lanka_Spurfowl,8,181988,final_75b4a44c706c65bd,0
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_30__clip_00001.wav,Sri_Lanka_Spurfowl,8,68355,final_c492c63c604796d4,8
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_30__clip_00002.wav,Sri_Lanka_Spurfowl,8,68355,final_c492c63c604796d4,8
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_30__clip_00003.wav,Sri_Lanka_Spurfowl,8,68355,final_c492c63c604796d4,8
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_30__clip_00004.wav,Sri_Lanka_Spurfowl,8,68355,final_c492c63c604796d4,8
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_30__clip_00005.wav,Sri_Lanka_Spurfowl,8,68355,final_c492c63c604796d4,8
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_30__clip_00006.wav,Sri_Lanka_Spurfowl,8,68355,final_c492c63c604796d4,8
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_30__clip_00007.wav,Sri_Lanka_Spurfowl,8,68355,final_c492c63c604796d4,8
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_30__clip_00008.wav,Sri_Lanka_Spurfowl,8,68355,final_c492c63c604796d4,8
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_30__clip_00009.wav,Sri_Lanka_Spurfowl,8,68355,final_c492c63c604796d4,8
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_48__clip_00001.wav,Sri_Lanka_Spurfowl,8,Sri Lanka Spurfowl 17,final_a8916316969ad029,8
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_48__clip_00002.wav,Sri_Lanka_Spurfowl,8,Sri Lanka Spurfowl 17,final_a8916316969ad029,8
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_48__clip_00003.wav,Sri_Lanka_Spurfowl,8,Sri Lanka Spurfowl 17,final_a8916316969ad029,8
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_48__clip_00004.wav,Sri_Lanka_Spurfowl,8,Sri Lanka Spurfowl 17,final_a8916316969ad029,8
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_48__clip_00005.wav,Sri_Lanka_Spurfowl,8,Sri Lanka Spurfowl 17,final_a8916316969ad029,8
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_48__clip_00006.wav,Sri_Lanka_Spurfowl,8,Sri Lanka Spurfowl 17,final_a8916316969ad029,8
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_48__clip_00007.wav,Sri_Lanka_Spurfowl,8,Sri Lanka Spurfowl 17,final_a8916316969ad029,8
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_48__clip_00008.wav,Sri_Lanka_Spurfowl,8,Sri Lanka Spurfowl 17,final_a8916316969ad029,8
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_48__clip_00009.wav,Sri_Lanka_Spurfowl,8,Sri Lanka Spurfowl 17,final_a8916316969ad029,8
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_48__clip_00010.wav,Sri_Lanka_Spurfowl,8,Sri Lanka Spurfowl 17,final_a8916316969ad029,8
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_48__clip_00011.wav,Sri_Lanka_Spurfowl,8,Sri Lanka Spurfowl 17,final_a8916316969ad029,8
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_48__clip_00012.wav,Sri_Lanka_Spurfowl,8,Sri Lanka Spurfowl 17,final_a8916316969ad029,8
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_48__clip_00013.wav,Sri_Lanka_Spurfowl,8,Sri Lanka Spurfowl 17,final_a8916316969ad029,8
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_48__clip_00014.wav,Sri_Lanka_Spurfowl,8,Sri Lanka Spurfowl 17,final_a8916316969ad029,8
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_48__clip_00015.wav,Sri_Lanka_Spurfowl,8,Sri Lanka Spurfowl 17,final_a8916316969ad029,8
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_48__clip_00016.wav,Sri_Lanka_Spurfowl,8,Sri Lanka Spurfowl 17,final_a8916316969ad029,8
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_48__clip_00017.wav,Sri_Lanka_Spurfowl,8,Sri Lanka Spurfowl 17,final_a8916316969ad029,8
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_48__clip_00018.wav,Sri_Lanka_Spurfowl,8,Sri Lanka Spurfowl 17,final_a8916316969ad029,8
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_48__clip_00019.wav,Sri_Lanka_Spurfowl,8,Sri Lanka Spurfowl 17,final_a8916316969ad029,8
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_48__clip_00020.wav,Sri_Lanka_Spurfowl,8,Sri Lanka Spurfowl 17,final_a8916316969ad029,8
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_48__clip_00021.wav,Sri_Lanka_Spurfowl,8,Sri Lanka Spurfowl 17,final_a8916316969ad029,2
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_50__clip_00001.wav,Sri_Lanka_Spurfowl,8,Sri Lanka Spurfowl 19,final_a0ecd2260e0192b9,8
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_50__clip_00002.wav,Sri_Lanka_Spurfowl,8,Sri Lanka Spurfowl 19,final_a0ecd2260e0192b9,8
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_50__clip_00003.wav,Sri_Lanka_Spurfowl,8,Sri Lanka Spurfowl 19,final_a0ecd2260e0192b9,8
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_50__clip_00004.wav,Sri_Lanka_Spurfowl,8,Sri Lanka Spurfowl 19,final_a0ecd2260e0192b9,8
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_50__clip_00005.wav,Sri_Lanka_Spurfowl,8,Sri Lanka Spurfowl 19,final_a0ecd2260e0192b9,8
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_50__clip_00006.wav,Sri_Lanka_Spurfowl,8,Sri Lanka Spurfowl 19,final_a0ecd2260e0192b9,8
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_50__clip_00007.wav,Sri_Lanka_Spurfowl,8,Sri Lanka Spurfowl 19,final_a0ecd2260e0192b9,8
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_50__clip_00008.wav,Sri_Lanka_Spurfowl,8,Sri Lanka Spurfowl 19,final_a0ecd2260e0192b9,8
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_50__clip_00009.wav,Sri_Lanka_Spurfowl,8,Sri Lanka Spurfowl 19,final_a0ecd2260e0192b9,8
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_50__clip_00010.wav,Sri_Lanka_Spurfowl,8,Sri Lanka Spurfowl 19,final_a0ecd2260e0192b9,8
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_50__clip_00011.wav,Sri_Lanka_Spurfowl,8,Sri Lanka Spurfowl 19,final_a0ecd2260e0192b9,8
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_50__clip_00012.wav,Sri_Lanka_Spurfowl,8,Sri Lanka Spurfowl 19,final_a0ecd2260e0192b9,8
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_50__clip_00013.wav,Sri_Lanka_Spurfowl,8,Sri Lanka Spurfowl 19,final_a0ecd2260e0192b9,8
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_50__clip_00014.wav,Sri_Lanka_Spurfowl,8,Sri Lanka Spurfowl 19,final_a0ecd2260e0192b9,8
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_50__clip_00015.wav,Sri_Lanka_Spurfowl,8,Sri Lanka Spurfowl 19,final_a0ecd2260e0192b9,8
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_50__clip_00016.wav,Sri_Lanka_Spurfowl,8,Sri Lanka Spurfowl 19,final_a0ecd2260e0192b9,8
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_50__clip_00017.wav,Sri_Lanka_Spurfowl,8,Sri Lanka Spurfowl 19,final_a0ecd2260e0192b9,8
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_50__clip_00018.wav,Sri_Lanka_Spurfowl,8,Sri Lanka Spurfowl 19,final_a0ecd2260e0192b9,8
+val/Sri_Lanka_Spurfowl/Sri_Lanka_Spurfowl_50__clip_00019.wav,Sri_Lanka_Spurfowl,8,Sri Lanka Spurfowl 19,final_a0ecd2260e0192b9,5
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet__clip_00001.wav,Yellow-fronted_Barbet,9,1097249,final_f4c0920dd5581bf0,9
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet__clip_00002.wav,Yellow-fronted_Barbet,9,1097249,final_f4c0920dd5581bf0,9
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet__clip_00003.wav,Yellow-fronted_Barbet,9,1097249,final_f4c0920dd5581bf0,9
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet__clip_00004.wav,Yellow-fronted_Barbet,9,1097249,final_f4c0920dd5581bf0,2
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet_6__clip_00001.wav,Yellow-fronted_Barbet,9,591039,final_ef037120d93db10d,9
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet_6__clip_00002.wav,Yellow-fronted_Barbet,9,591039,final_ef037120d93db10d,9
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet_6__clip_00003.wav,Yellow-fronted_Barbet,9,591039,final_ef037120d93db10d,9
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet_6__clip_00004.wav,Yellow-fronted_Barbet,9,591039,final_ef037120d93db10d,9
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet_6__clip_00005.wav,Yellow-fronted_Barbet,9,591039,final_ef037120d93db10d,0
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet_6__clip_00006.wav,Yellow-fronted_Barbet,9,591039,final_ef037120d93db10d,0
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet_6__clip_00007.wav,Yellow-fronted_Barbet,9,591039,final_ef037120d93db10d,0
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet_24__clip_00001.wav,Yellow-fronted_Barbet,9,1074041,final_5bc42d925f45be83,9
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet_24__clip_00002.wav,Yellow-fronted_Barbet,9,1074041,final_5bc42d925f45be83,9
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet_24__clip_00003.wav,Yellow-fronted_Barbet,9,1074041,final_5bc42d925f45be83,9
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet_24__clip_00004.wav,Yellow-fronted_Barbet,9,1074041,final_5bc42d925f45be83,9
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet_24__clip_00005.wav,Yellow-fronted_Barbet,9,1074041,final_5bc42d925f45be83,9
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet_24__clip_00006.wav,Yellow-fronted_Barbet,9,1074041,final_5bc42d925f45be83,9
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet_24__clip_00007.wav,Yellow-fronted_Barbet,9,1074041,final_5bc42d925f45be83,9
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet_24__clip_00008.wav,Yellow-fronted_Barbet,9,1074041,final_5bc42d925f45be83,9
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet_31__clip_00001.wav,Yellow-fronted_Barbet,9,620159,final_2842561abed98ba6,9
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet_31__clip_00002.wav,Yellow-fronted_Barbet,9,620159,final_2842561abed98ba6,9
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet_31__clip_00003.wav,Yellow-fronted_Barbet,9,620159,final_2842561abed98ba6,9
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet_31__clip_00004.wav,Yellow-fronted_Barbet,9,620159,final_2842561abed98ba6,9
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet_31__clip_00005.wav,Yellow-fronted_Barbet,9,620159,final_2842561abed98ba6,9
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet_31__clip_00006.wav,Yellow-fronted_Barbet,9,620159,final_2842561abed98ba6,9
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet_31__clip_00007.wav,Yellow-fronted_Barbet,9,620159,final_2842561abed98ba6,9
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet_31__clip_00008.wav,Yellow-fronted_Barbet,9,620159,final_2842561abed98ba6,9
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet_31__clip_00009.wav,Yellow-fronted_Barbet,9,620159,final_2842561abed98ba6,9
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet_31__clip_00010.wav,Yellow-fronted_Barbet,9,620159,final_2842561abed98ba6,9
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet_31__clip_00011.wav,Yellow-fronted_Barbet,9,620159,final_2842561abed98ba6,9
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet_31__clip_00012.wav,Yellow-fronted_Barbet,9,620159,final_2842561abed98ba6,9
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet_31__clip_00013.wav,Yellow-fronted_Barbet,9,620159,final_2842561abed98ba6,9
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet_40__clip_00001.wav,Yellow-fronted_Barbet,9,164020,final_e83bf4b41403f5f7,0
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet_40__clip_00002.wav,Yellow-fronted_Barbet,9,164020,final_e83bf4b41403f5f7,0
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet_40__clip_00003.wav,Yellow-fronted_Barbet,9,164020,final_e83bf4b41403f5f7,0
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet_46__clip_00001.wav,Yellow-fronted_Barbet,9,19441,final_91fc10b5cda1c50a,9
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet_46__clip_00002.wav,Yellow-fronted_Barbet,9,19441,final_91fc10b5cda1c50a,9
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet_46__clip_00003.wav,Yellow-fronted_Barbet,9,19441,final_91fc10b5cda1c50a,9
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet_46__clip_00004.wav,Yellow-fronted_Barbet,9,19441,final_91fc10b5cda1c50a,9
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet_46__clip_00005.wav,Yellow-fronted_Barbet,9,19441,final_91fc10b5cda1c50a,9
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet_46__clip_00006.wav,Yellow-fronted_Barbet,9,19441,final_91fc10b5cda1c50a,9
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet_46__clip_00007.wav,Yellow-fronted_Barbet,9,19441,final_91fc10b5cda1c50a,5
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet_46__clip_00008.wav,Yellow-fronted_Barbet,9,19441,final_91fc10b5cda1c50a,9
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet_46__clip_00009.wav,Yellow-fronted_Barbet,9,19441,final_91fc10b5cda1c50a,9
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet_46__clip_00010.wav,Yellow-fronted_Barbet,9,19441,final_91fc10b5cda1c50a,9
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet_46__clip_00011.wav,Yellow-fronted_Barbet,9,19441,final_91fc10b5cda1c50a,9
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet_46__clip_00012.wav,Yellow-fronted_Barbet,9,19441,final_91fc10b5cda1c50a,5
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet_46__clip_00013.wav,Yellow-fronted_Barbet,9,19441,final_91fc10b5cda1c50a,9
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet_46__clip_00014.wav,Yellow-fronted_Barbet,9,19441,final_91fc10b5cda1c50a,9
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet_46__clip_00015.wav,Yellow-fronted_Barbet,9,19441,final_91fc10b5cda1c50a,9
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet_46__clip_00016.wav,Yellow-fronted_Barbet,9,19441,final_91fc10b5cda1c50a,9
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet_46__clip_00017.wav,Yellow-fronted_Barbet,9,19441,final_91fc10b5cda1c50a,9
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet_46__clip_00018.wav,Yellow-fronted_Barbet,9,19441,final_91fc10b5cda1c50a,9
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet_46__clip_00019.wav,Yellow-fronted_Barbet,9,19441,final_91fc10b5cda1c50a,9
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet_46__clip_00020.wav,Yellow-fronted_Barbet,9,19441,final_91fc10b5cda1c50a,9
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet_46__clip_00021.wav,Yellow-fronted_Barbet,9,19441,final_91fc10b5cda1c50a,9
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet_46__clip_00022.wav,Yellow-fronted_Barbet,9,19441,final_91fc10b5cda1c50a,9
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet_46__clip_00023.wav,Yellow-fronted_Barbet,9,19441,final_91fc10b5cda1c50a,9
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet_59__clip_00001.wav,Yellow-fronted_Barbet,9,Yellow-fronted Barbet 13,final_5bc42d925f45be83,9
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet_59__clip_00002.wav,Yellow-fronted_Barbet,9,Yellow-fronted Barbet 13,final_5bc42d925f45be83,9
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet_59__clip_00003.wav,Yellow-fronted_Barbet,9,Yellow-fronted Barbet 13,final_5bc42d925f45be83,9
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet_59__clip_00004.wav,Yellow-fronted_Barbet,9,Yellow-fronted Barbet 13,final_5bc42d925f45be83,9
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet_59__clip_00005.wav,Yellow-fronted_Barbet,9,Yellow-fronted Barbet 13,final_5bc42d925f45be83,9
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet_59__clip_00006.wav,Yellow-fronted_Barbet,9,Yellow-fronted Barbet 13,final_5bc42d925f45be83,9
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet_59__clip_00007.wav,Yellow-fronted_Barbet,9,Yellow-fronted Barbet 13,final_5bc42d925f45be83,9
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet_59__clip_00008.wav,Yellow-fronted_Barbet,9,Yellow-fronted Barbet 13,final_5bc42d925f45be83,9
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet_65__clip_00001.wav,Yellow-fronted_Barbet,9,Yellow-fronted Barbet 19,final_3aeacf0d44bd0753,0
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet_65__clip_00002.wav,Yellow-fronted_Barbet,9,Yellow-fronted Barbet 19,final_3aeacf0d44bd0753,0
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet_65__clip_00003.wav,Yellow-fronted_Barbet,9,Yellow-fronted Barbet 19,final_3aeacf0d44bd0753,0
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet_70__clip_00001.wav,Yellow-fronted_Barbet,9,Yellow-fronted Barbet 24,final_4edbf2adfb3ae446,9
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet_70__clip_00002.wav,Yellow-fronted_Barbet,9,Yellow-fronted Barbet 24,final_4edbf2adfb3ae446,9
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet_70__clip_00003.wav,Yellow-fronted_Barbet,9,Yellow-fronted Barbet 24,final_4edbf2adfb3ae446,9
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet_70__clip_00004.wav,Yellow-fronted_Barbet,9,Yellow-fronted Barbet 24,final_4edbf2adfb3ae446,9
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet_70__clip_00005.wav,Yellow-fronted_Barbet,9,Yellow-fronted Barbet 24,final_4edbf2adfb3ae446,9
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet_70__clip_00006.wav,Yellow-fronted_Barbet,9,Yellow-fronted Barbet 24,final_4edbf2adfb3ae446,9
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet_70__clip_00007.wav,Yellow-fronted_Barbet,9,Yellow-fronted Barbet 24,final_4edbf2adfb3ae446,9
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet_70__clip_00008.wav,Yellow-fronted_Barbet,9,Yellow-fronted Barbet 24,final_4edbf2adfb3ae446,9
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet_88__clip_00001.wav,Yellow-fronted_Barbet,9,Yellow-fronted Barbet 42,final_8279d3ef9bcde100,9
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet_88__clip_00002.wav,Yellow-fronted_Barbet,9,Yellow-fronted Barbet 42,final_8279d3ef9bcde100,9
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet_88__clip_00003.wav,Yellow-fronted_Barbet,9,Yellow-fronted Barbet 42,final_8279d3ef9bcde100,9
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet_88__clip_00004.wav,Yellow-fronted_Barbet,9,Yellow-fronted Barbet 42,final_8279d3ef9bcde100,9
+val/Yellow-fronted_Barbet/Yellow-fronted_Barbet_88__clip_00005.wav,Yellow-fronted_Barbet,9,Yellow-fronted Barbet 42,final_8279d3ef9bcde100,9
