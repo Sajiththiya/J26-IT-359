@@ -1,0 +1,2 @@
+number,value,datetime_start,datetime_complete,duration,params_batch_size,params_dropout,params_learning_rate,params_max_epochs,params_weight_decay,user_attrs_failure_reason,system_attrs_fixed_params,state
+0,,2026-10-21 10:12:03.578652,2026-10-21 17:03:14.262685,0 days 06:51:10.684033,4,0.1,1e-05,10,0.01,KeyboardInterrupt: ,"{'learning_rate': 1e-05, 'dropout': 0.1, 'max_epochs': 10, 'batch_size': 4, 'weight_decay': 0.01}",FAIL

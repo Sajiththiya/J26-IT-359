@@ -1,0 +1,6 @@
+{
+  "model": "ast",
+  "checkpoint": "MIT/ast-finetuned-audioset-10-10-0.4593",
+  "run_dir": "/Users/keerthikeerthi/Downloads/component2/co2/model_runs/ast/20261021T043353275567Z",
+  "wav2vec2_holdout_reference_macro_f1": 0.659747533501948
+}

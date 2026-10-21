@@ -1,0 +1,14 @@
+{
+  "zip_sha256": null,
+  "manifest_sha256": {
+    "train": "dd68a41b662a89dd6fbc34cf70b14f7032fc5624d19dc5b0cb7f5ebf38680987",
+    "val": "442387d2fb0f7713e152299a1d7cdd09c0e3cc42b027c30ef978b324fd44e82d",
+    "test": "2c51c618f5ba97cae34ac6e8571a81531217e84a3c63f633aed025fdc683891b"
+  },
+  "counts": {
+    "train": 29402,
+    "val": 925,
+    "test": 924
+  },
+  "group_overlap": false
+}

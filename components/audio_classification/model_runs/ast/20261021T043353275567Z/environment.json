@@ -1,0 +1,32 @@
+{
+  "versions": {
+    "torch": "2.14.1",
+    "torchaudio": "2.11.0",
+    "transformers": "4.57.1",
+    "scikit-learn": "1.7.2",
+    "optuna": "4.5.0",
+    "numpy": "2.3.2",
+    "soundfile": "0.13.1",
+    "librosa": "0.11.0"
+  },
+  "python": "3.13.3",
+  "device": "Apple MPS",
+  "mixed_precision_enabled": false,
+  "amp_dtype": null,
+  "seed": 42,
+  "checkpoint": "MIT/ast-finetuned-audioset-10-10-0.4593",
+  "revision": "f826b80d28226b62986cc218e5cec390b1096902",
+  "full_cv": false,
+  "n_trials": 5,
+  "batch_choices": [
+    2,
+    4,
+    8
+  ],
+  "gradient_accumulation": 4,
+  "feature_shape": [
+    1,
+    1024,
+    128
+  ]
+}

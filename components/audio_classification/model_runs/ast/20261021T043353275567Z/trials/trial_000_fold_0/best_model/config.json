@@ -1,0 +1,48 @@
+{
+  "architectures": [
+    "ASTForAudioClassification"
+  ],
+  "attention_probs_dropout_prob": 0.1,
+  "dtype": "float32",
+  "frequency_stride": 10,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "id2label": {
+    "0": "Chestnut-backed_Owlet",
+    "1": "Crimson-fronted_Barbet",
+    "2": "Green-billed_Coucal",
+    "3": "Spot-winged_Thrush",
+    "4": "Sri_Lanka_Blue_Magpie",
+    "5": "Sri_Lanka_Frogmouth",
+    "6": "Sri_Lanka_Grey_Hornbill",
+    "7": "Sri_Lanka_Junglefowl",
+    "8": "Sri_Lanka_Spurfowl",
+    "9": "Yellow-fronted_Barbet"
+  },
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "label2id": {
+    "Chestnut-backed_Owlet": 0,
+    "Crimson-fronted_Barbet": 1,
+    "Green-billed_Coucal": 2,
+    "Spot-winged_Thrush": 3,
+    "Sri_Lanka_Blue_Magpie": 4,
+    "Sri_Lanka_Frogmouth": 5,
+    "Sri_Lanka_Grey_Hornbill": 6,
+    "Sri_Lanka_Junglefowl": 7,
+    "Sri_Lanka_Spurfowl": 8,
+    "Yellow-fronted_Barbet": 9
+  },
+  "layer_norm_eps": 1e-12,
+  "max_length": 1024,
+  "model_type": "audio-spectrogram-transformer",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "num_mel_bins": 128,
+  "patch_size": 16,
+  "problem_type": "single_label_classification",
+  "qkv_bias": true,
+  "time_stride": 10,
+  "transformers_version": "4.57.1"
+}
