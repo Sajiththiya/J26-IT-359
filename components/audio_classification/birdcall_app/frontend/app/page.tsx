@@ -1,6 +1,5 @@
 "use client";
-import { useEffect, useState } from "react";
-import { useRouter } from "next/navigation";
+import { useEffect, useRef, useState } from "react";
 import {
   Bird,
   Upload,
@@ -10,29 +9,24 @@ import {
   ShieldCheck,
   RefreshCw,
 } from "lucide-react";
-import { api, useSession } from "@/components/session";
+import { api, Result, useSession } from "@/components/session";
 import AudioPreview from "@/components/audio-preview";
-import ModelReport from "@/components/model-report";
-type Species = { id: number; label: string; name: string };
+import { useRouter } from "next/navigation";
 type Health = { demo_mode: boolean; ready: boolean; message: string };
 export default function Home() {
   const { file, setFile, setResult } = useSession();
   const router = useRouter();
-  const [species, setSpecies] = useState<Species[]>([]);
+  const [analyzing, setAnalyzing] = useState(false);
+  const request = useRef<AbortController | null>(null);
+  const fileInput = useRef<HTMLInputElement>(null);
   const [health, setHealth] = useState<Health | null>(null);
   const [error, setError] = useState("");
   const [connectionError, setConnectionError] = useState("");
   const [drag, setDrag] = useState(false);
   function connect() {
     setConnectionError("");
-    Promise.all([
-      api<{ species: Species[] }>("/species"),
-      api<Health>("/health"),
-    ])
-      .then(([s, h]) => {
-        setSpecies(s.species);
-        setHealth(h);
-      })
+    api<Health>("/health")
+      .then(setHealth)
       .catch(() => {
         setHealth(null);
         setConnectionError(
@@ -47,13 +41,56 @@ export default function Home() {
     return () => {
       window.clearInterval(refresh);
       window.removeEventListener("focus", connect);
+      request.current?.abort();
+      request.current = null;
     };
   }, []);
+  function resetAnalysis() {
+    request.current?.abort();
+    request.current = null;
+    setAnalyzing(false);
+    setError("");
+    setResult(null);
+  }
+  async function analyze() {
+    if (!file || !health?.ready || request.current) return;
+    const controller = new AbortController();
+    request.current = controller;
+    setAnalyzing(true);
+    setError("");
+    setResult(null);
+    const timeout = window.setTimeout(() => controller.abort("timeout"), 120000);
+    const form = new FormData();
+    form.append("file", file);
+    try {
+      const response = await api<Result>("/predict", {
+        method: "POST", body: form, signal: controller.signal,
+      });
+      if (request.current !== controller || controller.signal.aborted) return;
+      // /predict returns softmax probabilities, averaged across audio windows.
+      // Do not normalize only the top three: they omit the remaining classes.
+      const predictions = [response.prediction, ...(response.top_three ?? [])];
+      if (predictions.some(p => !p || !p.species || !Number.isFinite(p.confidence) || p.confidence < 0 || p.confidence > 1)) {
+        throw new Error("The server returned invalid probability scores. Please check the inference server and retry.");
+      }
+      setResult(response);
+      router.push("/results");
+    } catch (error) {
+      if (request.current !== controller) return;
+      setError(controller.signal.aborted
+        ? "Analysis timed out. Your recording is still selected; please try again."
+        : error instanceof Error ? error.message : "Analysis failed. Please try again.");
+    } finally {
+      window.clearTimeout(timeout);
+      if (request.current === controller) {
+        request.current = null;
+        setAnalyzing(false);
+      }
+    }
+  }
   function select(f?: File) {
     if (!f) return;
     setError("");
-    setFile(null);
-    setResult(null);
     if (!/\.(wav|mp3|m4a)$/i.test(f.name)) {
       setError("Please select a WAV, MP3, or M4A recording.");
       return;
@@ -62,6 +99,7 @@ export default function Home() {
       setError("Choose a non-empty recording up to 20 MB.");
       return;
     }
+    resetAnalysis();
     setFile(f);
   }
   return (
@@ -147,9 +185,10 @@ export default function Home() {
               }}
             >
               <input
+                ref={fileInput}
                 type="file"
                 accept=".wav,.mp3,.m4a"
-                onChange={(e) => select(e.target.files?.[0])}
+                onChange={(e) => { select(e.target.files?.[0]); e.target.value = ""; }}
               />
               <span className="upload-icon">
                 <Upload size={25} />
@@ -165,6 +204,7 @@ export default function Home() {
               <small>Up to 20 MB · 0.1–60 seconds</small>
             </label>
             {file && <AudioPreview file={file} />}{" "}
+            {file && <button className="text-button" onClick={() => { resetAnalysis(); setFile(null); }}>Clear recording</button>}
             {error && (
               <p role="alert" className="error">
                 {error}
@@ -172,15 +212,16 @@ export default function Home() {
             )}
             <button
               className="button primary full"
-              disabled={!file || !health?.ready}
+              disabled={!file || !health?.ready || analyzing}
               aria-describedby="analysis-readiness"
-              onClick={() => router.push("/analysis")}
+              onClick={analyze}
             >
-              {health?.demo_mode ? "Run demo analysis" : "Analyze recording"}
+              {analyzing ? "Analyzing recording…" : health?.demo_mode ? "Run demo analysis" : "Analyze recording"}
               <ArrowRight size={18} />
             </button>
             <p id="analysis-readiness" className="readiness-note" role="status">
-              {!health ? "Waiting for the backend. Start FastAPI and use Check readiness below."
+              {analyzing ? "Uploading and analyzing your recording. You can still listen to it below the upload box."
+                : !health ? "Waiting for the backend. Start FastAPI and use Check readiness below."
                 : !health.ready ? "Analysis is unavailable until the model loads. See the server message and check readiness again."
                 : !file ? "Model ready. Choose a recording to enable analysis."
                 : health.demo_mode ? "Demo mode is active: results will be examples, not trained-model predictions."
@@ -247,57 +288,10 @@ export default function Home() {
               </div>
             </div>
             <p className="research-note">
-              Wav2Vec2 training results are available below. Validation performance
-              does not establish robustness to every recording condition.
+              Results reflect the uploaded recording. Model confidence is not a
+              guarantee of correct identification.
             </p>
           </aside>
-        </div>
-      </section>
-      <section id="species" className="species-section">
-        <div className="section-heading">
-          <div>
-            <p className="eyebrow">02 / THE DATASET</p>
-            <h2>Ten voices. One island.</h2>
-          </div>
-          <p>
-            Species names read directly from
-            <br />
-            the Component 02 label mapping.
-          </p>
-        </div>
-        <div className="species-grid">
-          {species.map((s) => (
-            <article className="species-card" key={s.id}>
-              <div>
-                <Bird size={25} strokeWidth={1.3} />
-                <span>{String(s.id + 1).padStart(2, "0")}</span>
-              </div>
-              <h3>{s.name}</h3>
-              <p>Component 02 dataset</p>
-            </article>
-          ))}
-        </div>
-        {!species.length && (
-          <p className="muted">
-            {connectionError || "Loading the dataset species…"}
-          </p>
-        )}
-      </section>
-      <ModelReport />
-      <section className="project-note">
-        <Leaf size={28} />
-        <div>
-          <p className="eyebrow">ABOUT THE RESEARCH</p>
-          <h3>
-            Noise-Robust Bioacoustic Bird Call Recognition for Sri Lankan
-            Endemic Birds
-          </h3>
-          <p>
-            Component 02 investigates recognition of bird vocalizations in noisy
-            recordings. This interface connects the finalized Wav2Vec2 checkpoint
-            and its saved validation report. AST remains a separate research run.
-            Demo scores, when explicitly enabled, are not research findings.
-          </p>
         </div>
       </section>
     </main>

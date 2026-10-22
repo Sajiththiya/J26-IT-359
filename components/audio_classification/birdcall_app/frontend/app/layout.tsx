@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { Bird, ArrowUpRight } from "lucide-react";
+import { Bird } from "lucide-react";
 import { SessionProvider } from "@/components/session";
 import "./globals.css";
 export const metadata: Metadata = {
@@ -21,10 +21,6 @@ export default function Layout({ children }: { children: React.ReactNode }) {
               birdcall<span className="brand-dot">.</span>
             </Link>
             <nav aria-label="Main navigation">
-              <Link href="/#model">Model results</Link>
-              <Link href="/#species">
-                The species <ArrowUpRight size={14} />
-              </Link>
               <span className="research-tag">COMPONENT 02</span>
             </nav>
           </header>
