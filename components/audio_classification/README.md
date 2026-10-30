@@ -19,7 +19,7 @@ The current classifier is a **closed-set, ten-class** system. It predicts among 
 ### Selected species
 
 | Species 
-| --- | ---: |
+---
 | Chestnut-backed Owlet 
 | Crimson-fronted Barbet 
 | Green-billed Coucal 
